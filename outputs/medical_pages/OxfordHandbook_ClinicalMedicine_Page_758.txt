@@ -1,0 +1,42 @@
+# Genitourinary imaging
+
+## Ultrasound
+Imaging modality of choice for genitourinary problems. Can be used to assess:
+
+### Kidneys:
+- Renal size—small in chronic kidney disease, large in renal masses, cysts, hypertrophy if other kidney missing, polycystic kidney disease (fig 16.35), and rarities (eg amyloidosis, p370).
+- Hydronephrosis, which may indicate ureteric obstruction or reflux (fig 13.49, p641).
+- Perinephric collections (trauma, post-biopsy).
+- Renal perfusion (assessment of renovascular disease: Doppler US of renal arteries).
+- Transplanted kidneys (collections, obstruction, perfusion).
+
+### Lower urinary tract:
+- Bladder volume: useful in assessment of the need to catheterize (see p640) or for assessment of adequacy of bladder emptying (post-micturition residual volume).
+- Prostate: transrectal ultrasound enables US-guided biopsy of focal lesions. NB: prostate size does not correlate with symptoms.
+
+### Other:
+- Ovarian cysts, size, infections (pyosalpinx), uterine fibroids and other masses.
+- Testicular masses, hydrocele, varicocele.
+
+**Advantages:** Fast; cheap; independent of renal function; no IV contrast or radiation risk. 
+**Disadvantages:** Intraluminal masses (transitional cell ca) in the upper tracts may not be seen; not a functional study; only suggests obstruction if there is dilatation of the collecting system (95% of obstructed kidneys) and so can miss obstruction from, eg retroperitoneal fibrosis.
+
+## CT (fig 16.36) 
+First choice in renal colic. Performed without intravenous contrast so safe in renal impairment; such unenhanced images miss <2% of stones, but can show other pathologies. With IV contrast, CT can delineate masses (cystic or solid, contrast enhancement, calcification, local/distant extension, renal vein involvement); assess renal trauma (presence of two kidneys; haemorrhage; devascularization; laceration; urine leak); and show retroperitoneal lesions. CT has all but replaced intravenous urography and the radiation dose is similar.
+
+## Plain abdominal X-ray 
+Can be used to look at the kidneys, the paths of the ureters, and bladder. However, in practice it is only useful for monitoring known renal calculi.
+
+## Contrast studies 
+**Retrograde pyelography/ureterograms** are good at showing pelvi-calyceal, ureteric anatomy, and transitional cell carcinomas (TCCs). Contrast medium is injected via a ureteric catheter. With the advent of cystoscopy, allowing immediate intervention, these are rarely done in isolation. However, contrast medium is routinely used in cystoscopic placement of retrograde stents for obstruction.
+
+**Percutaneous nephrostomy:** Used in obstruction to decompress the renal pelvis, which is punctured under local anaesthetic with imaging guidance. Images are obtained following contrast injection (antegrade pyelogram). A nephrostomy tube is then placed to allow decompression, sometimes followed by an antegrade stent if there is no easily treatable cause of obstruction.
+
+## Renal arteriography (fig 16.37) 
+Therapeutic indications: angioplasty; stenting; embolization (bleeding tumour, trauma, AV malformation).
+
+## Magnetic resonance imaging (MRI) 
+Soft tissue resolution can help clarify equivocal CT findings. Magnetic resonance angiography (MRA) helps image renal artery anatomy/stenosis (fig 16.38) and is also used in the assessment of potential live donors for kidney transplant, as well as to monitor patients following embolization of tumours, arteriovenous malformations, and aneurysms.
+
+## Radionuclide imaging 
+See p738.

@@ -1,0 +1,60 @@
+| Table 9.7 Inhibitors of protein synthesis |  |  |
+|------------------------------------------|---------------------------|---------------------------|
+| Antibiotic | Indications | Considerations |
+| Aminoglycosides |  |  |
+| Gentamicin | Gram -ve infection (±activity | SEs: nephrotoxic (monitor drug |
+| Tobramycin | against most Gram +ve and | levels and serum creatinine), |
+| Amikacin | anaerobes). Tobramycin has | vestibular toxicity, ototoxicity. |
+|  | ±activity against Pseudomonas. |  |
+|  | Amikacin has least resistance. |  |
+| Macrolides |  |  |
+| Azithromycin | Gram +ve cocci (not enterococci | SEs (↑ with erythromycin): GI, |
+| Clarithromycin | and staphylococci), syphilis, chla- | cholestasis, ↑QT. |
+| Erythromycin | mydia. | Cytochrome P450 inhibition (↓ |
+|  |  | with azithromycin): ↑warfarin, |
+|  |  | rhabdomyolysis with statins, |
+|  |  | ↑calcineurin inhibitor levels. |
+| Tetracyclines and derivatives |  |  |
+| Tetracycline | Exacerbation COPD, chlamydia, | CI: pregnancy, <8y (teeth/bones). |
+|  | Lyme disease, mycoplasma, rick- | SEs: N&V, C. difficile, fatty liver, |
+| Doxycycline | ettsiae, brucella, anthrax, syphi- | idiopathic intracranial hyperten- |
+|  | lis, MRSA, malaria prophylaxis. | sion. |
+| Tigecycline | Gram +ve and Gram -ve includ- | Dose adjust in liver dysfunction. |
+|  | ing β-lactam-resistant strains. | SEs: N&V, photosensitivity, ↑LFTs. |
+| Other |  |  |
+| Clindamycin | Gram +ve cocci (not enterococci), | ↑risk C. difficile. |
+|  | MRSA, anaerobes. |  |
+| Linezolid | Gram +ve cocci, MRSA, VRE, | MAOI: check interactions, myelo- |
+|  | anaerobes, mycobacteria. | suppression, optic neuropathy. |
+| Chloramphenicol | Gram +ve, Gram -ve, anaerobes, | Systemic use limited by myelo- |
+|  | mycoplasma, chlamydia, conjunc- | suppression. |
+|  | tivitis (topical). |  |
+| Fusidic acid | Staphylococci. | SEs: GI, ↑LFTs. |
+
+| Table 9.8 Inhibitors of nucleic acid synthesis |  |  |
+|------------------------------------------|---------------------------|---------------------------|
+| Antibiotic | Indications | Considerations |
+| Folate synthesis inhibitors |  |  |
+| Trimethoprim | Gram -ve: UTI, prostatitis. | Inhibits creatinine secretion: |
+|  |  | ↑serum creatinine without ↓GFR. |
+| Co-trimoxazole | Pneumocystis jirovecii, GI | Synergistic combination. Good |
+| (sulfamethoxa- | infection (eg Shigella, E. coli), | oral absorption and tissue/ |
+| zole+trimetho- | protozoans (eg Cyclospora), | CSF penetration. SEs: folate |
+| prim) | listeria, nocardia, MRSA. | deficiency, ↑K+, rash, myelosup- |
+|  |  | pression, haemolysis with G6PD |
+|  |  | deficiency. |
+| Fluoroquinolones |  |  |
+| Ciprofloxacin | Broad including Pseudomonas: | SEs: GI irritation, CNS effects (↓ |
+| Levofloxacin | UTI, prostatitis, atypical and | seizure threshold, headache, |
+| Moxifloxacin | hospital-acquired chest infection, | drowsiness, mood change), pe- |
+|  | infectious diarrhoea. | ripheral neuropathy, tendinopa- |
+|  |  | thy (Achilles), ↑QT, C. difficile. |
+| Others |  |  |
+| Metronidazole | Anaerobic infection: intra-ab- | Good oral absorption. Dose |
+|  | dominal, pelvic, oral, soft-tissue. | adjust for liver function. SEs: |
+|  | Bacterial vaginosis. C. difficile. | Disulfiram reaction with alcohol, |
+|  |  | inhibits warfarin metabolism. |
+| Rifamycins: | Mycobacteria (TB, atypical | SEs: hepatitis (monitor LFTs), GI, |
+| rifampicin, | mycobacteria, leprosy), some | CNS effects, myelosuppression, |
+| rifabutin, | staphylococci, Legionella, menin- | red secretions (urine, saliva, |
+| rifapentine | gococcal prophylaxis. | sweat, sputum, tears). |

@@ -1,0 +1,37 @@
+# 414 Fever in the returning traveller
+
+- Exclude malaria in all travellers from the tropics (p416-9).
+- Exclude HIV in all (p398).
+- Most travellers have self-limiting illnesses that could have been acquired in UK.
+- Look for tropical infection⁹ but don't forget your usual differentials.
+
+## History
+Detailed geography of travel (table 9.17)⁹ including setting (rural/urban), time of onset of symptoms, duration of symptoms (table 9.18).⁹ Ask about activities and events: bites, diet, fresh-water exposure (schistosomiasis, leptospirosis), dust exposure, sexual activity, game parks (tick typhus, anthrax, trypanosomiasis), farms, caves (histoplasmosis, rabies, Ebola), unwell contacts.
+
+### Associated symptoms:
+- Respiratory: S. pneumoniae, H. influenzae, legionella, influenza, viral respiratory disease (SARS, MERS), TB, HIV-associated disease, melioidosis.²
+- Neurological: malaria, meningococcal meningitis, HIV, syphilis, Lyme disease, leptospirosis, brucellosis, tick-borne encephalitis, relapsing fever, trypanosomiasis.
+
+### Table 9.17 Differential diagnosis by geography
+
+| Area of travel | Common | Occasional | Rare but do not miss |
+|----------------|--------|------------|----------------------|
+| Sub-Saharan Africa | Malaria (pp416-9)<br>HIV (pp398-403)<br>Rickettsiae (p422) | Schistosomiasis (p434)<br>Amoebiasis (p432)<br>Brucellosis (p424)<br>Dengue (p420)<br>Enteric fever (p415)<br>Meningococcus (p390) | Other arbovirus (p420)<br>Trypanosomiasis (p423)<br>VHF (pp426-7)<br>Visceral leishmaniasis (p423) |
+| South-East Asia | Malaria (pp416-9)<br>Chikungunya (p420)<br>Dengue (p420)<br>Enteric fever (p415) | Leptospirosis (p425)<br>Melioidosis² | Hanta virus (p426)<br>Japanese encephalitis (p436)<br>Rickettsiae (p422)<br>Scrub typhus (p422) |
+| South and Central Asia | Malaria (pp416-9)<br>Dengue (p420)<br>Enteric fever (p415) | Chikungunya (p420)<br>Visceral leishmaniasis (p423) | VHF (CCHF) (pp426-7)<br>Rickettsiae (p422)<br>Japanese encephalitis (p436) |
+| Middle East<br>Mediterranean<br>North Africa | | Brucellosis (p424)<br>Q-fever (p424)<br>Zika (p421) | Visceral leishmaniasis (p423) |
+| South America<br>Caribbean | Malaria (pp416-9)<br>Dengue (p420)<br>Enteric fever (p415) | Brucellosis (p424)<br>Leptospirosis (p425)<br>Zika (p421) | Trypanosomiasis (p423)<br>Hanta virus (p426)<br>Yellow fever (p420) |
+| Eastern Europe<br>Scandinavia | | Lyme disease (p422) | Hanta virus (p426)<br>Tick-borne encephalitis |
+| Australia | | Dengue (p420)<br>Q fever (p424)<br>Rickettsiae (p422) | Melioidosis² |
+| North America | | Lyme disease (p422)<br>Rickettsiae (p422) | Melioidosis² |
+
+### Table 9.18 Differential diagnosis according to incubation time
+
+| Incubation period | Infections |
+|--------------------|------------|
+| Short <10d | Dengue, chikungunya, gastroenteritis, relapsing fever, rickettsiae |
+| Medium 10-21d | Malaria, HIV, brucellosis, enteric fever, leptospirosis, melioidosis, Q-fever, coccidioidomycosis, VHF, Chagas' disease, trypanosomiasis |
+| Long >21d | Malaria, HIV, TB, viral hepatitis, brucellosis, schistosomiasis, amoebic liver abscess, trypanosomiasis, visceral leishmaniasis |
+| Chronic fever <14d | TB, HIV plus opportunistic infection, pyogenic deep seated abscess, infective endocarditis, brucellosis, enteric fever, fungal infection, schistosomiasis, visceral leishmaniasis, PE |
+
+² Burkholderia pseudomallei in tropical water/soil. Causes pneumonia, pleural effusions, pulmonary abscess. Systemic abscess if haematogenous spread: liver, spleen, skin, muscle. Treat with co-amoxiclav, doxycycline, co-trimoxazole. In severe disease: ceftazidime, meropenem.

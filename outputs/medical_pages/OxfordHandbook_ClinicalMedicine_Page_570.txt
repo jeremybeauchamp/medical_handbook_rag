@@ -1,0 +1,55 @@
+# Vasculitis
+
+The vasculitides are inflammatory disorders of blood vessels; commonly classified using the modified Chapel Hill criteria. They can affect any organ, and presentation depends on the organs involved. It may be a primary condition or secondary to other diseases, eg SLE, RA, hepatitis B & C, HIV. Categorized by size of blood vessels affected.
+
+- **Large** Giant cell arteritis, Takayasu's arteritis (see p712).
+- **Medium** Polyarteritis nodosa, Kawasaki disease (OHCS p646).
+- **Small** 
+  - ANCA-associated: microscopic polyangiitis; granulomatosis with polyangiitis (Wegener's granulomatosis); and eosinophilic granulomatosis with polyangiitis (Churg Strauss syndrome; 40-60% are ANCA positive). 
+  - Immune complex vasculitis: Goodpasture's disease; cryoglobulinaemic vasculitis; IgA vasculitis (Henoch-Schonlein purpura).
+- **Variable vessel vasculitis** Behçet's (p694) and Cogan's syndrome.
+
+## Symptoms 
+Different vasculitides preferentially affect different organs, causing different patterns of symptoms (see BOX 'Features of vasculitis'). Often only overwhelming fatigue with ↑ESR/CRP. 
+
+> Consider vasculitis in any unidentified multisystem disorder. 
+
+If presentation does not fit clinically or serologically into a specific category consider malignancy-associated vasculitis. A severe vasculitis flare is a medical emergency. If suspected, seek urgent help, as organ damage may occur rapidly (eg critical renal failure <24h). 
+
+**Tests** ↑ESR/CRP. ANCA may be +ve. ↑Creatinine if renal failure. Urine: proteinuria, haematuria, casts on microscopy. Angiography ± biopsy may be diagnostic. 
+
+**Management** Large-vessel: steroids in most cases, may add steroid-sparing agents later. Medium/small: immunosuppression (steroids, ± another agent, eg cyclophosphamide if severe, or methotrexate/azathioprine depending on features).
+
+## Giant cell arteritis (GCA) = temporal arteritis 
+Common in the elderly—consider Takayasu's if under 55yrs (p712). Associated with PMR in 50%. 
+
+**Symptoms:** Headache, temporal artery and scalp tenderness (eg when combing hair), tongue/jaw claudication, amaurosis fugax, or sudden unilateral blindness. Extracranial symptoms: malaise, dyspnoea, weight loss, morning stiffness, and unequal or weak pulses. The risk is irreversible bilateral visual loss, which can occur suddenly if not treated—ask an ophthalmologist. 
+
+**Tests:** ESR & CRP are ↑↑, ↑platelets, ↑ALP, ↓Hb. Temporal artery biopsy within 14 days of starting steroids, or FDG-PET. Skip lesions occur, so don't be put off by a negative biopsy (up to 10%). 
+
+**Management:** Start prednisolone 60mg/d PO immediately or IV methylprednisolone if evolving visual loss or history of amaurosis fugax. 
+
+**Prognosis:** Typically a 2-year course, then complete remission. Reduce prednisolone once symptoms have resolved and ↓ESR; ↑dose if symptoms recur. Main cause of death and morbidity in GCA is long-term steroid treatment so balance risks! Give PPI, bisphosphonate, calcium with colecalciferol, and consider aspirin.
+
+## Polyarteritis nodosa (PAN) 
+PAN is a necrotizing vasculitis that causes aneurysms and thrombosis in medium-sized arteries, leading to infarction in affected organs with severe systemic symptoms. ♂:♀≈2:1. It may be associated with hepatitis B, and is rare in the UK. 
+
+**Symptoms:** See BOX. Systemic features, skin (rash, 'punched out' ulcers, nodules), renal (main cause of death, renal artery narrowing, glomerular ischaemia, insufficiency, HTN), cardiac, GI, GU, neuro involvement. Usually spares lungs. Coronary aneurysms occur in Kawasaki disease (OHCS p646). 
+
+**Tests:** Often ↑WCC, mild eosinophilia (in 30%), anaemia, ↑ESR, ↑CRP, ANCA –ve. Renal or mesenteric angiography (see fig 12.16), or renal biopsy can be diagnostic. 
+
+**Treatment:** Control BP and refer. Steroids for mild cases and steroid-sparing agents if more severe. Hepatitis B should be treated (p278) after initial treatment with steroids.
+
+## Microscopic polyangiitis 
+A necrotizing vasculitis affecting small- and medium-sized vessels. 
+
+**Symptoms:** Rapidly progressive glomerulonephritis usually features; pulmonary haemorrhage occurs in up to 30%; other features are rare. 
+
+**Tests:** pANCA (MPO) +ve (p553). 
+
+**Treatment:** Steroids plus eg methotrexate. For maintenance: methotrexate, rituximab, or azathioprine.
+
+## Hypocomplementaemic urticarial vasculitis 
+A lupus-like illness with urticaria and antibodies to complement (C1q).
+
+6 Low-dose aspirin has been shown to decrease the rate of visual loss and cerebrovascular accidents in GCA but there are also conflicting reports regarding its efficacy at preventing ischaemic events in GCA.

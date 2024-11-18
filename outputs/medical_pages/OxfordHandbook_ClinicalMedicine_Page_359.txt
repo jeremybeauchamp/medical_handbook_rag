@@ -1,0 +1,24 @@
+| Extrinsic System | Intrinsic System |
+|-------------------|-------------------|
+| XII (on contact with vascular endothelium) → | XIIa |
+| XI ← | XIa |
+| Tissue factor + VII + Ca²⁺ ↓ | |
+| IX ← | IXa + VIII + Ca²⁺ + phospholipid |
+| X → | Xa + V + Ca²⁺ + phospholipid |
+| Prothrombin → | Thrombin → |
+| | XIII ↓ |
+| Fibrinogen → | Fibrin ← XIIIa crosslinking |
+
+Fig 8.42 Intrinsic and extrinsic pathways of coagulation (simplified!).
+
+Fig 8.43 Mild haemophilia after an IM injection. Give vaccines etc SC!
+
+### Fibrinolysis
+
+The fibrinolytic system works by generating plasmin, which causes fibrin dissolution. The process starts with the release of tissue plasminogen activator (t-PA) from endothelial cells, a process stimulated by fibrin formation. t-PA converts inactive plasminogen to plasmin which can then cleave fibrin, as well as several other factors. t-PA and plasminogen both bind fibrin thus localizing fibrinolysis to the area of the clot.
+
+Fibrinolytic agents activate this system and can be utilized in order to break down pathological thrombi, eg in: acute MI, acute ischaemic stroke, DVT, PE, and central retinal venous or arterial thrombosis. In all cases the risk of adverse effects of thrombolysis (eg haemorrhage) must be outweighed by the potential benefits. Streptokinase, a streptococcal exotoxin that binds and activates plasminogen, was the first licensed agent but risks anaphylaxis on repeat dosing. Alteplase is recombinant t-PA. Newer agents include tenecteplase and reteplase.
+
+### Immune thrombocytopenia (ITP)
+
+ITP is caused by antiplatelet autoantibodies. It is acute (usually in children, 2wks after infection with sudden self-limiting purpura: OHCS p197) or chronic (seen mainly in women). Chronic ITP runs a fluctuating course of bleeding, purpura (esp. dependent pressure areas), epistaxis, and menorrhagia. There is no splenomegaly. Tests: ↑Megakaryocytes in marrow, antiplatelet autoantibodies often present. ℞: None if mild. If symptomatic or platelets <20 × 10⁹/L, prednisolone 1mg/kg/d, and reduce after remission; aim to keep platelets >30 × 10⁹/L—takes a few days to work. Platelet transfusions are not used (except during splenectomy or life-threatening haemorrhage) as these are quickly destroyed by the autoantibodies. IV immunoglobulin may temporarily raise the platelet count, eg for surgery, pregnancy. If relapse, choices include splenectomy or B-cell depletion with rituximab. Eltrombopag (an oral thrombopoietin-receptor agonist) and romiplostim (an injectable thrombopoietin analogue) are alternative options for those with refractory disease.

@@ -1,0 +1,41 @@
+# The Glasgow Coma Scale (GCS)
+
+This gives a reliable, objective way of recording the conscious state of a person. It can be used by medical and nursing staff for initial and continuing assessment. It has value in predicting ultimate outcome. Three types of response are assessed, note in each case the best response (or best of any limb) which should be recorded (table 19.1).
+
+## Table 19.1 The Glasgow Coma Scale
+
+| Best motor response | Best verbal response | Eye opening |
+|---------------------|----------------------|-------------|
+| 6 Obeying commands | 5 Oriented (time, place, person) | 4 Spontaneous |
+| 5 Localizing to pain | 4 Confused conversation | 3 In response to speech |
+| 4 Withdrawing to pain | 3 Inappropriate speech | 2 In response to pain |
+| 3 Flexor response to pain | 2 Incomprehensible sounds | 1 None |
+| 2 Extensor response to pain | 1 None | |
+| 1 No response to pain | | |
+
+Adapted from 'Assessment of coma and impaired consciousness: a practical scale', Graham Teasdale and Bryan Jennett, The Lancet, Vol 304, No. 7872, 81-84 (1974), Elsevier.
+
+An overall score is made by summing the score in the three areas assessed.
+- No response to pain + no verbalization + no eye opening = 3.
+- Severe injury, GCS ≤8—consider airway protection.
+- Moderate injury, GCS 9-12.
+- Minor injury, GCS 13-15.
+
+Causing pain is not a pleasant thing, there are acceptable and unacceptable methods. Try fingernail bed pressure with a pen/pencil, sternal pressure (not a rub), or suprascapular squeeze. Abnormal responses to pain can help to localize the damage:
+- *Flexion* = decorticate posture (arms bent inwards on chest, thumbs tucked in a clenched fist, legs extended) implies damage above the level of the red nucleus in the midbrain.¹
+- *Extension* = decerebrate posture (adduction and internal rotation of shoulder, pronation of forearm) indicates midbrain damage below the level of the red nucleus.
+
+NB: an abbreviated coma scale, AVPU, is sometimes used in the initial assessment ('primary survey') of the critically ill:
+
+A = alert
+V = responds to vocal stimuli
+P = responds to pain
+U = unresponsive
+
+NB: GCS scoring is different in young children; see OHCS p201.
+
+----
+
+¹ Red nucleus output reinforces upper limb antigravity flexion. When its output is damaged, the unregulated reticulospinal and vestibulospinal tracts reinforce extension tone of upper and lower limbs.
+
+The Glasgow Coma Scale is reproduced from The Lancet, Vol. 304, Teasdale G & Jennet B, Assessment of Coma and Impaired Consciousness: A Practical Scale, ©1974, with permission from Elsevier.

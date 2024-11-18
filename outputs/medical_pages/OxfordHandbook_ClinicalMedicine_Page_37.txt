@@ -1,0 +1,40 @@
+# Medicalization
+
+Using Illness as a Metaphor,⁸ Susan Sontag describes two kingdoms: that of the well, and that of the sick. She describes our dual citizenship, and the use of a passport to travel from one kingdom to the other. But medicalization blurs this distinction. The boundary between the 'Kingdom of the Sick' and the 'Kingdom of Well' is lost and there is an anschluss of healthy people annexed into the potentially predatory and frightening kingdom of the sick from which there may well be no escape.
+
+'Too much medicine' occurs as a result of:
+
+- **Overdiagnosis**: Labelling an (asymptomatic) person as 'sick' despite the fact that subsequent treatment, lifestyle advice, or monitoring provides no benefit to their outcome (and potentially causes harm), eg non-progressive breast cancer.
+- **Overdetection**: Increasingly sensitive tests identify pathology that is indolent or non-progressive, eg subsegmental pulmonary emboli diagnosed on CT angiography.
+- **Overdefinition**: Expansion of disease definitions or lowering of disease thresholds, eg an eGFR diagnosis of chronic kidney disease now means that 1 in 8 adults are labelled with the disease, many of whom will never progress to symptomatic kidney failure; 15% of pregnant women now have subclinical hypothyroidism without evidence that thyroxine replacement is beneficial (2016).
+- **Disease mongering**: The creation of pseudodiseases which pose no threat to health, eg restless legs, sexual health dysfunction, multiple chemical sensitivity.
+- **Overutilization**: Healthcare practice that provides no net benefit, eg routine MRI for lower back pain.
+- **Overtreatment**: Treatment that is of no benefit (and may cause harm), eg antibiotics for viral infections, polypill for the population.
+
+Too much medicine arises from the fear of missing a diagnosis, and concern about avoidable morbidity or mortality. A punitive society means there is a perceived need for more tests, to seek more certainty. But certainty is the holy grail of myth and legend. The individual patient is a unique set of symptoms, stoicism, experience, and need. And by the nature of life, all cure can only ever be temporary.
+
+## Choosing wisely
+
+CHOOSING WISELY is an initiative to change doctors' practice away from interventions that are not:
+- supported by evidence
+- free from harm
+- truly necessary (including duplicative tests).
+
+The top 5-10 interventions that should not be used routinely are given for each specialty. Search for those relevant to your current post at: www.choosingwisely.org/doctor-patient-lists/.
+
+## Screening
+
+Consider medicalization when screening for disease. Remember all screening programmes do harm, some do good. The Wilson criteria for screening lists the important features necessary for a screening programme and the mnemonic IATROGENIC reminds of our pressing duty to do no harm:
+
+1. The condition screened for should be an important one.
+2. There should be an acceptable treatment for the disease.
+3. Diagnostic and treatment facilities should be available.
+4. A recognizable latent or early symptomatic stage is required.
+5. Opinions on who to treat must be agreed.
+6. The test must be good: high discriminatory power, valid, and reproducible with safety guaranteed.
+7. The examination must be acceptable to the patient.
+8. The untreated natural history of the disease must be known.
+9. It should be inexpensive.
+10. Screening must be continuous (ie not a 'one-off' affair).
+
+⁸ Susan Sontag, Illness as a Metaphor, 1978

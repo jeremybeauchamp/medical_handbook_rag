@@ -1,0 +1,18 @@
+## Thoracic aortic dissection
+
+Blood splits the aortic media with sudden tearing chest pain (± radiation to back). As the dissection extends, branches of the aorta occlude sequentially leading to hemiplegia (carotid artery), unequal arm pulses and BP, or acute limb ischaemia, paraplegia (anterior spinal artery), and anuria (renal arteries). Aortic valve incompetence, inferior MI, and cardiac arrest may develop if dissection moves proximally.
+
+*Type A (70%)* dissections involve the ascending aorta, irrespective of site of the tear, while if the ascending aorta is not involved it is called *type B (30%)*. All patients with type A thoracic dissection should be considered for surgery: get urgent cardiothoracic advice. Definitive treatment for type B is less clear and may be managed medically, with surgery reserved for distal dissections that are leaking, ruptured, or compromising vital organs.
+
+Management:
+- Crossmatch 10U blood.
+- ECG & CXR (expanded mediastinum is rare).
+- CT or transoesophageal echocardiography (TOE).
+- Take to ITU; hypotensives: keep systolic at ~100–110mmHg: labetalol (p140) or esmolol (t½ is ultra-short) by IVI is helpful here (calcium-channel blockers may be used if β-blockers contraindicated).
+- Acute operative mortality: <25%.
+
+### Fig 13.52 Stenting: not an open or closed case
+
+This is a digital subtraction angiogram showing correct positioning of an endovascular stent at the end of the procedure. Although less invasive than open repair, some are unsuited to this method, owing to the anatomy of their aneurysm. Lifelong monitoring is needed: stents may leak and the aneurysm progress (the risk can be reduced by coiling the internal iliac arteries, as shown).
+
+*Image courtesy of Norwich Radiology Dept.*

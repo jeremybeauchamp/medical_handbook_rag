@@ -1,0 +1,62 @@
+# The renal tubule: disorders and diuretics
+
+Tubular disorders and the action of diuretics can be considered according to the affected segment of the nephron (fig 7.13 and table 7.8).
+
+Fig 7.13 The nephron divided into segments (proximal tubule, thick ascending loop of Henle, distal tubule, collecting duct) with key solute movement (red).
+
+| Na+ |
+| --- |
+| HCO3- |
+| Phosphate |
+| Glucose |
+| Amino acids |
+
+Bowman's capsule
+
+| Na+ |
+| --- |
+| Cl- |
+
+| K+ |
+| --- |
+| H+ |
+
+Cortex
+Medulla
+
+| Na+ |
+| --- |
+| K+ |
+| 2Cl- |
+
+Proximal tubule
+Thick ascending loop
+Distal tubule
+Cortical collecting duct
+
+Loop of Henle
+
+Collecting duct
+
+Bladder
+
+## Table 7.8 Summary table of tubular disorders and diuretic action (RTA = renal tubular acidosis)
+
+| Nephron segment | Solute movement | Tubular pathology | Diuretic |
+|-----------------|-----------------|-------------------|----------|
+| Proximal tubule | Reabsorption: Na+, HCO3-, phosphate, sugars, amino acids | Fanconi syndrome Proximal (type 2) RTA | Mannitol Carbonic anhydrase inhibitor |
+| Thick ascending loop | Reabsorption: Na+, K+, Cl- | Bartter syndromes | Loop |
+| Distal tubule | Reabsorption: Na+, Cl- | Gitelman syndrome | Thiazide |
+| Cortical collecting duct | Excretion: K+, H+ | Distal (type 1) RTA Type 4 RTA | K+-sparing |
+| Collecting duct | Excretion: water | Diabetes insipidus (p240) | V2 antagonists ('vaptan') (p320) |
+
+## Proximal tubule
+
+### Physiology
+Reabsorbs Na+ (~70%), bicarbonate, phosphate, amino acids, sugars, uric acid.
+
+### Pathology
+Fanconi syndrome: Generalized impairment of proximal tubular function leading to glycosuria (in a non-diabetic), phosphaturia, uricosuria, aminoaciduria, and tubular-proteinuria (negative dipstick but positive urine P:CR p294). Phosphaturia leads to phosphate loss from bone, demineralization, and growth impairment. Treatment: replace phosphate. Proximal (type 2) renal tubular acidosis (RTA): Failure of bicarbonate reabsorption. Distal reabsorption intact so serum bicarbonate usually ≥12mmol/L. Accompanied by Fanconi syndrome unless rare familial cause. Aetiology: light chain disease, drugs (eg tenofovir), heavy metals. Diagnosis: IV bicarbonate increases bicarbonate loss in urine and causes rapid rise in urine pH to ~7.5. Treatment: bicarbonate and potassium replacement.
+
+### Diuretics
+Osmotic diuretic (eg mannitol): Used to ↓ICP and intra-ocular pressure. Freely filtered but poorly reabsorbed, holding water by osmosis. Na+, K+, Ca2+, Cl-, Mg2+, HCO3- may be affected. Risk of pulmonary oedema if oligo/anuric. Carbonic anhydrase inhibitor (eg acetazolamide): Used in altitude sickness, glaucoma. Metabolic acidosis due to ↑bicarbonate excretion. Risk of nephrocalcinosis.

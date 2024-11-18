@@ -1,0 +1,24 @@
+## Zoonoses
+
+### Anthrax (Bacillus anthracis)
+Gram-positive, aerobic bacillus found in soil worldwide. Humans exposed via infected livestock or animal products, eg hide, wool, tusks. Infection via inhalation, ingestion, contamination of broken skin (includes IV drug use). Bacteria secrete exotoxins: oedema toxin and lethal toxin. Presentation:
+
+- **Cutaneous (~95%)**: itchy papule→vesicle→necrotic eschar. Oedema may be striking. Regional lymphadenopathy, malaise.
+- **Inhalation**: fever, cough, myalgia, SOB, pleural effusion (haemorrhagic mediastinitis), stridor, death.
+- **GI (rare)**: fever, abdominal pain, ascites, mucosal ulcers, GI perforation.
+
+Diagnosis: Vesicular fluid culture (care, do not disseminate), blood culture, antibody ELISA, PCR. (NB: not pneumonic so sputum cultures are -ve). Treatment: Quinolone/doxycycline. Two agents if systemic disease, eg ciprofloxacin+clindamycin or linezolid (then narrow according to sensitivity). Consider anti-anthrax monoclonal antibody/immunoglobulin as adjunct in inhalational disease.
+
+### Bartonella
+- **B. henselae** (cat-scratch disease): from infected cat fleas. Low-grade fever, regional lymphadenopathy. Encephalitis rare. Skin lesions mimic Kaposi's sarcoma.
+- **B. quintana** (trench fever): from human body louse. Fever, headache, bone pain.
+- **B. bacilliformis** (bartonellosis): from infected sandflies in Andes mountains. Oroya fever = fever, headache, myalgia, haemolysis. Later nodular→vascular skin lesions.
+
+Diagnosis: Clinical, blood culture (fastidious ∴ needs prolonged culture), serology.
+Treatment: Cat-scratch disease often self-limiting. Azithromycin, aminoglycoside.
+
+### Brucellosis
+Most common zoonosis worldwide: 500 000 cases/yr. Gram -ve infection of cattle, swine, goats, sheep, dogs. Human infection via ingestion of infected meat/unpasteurized milk/cheese; or through inhalational/mucosal contact with animal body fluids (eg farmers, slaughterhouse workers, meat packers, hunters). ↑Risk in countries without animal health programmes. Presentation: Acute (<1 month), sub-acute (1-6 months), or chronic (>6 months). Non-specific: fever, anorexia, sweats, weight loss, malaise (∆∆ TB). Localized infection: septic arthritis, spondylitis, meningitis, endocarditis, orchitis, abscess. Diagnosis: Culture with prolonged incubation due to slow doubling time.¹⁷ Serology (four assays performed by Public Health England Brucella Reference Unit 0151 529 4900). Treatment: Doxycycline, rifampicin, aminoglycoside, ceftriaxone, co-trimoxazole. Needs prolonged course as intracellular with slow doubling time. Relapse usually due to inadequate dose/duration/adherence.
+
+### Coxiella burnetii (Q fever)
+Q fever is derived from the label 'query' fever attributed to an unexplained disease in Australian abattoir workers. C. burnetii is now recognized as the pathogenic agent. Sheep, goats, cattle are main sources of infection (also cats, dogs, rabbits, ducks, ticks). Occurs worldwide. Spores can survive in soil, animal products, and water for months-yr. Transmitted by contact, inhalation of dust, or consumption of raw milk products. Presentation: Incubation 3-30d. ~50% asymptomatic. Non-specific symptoms: fever (1-3wks), nausea, fatigue, headache. Pneumonia in 1-2%: typical or atypical, may have rapid progression. Also splenomegaly, granulomatous hepatitis, aseptic meningitis, encephalitis, osteomyelitis. Endocarditis is the most common form of chronic disease. Diagnosis: Coxiella cannot be cultured using routine lab methods.¹⁷ PCR is rapid. Serology can take 2-6wks to become positive and detects variation in lipopolysaccharide (LPS) coat. Phase II LPS appears before phase I LPS ∴ acute infection = IgM/IgG to phase II LPS, chronic infection = IgG to phase I LPS. Serology on paired sera 2-4wks apart provides best diagnostic evidence. Treatment: Doxycycline. Also rifampicin, chloramphenicol, fluoroquinolone, macrolide. Hydroxychloroquine alkalinizes the phagosomes in which the bacteria resides and may ↑ bactericidal effect.

@@ -1,0 +1,56 @@
+# 10 Neurology
+
+## Contents
+
+### Neurology at the bedside:
+- Where is the lesion? 446
+- Drugs and the nervous system 448
+- Cerebral blood supply 450
+- Testing peripheral nerves 452
+- Dermatomes and peripheral nerves 454
+
+### Some common presentations:
+- Headache 456
+- Migraine 458
+- Blackouts 460
+- Vertigo & dizziness 462
+- Hearing loss & tinnitus 464
+- Acute bilateral leg weakness 466
+- Abnormal involuntary movements (dyskinesia) 468
+
+### Diseases and conditions:
+- Stroke:
+  - Clinical features and acute management 470
+  - Investigation and prevention 472
+  - Re-enablement after stroke 474
+- Transient ischaemic attack (TIA) 476
+- Subarachnoid haemorrhage (SAH) 478
+- Intracranial venous thrombosis (IVT) 480
+- Subdural haematoma 482
+- Extradural (epidural) haematoma 482
+- Delirium (acute confusional state) 484
+- Dementia 486
+- Alzheimer's disease (AD) 488
+- Epilepsy: diagnosis 490
+- Epilepsy: management 492
+- Parkinsonism 494
+- Multiple sclerosis (MS) 496
+- Space-occupying lesions (SOL) 498
+- Idiopathic intracranial hypertension 498
+- Bell's palsy 500
+- Mononeuropathies 502
+- Polyneuropathies 504
+- Autonomic neuropathy 505
+- Motor neuron disease (MND) 506
+- Bulbar palsy 507
+- Cervical spondylosis 508
+- Myopathy 510
+- Myasthenia gravis (MG) 512
+- Lambert-Eaton myasthenic syndrome (LEMS) 512
+- Neurofibromatosis 514
+- Syringomyelia 516
+- Retroviruses and neurology 517
+
+Fig 10.1 The image shows a runner crossing the finish line of a race, wearing number 41. The caption describes this as the first sub-4 minute mile run on 6 May 1954. The runner, aged 25 at the time, was a medical student at Oxford University who later became a prominent academic neurologist. His research focused on the autonomic nervous system. The caption includes a quote from the runner about his childhood experiences running on the beach, describing the intense sensations and excitement it created. The caption concludes by noting that in 2014, the runner spoke publicly about being diagnosed with Parkinson's disease.
+
+Bettmann / Bettmann collection / Getty Images.

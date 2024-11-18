@@ -1,0 +1,94 @@
+  Symbols and abbreviations
+..........this fact or idea is important
+1.......don’t dawdle! —prompt action saves lives              DU ........duodenal ulcer
+                                                               D&V .....diarrhoea and vomiting
+ ...........reference                                          DVT ......deep venous thrombosis
+:......male-to-female ratio. :=2:1 means twice as          DXT ......deep radiotherapy
+            common in males                                    EBV ......Epstein–Barr virus
+ .........therefore                                           ECG ......electrocardiogram
+~ ..........approximately                                      Echo ...echocardiogram
+– ve ......negative (+ve is positive)                          EDTA ....ethylene diamine tetra-acetic acid (anticoagulant
+ ........increased or decreased                                           coating, eg in FBC bottles)
+ .......normal (eg serum level)                               EEG ......electroencephalogram
+1° ° ........secondary
+2 ..........diagnosis........primary                           eGFR ....estimated glomerular filtration rate (in mL/min/1.73m2)
+                                                              ELISA ...enzyme-linked immunosorbent assay
+........differential diagnosis                               EM .......electron microscope
+A:CR ......albumin to creatinine ratio (mg/mmol)               EMG .....electromyogram
+A2 .........aortic component of the 2nd heart sound            ENT ......ear, nose, and throat
+Ab ......antibody                                              ERCP ....endoscopic retrograde cholangiopancreatography
+ABC ......airway, breathing, and circulation                   ESR ......erythrocyte sedimentation rate
+ABG .....arterial blood gas: PO2, PCO2, pH, HCO3a       a      ESRF ....end-stage renal failure
+ABPA....allergic bronchopulmonary aspergillosis                EUA ......examination under anaesthesia
+ACE-i .....angiotensin-converting enzyme inhibitor             FBC ......full blood count
+ACS .......acute coronary syndrome                             FDP ......fibrin degradation products 1st sec
+ACTH ....adrenocorticotrophic hormone                          FEV1 .....forced expiratory volume in
+ADH .....antidiuretic hormone                                  FiO2 ....partial pressure of O2 in inspired air
+AF ........atrial fibrillation                                 FFP ......fresh frozen plasma
+AFB ......acid-fast bacillus                                   FSH ......follicle-stimulating hormone
+Ag .......antigen                                              FVC ......forced vital capacity
+AIDS ....acquired immunodeficiency syndrome                    g ..........gram
+AKI ........acute kidney injury                                G6PD ....glucose-6-phosphate dehydrogenase
+ALL ......acute lymphoblastic leukaemia                        GA .......general anaesthetic
+ALP ......alkaline phosphatase                                 GCS ......Glasgow Coma Scale
+AMA ....antimitochondrial antibody                             GFR ......glomerular filtration rate
+AMP .....adenosine monophosphate                               GGT ......gamma-glutamyl transferase
+ANA .....antinuclear antibody                                  GH ........growth hormone
+ANCA ...antineutrophil cytoplasmic antibody                    GI ........gastrointestinal
+APTT ....activated partial thromboplastin time                 GN ........glomerulonephritis
+AR ........aortic regurgitation                                GP ........general practitioner
+ARB .....angiotensin II receptor ‘blocker’ (antagonist)        GPA ......granulomatosis with polyangiitis (formerly
+ARDS ...acute respiratory distress syndrome                                 Wegener’s granulomatosis)
+ART ......antiretroviral therapy                               GTN ......glyceryl trinitrate
+AS ........aortic stenosis                                     GTT ......glucose tolerance test
+ASD .....atrial septal defect                                  GU(M) ..genitourinary (medicine)
+AST ......aspartate transaminase                               h ..........hour
+ATN ......acute tubular necrosis                               HAV .....hepatitis A virus
+ATP ......adenosine triphosphate                               Hb .......haemoglobin
+AV ........atrioventricular                                    HbA1c .glycated haemoglobin
+AVM .....arteriovenous malformation(s)                         HBSAg ..hepatitis B surface antigen
+AXR .....abdominal X-ray (plain)                               HBV .....hepatitis B virus
+Ba ........barium                                              HCC ......hepatocellular cancer
+BAL ......bronchoalveolar lavage                               HCM .....hypertrophic obstructive cardiomyopathy
+bd .......bis die (Latin for twice a day)                      Hct ......haematocrit
+BKA .....below-knee amputation                                 HCV ......hepatitis C virus
+BNF ......British National Formulary                           HDV .....hepatitis D virus
+BNP ......brain natriuretic peptide                            HDL ......high-density lipoprotein
+BP ........blood pressure                                      HHT ......hereditary haemorrhagic telangiectasia
+BPH ......benign prostatic hyperplasia                         HIV ......human immunodeficiency virus
+bpm ....beats per minute                                       HLA ......human leucocyte antigen
+ca ........cancer                                              HONK ...hyperosmolar non-ketotic (coma)
+CABG ...coronary artery bypass graft                           HPV ......human papillomavirus
+cAMP ...cyclic adenosine monophosphate (AMP)                   HRT ......hormone replacement therapy
+CAPD ...continuous ambulatory peritoneal dialysis              HSP ......Henoch–Schönlein purpura
+CCF ......congestive cardiac failure (ie left and right heart  HSV ......herpes simplex virus
+            failure)                                           HUS ......haemolytic uraemic syndrome
+CCU ......coronary care unit                                   IBD ......inflammatory bowel disease
+CDT ......Clostridium difficile toxin                          IBW .....ideal body weight
+CHB ......complete heart block                                 ICD ......implantable cardiac defibrillator
+CHD ......coronary heart disease                               ICP .......intracranial pressure
+CI .........contraindications                                  IC(T)U ..intensive care unit
+CK ........creatine (phospho)kinase                            IDDM ...insulin-dependent diabetes mellitus
+CKD ......chronic kidney disease                               IFN- ..interferon alpha
+CLL ......chronic lymphocytic leukaemia                        IE .........infective endocarditis
+CML .....chronic myeloid leukaemia                             Ig ........immunoglobulin
+CMV .....cytomegalovirus                                       IHD ......ischaemic heart disease
+CNS ......central nervous system                               IM ........intramuscular
+COC ......combined oral contraceptive pill                     INR ......international normalized ratio
+COPD ....chronic obstructive pulmonary disease                 IP .........interphalangeal
+CPAP ....continuous positive airway pressure                   IPPV ....intermittent positive pressure ventilation
+CPR ......cardiopulmonary resuscitation                        ITP .......idiopathic thrombocytopenic purpura
+CRP ......c-reactive protein                                   IU ........international unit
+CSF ......cerebrospinal fluid                                  IVC ......inferior vena cava
+CT ........computed tomography                                 IV(I) ....intravenous (infusion)
+CVA ......cerebrovascular accident                             IVU ......intravenous urography
+CVP ......central venous pressure                              JVP ......jugular venous pressure
+CVS ......cardiovascular system                                K ..........potassium
+CXR ......chest x-ray                                          kg .......kilogram
+d ..........day(s); also expressed as /7; months are /12       KPa ......kiloPascal
+DC ........direct current                                      L ..........litre
+DIC ......disseminated intravascular coagulation               LAD ........left axis deviation on the ECG
+DIP ......distal interphalangeal                               LBBB ....left bundle branch block
+dL .......decilitre                                            LDH ......lactate dehydrogenase
+DM .......diabetes mellitus                                    LDL ......low-density lipoprotein
+DOAC ...direct oral anticoagulant                              LFT ......liver function test

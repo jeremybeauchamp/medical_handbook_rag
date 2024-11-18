@@ -1,0 +1,30 @@
+# Hereditary haemochromatosis (HH)
+
+An inherited disorder of iron metabolism in which intestinal iron absorption leads to iron deposition in joints, liver, heart, pancreas, pituitary, adrenals, and skin. Middle-aged men are more frequently and severely affected than women, in whom the disease tends to present ~10yrs later (menstrual blood loss is protective).
+
+## Genetics
+HH is one of the commonest inherited conditions in those of Northern European (especially Celtic) ancestry (carrier rate of ~1 in 10 and a frequency of homozygosity of ~1 in 200-400). The gene responsible for most HH is HFE: the 2 commonest mutations are termed C282Y and H63D. C282Y accounts for 60-90% of HH, and H63D accounts for 1-3%, with compound heterozygotes accounting for 4-7%. Penetrance is variable—a significant fraction of C282Y homozygotes will not develop signs of iron overload during follow-up, complicating screening decisions.
+
+## The patient
+Early on: Nil—or tiredness; arthralgia (2nd+3rd MCP joints + knee pseudogout); ↓libido. Later: Slate-grey skin pigmentation; signs of chronic liver disease (p276); hepatomegaly; cirrhosis (esp. if drinks alcohol); dilated cardiomyopathy.
+Endocrinopathies: DM ('bronze diabetes' from iron deposition in pancreas); hypogonadism (p232) from pituitary dysfunction.
+
+## Tests
+Blood: LFT, ↑ferritin (♂>200/♀>150ng/mL; but inflammation will also ↑ferritin); ↑transferrin saturation³⁹ should all trigger suspicion. Confirm by HFE genotyping.
+Images: Chondrocalcinosis (fig 6.33). Liver & cardiac MRI: Fe overload.
+Liver biopsy: Perl's stain quantifies iron loading⁴⁰ and assesses disease severity.
+
+## Management
+Venesect: ~0.5-2 units/1-2wks, until ferritin ≤50mcg/L (may take 2yrs). Iron will continue to accumulate, so maintenance venesection is needed for life (1U every 2-3 months to maintain haematocrit <0.5, ferritin <100mcg/L, and transferrin saturation <40%). Consider desferrioxamine (p342) if intolerant of this. Monitor: LFT and glucose/diabetes (p206). HbA1c levels may be falsely low as venesection ↓ the time available for Hb glycosylation. If cirrhotic, screen for HCC with ultrasound ± AFP twice-yearly.
+
+Over-the-counter drugs: Ensure vitamin preparations contain no iron.
+
+Diet: A well-balanced diet should be encouraged—there is no need to avoid iron-rich foods. Avoid alcohol. Avoid uncooked seafood (may contain bacteria that thrive on increased plasma iron concentrations, eg Listeria monocytogenes, Vibrio vulnificus).
+
+Screening: Serum ferritin, transferrin saturation, and HFE genotype. ►Screen 1st-degree relatives by genetic testing even if they are asymptomatic and have normal LFT ideally prior to age where significant iron deposition likely to have occurred (eg 18-30yrs). Since C282Y homozygotes may never develop iron overload, population screening should not be performed.
+
+## Prognosis
+Venesection returns life expectancy to normal if non-diabetic and non-cirrhotic (and liver histology can improve). Arthropathy may improve or worsen. Gonadal failure may reverse in younger men. ►If cirrhosis, 22-30% get hepatocellular cancer, especially if: age >50yrs (risk ↑ ≈ 13), HBsAg +ve (risk ↑ ≈ 5), or alcohol abuse (risk ↑ ≈ 2).
+
+39 Transferrin saturation >45% is a sensitive threshold for further screening but will lead to some false +ves.
+40 Although generally not required, biopsy quantifies hepatic iron loading and fibrosis. This helps determine the severity of liver disease, particularly in those with other underlying causes of chronic liver disease.

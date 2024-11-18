@@ -1,0 +1,38 @@
+# Nephrotic syndrome
+
+> If there is oedema, dipstick the urine to avoid missing renal disease.
+
+## Definition
+The nephrotic syndrome is a triad of:
+- proteinuria >3g/24h (P:CR >300mg/mmol, A:CR >250mg/mmol, p294)
+- hypoalbuminaemia (usually <30g/L, can be <10g/L)
+- oedema.
+
+## Aetiology
+Primary renal disease or secondary to a systemic disorder.
+- Primary renal disease: Minimal change disease, membranous nephropathy (may be associated with underlying inflammation/malignancy), focal segmental glomerulosclerosis (FSGS), membranoproliferative GN.
+- Secondary causes: DM, lupus nephritis, myeloma, amyloid, pre-eclampsia.
+
+## Pathophysiology
+The filtration barrier of the kidney is formed by podocytes, the glomerular basement membrane (GBM), and endothelial cells. Proteinuria results from podocyte pathology: abnormal function in minimal change disease, immune-mediated damage in membranous nephropathy, and podocyte injury/death in FSGS; or pathology in the GBM/endothelial cell: membranoproliferative GN.
+
+## Presentation
+Generalized, pitting oedema, which can be rapid and severe. Look in dependent areas (ankles if mobile, sacral pad/elbows if bed-bound) and areas of low tissue resistance, eg periorbitally. History: Ask about systemic symptoms, eg joint, skin. Consider malignancy and chronic infection. ΔΔ: CCF (JVP, pulmonary oedema), liver disease (↓albumin).
+
+## Management
+
+### 1 Reduce oedema
+Fluid (1L/day) and salt restriction. Diuresis with loop diuretics, eg furosemide. If gut oedema affects oral absorption of diuretics, give IV. Use daily weights to guide. Aim 0.5-1kg weight loss per day to avoid intravascular volume depletion and secondary AKI. Thiazide diuretics can be added if oedema remains resistant to high-dose loop diuretics. Albumin infusion increases proteinuria and remains controversial with no consistent evidence of benefit.
+
+### 2 Treat underlying cause
+Adults need a renal biopsy (p310). This is technically more difficult when there is gross oedema so diuresis may be required first. Treatment known to induce remission should be given, eg corticosteroids in minimal change disease. Look for and treat any underlying systemic disease, infection, or malignancy.
+
+In children, minimal change disease is the commonest aetiology and steroids induce remission in the majority. Biopsy is therefore avoided in children unless there is no response to steroids, or if clinical features suggest another cause: age <1yr, family history, extrarenal disease (eg arthritis, rash, anaemia), renal failure, haematuria.
+
+### 3 Reduce proteinuria
+ACE-i/ARB reduce proteinuria (may not be needed in minimal change disease).
+
+### 4 Complications
+- Thromboembolism. Hypercoagulable due to ↑clotting factors, ↓anti-thrombin III, and platelet abnormalities. ↑Risk of VTE including DVT/PE (~10% adult patients) and renal vein thrombosis (loin pain, haematuria, ↑LDH, AKI if bilateral). Treat with heparin (may need to dose adjust low-molecular-weight heparin if ↓GFR) and warfarin. If low bleeding risk, consider prophylaxis when albumin <20g/L.
+- Infection. Urine losses of immunoglobulins and immune mediators lead to ↑risk of urinary, respiratory, and CNS infection. Infection also seen in areas of fluid accumulation: cellulitis, peritonitis, empyema. Ensure pneumococcal vaccination given. ↑Risk of varicella with steroid treatment: post-exposure prophylaxis in non-immune, do not give live vaccine if immunosuppressed.
+- Hyperlipidaemia. ↑Cholesterol (>10mmol/L), ↑LDL, ↑triglycerides, ↓HDL. Thought due to hepatic synthesis in response to ↓oncotic pressure and defective lipid breakdown. Abnormalities are proportional to proteinuria. The benefits of statins in CKD are extrapolated to nephrotic syndrome where there is ↓evidence.

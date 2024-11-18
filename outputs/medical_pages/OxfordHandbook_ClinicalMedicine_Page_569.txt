@@ -1,0 +1,48 @@
+# Systemic Lupus International Collaborating Clinics Classification
+
+A favourite differential diagnosis, SLE mimics other illnesses, with wide variation in symptoms that may come and go unpredictably. Diagnose SLE<sup>47</sup> in an appropriate clinical setting if ≥4 criteria (at least 1 clinical and 1 laboratory) or biopsy-proven lupus nephritis with positive ANA or anti-DNA.
+
+## Clinical criteria
+
+1. **Acute cutaneous lupus**: Malar rash/butterfly. Fixed erythema, flat or raised, over the malar eminences, tending to spare the nasolabial folds (fig 12.14). Occurs in up to 50%. Bullous lupus, toxic epidermal necrolysis variant of SLE, maculopapular lupus rash, photosensitive lupus rash, or subacute cutaneous lupus (non-indurated psoriasiform and/or annular polycyclic lesions that resolve without scarring).
+
+2. **Chronic cutaneous lupus**: Discoid rash, erythematous raised patches with adherent keratotic scales and follicular plugging ± atrophic scarring (fig 12.15). Think of it as a three-stage rash affecting ears, cheeks, scalp, forehead, and chest: erythema→pigmented hyperkeratotic oedematous papules→atrophic depressed lesions.
+
+3. **Non scarring alopecia**: (In the absence of other causes.)
+
+4. **Oral/nasal ulcers**: (In the absence of other causes.)
+
+5. **Synovitis**: (Involving two or more joints or two or more tender joints with >30 minutes of morning stiffness.)
+
+6. **Serositis**: a) Lung (pleurisy for >1 day, or pleural effusions, or pleural rub; b) pericardial pain for >1 day, or pericardial effusion, or pericardial rub, or pericarditis on ECG.
+
+7. **Urinanalysis**: Presence of proteinuria (>0.5g/d ) or red cell casts.
+
+8. **Neurological features**: Seizures; psychosis; mononeuritis multiplex; myelitis; peripheral or cranial neuropathy; cerebritis/acute confusional state in absence of other causes.
+
+9. **Haemolytic anaemia**.
+
+10. **Leucopenia**: (WCC <4.) At least once, or lymphopenia (lymphocytes <1) at least once.
+
+11. **Thrombocytopenia**: (Platelets <100.) At least once.
+
+## Laboratory criteria
+
+1. +ve ANA (+ve in >95%).
+2. Anti-dsDNA.
+3. Anti-Smith antibodies present.
+4. Antiphospholipid Abs present.
+5. Low complement (C3, C4, or C50).
+6. +ve Direct Coombs test.
+
+Adapted from 'Derivation and validation of the Systemic Lupus International Collaborating Clinics classification criteria for systemic lupus erythematosus'. Petri M et al., Arthritis and Rheumatism, vol 64, issue 8 (2012) 2677–2686.
+
+----
+
+The image includes two photographs demonstrating lupus-related skin conditions:
+
+1. A close-up of the lower face showing a malar rash, with redness across the cheeks and bridge of the nose, sparing the nasolabial folds.
+
+2. A side view of a face showing a discoid rash, with raised, scaly patches on the skin.
+
+These images are labeled as Fig 12.14 and Fig 12.15 respectively, and are credited to medical professionals with permission from Skin & Aging publication.

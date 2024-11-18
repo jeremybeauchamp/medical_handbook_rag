@@ -1,0 +1,34 @@
+## Advice to asymptomatic men asking for a PSA blood test
+
+- Many men over 50 consider a PSA test to detect prostatic cancer. *Is this wise?*
+- The test is not very accurate, and we cannot say that those having the test will live longer—even if they turn out to have prostate cancer. Most men with prostate cancer die from an unrelated cause.
+- If the test is falsely positive, you may needlessly have more tests, eg prostate sampling via the back passage (causes bleeding and infection in 1-5% of men).
+- Only one in three of those with a high PSA level will have cancer.
+- You may be worried needlessly if later tests put you in the clear.
+- If a cancer is found, there's no way to tell for sure if it will impinge on health. You might end up having a bad effect from treatment that wasn't needed.
+- There is much uncertainty on treating those who do turn out to have prostate cancer: options are radical surgery to remove the prostate (risks erectile dysfunction and incontinence), radiotherapy, or hormones.
+- Screening via PSA has shown conflicting results. Some RCTs have shown no difference in the rate of death from prostate cancer, others have found reduced mortality, eg 1 death prevented per 1055 men invited for screening (if 37 cancers detected).
+
+Ultimately, you must decide for yourself what you want.
+
+## Prognostic factors in prostate cancer
+
+A number of prognostic factors help determine if 'watchful waiting' or aggressive therapy should be advised:
+- Pre-treatment PSA level.
+- Tumour stage (as measured by the TNM system; p523).
+- Tumour grade—Gleason score. Gleason grading is from 1 to 5, with 5 being the highest grade, and carrying the poorest prognosis. Gleason grades are decided by analysing histology from two separate areas of tumour specimen, and adding them to get the total Gleason score for the tumour, from 2 to 10. Scores 8-10 suggest an aggressive tumour; 5-7: intermediate; 2-4: indolent.
+
+## Benign diseases of the penis
+
+### Balanitis
+Acute inflammation of the foreskin and glans. Associated with strep and staph infections. More common in diabetics. Often seen in young children with tight foreskins ℞: Antibiotics, circumcision, hygiene advice.
+
+### Phimosis
+The foreskin occludes the meatus. In young boys this causes recurrent balanitis and ballooning, but time (+ trials of gentle retraction) may obviate the need for circumcision. In adulthood presents with painful intercourse, infection, ulceration, and is associated with balanitis xerotica obliterans.
+
+### Paraphimosis
+Occurs when a tight foreskin is retracted and becomes irreplaceable, preventing venous return leading to oedema and even ischaemia of the glans. Can occur if the foreskin is not replaced after catheterization. ▶℞: Ask patient to squeeze glans. Try applying a 50% glucose-soaked swab (oedema may follow osmotic gradient). Ice packs and lidocaine gel may also help. May require aspiration/dorsal slit/circumcision.
+
+## Prostatitis
+
+May be acute or chronic. Usually those >35yrs. Acute prostatitis is caused mostly by S. faecalis and E. coli, also Chlamydia (and previously TB). Features: UTIs, retention, pain, haematospermia, swollen/boggy prostate on DRE. ℞: Analgesia; levofloxacin 500mg/24h PO for 28d. Chronic prostatitis may be bacterial or non-bacterial. Symptoms as for acute prostatitis, but present for >3 months. Non-bacterial chronic prostatitis does not respond to antibiotics. Anti-inflammatory drugs, α-blockers, and prostatic massage all have a place.

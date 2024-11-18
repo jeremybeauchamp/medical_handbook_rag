@@ -1,0 +1,28 @@
+700 nerve damage, so tendon reflexes are paradoxically depressed (differential diagnosis p446). There is also dorsal column degeneration, with loss of positional and vibration sense. Pes cavus and scoliosis occur. Cardiomyopathy may cause CCF. Typical age at death: ~50yrs. ℞: There is no cure. Treat CCF, arrhythmias, and DM.
+
+*Nikolaus Friedreich, 1825–1882 (German neurologist)*
+
+## Froin's syndrome
+↑ CSF protein + xanthochromia with normal cell count—a sign of blockage in spinal CSF flow (eg from a spinal tumour). *Georges Froin, 1874–1932 (French physician)*
+
+## Gardner's syndrome
+A dominant variant of familial adenomatous polyposis, caused by mutations in the APC gene (5q21). There are multiple colon polyps (which inevitably become malignant; p520),37 benign bone osteomas, epidermal cysts, dermoid tumours, fibromas, and neurofibromas. Fundoscopy reveals black spots (congenital hypertrophy of retinal pigment epithelium); this helps pre-symptomatic detection. Presentation: Can present from 2-70yrs with colonic (eg bloody diarrhoea) or extracolonic symptoms. Prophylactic surgery (eg proctocolectomy) is the only curative treatment. Endoscopic polypectomy with long-term celecoxib therapy has been used to postpone prophylactic colectomy.38 *Eldon J Gardner, 1909–1989 (US physician)*
+
+## Gélineau's syndrome
+(Narcolepsy.) The patient, usually a young man, succumbs to irresistible attacks of inappropriate sleep ± vivid hypnogogic hallucinations, cataplexy (sudden hypotonia), and sleep paralysis (paralysis of speech and movement, while fully alert, at sleep onset or on waking). Hypothesis: Mutations lead to loss of hypothalamic hypocretin-containing neurons, via autoimmune destruction.39 95% are +ve for HLA DR2. ℞: Stimulants (eg methylphenidate) may cause dependence ± psychosis. Modafinil may be better. SE: anxiety, aggression, dry mouth, euphoria, insomnia, ↑BP, dyskinesia, ↑ALP. *Jean-Baptiste-Édouard Gélineau, 1828–1906 (French physician)*
+
+## Gerstmann's syndrome
+A constellation of symptoms suggesting a dominant parietal lesion: finger agnosia (inability to identify fingers), agraphia (inability to write), acalculia (inability to calculate), and left-right disorientation. *Josef Gerstmann, 1887–1969 (Austrian neurologist)*
+
+## Gilbert's syndrome
+A common cause of unconjugated hyperbilirubinaemia due to ↓ UGT-1 activity (the enzyme that conjugates bilirubin with glucuronic acid). Prevalence: 1-2%; 5-15% have a family history of jaundice. It may go unnoticed for many years and usually presents in adolescence with intermittent jaundice occuring during illness, exercise or fasting. Diagnosis: Mild ↑bilirubin; normal FBC and reticulocytes (ie no haemolysis). It is a benign condition. *Nicolas Augustin Gilbert, 1858–1927 (French physician)*
+
+## Gilles de la Tourette syndrome
+Tonic, clonic, dystonic, or phonic tics: jerks, blinks, sniffs, nods, spitting, stuttering, irrepressible explosive obscene verbal ejaculations (coprolalia, in 20%) or gestures (coprophilia, 6%),40 grunts, squeaks, burps, twirlings, and nipping others ± tantrums. There may be a witty, innovatory, phantasmagoric picture, with mimicry (echopraxia), antics, impishness, extravagance, audacity, dramatizations, surreal associations, uninhibited affect, speed, 'go', vivid imagery and memory, and hunger for stimuli. The tic paradox: Tics are voluntary, but often unwanted: the desire to tic stems from the relief of the odd sensation that builds up prior to the tic and is relieved by it, 'like scratching a mosquito bite, tics lead to more tics'.41 Mean age of onset: 6yrs. ♂:♀≈4:1. Pathogenesis: Unknown; multiple genetic loci implicated and neuroanatomical abnormalities reported on MRI. Associations: Obsessive-compulsive disorder; attention deficit hyperactivity disorder. ℞: (None may be wanted.) Risperidone, haloperidol, or pimozide. Habit-reversal training.42 Deep brain stimulation is rarely indicated, but may help.
+
+*Marquis Georges Albert Édouard Brutus Gilles de la Tourette, 1857–1904 (French neurologist)*
+
+## Goodpasture's disease
+(A pulmonary-renal syndrome.) Acute glomerulonephritis + lung symptoms (haemoptysis/diffuse pulmonary haemorrhage) caused by antiglomerular basement membrane antibodies (binding kidney's basement membrane and alveolar membrane). Tests: CXR: infiltrates due to pulmonary haemorrhage, often in lower zones. Kidney biopsy: crescentic glomerulonephritis. ℞: Treat shock. Vigorous immunosuppressive treatment and plasmapheresis.
+
+*Ernest William Goodpasture, 1886–1960 (US pathologist)*

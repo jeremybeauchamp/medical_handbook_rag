@@ -1,0 +1,29 @@
+# QALYs and resource rationing
+
+> "There is a good deal of hit and miss about general medicine. It is a profession where exact measurement is not easy and the absence of it opens the mind to endless conjecture as to the efficacy of this or that form of treatment."
+> 
+> Aneurin Bevan, In Place of Fear, 1952
+
+A QALY is a quality-adjusted life year. One year of healthy life expectancy = 1 QALY, whereas 1 year of unhealthy life expectancy is worth <1 QALY, the precise value falling with progressively worsening quality of life. If an intervention means that you are likely to live for 8 years in perfect health then that intervention would have a QALY value of 8. If a new drug improves your quality of life from 0.5 to 0.7 for 25 years, then it has a QALY value of (0.7 - 0.5)×25=5. Based on the price of the intervention, the cost of 1 QALY can be calculated. Healthcare priorities can then be weighted towards low cost QALYs. The National Institute for Health and Care Excellence (NICE) considers that interventions for which 1 QALY=<£30 000 are cost-effective. However, as a practical application of utilitarian theory, QALYs remain open to criticism (table 1.1). Remember that although for a clinician, time is unambiguous and quantifiable, time experienced by patients is more like literature than science: a minute might be a chapter, a year a single sentence.³
+
+## Table 1.1 The advantages and disadvantages of QALYs
+
+| Advantages | Disadvantages |
+|------------|---------------|
+| Transparent societal decision making | Focuses on slice (disease), not pie (health) |
+| Common unit for different interventions | Based on a value judgement that living longer is a measure of success |
+| Allows cost-effectiveness analysis | Quality of life assessment comes from general public, not those with disease |
+| Allows international comparison | Potentially ageist—the elderly always have less 'life expectancy' to gain |
+| | Focus on outcomes, not process ie care, compassion |
+
+## The inverse care law, equity, and distributive justice:
+
+The inverse care law states that the availability of good medical care varies inversely with the need for it. This arises due to poorer quality services, barriers to service access, and external disadvantage. By focusing on the benefit gained from an intervention, the QALY system treats everyone as equal. But is this really equality? Distributive justice is the distribution of 'goods' so that those who are worst off become better off. In healthcare terms, this means allocation of resources to those in greatest need, regardless of QALYs.
+
+## Compassion
+
+The importance of compassion⁴⁵ in medicine is undisputed. It is an emotional response to negativity or suffering that motivates a desire to help. It is more than 'pity', which has connotations of inferiority; and different from 'empathy', which is a vicarious experience of the emotional state of another. It requires imaginative indwelling into another's condition. The fictional Jules Henri experiences a loss of sense of the second person; another person's despair alters his perception of the world so that they are 'connected in some universal, though unseen, pattern of humanity'.⁴ With compassion, the pain of another is 'intensified by the imagination and prolonged by a hundred echoes'.⁵ Compassion cannot be taught; it requires engagement with suffering, cultural understanding, and a mutuality, rather than paternalism. Adverse political, excessively mechanical, and managerial environments discourage its expression. When compassion (what is felt) is difficult, etiquette (what is done) must not fail: reflection, empathy, respectfulness, attention, and manners count: 'For I could never even have prayed for this: that you would have pity on me and endure my agonies and stay with me and help me'.⁶
+
+4 Sebastian Faulkes, Human Traces, 2005.
+5 Milan Kundera, The Unbearable Lightness of Being, 1984.
+6 Philoctetes by Sophocles 409 BC (translation Phillips and Clay, 2003).

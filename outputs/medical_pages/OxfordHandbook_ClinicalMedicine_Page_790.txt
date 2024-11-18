@@ -1,0 +1,36 @@
+# Inserting a temporary cardiac pacemaker
+
+Often it is wiser to liaise with a specialist pacing centre to arrange prompt, definitive pacing than to try temporary transvenous pacing, which often has complications (see later in topic) and therefore may delay a definitive procedure.
+
+## Possible indications in the acute phase of myocardial infarction
+
+- **Complete AV block:**
+  - With inferior MI (right coronary artery occlusion) pacing may only be needed if symptomatic; spontaneous recovery may occur.
+  - With anterior MI (representing massive septal infarction).
+- **Second-degree block:**
+  - Wenckebach (p99; implies decremental AV node conduction; may respond to atropine in an inferior MI; pace if anterior MI).
+  - Mobitz type 2 block is usually associated with distal fascicular disease and carries high risk of complete heart block, so pace in both types of MI.
+- **First-degree block:** Observe carefully: 40% develop higher degrees of block.
+- **Bundle branch block:** Pace prophylactically if evidence of trifascicular disease (p100) or non-adjacent bifascicular disease.
+- **Sino-atrial disease + serious symptoms:** Pace unless responds to atropine.
+
+## Other indications where temporary pacing may be needed
+
+- Pre-op: if surgery is required in patients with type 2 or complete heart block (whether or not MI has occurred); do 24h ECG; liaise with the anaesthetist.
+- Drug poisoning, eg with β-blockers, digoxin, or verapamil.
+- Symptomatic bradycardia, uncontrolled by atropine or isoprenaline.
+- Suppression of drug-resistant VT and SVT (overdrive pacing; do on ICU).
+- Asystolic cardiac arrest with P-wave activity (ventricular standstill).
+- During or after cardiac surgery—eg around the AV node or bundle of His.
+
+## Technique for temporary transvenous pacing Learn from an expert.
+
+- **Preparation:** Monitor ECG; have a defibrillator to hand, ensure the patient has peripheral access; check that a radiographer with screening equipment is present. If you are screening, wear a protective lead apron.
+- **Insertion:** Using an aseptic technique, place the introducer into the (ideally right) internal jugular vein (p775) or subclavian. If this is difficult, access to the right atrium can be achieved via the femoral vein. Pass the pacing wire through the introducer into the right atrium, ideally under radiological screening. It will either pass easily through the tricuspid valve or loop within the atrium. If the latter occurs, it is usually possible to flip the wire across the valve with a combined twisting and withdrawing movement (fig 18.19). Advance the wire slightly. At this stage the wire may try to exit the ventricle through the pulmonary outflow tract. A further withdrawing and rotation of the wire will aim the tip at the apex of the right ventricle. Advance slightly again to place the wire in contact with the endocardium. Remove any slack to risk of subsequent displacement.
+- **Checking the threshold:** Connect the wire to the pacing box and set the 'demand' rate slightly higher than the patient's own heart rate and the output to 3V. A paced rhythm should be seen. Find the pacing threshold by slowly reducing the voltage until the pacemaker fails to stimulate the tissue (pacing spikes are no longer followed by paced beats). The threshold should be less than 1V, but a slightly higher value may be acceptable if it is stable—eg after a large infarction.
+- **Setting the pacemaker:** Set the output to 3V or over 3 times the threshold value (whichever is higher) in 'demand' mode. Set the rate as required. Suture the wire to the skin, and fix with a sterile dressing.
+- **Check the position of the wire** (and exclude pneumothorax) with a CXR.
+- **Recurrent checks of the pacing threshold** are required over the next few days. The formation of endocardial oedema can raise the threshold by a factor of 2-3.
+
+## Complications 
+Pneumothorax; sepsis; cardiac perforation; pacing failure: from loss of capture, loss of electrical continuity in pacing circuit, or electrode displacement.

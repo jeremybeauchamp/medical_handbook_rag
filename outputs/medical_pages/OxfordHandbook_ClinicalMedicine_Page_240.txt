@@ -1,0 +1,34 @@
+# Addison's disease (adrenal insufficiency)
+
+Primary adrenocortical insufficiency (Addison's disease) is rare (~0.8/100,000), but can be fatal. Destruction of the adrenal cortex leads to glucocorticoid (cortisol) and mineralocorticoid (aldosterone) deficiency (see fig 5.21). Signs are capricious: it is 'the unforgiving master of non-specificity and disguise'.23 You may diagnose a viral infection or anorexia nervosa in error (K+ is ↓ in the latter but ↑ in Addison's).
+
+## Physiology:
+
+```mermaid
+graph TD
+    A[Hypothalamus] -->|CRF| B[Pituitary]
+    B -->|ACTH| C[Adrenal]
+    C -->|Cortisol| D[Physiological effect]
+    D -.->|Negative feedback| A
+    D -.->|Negative feedback| B
+```
+
+CRF = Corticotrophin-releasing factor
+ACTH = Adrenocorticotrophic hormone
+
+Fig 5.21 Pathways involved in adrenal function.
+
+## Causes:
+80% are due to autoimmunity in the UK. Other causes: TB (commonest cause worldwide), adrenal metastases (eg from lung, breast, renal cancer), lymphoma, opportunistic infections in HIV (eg CMV, Mycobacterium avium, p400); adrenal haemorrhage (►Waterhouse–Friderichsen syndrome p714; antiphospholipid syndrome; SLE), congenital (late-onset congenital adrenal hyperplasia).
+
+## Secondary adrenal insufficiency
+The commonest cause is iatrogenic, due to long-term steroid therapy leading to suppression of the pituitary-adrenal axis. This only becomes apparent on withdrawal of the steroids. Other causes are rare and include hypothalamic-pituitary disease leading to ↓ACTH production. Mineralocorticoid production remains intact, and there is no hyperpigmentation as ↓ACTH.
+
+## Symptoms
+Often diagnosed late: lean, tanned, tired, tearful ± weakness, anorexia, dizzy, faints, flu-like myalgias/arthralgias. Mood: depression, psychosis. GI: nausea/vomiting, abdominal pain, diarrhoea/constipation. Think of Addison's in all with unexplained abdominal pain or vomiting. Pigmented palmar creases & buccal mucosa (↑ACTH; cross-reacts with melanin receptors). Postural hypotension. Vitiligo. ►Signs of critical deterioration (p836): Shock (↓BP, tachycardia), T°↓, coma.
+
+## Tests
+↓Na+ & ↑K+ (due to ↓mineralocorticoid), ↓glucose (due to ↓cortisol). Also: uraemia, ↑Ca2+, eosinophilia, anaemia. Δ: Short ACTH stimulation test (Synacthen® test): Do plasma cortisol before and ½h after tetracosactide (Synacthen®) 250mcg IM. Addison's is excluded if 30min cortisol >550nmol/L. Steroid drugs may interfere with assays: ask lab. NB: in pregnancy and contraceptive pill, cortisol levels may be reassuring but falsely ↑, due to ↑cortisol-binding globulin. Also: •ACTH: In Addison's, 9AM ACTH is ↑ (>300ng/L: inappropriately high). It is low in secondary causes •21-Hydroxylase adrenal autoantibodies: +ve in autoimmune disease in >80% •Plasma renin & aldosterone: to assess mineralocortocoid status. AXR/CXR: Any past TB, eg upper zone fibrosis or adrenal calcification? If no autoantibodies, consider further tests (eg adrenal CT) for TB, histoplasma, or metastatic disease.
+
+## Treatment
+►See p836 for Addisonian crisis (shocked). Replace steroids: ~15-25mg hydrocortisone daily, in 2-3 doses, eg 10mg on waking, 5mg lunchtime. Avoid giving late (may cause insomnia). Mineralocorticoids to correct postural hypotension, ↓Na+, ↑K+: fludrocortisone PO from 50-200mcg daily. Adjust both on clinical grounds. If there is a poor response, suspect an associated autoimmune disease (check thyroid, do coeliac serology: p266).

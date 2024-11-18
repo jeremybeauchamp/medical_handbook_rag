@@ -1,0 +1,38 @@
+# Diverticular disease
+
+A GI diverticulum is an outpouching of the gut wall, usually at sites of entry of perforating arteries. Diverticulosis means that diverticula are present, and diverticular disease implies they are symptomatic. Diverticulitis refers to inflammation of a diverticulum. Diverticula can be acquired or congenital and may occur elsewhere, but the most important are acquired colonic diverticula, to which this page refers.
+
+## Pathology
+Most within sigmoid colon with 95% of complications at this site, but right-sided and massive single diverticula can occur. High intraluminal pressures (due, perhaps, to lack of dietary fibre) force the mucosa to herniate through the muscle layers of the gut at weak points adjacent to penetrating vessels. 30% of Westerners have diverticulosis by age 60. The majority are asymptomatic.
+
+## Diagnosis
+Diverticula are a common incidental finding at colonoscopy (fig 6.11, p249). CT abdomen is best to confirm acute diverticulitis and can identify extent of disease and any complications (eg colovesical fistulae). Colonoscopy risk perforation in acute setting. AXR may identify obstruction or free air (perforation).
+
+## Diverticular disease
+Altered bowel habit ± left-sided colic relieved by defecation; nausea and flatulence. High-fibre diets do not help symptoms; try antispasmodics, eg mebeverine 135mg/8h PO. Surgical resection occasionally resorted to.
+
+## Diverticulitis
+Features above + pyrexia, ↑WCC, ↑CRP/ESR, a tender colon ± localized or generalized peritonism. Mild attacks can be treated at home with bowel rest (fluids only) ± antibiotics. If fluids and pain not tolerated, admit for analgesia, NBM, IV fluids and IV antibiotics. Most attacks settle but complications include abscess formation (necessitating percutaneous CT-guided drainage), or perforation. Beware diverticulitis in immunocompromised patients (eg on steroids) who often have few symptoms and may present late.
+
+## Surgery
+The need for surgery is reflected by the degree of infective complications:
+
+| Stage | Condition | Treatment |
+|-------|-----------|-----------|
+| Stage 1 | Pericolic or mesenteric abscess | Surgery rarely needed |
+| Stage 2 | Walled off or pelvic abscess | May resolve without surgery |
+| Stage 3 | Generalized purulent peritonitis | Surgery required |
+| Stage 4 | Generalized faecal peritonitis | Surgery required |
+
+Indications for elective surgery include stenosis, fistulae, or recurrent bleeding.
+
+## Complications
+- **Perforation**: There is ileus, peritonitis ± shock. Mortality: 40%. Manage as for an acute abdomen. At laparotomy a Hartmann's procedure may be performed (p582). Primary anastomosis is possible in selected patients. Emergency laparoscopic management is an emerging alternative.
+
+- **Haemorrhage** is usually sudden and painless. It is a common cause of big rectal bleeds (p629). Embolization (at angiography) or colonic resection only necessary if ongoing massive bleeding and colonoscopic haemostasis has been unsuccessful.
+
+- **Fistulae**: Enterocolic, colovaginal, or colovesical (pneumaturia ± intractable UTIs). Treatment is surgical, eg colonic resection.
+
+- **Abscesses**, eg with swinging fever, leucocytosis, and localizing signs, eg boggy rectal mass (pelvic abscess—drain rectally). If no localizing signs, remember the aphorism: pus somewhere, pus nowhere = pus under the diaphragm. A subphrenic abscess is a horrible way to die, so do an urgent ultrasound. Antibiotics ± ultrasound/CT-guided drainage may be needed.
+
+- **Post-infective strictures** may form in the sigmoid colon.

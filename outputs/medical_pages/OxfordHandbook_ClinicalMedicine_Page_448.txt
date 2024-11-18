@@ -1,0 +1,31 @@
+# 434 Schistosomiasis and liver disease
+
+## Schistosomiasis (bilharzia)
+
+Schistosomiasis life cycle
+
+Fig 9.44 Schistosomiasis life cycle.
+Reproduced from: Coltart C, CJM Whitty. Schistosomiasis in non-endemic countries. Clin Med 2015;15:67–9.
+www.clinmed.rcpjournal.org/content/15/1/67full.pdf+html. Copyright © 2015 Royal College of Physicians. Reproduced with permission.
+
+Caused by blood-flukes (trematode worms) of the genus Schistosoma (table 9.27). 258 million people in 78 countries required treatment in 2014. The life cycle is shown in fig 9.44. Disease develops after contact with contaminated freshwater (swimming, washing). Symptoms are due to an immune complex response to the migrating parasite (Katayama syndrome), or deposition of parasite eggs in body tissues.
+
+Presentation: ~50% asymptomatic or non-specific symptoms. Clinical syndromes:
+- Larval penetration: pruritic papular rash ('swimmer's itch').
+- Migration of schistosomules: Katayama syndrome 2-8wks after exposure: fever, urticaria, diarrhoea, cough, wheeze, hepatosplenomegaly, eosinophilia.
+- Host response to egg deposition:
+  - Intestinal disease: pain, diarrhoea, blood in stool, (granulomatous) hepatomegaly, splenomegaly. Heavy chronic infection can cause bowel perforation, hyperplasia, polyposis, liver fibrosis, portal hypertension→varices.
+  - Urogenital disease: haematuria, dysuria, ureteric fibrosis→hydronephrosis, CKD, bladder fibrosis/cancer, genital lesions, vaginal bleeding, dyspareunia, vulval nodules, haemospermia, prostatitis.
+  - Lung disease: pulmonary hypertension and cor pulmonale.
+  - CNS disease: rare, acute lower limb paraplegia, transverse ('traveller's') myelitis.
+
+Diagnosis: Ova in urine (S. haematobium) or faeces (all other species) is specific, but sensitivity <50% if light infection. Serology for egg antigen becomes +ve once mature flukes lay eggs ∴ will be -ve in Katayama fever. Bowel/bladder histology. Chronic S. haematobium: bladder calcification on AXR, renal obstruction, hydronephrosis ± thick bladder wall on USS. Treatment: two doses of praziquantel 20mg/kg PO separated by 4h. Steroids for Katayama fever. If eosinophils >3months after treatment look for other helminths (+ve serology can persist for years).
+
+Table 9.27 Parasite species and geographical distribution
+
+| Disease form | Species | Geography |
+|--------------|---------|-----------|
+| Intestinal | S. mansoni | Africa, Middle East, Caribbean, Brazil, Venezuela, Suriname |
+| | S. japonica | China, Indonesia, Philippines |
+| | Other | S. mekongi: Cambodia, Laos; S. guineensis/ intercalatum: rainforests of central Africa |
+| Urogenital | S. haematobium | Africa, Middle East, France |

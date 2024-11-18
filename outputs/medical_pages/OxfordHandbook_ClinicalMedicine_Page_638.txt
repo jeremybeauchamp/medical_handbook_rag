@@ -1,0 +1,32 @@
+# Fundoplication for gastro-oesophageal reflux
+
+Laparoscopic fundoplication is the surgical procedure of choice when symptoms of GORD are refractory to medical therapy and there is severe reflux (confirmed by pH-monitoring)—see p254. Symptoms may be complicated by a hiatus hernia, which is repaired during the procedure.
+
+## Surgery
+The defect in the diaphragm is repaired by tightening the crura. Reflux is prevented by wrapping the gastric fundus around the lower oesophageal sphincter—see fig 13.39. There are various types of procedure, eg Nissen (360° wrap), Toupet (270° posterior wrap), Watson (anterior hemifundoplication). Laparoscopic surgery is at least as effective at controlling reflux as open surgery but with a lower mortality and morbidity. Wound infections and respiratory complications are also more common in open surgery, though the incidence of dysphagia is similar for the two procedures—but see p592.
+
+## Complications
+Dysphagia (if the wrap is too tight), 'gas-bloat syndrome' (inability to belch/vomit), and new-onset diarrhoea.
+
+| Diaphragm | Surgical instrument |
+|-----------|---------------------|
+| Oesophagus | Oesophagus | Oesophagus |
+| Lower oesophageal sphincter | The gastric fundus is wrapped around the lower oesophageal sphincter |
+| Tightened hiatus | Lower oesophageal sphincter |
+| Stomach | Stomach |
+
+Fig 13.39 Laparoscopic Nissen fundoplication.
+
+# Oesophageal rupture
+
+## Causes
+- Iatrogenic, eg endoscopy/biopsy/dilatation (accounts for 85-90% of perforations).
+- Trauma, eg penetrating injury/ingestion of foreign body.
+- Carcinoma
+- Boerhaave syndrome—rupture due to violent vomiting.
+- Corrosive ingestion.
+
+## Clinical features
+Odynophagia, tachypnoea, dyspnoea, fever, shock, surgical emphysema (a crackling sensation felt on palpating the skin over the chest or neck caused by air tracking from the lungs. ∆∆: Pneumothorax).
+
+Iatrogenic perforations are less prone to mediastinitis and sepsis and may be managed conservatively with NG tube, PPI, and antibiotics. Others require resuscitation, PPI, antibiotics, antifungals, and surgery (debridement of mediastinum and placement of T-tube for drainage and formation of a controlled oesophago-cutaneous fistula).

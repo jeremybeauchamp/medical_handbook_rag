@@ -1,0 +1,49 @@
+# 380 Infectious disease: an overview
+
+It is not possible for any ID chapter to be constructed so that it has the right balance throughout the world. Many of our readers come from communities where malaria is the primary differential, and AIDS-related deaths are common. In contrast, it is chest, GU, and ENT infections which predominate in the UK; and AIDS is considered only where there is failure of either the diagnosis or treatment of HIV, which are universally available and free at the point of care. Many of the diseases in this chapter cause multisystem pathology. For these infections, it may be helpful to classify by pathogen (table 9.1). However, infectious agents do not walk in the door and introduce themselves. Detective work may be necessary based on geography; or exposure: to vectors, animals, and contaminated water/food. And so other pages in this chapter have that as their (helpful) premise. When infection is organ specific, you may need to look elsewhere (table 9.2).
+
+## Table 9.1 Infectious disease by pathogen (illustrative, not exhaustive)
+
+| Bacteria | Viruses |
+|----------|---------|
+| **Gram positive** | **RNA viruses** |
+| Staphylococci: | Picornavirus ('tiny RNA'): |
+| • Staph. aureus (coagulase +ve) | • Rhinovirus |
+| • Staph. epidermidis (coagulase -ve) | • Poliovirus |
+| Streptococci: | Calicivirus ('cup'), eg norwalk |
+| • α-haemolytic, eg Strep. pneumoniae | Flavivirus ('yellow'): |
+| • β-haemolytic, eg Strep. pyogenes | • Dengue        • Zika |
+| Enterococci | • Yellow fever |
+| Clostridium species: | Coronavirus ('crown'): URTI |
+| • C. botulinum (botulism) | Rhabdovirus ('rod'), eg rabies |
+| • C. perfringens (gas gangrene) | Filovirus ('thread'), eg Ebola/Marburg |
+| • C. tetani (tetanus) | Paramyxovirus ('near mucus'), eg mumps |
+| • C. difficile (diarrhoea) | |
+| **Gram negative** | **DNA viruses** |
+| Neisseria: | Hepadnavirus ('liver DNA'): hepatitis |
+| • N. meningitidis (meningitis) | Parvovirus ('small'): gastroenteritis |
+| • N. gonorrheae (gonorrhea) | Herpesvirus ('creeping'): |
+| Helicobacter pylori | • HSV |
+| Escherichia coli | • VZV |
+| Shigella species | • CMV |
+| Salmonella species | • EBV |
+| Campylobacter jejuni | **Fungi** |
+| Klebsiella pneumoniae | Candida |
+| Pseudomonas aeruginosa | Pneumocystis jirovecii |
+| Haemophilus influenzae | Cryptococcus |
+| Bordetella pertussis (whooping cough) | **Parasites** |
+| Vibrio cholerae (cholera) | **Protozoa** |
+| Yersinia pestis (plague) | Entamoeba histolytica |
+| **Mycobacteria** | Giardia lamblia |
+| M. tuberculosis | Cryptosporidium species |
+| M. leprae | Toxoplasma gondii |
+| **Intracellular bacteria** | Plasmodium species (malaria) |
+| Chlamydia | Leishmania species (leishmaniasis) |
+| Rickettsia (rickettsial disease) | Trypanosoma species (trypanosomiasis) |
+| Coxiella burnetii | **Nematodes** |
+| **Spirochaetes** | Soil-transmitted helminths |
+| Borrelia burgdorferi (Lyme disease) | Filarial disease |
+| Treponema (syphilis, yaws) | **Trematodes** |
+| Leptospira (Weil's disease) | Schistosoma (schistosomiasis), flukes |
+| | **Cestodes** |
+| | Hydatid disease, tapeworm |

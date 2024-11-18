@@ -1,0 +1,62 @@
+Table 6.5 Tests (other than serology) should be performed after >2 wks off ppi
+
+| | Sensitivity | Specificity |
+|---------------|-------------|-------------|
+| Invasive tests |
+| CLO test | 95% | 95% |
+| Histology | 95% | 95% |
+| Culture | 90% | 100% |
+| Non-invasive |
+| ¹³C breath test* | 95% | 95% |
+| Stool antigen | 95% | 94% |
+| Serology | 92% | 83% |
+
+*The ¹³C breath test is the most accurate non-invasive Helicobacter test.
+
+## Differential diagnosis of dyspepsia
+- Non-ulcer dyspepsia
+- Oesophagitis/GORD
+- Duodenal/gastric ulcer
+- Gastric malignancy
+- Duodenitis
+- Gastritis (p257)
+
+```mermaid
+graph TD
+    A[Dysphagia or >55yrs* and persistent<br>symptoms or ALARM Signs see p252]
+    B[Upper GI endoscopy]
+    C[No further action]
+    D[Stop drugs causing dyspepsia, eg NSAIDs<br>Lifestyle changes p254<br>Over-the-counter antacids, eg magnes-<br>ium trisilicate 10mL/8h PO<br>Review after 4wks]
+    E[PPIs or H2 blockers for 4wks<br>eg omeprazole 20mg/24h PO or<br>ranitidine 150mg/12h PO.]
+    F[No further action]
+    G[Longer-term, low-<br>dose treatment.<br>Consider upper GI<br>endoscopy]
+    H[No further action]
+    I[Test for H. pylori]
+    J[R to eradicate H. pylori†<br>review after 4 wks]
+    K[Urea breath test.<br>H. pylori eradicated?]
+    L[Proceed as for H. pylori -ve<br>dyspepsia above]
+
+    A -->|Yes| B
+    A -->|No| D
+    B --> C
+    D -->|Improvement| C
+    D -->|No improvement| I
+    E -->|Improvement| F
+    E -->|No improvement| G
+    G -->|Improvement| H
+    I -->|-ve| E
+    I -->|+ve| J
+    J -->|No improvement| K
+    J -->|Improvement| H
+    K -->|Yes| L
+    K -->|No†| J
+```
+
+Fig 6.14 See NICE dyspepsia guidelines.⁴
+*Nothing magical happens on the 55th birthday—this is simply an inflection point in population risk data.
+We should not be overly rigid in applying these rules to the patient in front of us—though those who hold the
+purse strings may at time seek to reduce costs by strict enforcement of such guidelines.
+†Don't treat +ve cases of H. pylori more than twice. If still +ve refer for specialist opinion.
+
+Fig 6.15 Endoscopic image of a duodenal ulcer
+©Dr Jon Simmons.

@@ -1,0 +1,23 @@
+# 540 Assessing the locomotor system
+
+This aims to screen for rheumatological conditions primarily affecting mobility (as a consequence of underlying joint disease). It is based on the GALS locomotor screen (Gait, Arms, Legs, Spine).¹
+
+**Essence** 'Look, feel, and move' (active and passive). If a joint *looks normal* to you, *feels normal* to the patient, and has *full range of movement*, it usually is normal. Make sure the patient is comfortable, and obtain their consent before examination. The GALS screening examination should be done in light underwear.
+
+**Spine:** *Observe from behind:* is muscle bulk normal (buttocks, shoulders)? Is the spine straight? Are paraspinal muscles symmetrical? Any swellings/deformities? *Observe from the side:* is cervical and lumbar lordosis normal? Any kyphosis? 'Touch your toes, please': is lumbar spine flexion normal, eg Schober's test?¹ *Observe from in front:* 'Tilt your head' (without moving the shoulders)—tests lateral neck flexion. Palpate for typical fibromyalgia tender points (see p558).
+
+**Arms:** 'Try putting your hands behind your head'—tests functional shoulder movement. 'Arms out straight'—tests elbow extension and forearm supination/pronation. Examine the hands: any deformity (fig 12.2), wasting, or swellings? Squeeze across 2nd–5th metacarpophalangeal joints. Pain may denote joint or tendon synovitis. 'Put your index finger on your thumb'—tests pincer grip. Assess dexterity, eg fastening a button or picking up a coin.
+
+**Legs:** *Observe legs:* normal quadriceps bulk? Any swelling or deformity? *With patient lying supine:* any leg length discrepancy? Internally/externally rotate each hip in flexion. Passively flex knee and hip to the full extent. Is movement limited? Any crepitus? Find any knee effusion using the patella tap test. If there is fluid, consider aspiration and testing for crystals or infection. *With patient standing:* observe feet: any deformity? Are arches high or flat? Any callosities? These may indicate an abnormal gait of some chronicity. Squeeze across metatarsophalangeal joints: see as for arms. Also: although not in the GALS system, palpate the heel and Achilles tendon to identify plantar fasciitis and Achilles tendonitis often associated with seronegative rheumatological conditions. Examine the patient's shoes for signs of uneven wear.
+
+**Gait:** *Observe walking:* is the gait smooth? Good arm swing? Stride length OK? Normal heel strike and toe off? Can they turn quickly?
+
+**Range of joint movement** Is noted in degrees, with anatomical position being the neutral position—eg elbow flexion 0°–150° normally, but with fixed flexion and limited movement, range may be reduced to 30°–90°. A valgus deformity deviates laterally (away from the mid-line, fig 12.3); a varus deformity points towards the mid-line.
+
+Fig 12.2 Swan-neck deformity.
+Reproduced from Watts et al., Oxford Textbook of Rheumatology, 2013, with permission from Oxford University Press.
+
+Fig 12.3 Bilateral hallux valgus.
+Reproduced from British Medical Journal, 'Hallux valgus', R Choa, R Sharp, K R Mahtani, 2010, with permission from BMJ Publishing Group Ltd.
+
+¹ Schober's test: make a mark on the lumbar spine at the level of the posterior iliac spine. Measure out a line from 5cm below to 10cm above the mark. Ask to bend forward as far as they can. If the line does not lengthen by at least 5cm in flexion, there is reduced lumbar flexion, eg in ankylosing spondylitis.

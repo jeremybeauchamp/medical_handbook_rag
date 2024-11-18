@@ -1,0 +1,70 @@
+## Chronic kidney disease (CKD)
+
+**Definition** Abnormal kidney structure or function, present for >3 months, with implications for health.
+
+**Classification** Based on GFR category (table 7.5), the presence of albuminuria as a marker of kidney damage (table 7.6), and the cause of kidney disease (table 7.7). (Problems using formula to grade renal disease by eGFR p669).
+
+### Table 7.5 Classification of CKD by GFR (mL/min/1.73m²)
+
+| Category | GFR   | Notes |
+|----------|-------|-------|
+| G1       | >90   | Only CKD if other evidence of kidney damage: protein/haematuria, pathology on biopsy/imaging, tubule disorder, transplant |
+| G2       | 60-89 | |
+| G3a      | 45-59 | Mild-moderate GFR |
+| G3b      | 30-44 | Moderate-severe GFR |
+| G4       | 15-29 | Severe GFR |
+| G5       | <15   | Kidney failure |
+
+### Table 7.6 Classification of CKD by albuminuria
+
+| Category | Albumin excretion (mg/24h) | Albumin:creatinine ratio (A:CR) (mg/mmol) |
+|----------|-----------------------------|-------------------------------------------|
+| A1       | <30                         | <3                                        |
+| A2       | 30-300                      | 3-30                                      |
+| A3       | >300                        | >30                                       |
+
+### Table 7.7 Classification of CKD based on underlying disease
+
+| Renal pathology    | Examples                                           |
+|--------------------|-----------------------------------------------------|
+|                    | Primary renal disease      | Systemic disease       |
+| Glomerular         | Minimal change, membranous | Diabetes, amyloid      |
+| Tubulointerstitial | UTI, pyelonephritis, stones| Drugs, toxins, sarcoid |
+| Blood flow/vessels | Renal limited vasculitis   | Heart failure, TTP     |
+| Cystic/congenital  | Renal dysplasia            | Alport syndrome, Fabry disease |
+| Transplant         | Recurrence of renal disease| Rejection, calcineurin toxicity |
+
+The most common causes of CKD in the UK are diabetes (24%), glomerulonephritis (13%), and BP/renovascular disease (11%).
+
+**Prognosis** GFR and albuminuria are independently associated with a higher risk of:
+- all-cause mortality
+- cardiovascular mortality
+- progressive kidney disease and kidney failure
+- AKI.
+
+Patients with CKD are much more likely to die of CVD than to need renal replacement therapy. The risk of adverse outcome in CKD can be represented as a 'heat map' according to GFR and albuminuria categories (fig 7.5).
+
+### Fig 7.5 Composite risk of adverse outcome by GFR and albuminuria.
+
+| Composite ranking for relative risks by GFR and albuminuria (KDIGO 2009) | Albuminuria stages, description and range (mg/g) |
+|-------------------------------------------------------------------------|--------------------------------------------------|
+|                                                                         | A1                | A2    | A3                  |
+|                                                                         | Optimal and high-normal | High | Very high and nephrotic |
+|                                                                         | <10 | 10-29 | 30-299 | 300-1999 | ≥2000        |
+| GFR stages, description and range (ml/min per 1.73 m²) | G1 | High and optimal | >105 |
+|                                                        |    |                  | 90-104 |
+|                                                        | G2 | Mild             | 75-89 |
+|                                                        |    |                  | 60-74 |
+|                                                        | G3a| Mild-moderate    | 45-59 |
+|                                                        | G3b| Moderate-severe  | 30-44 |
+|                                                        | G4 | Severe           | 15-29 |
+|                                                        | G5 | Kidney failure   | <15   |
+
+Legend:
+- Green: Low risk
+- Yellow: Moderate risk
+- Orange: High risk
+- Red: Very high risk
+- Red with diagonal lines: Extrapolated data
+
+Reprinted from Kidney International, 80, AS Levey et al., Chronic kidney disease: definition, classification, and prognosis, 17-28, 2011, with permission from Elsevier.

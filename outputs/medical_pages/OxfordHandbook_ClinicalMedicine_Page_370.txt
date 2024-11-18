@@ -1,0 +1,35 @@
+# 356 Acute myeloid leukaemia (AML)
+
+Neoplastic proliferation of blast cells derived from marrow myeloid elements. It progresses rapidly (death in ~2 months if untreated; ~20% 3yr survival after R).
+
+## Incidence
+The commonest acute leukaemia of adults (1/10 000/yr; increases with age). AML can be a long-term complication of chemotherapy, eg for lymphoma. Also associated with myelodysplastic states (see BOX 'Myelodysplastic syndromes'), radiation, and syndromes, eg Down's.
+
+## Morphological classification
+There is much heterogeneity (see BOX 'Heterogeneity in AML'). Four types based on WHO histological classification, cytogenetics, and molecular genetics:
+
+1. AML with recurrent genetic abnormalities.
+2. AML multilineage dysplasia (eg 2° to pre-existing myelodysplastic syndrome).
+3. AML, therapy related (in those previously treated with cytotoxic drugs).
+4. AML, other (not fitting above-listed; further subclassified as M0–M7 by maturation).
+
+## Signs and symptoms
+- **Marrow failure:** Anaemia, infection, or bleeding. DIC occurs in acute promyelocytic leukaemia, a subtype of AML, where there is release of thromboplastin (p352).
+- **Infiltration:** Hepatomegaly, splenomegaly, gum hypertrophy (fig 8.50), skin involvement. CNS involvement at presentation is rare.
+
+## Diagnosis
+WCC is often ↑, but can be normal or even low. Blast cells may be few in the peripheral blood, so diagnosis depends on bone marrow biopsy, immunophenotyping, and molecular methods. On biopsy, AML is differentiated from ALL by Auer rods (figs 8.51-8.53). Cytogenetic analysis (eg type of mutation) guides treatment recommendations and prognosis.
+
+## Complications
+- Predisposition to infection by both the disease and the treatment; may be bacterial, fungal, or viral—prophylaxis is given for each during therapy. Be alert to septicaemia (p352): common organisms present oddly and rare organisms can infect commonly (particularly the fungi Candida and Aspergillus). Be aware that AML itself causes fever.
+- Chemotherapy causes ↑plasma urate levels (from tumour lysis)—so give allopurinol with chemotherapy, and keep well hydrated with IV fluids.
+- Leukostasis (p352) may occur if ↑↑WCC.
+
+## Treatment
+- **Supportive care:** As for ALL. Walking exercises can relieve fatigue.
+- **Chemotherapy:** Very intensive, resulting in long periods of marrow suppression with neutropenia + platelets ↓. The main drugs used include daunorubicin and cytarabine, with ~5 cycles given in 1-week blocks to get a remission (RAS mutations occur in ~20% of patients with AML and enhance sensitivity to cytarabine).
+- **Bone marrow transplant (BMT):** Pluripotent haematopoietic stem cells are collected from the marrow. Allogeneic transplants from HLA-matched donors (held on international databases) are indicated in refractory or relapsing disease. The idea is to destroy leukaemic cells and the immune system by, eg cyclophosphamide + total body irradiation, then repopulate the marrow with donor cells infused IV. Ciclosporin ± methotrexate are used to reduce the effect of the new marrow attacking the patient's body (GVHD).
+  - **Complications:** GVHD (may help explain the curative effect of BMT); opportunistic infections; relapse of leukaemia; infertility.
+  - **Prognosis:** Lower relapse rates ~60% long-term survivors, but significant mortality of ~10%. Autologous BMT (where stem cells are taken from the patient themselves) is used in intermediate prognosis disease, although some studies suggest better survival rates with intensive chemotherapy regimens.
+  - **Autologous mobilized peripheral blood stem cell transplantation** may offer faster haemopoietic recovery and less morbidity.
+- Supportive care, or lower-dose chemotherapy for disease control, may be more appropriate in elderly patients, where intensive therapies have poorer outcomes.

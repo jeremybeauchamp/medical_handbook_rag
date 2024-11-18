@@ -1,0 +1,23 @@
+## MASCC score
+
+The Multinational Association for Supportive Care in Cancer (MASCC) assessment tool can be used to predict the risk of serious complications in febrile neutropaenia, and can inform management decisions: if the total score is ≥21, risk of septic complications is low and admission may be avoided.
+
+| Criteria | Score |
+|----------|-------|
+| Solid tumour or lymphoma with no previous fungal infection | 4 |
+| Outpatient status at onset of fever (not needing admission) | 3 |
+| Age <60yrs | 2 |
+| Burden of illness: | |
+| • Mild (or no) symptoms | 5 |
+| • Moderate symptoms | 3 |
+| • Severe symptoms | 0 |
+| No hypotension (systolic BP >90mmHg) | 5 |
+| No COPD | 4 |
+| No dehydration | 3 |
+
+Note the subjectivity of the 'burden of illness' and the omission of potentially vital variables such as CRP (which, should it fail to fall after starting antibiotics predicts treatment failure). As with all other scores, the MASCC score should therefore be interpreted within the context of the individual clinical picture.
+
+The image shows the sole of a foot with discolored, reddish-purple patches covering a significant portion of the surface. This is described as:
+
+Fig 8.44 The appearance of disseminated intravascular coagulation (DIC) on the sole.
+Courtesy of the Crookston Collection.

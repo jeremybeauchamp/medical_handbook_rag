@@ -1,0 +1,45 @@
+# Renal replacement therapy (RRT): dialysis and filtration
+
+Long-term dialysis is started when it is necessary to manage one or more symptoms of renal failure including:
+- inability to control volume status, including pulmonary oedema
+- inability to control blood pressure
+- serositis
+- acid-base or electrolyte abnormalities
+- pruritus
+- nausea/vomiting/deterioration in nutritional status
+- cognitive impairment.
+
+RRT is a misnomer for dialysis: renal function is not replaced, rather there is provision of just enough clearance to ameliorate the symptoms of kidney failure.
+
+GFR at commencement of dialysis is usually ~5-10. When transplantation is awaited or not possible, there are two main options: haemodialysis and peritoneal dialysis.
+
+## Haemodialysis (HD) (fig 7.6)
+Blood is passed over a semi-permeable membrane against dialysis fluid flowing in the opposite direction. Diffusion of solutes occurs down the concentration gradient. A hydrostatic gradient is used to clear excess fluid as required (ultrafiltration). Access is preferentially via an arteriovenous fistula which provides blood flow and longevity.
+
+| Blood in | Blood | Blood returned |
+|----------|-------|----------------|
+| ↓        | →     | ↑              |
+| Waste removed | Dialysate | Fluid in |
+
+Fig 7.6 Haemodialysis.
+
+This should be created prior to need for RRT to avoid the infection risk associated with central venous dialysis catheters. HD is needed 3 times/week or more. Daily HD increases the 'dose' and improves outcomes. Home HD should be offered to all suitable patients. Problems: Access (arteriovenous fistula: thrombosis, stenosis, steal syndrome; tunnelled venous line: infection, blockage, recirculation of blood), dialysis dysequilibrium (between cerebral and blood solutes leading to cerebral oedema ∴ start HD gradually), hypotension, time consuming.
+
+## Peritoneal dialysis (PD)
+Uses the peritoneum as a semi-permeable membrane. A catheter is inserted into the peritoneal cavity and fluid infused. Solutes diffuse slowly across. Ultrafiltration is achieved by adding osmotic agents (glucose, glucose polymers) to the fluid. It is a continuous process with intermittent drainage and refilling of the peritoneal cavity, performed at home. Problems: Catheter site infection, PD peritonitis, hernia, loss of membrane function over time.
+
+## Haemofiltration (fig 7.7)
+Water cleared by positive pressure, dragging solutes into the waste by convection. The ultrafiltrate (waste) is replaced with an appropriate volume of ('clean') fluid either before (pre-dilution) or after (post-dilution) the membrane. Haemodynamic instability so used in critical care when HD not possible due to ↓BP. Not used for chronic RRT unless in combination with HD (haemodiafiltration) for haemodynamic stability and middle molecule clearance, eg β2-microglobulin.
+
+| Pre-dilution | Blood in | Blood | Blood returned | Post-dilution |
+|--------------|----------|-------|----------------|---------------|
+|              |          |       |                |               |
+|              | Dialysate | Waste out |          |               |
+
+Fig 7.7 Haemofiltration.
+
+## Complications of RRT
+Annual mortality is significant, mostly due to cardiovascular disease: ↑BP, calcium/phosphate dysregulation, vascular stiffness, inflammation, oxidative stress, abnormal endothelial function. Protein-calorie malnutrition: Increases morbidity and mortality. Renal bone disease: High bone turnover, renal osteodystrophy, osteitis fibrosa. Infection: Uraemia causes granulocyte and T-cell dysfunction with ↑sepsis-related mortality. Amyloid: β2-microglobulin accumulates in long-term dialysis causing carpal tunnel syndrome, arthralgia, visceral effects.
+
+## Conservative management
+is for those who opt not to receive RRT due to lack of benefit on quality or quantity of life. Focus is on preserving residual renal function, symptom control, and advanced planning with patient and family for end-of-life care.

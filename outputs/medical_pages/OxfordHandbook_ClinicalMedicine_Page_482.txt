@@ -1,0 +1,36 @@
+# Abnormal involuntary movements (dyskinesia)
+
+These are characterized by impairment of the planning, control, or execution of movement. They can have multiple manifestations:
+
+## Tremor
+Note frequency, amplitude, and exacerbating factors (stress; fatigue).
+- **Rest tremor:** Abolished on voluntary movement. Cause: parkinsonism (p494).
+- **Intention tremor:** Irregular, large-amplitude, worse at the end of purposeful acts, eg finger-pointing or using a remote control. Cause: cerebellar damage (eg MS, stroke).
+- **Postural tremor:** Absent at rest, present on maintained posture (arms outstretched) and may persist (but is not worse) on movement. Causes: benign essential tremor (autosomal dominant; improves with alcohol), thyrotoxicosis, anxiety, β-agonists.
+- **Re-emergent tremor:** Postural tremor developing after a delay of ~10s. Causes: Parkinson's disease (don't mistake for essential tremor).
+
+## Chorea
+Non-rhythmic, jerky, purposeless movements flitting from one place to another—eg facial grimacing, raising the shoulders, flexing/extending the fingers. Causes: Huntington's disease, Sydenham's chorea (rare complication of group A streptococcal infection). Worsened by levodopa.
+
+## Hemiballismus
+Large-amplitude, flinging hemichorea (affects proximal muscles) contralateral to a vascular lesion of the subthalamic nucleus (often elderly diabetics). Recovers spontaneously over months.
+
+## Athetosis
+Slow, sinuous, confluent, purposeless movements (especially digits, hands, face, tongue), often difficult to distinguish from chorea. Causes: Commonest is cerebral palsy (OHCS p214). Most other 'athetoid' patterns may now be better classed as dystonias. Pseudoathetosis: Caused by severe proprioceptive loss.
+
+## Tics
+Brief, repeated, stereotyped movements which patients may suppress for a while. Tics are common in children (and usually resolve). In Tourette's syndrome (p700), motor and vocal tics occur. Consider psychological support, clonazepam or clonidine if tics are severe (haloperidol may help but risks tardive dyskinesia).
+
+## Myoclonus
+Sudden involuntary focal or general jerks arising from cord, brainstem, or cerebral cortex, seen in metabolic problems, neurodegenerative disease (eg lysosomal storage enzyme defects), CJD (p696), and myoclonic epilepsies (infantile spasms). Benign essential myoclonus: Childhood onset with frequent generalized myoclonus, without progression. Often autosomal dominant. It may respond to valproate, clonazepam, or piracetam. Asterixis ('metabolic flap'): Jerking (~1-2 jerks/sec) of outstretched hands, worse with wrists extended, from loss of extensor tone—ie incoordination between flexors and extensors (='negative myoclonus'). Causes: Liver or kidney failure, ↓Na+, ↑CO2, gabapentin, thalamic stroke (consider if unilateral).
+
+## Tardive syndromes
+Delayed onset yet potentially irreversible symptoms occuring after chronic exposure to dopamine antagonists (eg antipsychotics, antiemetics). Classification:
+- **Tardive dyskinesia:** orobuccolingual, truncal, or choreiform movements, eg vacuous chewing and grimacing movements.
+- **Tardive dystonia:** sustained, stereotyped muscle spasms of a twisting or turning character, eg retrocollis and back arching/opisthotonic posturing.
+- **Tardive akathisia:** sense of restlessness or unease ± repetitive, purposeless movements (stereotypies, eg pacing).
+- **Tardive myoclonus.**
+- **Tardive tourettism (p700).**
+- **Tardive tremor.**
+
+Treating tardive dyskinesia: Gradually withdraw neuroleptics and wait 3-6 months. Tetrabenazine may help. Quetiapine, olanzapine, and clozapine are examples of atypical antipsychotics that are less likely to cause tardive syndromes.

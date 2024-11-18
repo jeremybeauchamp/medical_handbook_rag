@@ -1,0 +1,26 @@
+## Gangrene and necrotizing fasciitis
+
+Definitions Gangrene is death of tissue from poor vascular supply and is a sign of critical ischaemia (see p656). Tissues are black and may slough. Dry gangrene is necrosis in the absence of infection. Note a line of demarcation between living and dead tissue.14 ℞: restoration of blood supply ± amputation. Wet gangrene is tissue death and infection (associated with discharge) occurring together (p213, fig 5.10). ℞: analgesia; broad-spectrum IV antibiotics; surgical debridement ± amputation. Gas gangrene is a subset of necrotizing myositis caused by spore-forming clostridial species. There is rapid onset of myonecrosis, muscle swelling, gas production, sepsis, and severe pain. Risk factors include diabetes, trauma, and malignancy. ℞: remove all dead tissue (eg amputation). Give benzylpenicillin ± clindamycin. Hyperbaric O₂ can improve survival and ↓ the number of debridements.
+
+Necrotizing fasciitis is a rapidly progressive infection of the deep fascia causing necrosis of subcutaneous tissue. Prompt recognition (difficult in the early stages) and aggressive treatment is required. ▶In any atypical cellulitis, get early surgical help. There is intense pain over affected skin and underlying muscle. Group A β-haemolytic streptococci is a major cause, although infection is often polymicrobial. Fournier's gangrene is necrotizing fasciitis localized to the scrotum and perineum. ℞: Radical debridement ± amputation; IV antibiotics, eg benzylpenicillin and clindamycin.
+
+## Skin ulcers
+
+Ulcers are abnormal breaks in an epithelial surface. Leg ulcers affect ~2% in developed countries.
+
+Causes May be multiple. For leg ulcers, venous disease accounts for 70%, mixed arterial and venous disease for 15%, and arterial disease alone for 2%. Other contributory factors include neuropathy (eg in DM), lymphoedema, vasculitis, malignancy (p596), infection (eg TB, syphilis), trauma (eg pressure sores: see fig 10.16, p473), pyoderma gangrenosum, drugs (eg nicorandil, hydroxyurea).
+
+History Ask about number, pain, trauma. Explore comorbidities—eg VVS, peripheral arterial disease, diabetes, vasculitis. Length of history? Is the patient taking steroids? Are self-induced ulcers, dermatitis artefacta, a possibility? Has a biopsy been taken?
+
+Examination Note features such as site, number, surface area, depth, edge, base, discharge, lymphadenopathy, sensation, and healing (see BOX). If in the legs, note features of venous insufficiency or arterial disease and, if possible, apply a BP cuff to perform ankle–brachial pressure index (ABPI).
+
+Tests Skin and ulcer biopsy may be necessary—eg to assess for vasculitis (will need immunohistopathology) or malignant change in an established ulcer (Marjolin's ulcer = SCC presenting in chronic wound). If ulceration is the first sign of a suspected systemic disorder then further screening tests will be required.
+
+Management Managing ulcers is often difficult and expensive. Treat the cause(s) and focus on prevention. Optimize nutrition. Are there adverse risk factors (drug addiction, or risk factors for arteriopathy, eg smoking)? Get expert nursing care. Consider referral to specialist community nurse or leg ulcer/tissue viability clinic:
+
+• 'Charing-Cross' 4-layer compression bandaging is better than standard bandages (use only if arterial pulses OK: ABPI (p656) should be >0.8). Honey dressings can improve healing in mild-moderate burns, but as an adjuvant to compression bandaging for leg ulcers they do not significantly improve healing rate. Negative pressure wound therapy (eg VAC®) helps heal diabetic ulcers.
+• Surgery, larval therapy, and hydrogels are used to debride sloughy necrotic tissue (avoid hydrogels in diabetic ulcers due to risk of wet gangrene).
+
+▶Routine use of antibiotics does not improve healing. Only use if there is infection (not colonization).
+
+14 'The first sign of his approaching end was when one of my old aunts, while undressing him, removed a toe with one of his old socks.' Graham Greene, A Sort of Life, 1971, Simon & Schuster.

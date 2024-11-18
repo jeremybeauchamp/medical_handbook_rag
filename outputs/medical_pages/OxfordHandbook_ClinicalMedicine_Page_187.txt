@@ -1,0 +1,39 @@
+# Cystic fibrosis (CF)
+
+One of the commonest life-threatening autosomal recessive conditions (1:2000 live births) affecting Caucasians. 1:25 people carry a copy of the faulty gene. All UK babies are screened at birth. Caused by mutations in the CF transmembrane conductance regulator (CFTR) gene on chromosome 7 (>1500 mutations have been identified). This is a Cl⁻ channel, and the defect leads to a combination of defective chloride secretion and increased sodium absorption across airway epithelium. The changes in the composition of airway surface liquid predispose the lung to chronic pulmonary infections and bronchiectasis. See OHCS ('Paediatrics', p162) for more detail.
+
+## Clinical features
+**Neonate:** Failure to thrive; meconium ileus; rectal prolapse.
+**Children and young adults:** 
+- **Respiratory:** cough; wheeze; recurrent infections; bronchiectasis; pneumothorax; haemoptysis; respiratory failure; cor pulmonale.
+- **Gastrointestinal:** pancreatic insufficiency (diabetes mellitus, steatorrhoea); distal intestinal obstruction syndrome (meconium ileus equivalent); gallstones; cirrhosis.
+- **Other:** male infertility; osteoporosis; arthritis; vasculitis (p556); nasal polyps; sinusitis; and hypertrophic pulmonary osteoarthropathy (HPOA). 
+**Signs:** cyanosis; finger clubbing; bilateral coarse crackles.
+
+## Diagnosis
+**Sweat test:** Sweat sodium and chloride >60mmol/L; chloride usually > sodium. 
+**Genetics:** Screening for known common CF mutations should be considered. 
+**Faecal elastase** is a simple and useful screening test for exocrine pancreatic dysfunction.
+
+## Tests
+**Blood:** FBC, U&E, LFT; clotting; vitamin A, D, E levels; annual glucose tolerance test (p206). 
+**Bacteriology:** Cough swab, sputum culture. 
+**Radiology:** CXR; hyperinflation; bronchiectasis. 
+**Abdominal ultrasound:** Fatty liver; cirrhosis; chronic pancreatitis; 
+**Spirometry:** Obstructive defect. 
+**Aspergillus serology/skin test** (20% develop ABPA, p177). 
+**Biochemistry:** Faecal fat analysis.
+
+## Management
+Management should be multidisciplinary, eg physician, GP, physiotherapist, specialist nurse, and dietician, with attention to psychosocial as well as physical wellbeing. 
+**Chest:** Physiotherapy (postural drainage, airway clearance techniques). Antibiotics are given for acute infective exacerbations and prophylactically. Chronic Pseudomonas infection is an important predictor of survival. Mucolytics may be useful (eg DNase, ie Dornase alfa, 2.5mg daily nebulized, or nebulized hypertonic saline). Bronchodilators. Annual CXR surveillance is recommended. 
+**Gastrointestinal:** Malabsorption, GORD, distal obstruction syndrome. Pancreatic enzyme replacement; fat-soluble vitamin supplements (A, D, E, K); ursodeoxycholic acid for impaired liver function; cirrhosis may require liver transplantation. 
+**Other:** Treatment of CF-related diabetes (screen annually with OGTT from 12yrs); screening/treatment of osteoporosis (DEXA bone scanning); arthritis, sinusitis, and vasculitis; fertility and genetic counselling. 
+**Advanced lung disease:** Oxygen, diuretics (cor pulmonale); non-invasive ventilation; lung or heart/lung transplantation (post-transplant survival 5 years). 
+**Prognosis:** Median survival is now ~41yrs in the UK, although a baby born today would expect to live longer.
+
+## Mutation-specific therapies for cystic fibrosis
+
+Ivacaftor and lumacaftor target the CFTR protein. Ivacaftor, a CFTR potentiator, targets gating defects in disease causing CFTR mutations including G551D. Ivacaftor increases the open probability of CFTR channels and has been shown to improve clinical outcomes (lung function, weight, lung disease stability) in CF patients >6 years old.¹⁹ Lumacaftor is a CFTR corrector, and has been shown to correct F508 del CFTR misprocessing and increase the amount of cell surface–localized protein. Ivacaftor and lumacaftor combination therapy, for patients with F508 del, have shown improved lung function and reduced pulmonary exacerbations.²⁰
+
+Gene therapy (transfer of CFTR gene using liposome or adenovirus vectors): phase 2b studies show modest but significant improvement in FEV₁ in those receiving gene therapy.²¹ Further work into vectors for gene transfer is ongoing.

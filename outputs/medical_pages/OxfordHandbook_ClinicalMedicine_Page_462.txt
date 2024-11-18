@@ -1,0 +1,23 @@
+# Drugs and the nervous system
+
+The brain is a gland that secretes both thoughts and molecules: both products are modulated by neurotransmitter systems. Some target sites for drugs:
+
+1. Precursor of the transmitter (eg levodopa).
+2. Interference with the storage of transmitter in vesicles within the pre-synaptic neuron (eg tetrabenazine).
+3. Binding to the post-synaptic receptor site (eg bromocriptine).
+4. Binding to the receptor-modulating site (eg benzodiazepines).
+5. Interference with the breakdown of neurotransmitter within the synaptic cleft (eg acetylcholinesterase inhibitors; monoamine oxidase inhibitors—MAOIs).
+6. Reduce reuptake of transmitter from synaptic cleft into pre-synaptic cell (eg selective serotonin reuptake inhibitors—SSRIs, eg fluoxetine; or serotonin and noradrenaline reuptake inhibitors—SNRIs, eg mirtazapine).
+7. Binding to pre-synaptic autoreceptors (eg pindolol, a β-blocker with partial 5HT autoreceptor antagonist effects, can be used to augment antidepressant therapy).
+
+Important neurotransmitters (and some associated drugs) are listed in table 10.1.
+
+## Storms on the sea of neurotransmission
+
+The complex and subtle mixture of chemicals that bathes our hundreds of trillions of synapses has been likened to a 'sea' of neurotransmitters. If so, it is surely a seascape of exquisite beauty, no matter how disturbed cognition may become by the storms that whip the waves on the surface. A well-chosen prescription may offer a lifeboat from such storms, but before prescribing any drug that modulates neurotransmission, consider that you are about to release a blunt and poorly understood force into a delicate environment. 
+- The drug (or a metabolite) must be able to pass through the blood-brain barrier to have an effect. 
+- The consequences of any sedative effects may be severe. 
+- There will be short- and long-term SEs (eg tardive dyskinesia with neuroleptic drugs). 
+- Most drugs affect many neurotransmitters, increasing therapeutic scope (and uncertainty) eg risperidone (blocks D₂, 5HT₂, α₁ and α₂ receptors). 
+- Metabolites of drugs may have equal or more important pharmacological effects resulting in clinically important interactions with drugs affecting eg hepatic metabolism. 
+- One neurotransmitter may have many effects, eg dopaminergic neurons go awry in Parkinson's disease, schizophrenia, and addiction to drugs and gambling, by affecting motor control, motivation, effort, reward, analgesia, stress, learning, attention, and cognition.

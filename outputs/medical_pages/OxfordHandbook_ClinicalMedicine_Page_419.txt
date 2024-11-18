@@ -1,0 +1,49 @@
+## Epstein-Barr virus (EBV) (human herpesvirus 4)
+
+Virus targets circulating B lymphocytes (lifelong latent infection) and squamous epithelial cells of oropharynx.
+
+Presentation: Usually asymptomatic infection in childhood. Infectious mononucleosis in ~50% of primary infection in adults: sore throat, fever, anorexia, lymphadenopathy (esp. posterior triangle of neck), palatal petechiae, splenomegaly, hepatomegaly, jaundice. Malaise is prominent. Resolution of symptoms usually within 2 weeks. Chronic active infection and recurrence are rare. Oncogenicity: see BOX 'Oncogenic viruses'.
+
+Diagnosis:
+• Blood film: lymphocytosis. Atypical lymphocytes (large, irregular nuclei) also occur in other viral infection (CMV, HIV, parvovirus, dengue), toxoplasmosis, typhus, leukaemia, lymphoma, drug reactions, lead poisoning.
+• Heterophile antibody tests (eg Monospot®, Paul-Bunnell) detect non-EBV heterophile antibodies which are present in ~85% of infectious mononucleosis sera. False positive: pregnancy, autoimmune disease, lymphoma/leukaemia.
+• Serology: IgM to EBV viral capsid antigen in acute infection. IgG if past infection.
+• Reverse transcriptase viral PCR.
+
+Treatment: Supportive. Seek expert help if severe disease/immunosuppression: observational data on the use of antivirals and steroids.
+
+## Cytomegalovirus (CMV) (human herpesvirus 5)
+
+50-100% of adults are seropositive depending on socioeconomic and sexual risk.
+Latent infection: periodic, asymptomatic (but infectious) viral shedding in bodily fluids including blood transfusion, transplantation (CMV+ve donor to CMV-ve recipient).
+
+Presentation: Asymptomatic in most. Symptoms mimic infectious mononucleosis (see earlier in topic) or hepatitis. Severe disease in immunosuppressed (post-transplantation, HIV): oesophagitis, gastritis, colitis, retinitis (p438), pneumonitis, hepatitis. Infection in pregnancy is associated with congenital abnormality.
+
+Diagnosis: Primary infection in immunocompetent: IgM. Immunosuppressed: quantitative nucleic acid amplification testing (QNAT) in blood greater than a defined threshold, or rising titre. Invasive disease: tissue QNAT, histopathology.
+
+Treatment: Given in severe infection/immunosuppression. Ganciclovir, valganciclovir (oral bioavailability). Foscarnet and cidofovir: nephrotoxicity limit use. Pre-emptive treatment in transplant patients based on QNAT results. Risk/benefit for antivirals/immunoglobulin in pregnancy remains unclear. Use CMV-ve, irradiated blood for transfusion if immunosuppressed and at risk: transplant, HIV, leukaemia.
+
+## Other herpes viruses
+
+Human herpesvirus 6 (HHV6): Roseola infantum, febrile illness without rash.
+Human herpesvirus 8 (HHV8): Oncogenic (see BOX 'Oncogenic viruses'), Castleman's disease.
+
+## Oncogenic viruses
+
+~12% of human cancers are caused by viruses, >80% of these occur in low- and middle-income countries (table 9.12).
+
+Common traits of oncoviruses:
+• Virus is necessary but not sufficient to cause cancer.
+• Cancers appear in context of chronic infection, taking years-decades to appear.
+• Immune system has variable role: cancers are associated with both immunosuppression and chronic inflammation.
+
+Table 9.12 Oncogenic viruses
+
+| Virus | Cancers |
+|-------|---------|
+| EBV (HHV4) | Burkitt's lymphoma, Hodgkin's lymphoma, B-cell lymphoma in immunosuppression, gastric cancer, nasopharyngeal cancer, post-transplantation lymphoproliferative disease (PTLD) |
+| HHV8 | Kaposi's sarcoma (p400) and primary effusion lymphoma |
+| HPV | Cancers of: cervix, anus, vulva, penis, head, neck, oropharynx (p406) |
+| Hepatitis B and C | Hepatocellular carcinoma (p278) |
+| HTLV-1 | Human T-lymphotropic virus→adult T-cell leukaemia |
+| MCV | Merkel cell polyomavirus→Merkel cell carcinoma |

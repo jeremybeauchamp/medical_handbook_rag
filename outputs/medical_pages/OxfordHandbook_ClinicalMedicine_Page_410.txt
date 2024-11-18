@@ -1,0 +1,37 @@
+# Influenza
+
+Influenza is common throughout the world, affecting ~5-10% of adults, and 20-30% of children each year. In most, it is a self-limiting illness. Complications can be life-threatening in the elderly, pregnant women, and those with chronic disease. There are ~4 million cases of severe influenza and ~500 000 deaths worldwide/yr.
+
+## Seasonal influenza
+
+Acute viral infection of lungs and airways. Rapid person-to-person spread by aerosolized droplets and contact. Infectivity from 1d prior, to ~7d after symptoms. Includes three subtypes of virus: A, B, and C. Type A influenza is subdivided according to combinations of virus surface proteins eg A(H1N1), A(H3N2). Seasonal epidemics peak during the winter in temperate countries. Acquired immunity is specific to the virus subtype.
+
+### Presentation: 
+Incubation: 1-4d. Fever, dry cough, sore throat, coryzal symptoms, headache, malaise, myalgia, conjunctivitis, eye pain ± photophobia. Complications include pneumonia, exacerbation of chronic lung disease, croup, otitis media, D&V, myositis, encephalitis, Reye syndrome (encephalopathy + fatty degenerative liver failure).
+
+### Diagnosis: 
+Clinical: acute onset + cough + fever has positive predictive value >79%. Testing limited to outbreaks, and public health surveillance. Includes: viral PCR, rapid antigen testing, viral culture of clinical samples (throat swab, nasal swab, nasopharyngeal washings, sputum).
+
+### Treatment:
+- Uncomplicated influenza symptomatic treatment eg paracetamol. Antivirals only if high risk:
+  - Chronic disease: lung, heart, kidney, liver, CNS, DM
+  - Immunosuppression: immunodeficiency, current or planned or within 6 months of immunosuppressive therapy, CD4 (<200 in adults, <500 if child <5yr)
+  - Pregnancy
+  - >65yr
+  - BMI>40
+  - <6 months old.
+- Complicated influenza includes lower respiratory tract infection, exacerbation of any underlying medical condition, all needing hospital admission. Give antiviral inhibitors of influenza neuraminidase:
+  1. Oseltamivir: PO or NG. Adult dose: 75mg BD. 5d course. 1st line in UK.
+  2. Zanamivir: inhaled (10mg BD, 5d course, confirm technique), nebulized, or IV (respiratory disease affecting nebulizer delivery, ITU). Used if: oseltamivir resistance (eg A(H1N1)), poor clinical response to oseltamivir, concerns re GI absorption of oseltamivir.
+
+Retrospective observational data, and animal studies of oseltamivir and zanamivir show no evidence of harm in pregnancy. Supportive treatment for all. Extracorporeal membrane oxygenation (ECMO) has been used to support gas exchange in severe acute lung injury due to influenza.
+
+### Prevention:
+- Post-exposure prophylaxis: if high risk (see 'Treatment') AND not protected by vaccination: oseltamivir PO OD (inhaled zanamivir OD if oseltamivir resistance) for 10d.
+- Annual vaccination in UK: all high risk (see 'Treatment'), children>2yrs, healthcare workers. See p407.
+
+## Pandemic influenza
+
+Seasonal influenza is subject to antigenic drift: small genetic changes during replication which can be accounted for in the annual vaccine. Antigenic shift is a major change in influenza A resulting in new haemagglutinin (H) and neuraminidase proteins (N) for which there is no pre-existing immunity in the population. Any non-human influenza viruses which transfer to humans are novel. If they also have, or develop, capacity for rapid human-to-human transmission a pandemic results.
+
+Based on previous pandemics, up to 50% of the UK population may become infected leading to 20 000-750 000 excess deaths.

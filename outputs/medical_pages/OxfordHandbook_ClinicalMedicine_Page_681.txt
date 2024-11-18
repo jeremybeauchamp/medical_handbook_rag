@@ -1,0 +1,46 @@
+# Assessing fluid balance
+
+| Underfilled: | Overfilled: |
+|--------------|-------------|
+| • Tachycardia | • JVP (p43) |
+| • Postural drop in BP (low BP is a late sign of hypovolaemia) | • Pitting oedema of the sacrum, ankles, or even legs and abdomen |
+| • ↓capillary refill time | • Tachypnoea |
+| • ↓urine output | • Bibasal crepitations |
+| • Cool peripheries | • Pulmonary oedema on CXR (fig 16.3, p723). |
+| • Dry mucous membranes | See also p134 for signs of heart failure. |
+| • ↓skin turgor | |
+| • Sunken eyes. | |
+
+The JVP is a substitute marker of central venous pressure, and when assessing fluid balance is difficult, a CVP line may help to guide fluid management.
+
+## Special cases
+
+**Acute blood loss:** Resuscitate with colloid or 0.9% saline via large-bore cannulae until blood is available.
+
+**Children:** Use glucose with sodium chloride for fluid maintenance: 100mL/kg for the first 10kg, 50mL/kg for the next 10kg, and 20mL/kg thereafter—all per 24h.
+
+**Elderly:** May be more prone to fluid overload, so use IV fluids with care (smaller fluid bolus).
+
+**GI losses:** (Diarrhoea, vomiting, NG tubes, etc.) Replace lost K+ as well as lost fluid volume.
+
+**Heart failure:** Use IV fluids with care to avoid fluid overload (p134).
+
+**Liver failure:** Patients often have a raised total body sodium, so use salt-poor albumin or blood for resuscitation, and avoid 0.9% saline for maintenance.
+
+**Acute pancreatitis:** Aggressive fluid resuscitation is required due to large amounts of sequestered 'third-space' fluid (p636).
+
+**Poor urine output:** Aim for >1 mL/kg/h; the minimum is >0.5mL/kg/h. Give a fluid challenge, eg 500mL 0.9% saline over 1h (or half this volume in heart failure or the elderly), and recheck the urine output. If not catheterized, exclude retention; if catheterized, ensure the catheter is not blocked!
+
+**Post-operative:** Check the operation notes for intraoperative losses, and ensure you chart and replace added losses from drains, etc.
+
+**Shock:** Resuscitate with colloid or 0.9% saline via large-bore cannulae. Identify the type of shock (p790).
+
+**Transpiration losses:** (Fever, burns.) Beware the large amounts of fluid that can be lost unseen through transpiration. Severe burns in particular may require aggressive fluid resuscitation (p846).
+
+## Potassium in IV fluids
+
+• Potassium ions can be given with 5% glucose or 0.9% saline, usually 20mmol/L or 40mmol/L.
+• K+ may be retained in renal failure, so beware giving too much IV.
+• Gastrointestinal fluids are rich in K+, so increased fluid loss from the gut (eg diarrhoea, vomiting, high-output stoma, intestinal fistula) will need increased K+ replacement.
+
+The maximum concentration of K+ that is safe to infuse via a peripheral line is 40mmol/L, at a maximum rate of 20mmol/h in a cardiac monitored patient. Fluid-restricted patients may require higher concentrations or rates in life-threatening hypokalaemia. Faster rates risk cardiac dysrhythmias and asystole, and higher concentrations thrombophlebitis, depending on the size of the vein, so give concentrated solutions >40mmol/L via a central venous catheter, and use ECG monitoring for rates >10mmol/h. For symptoms and signs of hyper- and hypokalaemia see p674.

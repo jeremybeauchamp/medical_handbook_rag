@@ -1,0 +1,30 @@
+## Hypertension—management
+
+Look for and treat underlying causes (eg renal disease, alcohol: see p138). Drug therapy reduces the risk of CVD and death. Almost any adult over 50 would benefit from antihypertensives, whatever their starting BP. Treatment is especially important if: BP is persistently ≥160/100mmHg or cardiovascular risk (10yr risk of vascular disease ≥20%), or existing vascular disease or target organ damage (eg brain, kidney, heart, retina) with BP >140/90mmHg. Essential hypertension is not 'curable' and long-term treatment is needed.
+
+### Treatment goal 
+<140/90mmHg (<130/80 in diabetes, 150/90 if aged >80). Reduce blood pressure slowly; rapid reduction can be fatal, especially in the context of an acute stroke. These may fall—SPRINT showed a target of 120/80 was beneficial.
+
+### Lifestyle changes 
+Concomitant risk factors: stop smoking; low-fat diet. Reduce alcohol and salt intake; increase exercise; reduce weight if obese.
+
+### Drugs 
+The ALLHAT study suggests that adequate BP reduction is more important than the specific drug used. However, β-blockers seem to be less effective than other drugs at reducing major cardiovascular events, particularly stroke. β-blockers and thiazides may increase the risk of new-onset diabetes, Ca²⁺-channel blockers appear neutral, and ACE-i or ARB may reduce the risk.
+
+**Monotherapy:** If ≥55yrs, and in black patients of any age, 1st choice is a Ca²⁺-channel antagonist or thiazide. If <55, 1st choice is ACE-i (or ARB if ACE-i intolerant, eg cough). β-blockers are not 1st line for hypertension, but consider in younger people, particularly if: intolerance or contraindication to ACE-i/ARB, she is a woman of child-bearing potential, or there is sympathetic drive.
+
+**Combination :** ACE-i + Ca²⁺-channel antagonist or diuretic is logical, and has been commonly used in trials. There is little evidence on using 3 drugs but current recommendation is ACE-i, Ca²⁺-channel antagonist, and thiazide. If BP still uncontrolled on adequate doses of 3 drugs, add a 4th—consider: spironolactone 25-50mg/24h or higher-dose thiazide, but monitor U&E. Alternatively, β-blocker, or selective α-blocker and get help. Check compliance (urinary drug screen, or observed ).
+
+### Drug examples 
+**Thiazides:** Eg chlortalidone 25-50mg/24h PO mané. SE: K⁺, Na⁺, impotence. CI: gout. 
+**Ca²⁺-channel antagonists:** Eg nifedipine MR, 30-60mg/24h PO. SE: flushes, fatigue, gum hyperplasia, ankle oedema; avoid short-acting form. 
+**ACE-i:** Eg lisinopril 10-40mg/24h PO (max 40mg/d). ACE-i may be 1st choice if co-existing LVF, or in diabetics (esp. if microalbuminuria, p314) or proteinuria. SE: cough, K⁺, renal failure, angio-oedema. CI: bilateral renal artery or aortic valve stenosis; p114. 
+**ARB:** Candesartan (8-32mg/d); caution if valve disease or cardiomyopathy; monitor K⁺. SE: vertigo, urticaria, pruritus. Useful if ACE-i induces cough. 
+**β-blockers:** Eg bisoprolol 2.5-5mg/24h PO. SE: bronchospasm, heart failure, cold peripheries, lethargy, impotence. CI: asthma; caution in heart failure. Consider aspirin when BP controlled, if aged >55yrs. Add a statin if cholesterol raised. ▶Most drugs take 4-8wks to gain maximum effect: don't assess efficacy with just one BP measurement.
+
+### Malignant hypertension 
+(fig 3.41) In general, use oral therapy, unless there is encephalopathy or CCF. The aim is for a controlled reduction in BP over days, not hours. Avoid sudden drops in BP as cerebral autoregulation is poor (stroke risk). Bed rest; there is no ideal hypotensive, but atenolol or long-acting Ca²⁺ blockers may be used PO.
+
+**Encephalopathy:** (Headache, focal CNS signs, seizures, coma.) Aim to reduce BP to ~110mmHg diastolic over 4h. Admit to monitored area. Insert intra-arterial line for pressure monitoring. Either IV labetalol (eg 50mg IV over 1min, repeated every 5min, max 200mg) or sodium nitroprusside infusion (0.5mcg/kg/min IVI titrated up to 8mcg/kg/min, eg 50mg in 1L glucose 5%; expect to give 100-200mL/h for a few hours only, to avoid cyanide risk).
+
+▶Never use sublingual nifedipine to reduce BP (rapid drop in BP may cause stroke ).

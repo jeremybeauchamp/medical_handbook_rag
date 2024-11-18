@@ -1,0 +1,214 @@
+| Term | Page Number(s) |
+|------|---------------|
+| Handicap | 475 |
+| Handover | 10 |
+| Hansen's dis | 441 |
+| Hanta virus | 426 |
+| Hartmann's solution | 666 |
+| HAS-BLED | 131 |
+| Hashimoto's thyroiditis | 220 |
+| HbA1C | 207 |
+| HCO3- | 670 |
+| Head injury | 456, 828, 829F |
+| Headache | 64, 456-7 |
+| cluster | 457 |
+| CT | 746 |
+| differential diagnosis | 780 |
+| medication overuse | 456 |
+| post-lumbar puncture | 769 |
+| tension | 456 |
+| Health-care associated infections | 410-11 |
+| Healthy |  |
+| ageing | 16 |
+| eating | 244 |
+| Hearing |  |
+| loss | 464 |
+| testing | 70, 464 |
+| Heart |  |
+| auscultation | 40 |
+| block | 98, 99F, 122 |
+| chest X-ray | 108, 109F, 722 |
+| murmurs | 46-7 |
+| muscle dis | 152-3 |
+| normal conduction | 127F |
+| rate calculation from ECG | 97 |
+| sounds | 44 |
+| Heart failure | 134-7, 801F |
+| acute | 134, 136 |
+| blood transfusion | 348 |
+| chronic | 134, 136 |
+| congestive | 134 |
+| fluids | 667 |
+| high-output | 134 |
+| intractable | 136 |
+| low-output | 134 |
+| New York classification | 135 |
+| with preserved ejection fraction | 134 |
+| Heat exhaustion | 790 |
+| Heaves | 39, 40 |
+| Heavy chain dis | 370 |
+| Heavy metal poisoning | 842 |
+| Heberden's nodes | 77, 544 |
+| Heel-shin test | 69 |
+| Helicobacter pylori | 252, 253 |
+| Heliotrope rash | 552, 562, 563F |
+| Helminths | 433 |
+| Hemianopia | 71 |
+| Hemiballismus | 87, 468 |
+| Henoch-Schönlein purpura | 311, 556, 702, 703F |
+| Heparin | 350 |
+| Hepatic |  |
+| encephalopathy | 275 |
+| flap/asterixis | 62 |
+| Hepatitis |  |
+| A | 278 |
+| alcoholic | 280, 281 |
+| autoimmune | 284, 291 |
+| B | 278, 279, 401 |
+| B vaccine | 287 |
+| C | 278, 279, 401 |
+| D | 278 |
+| drug-induced | 291 |
+| E | 278 |
+
+| Hepatitis... continued | Page Number(s) |
+|------------------------|---------------|
+| ischaemic | 291 |
+| viral | 278-9, 291 |
+| Hepatocellular |  |
+| carcinoma | 286 |
+| dysfunction | 272, 291, 664 |
+| Hepatolenticular degeneration | 285 |
+| Hepatomegaly | 63, 604 |
+| Hepatorenal syn | 275 |
+| Hepcidin | 289 |
+| Herbal remedies | 319 |
+| Hereditary |  |
+| cancers | 521 |
+| coproporphyria | 692 |
+| elliptocytosis | 338, 339F |
+| haemochromatosis | 288-9 |
+| non-polyposis colorectal cancer | 521 |
+| ovalocytosis | 338 |
+| spherocytosis | 338, 339F |
+| stomatocytosis | 338 |
+| telangiectasia | 708, 709F |
+| Hernia | 565 |
+| abdominal | 612, 613F, 614 |
+| epigastric | 612 |
+| femoral | 612 |
+| hiatus | 255 |
+| incisional | 580, 612 |
+| indirect inguinal | 612, 651F |
+| inguinal | 612, 614, 651F |
+| irreducible | 614 |
+| Littre's | 612 |
+| lumbar | 612 |
+| Maydl's | 612 |
+| obturator | 612 |
+| paraoesophageal | 255 |
+| paraumbilical | 612 |
+| Richter's | 612 |
+| rolling | 255 |
+| sciatic | 612 |
+| sliding | 255, 612 |
+| Spigelian | 612 |
+| umbilical | 612 |
+| Herniation syn | 830 |
+| Herpes |  |
+| encephalitis | 404 |
+| genital | 404, 412 |
+| labialis | 404 |
+| simplex virus | 404 |
+| sine herpete | 501 |
+| viruses | 404-5 |
+| whitlow | 404 |
+| zoster | 462 |
+| zoster ophthalmicus | 438 |
+| Heuristics | 4 |
+| Hiatus hernia | 255 |
+| Hickam's dictum | 4 |
+| Hidradenitis suppurativa | 594 |
+| Hierarchy of evidence | 22 |
+| High-output heart failure | 134 |
+| Higher mental function | 86-7 |
+| Hila | 722 |
+| Hillis plot | 379 |
+| Hip movements | 69 |
+| Hippocratic oath | 1 |
+| Hirsutism | 230 |
+| Histamine | 449 |
+| Histiocytosis X | 704 |
+| Histoplasmosis | 408 |
+| History | 26 |
+| breast | 82 |
+| cardiovascular | 36-7 |
+| gastrointestinal | 56-7 |
+
+| History... continued | Page Number(s) |
+|----------------------|---------------|
+| genitourinary | 80-1 |
+| neurological | 64-5 |
+| older person | 16 |
+| pre-operative | 567 |
+| presenting complaint | 26 |
+| respiratory | 48-9 |
+| rheumatology | 539 |
+| HIV | 398-401 |
+| antiretrovirals | 402-3 |
+| differential diagnosis | 401 |
+| eye signs | 560 |
+| heart dis | 149, 401 |
+| neurocognitive disorders | 517 |
+| neurology | 517 |
+| opportunistic dis | 400, 517 |
+| post-exposure prophylaxis | 398 |
+| pre-exposure prophylaxis | 398 |
+| testing | 399 |
+| HLA-B27 | 551 |
+| Hoarseness | 48 |
+| Hodgkin's lymphoma | 360-1 |
+| Holiday heart syn | 126 |
+| Holmes-Adies pupil | 72 |
+| Holt-Oram syn | 149 |
+| Holter monitors | 125 |
+| Holt's law | 26 |
+| Homocystinuria | 706 |
+| Homografts | 148 |
+| Hookworm | 433 |
+| Hormones | 204 |
+| parathyroid | 222, 676 |
+| thyroid-stimulating | 216 |
+| Horner's syn | 50F, 702, 703F |
+| Hospital-acquired pneumonia | 166, 167 |
+| Hot potato voice | 86 |
+| Hounsfield scale | 730, 731F |
+| Howell-Jolly bodies | 328, 329F |
+| 5-HT | 449 |
+| Human |  |
+| albumin solution | 348 |
+| chorionic gonadotrophin | 531 |
+| herpes viruses | 404-5 |
+| immunodeficiency virus, see HIV |  |
+| papilloma virus | 406 |
+| T-cell lymphotrophic virus | 517 |
+| Humours | 323 |
+| Huntington's dis | 702 |
+| Hutchinson |  |
+| pupil | 72 |
+| sign | 438 |
+| Hyaline cast | 295 |
+| Hydatid dis | 435 |
+| Hydration, see Fluids |  |
+| Hydroceles | 650, 651F |
+| 5-hydroxytryptamine | 449 |
+| Hyperaesthesia | 559 |
+| Hyperaldosteronism | 228, 229 |
+| Hyperalphalipoproteinaemia | 691 |
+| Hyperandrogenism | 203 |
+| Hyperbilirubinaemia | 272 |
+| Hypercalcaemia | 98, 528, 529, 676, 677 |
+| Hypercholesterolaemia | 691 |
+| Hypereosinophilic syn | 330 |
+| Hyperglycaemic hyperosmolar state | 834 |
+| Hyperhidrosis | 29 |

@@ -1,0 +1,23 @@
+# Management of an acute STEMI
+
+```mermaid
+graph TD
+    A[Management of an acute STEMI] --> B[Attach ECG monitor and record a 12-lead ECG]
+    B --> C[IV access.<br>Bloods for FBC, U&E, glucose, lipids, troponin (p119, fig 3.22)]
+    C --> D[Brief assessment:]
+    D --> E[Aspirin: 300mg (unless already given by GP/paramedics)<br>Ticagrelor: 180mg (or alternative antiplatelet—see 'Aspirin' in text)]
+    E --> F[Morphine: 5–10mg IV + anti-emetic, eg metoclopramide 10mg IV]
+    F --> G{STEMI on ECG and PCI available within 120min?}
+    G -->|Yes| H[Primary PCI]
+    G -->|No| I[Fibrinolysis]
+    I --> J[Transfer to primary PCI<br>centre for either rescue PCI<br>if fibrinolysis unsuccessful<br>or for angiography]
+    H --> K[For further management see p120]
+    J --> K
+```
+
+## Brief assessment:
+- History of cardiovascular disease; risk factors for IHD
+- Examination: pulse, BP (both arms), JVP, murmurs, signs of CCF, upper limb pulses, scars from previous cardiac surgery, CXR if will not delay
+- Contraindications to PCI or fibrinolysis?
+
+Fig 19.5 Management of an acute STEMI.

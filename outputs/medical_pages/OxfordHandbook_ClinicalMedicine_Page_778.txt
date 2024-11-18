@@ -1,0 +1,25 @@
+# Draining ascites
+
+For patients with refractory or recurrent ascites that is symptomatic, it is possible to drain the ascites using a long pig-tail catheter. Paracentesis in such patients even in the presence of spontaneous bacterial peritonitis may be safe. Learn at the bedside from an expert.
+
+## Contraindications (these are relative, not absolute)
+End-stage cirrhosis; coagulopathy; hyponatraemia (≤126mmol/L); sepsis. The main complication of the procedure is severe hypovolaemia secondary to reaccumulation of the ascites, so intravascular replenishment with a plasma expander is required. For smaller volumes, eg less than 5L, 500mL of 5% human albumin or Gelofusine® would be sufficient. For volumes over 5L, reasonable replacement would be 100mL 20% human albumin IV for each 1-3 litres of ascites drained (check your local policy). You may need to call the haematology lab to request this in advance.
+
+## Procedure
+Requires sterile technique.
+
+- Ensure you have good IV access—eg 18G cannula in the antecubital fossa.
+- Explain the procedure including the risks of infection, bleeding, hyponatraemia, renal impairment, and damage to surrounding structures (such as liver, spleen, and bowel), and obtain consent from the patient. Serious complications occur in less than 1 in 1000 patients. Ask the patient to empty their bladder.
+- Examine the abdomen carefully, evaluating the ascites and checking for organomegaly. Mark where you are going to enter. If in doubt, ask the radiology department to ultrasound the abdomen and mark a spot for drainage. Approach from the left side unless previous local surgery/stoma prevents this—call a senior for support and advice if this is the case.
+- Prepare a tray with 2% chlorhexidine solution, sterile drapes, 1% lidocaine, syringes, needles, sample bottles, and your drain. Clean the abdomen thoroughly and place sterile drapes, ensure you maintain sterile technique throughout. Infiltrate the local anaesthetic.
+- Perform an ascitic tap (see p765) first so that you know you are in the correct place: remove 20mL fluid for MC&S.
+- Away from the patient, carefully thread the catheter over the (large and long) needle using the guide so that the pig-tail has been straightened out. Remove the guide.
+- With the left hand hold the needle ~2.5cm (1 inch) from the tip—this will stop it from advancing too far (and from performing an aortic biopsy). With the right hand, hold the other end.
+- Gently insert the needle perpendicular to the skin at the site of the ascitic tap up to your hold with your left hand—ascites should now drain easily. If necessary, advance the needle and catheter a short distance until good flow is achieved.
+- Advance the catheter over the needle with your left hand, keeping the needle in exactly the same place with your right hand. Do not re-advance the needle because it will go through the curled pig-tail and do not withdraw it because you won't be able to thread in the catheter.
+- When fully inserted, remove the needle, connect the catheter to a drainage bag (keep it below the level of the abdomen), and tape it down securely to the skin.
+- The patient should stay in bed as the ascites drains.
+- Document clearly in the notes the indication for the procedure, that consent was obtained, clotting and U&Es checked pre-procedure, how much lidocaine was required, how much fluid was removed for investigations, and whether there were any complications to the procedure.
+- Replenish intravascular volume with human albumin (see 'Contraindications' earlier in topic).
+- Ask the nursing staff to remove the catheter after 6h or after a pre-determined volume has been drained (up to 20L can come off in 6h) and document this clearly in the medical notes. Drains are removed after 4-6h to prevent infection.
+- Check U&Es after the procedure and re-examine the patient.

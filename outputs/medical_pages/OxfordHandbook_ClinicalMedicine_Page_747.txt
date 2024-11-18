@@ -1,0 +1,11 @@
+Fig 16.16 Triple-phase CT abdomen, cropped to show the pancreas.
+
+| Phase | Description |
+|-------|-------------|
+| Top panel | Unenhanced image |
+| Middle panel | Arterial phase of contrast medium to look for pseudocysts and parenchymal enhancement |
+| Bottom panel | Portal venous phase to look at veins |
+
+The history here was also central abdominal pain with a non-peritonitic abdomen. The CT shows an enlarged pancreatic head with fat stranding around the duodenopancreatic groove ('groove pancreatitis'), and two small areas of fluid attenuation posteriorly, likely to be pseudocysts.
+
+Top panel courtesy of Dr Edmund Godfrey.

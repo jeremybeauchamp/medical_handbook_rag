@@ -1,0 +1,24 @@
+| HOUNSFIELD SCALE (HU) |
+|---------------------------|
+| -1000 | -100 | 0 | 20-70 | >400 | 1000 |
+| air | fat | H₂O | soft tissues | bone | metal |
+
+Fig 16.10 The Hounsfield scale.
+
+Courtesy of Dr T Turmezei.
+
+Fig 16.11 Axial high-resolution CT chest on a lung window algorithm; note solitary lesion in the right lung (in this case, from GPA).
+
+Courtesy of Norwich Radiology Dept.
+
+Fig 16.12 Axial CT of the abdomen after IV contrast (arterial phase). The tortuous splenic artery is enhanced (arrow)—so is the aorta, but not the inferior vena cava (compare to water in the stomach).
+
+Courtesy of Norwich Radiology Dept.
+
+Fig 16.13 Surface rendered 3D CT reconstruction of the pelvis. The posterior aspect of the right acetabulum is fractured. The right femur has been digitally removed for better viewing.
+
+Courtesy of Norwich Radiology Dept.
+
+Fig 16.14 Cerebral perfusion CT showing ischaemia around the Sylvian fissure (arrow).
+
+Courtesy of Dr C Cousens.

@@ -1,0 +1,36 @@
+# 680 Urate and the kidney
+
+## Causes of hyperuricaemia
+High levels of urate in the blood (hyperuricaemia) may result from increased turnover (15%) or reduced excretion of urate (85%). Either may be drug induced.
+
+- **Drugs:** Cytotoxics, thiazides, loop diuretics, pyrazinamide.
+- **Increased cell turnover:** Lymphoma, leukaemia, psoriasis, haemolysis, muscle death (rhabdomyolysis, p319; tumour lysis syndrome, p529).
+- **Reduced excretion:** Primary gout (p548), chronic kidney disease, lead nephropathy, hyperparathyroidism, pre-eclampsia (OHCS p48).
+- **Other:** Hyperuricaemia may be associated with hypertension and hyperlipidaemia. Urate may be raised in disorders of purine synthesis such as the Lesch-Nyhan syndrome (OHCS p648).
+
+## Hyperuricaemia and renal failure
+Severe renal failure from any cause may be associated with hyperuricaemia, and rarely this may give rise to gout. Sometimes the relationship of cause and effect is reversed so that it is the hyperuricaemia that causes the renal failure. This can occur following cytotoxic treatment (tumour lysis syndrome, p529), and in muscle necrosis.
+
+### How urate causes renal failure:
+Urate is poorly soluble in water, so over-excretion can lead to crystal precipitation. Renal failure occurs most commonly because urate precipitates in the renal tubules. This may occur at plasma levels ≥1.19mmol/L. In some instances, ureteric obstruction from urate crystals may occur. This responds to retrograde ureteric catheterization and lavage.
+
+### Prevention of renal failure:
+Before starting chemotherapy, ensure good hydration and initiate allopurinol (xanthine oxidase inhibitor) or rasburicase (recombinant urate oxidase), which prevent a sharp rise in urate following chemotherapy (see p528). There is a remote risk of inducing xanthine nephropathy.
+
+### Treatment of hyperuricaemic acute kidney injury:
+Exclude bilateral ureteric obstruction, then give prompt rehydration ± loop diuretic to wash uric acid crystals out of the renal tubules, and correct electrolyte abnormalities. Once oliguria is established, haemodialysis is required (in preference to peritoneal dialysis). There is no evidence for either preventing (see previous paragraph) or treating hyperuricaemic renal failure.
+
+## Gout
+See p548.
+
+## Urate renal stones
+Urate stones (fig 14.8) comprise 5-10% of all renal stones and are radiolucent.
+
+**Incidence:** ~5-10% in temperate climates (double if confirmed gout), but up to 40% in hot, arid climates. ♂:♀≈4:1. But most urate stone formers have no detectable abnormalities in urate metabolism.
+
+**Risk factors:** Acidic or strongly concentrated urine; ↑urinary excretion of urate; chronic diarrhoea; distal small bowel disease or resection (regional enteritis); ileostomy; obesity; diabetes mellitus; chemotherapy for myeloproliferative disorders; inadequate caloric or fluid intake.
+
+**Treatment:** Hydration to increase urine volume (aim >2L/d). Unlike most other renal calculi, existing uric acid stones can often be dissolved with either systemic or topical alkalinizing agents. Potassium citrate or potassium bicarbonate at a dose titrated to alkalinize the urine to a pH of 6-7 dissolves some urate stones. If hyperuricosuria, consider dietary management ± allopurinol (xanthine oxidase inhibitor).
+
+Fig 14.8 Urate stone.
+©Dr G. Austin

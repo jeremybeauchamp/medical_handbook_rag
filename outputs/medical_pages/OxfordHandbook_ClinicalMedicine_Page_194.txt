@@ -1,0 +1,38 @@
+## Suspected asthma in children
+
+```mermaid
+graph TD
+    A[High probability] --> B[Trial of asthma treatment]
+    C[Intermediate probability] --> D[Consider lung function tests/atopy]
+    E[Low probability] --> F[Consider referral Investigate/treat other cause]
+    D -->|+| B
+    D -->|-| F
+    B --> G[If successful, continue minimum effective dose. If unsuccessful, assess inhaler technique/ compliance]
+    G --> H[If no further improvement, consider onward referral]
+    F --> I[If no response to treatment, consider further investigation or onward referral]
+```
+
+Fig 4.10 BTS/SIGN British guideline on the management of asthma in children.
+Data from Fig 1, p21: https://www.brit-thoracic.org.uk/document-library/clinical-information/asthma/btssign-asthma-guideline-2014/
+
+## Suspected asthma in adults
+
+```mermaid
+graph TD
+    A[Clinical investigation spirometry or peak expiratory flow if spirometry not available]
+    A --> B[High probability]
+    A --> C[Intermediate probability]
+    A --> D[Low probability]
+    B --> E[Trial of asthma treatment]
+    C --> F[FEV1/FVC <0.7]
+    C --> G[FEV1/FVC >0.7]
+    D --> H[Investigate or treat other cause]
+    F --> E
+    G --> I[Consider referral/ treat other cause]
+    E --> J[If successful, continue minimum effective dose. If unsuccessful, assess inhaler technique/ compliance]
+    J --> K[If no further improvement, consider onward referral]
+    I --> L[If no response to treatment, consider further investigation or onward referral]
+```
+
+Fig 4.11 BTS/SIGN British guideline on the management of asthma in adults.
+Data from Fig 2, p25: https://www.brit-thoracic.org.uk/document-library/clinical-information/asthma/btssign-asthma-guideline-2014/

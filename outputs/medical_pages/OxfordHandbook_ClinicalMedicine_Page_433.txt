@@ -1,0 +1,44 @@
+# Non-falciparum malaria
+
+P. vivax, P. ovale, P. malariae, P. knowlesi:
+- If mixed infection with falciparum, treat as falciparum.
+- If severe/complicated non-falciparum disease, treat as severe falciparum.
+- If uncomplicated disease, treat with ACT as uncomplicated falciparum.
+
+Chloroquine can be used for non-falciparum disease. Dosing in adult: 620mg base at 0h, 310mg base at 6-8h, 310mg base on day 2 and 3. But:
+- do not use if P. falciparum cannot be excluded
+- be aware that ACT may work more quickly on both fever and parasite count
+- chloroquine resistance exists in P. vivax (Papua New Guinea, Indonesia).
+
+In addition to other treatment, P. vivax and P. ovale require eradication of liver hypnozoites with primaquine:
+- P. vivax: adult 30mg (0.5mg/kg) daily for 14d.
+- P. ovale: adult 15mg (0.25mg/kg) daily for 14d.
+
+Risk of haemolysis with primaquine in G6PD deficiency so screen prior to use. Seek expert advice for dosing/monitoring patients with G6PD deficiency, and in pregnancy.
+
+## Malaria prevention
+
+Vector control for all people at risk of malaria. Includes:
+- Source reduction by destruction of mosquito breeding sites (ie standing water).
+- Long-lasting insecticidal nets. These should be provided free of charge and with equity of access. Nets last for ~3y, a lifespan of 5y could save ~$3.8bn. Insecticidal resistance is an increasing concern, should dual agents be used?
+- Indoor residual spraying, effective for 3-6 months when >80% of houses included.
+- Sterile male mosquito release. Estimated to initially require 20 males/human to be protected ∴ ~64 billion sterile mosquitoes worldwide.
+- Genetic modification to develop mosquitoes that are not susceptible to malaria (and other) parasites. Requires modification that does not ↓ fertility or will not disperse in vector population. Requires acceptability, infrastructure, and money.
+
+Chemoprophylaxis is the use of antimalarial drugs to prevent clinical disease. In high-transmission areas it is recommended for pregnant women (given at antenatal visits) and infants (given with routine vaccination).
+
+Travellers from the UK to malaria areas should be given:
+1. Bite prevention advice: insect repellents with 20-50% DEET (for all >2 months old including pregnant and breast-feeding). Apply after sunscreen with SPF >30 as DEET may ↓ sunscreen efficacy.
+2. Chemoprophylaxis (table 9.20) according to area of travel. See www.fitfortravel.nhs.uk/destinations.aspx
+
+### Table 9.20 Prophylactic regimen against malaria in adults (refer to BNF)
+
+| Area | Regimen | Notes |
+|------|---------|-------|
+| No drug resistance | Chloroquine 310mg base/week OR proguanil 200mg OD | 1wk before and 4wks after travel. Chloroquine: GI disturbance, headache. CI epilepsy. |
+| Little chloroquine resistance | Chloroquine 310mg base/week PLUS proguanil 200mg OD | Proguanil: diarrhoea, antifolate (care if possibility of pregnancy). |
+| Chloroquine-resistant P. falciparum | Mefloquine 250mg/week OR | 2-3wks prior and 4wks after. Neuropsychiatric SE, dizziness. |
+| | Doxycycline 100mg OD OR | 1-2d prior, 4wks after, SE: hepatic impairment, teratogenic. |
+| | Atovaquone-proguanil combination | 1-2d prior, 1wk after, expert advice with HIV ART. |
+
+Malaria eradication is the permanent reduction of the incidence of malaria meaning that intervention is no longer required. It is dependent upon the social, demographic, and economic status of a country, the available healthcare system, and investment. It requires diagnosis and treatment to achieve parasitologic (as opposed to clinical) cure in order to eliminate asymptomatic transmission.

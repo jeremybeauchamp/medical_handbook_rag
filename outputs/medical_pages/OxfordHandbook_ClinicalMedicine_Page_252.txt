@@ -1,0 +1,37 @@
+# 238 Acromegaly
+
+This is due to ↑secretion of GH (growth hormone) from a pituitary tumour (99%) or hyperplasia, eg via ectopic GH-releasing hormone from a carcinoid tumour. ♂:♀≈1:1. Incidence: UK 3/million/yr. ~5% are associated with MEN-1 (p223). GH stimulates bone and soft tissue growth through ↑secretion of insulin-like growth factor-1 (IGF-1).
+
+## Symptoms
+Acroparaesthesia (akron=extremities); amenorrhoea; ↓libido; headache; ↑sweating; snoring; arthralgia; backache; fig 5.28: 'My rings don't fit, nor my old shoes, and now I've got a wonky bite (malocclusion) and curly hair. I put on lots of weight, all muscle and looked good for a while; now I look so haggard'.
+
+## Signs
+(BOX 'Signs of acromegaly'.) Often predate diagnosis by >4yrs. If acromegaly occurs before bony epiphyses fuse (rare), gigantism occurs.
+
+## Complications
+(May present with CCF or ketoacidosis.)
+- Impaired glucose tolerance (~40%), DM (~15%).
+- Vascular: ↑BP, left ventricular hypertrophy (±dilatation/CCF), cardiomyopathy, arrhythmias. There is ↑risk of ischaemic heart disease and stroke (?due to ↑BP ± insulin resistance and GH-induced increase in fibrinogen and decrease in protein S).
+- Neoplasia: ↑colon cancer risk; colonoscopy may be needed.²¹
+
+## Acromegaly in pregnancy
+(Subfertility is common.) Pregnancy may be normal; signs and chemistry may remit. Monitor glucose.
+
+## Tests
+↑Glucose, ↑Ca²⁺, and ↑PO₄³⁻. GH: Don't rely on random GH as secretion is pulsatile and during peaks acromegalic and normal levels overlap. GH also ↑ in: stress, sleep, puberty, and pregnancy. Normally GH secretion is inhibited by high glucose, and GH hardly detectable. In acromegaly GH release fails to suppress.
+
+- If basal serum GH is >0.4mcg/L (1.2mIU/L) and/or if ↑IGF-I (p232), an oral glucose tolerance test (OGTT) is needed. If the lowest GH value during OGTT is above 1mcg/L (3mIU/L), acromegaly is confirmed. With general use of very sensitive assays, it has been said that this cut-off be decreased to 0.3mcg/L (0.9mIU/L).²⁸
+- Method: Collect samples for GH glucose at: 0, 30, 60, 90, 120, 150min. Possible false +ves: puberty, pregnancy, hepatic and renal disease, anorexia nervosa, and DM.
+- MRI scan of pituitary fossa. • Look for hypopituitarism (p232).
+- Visual fields and acuity. • ECG, echo. Old photos if possible.
+
+## Treatment
+Aim to correct (or prevent) tumour compression by excising the lesion, and to reduce GH and IGF-I levels to at least a 'safe' GH level of <2mcg/L (<6mIU/L). A 3-part strategy: 1 Trans-sphenoidal surgery is often 1st line. 2 If surgery fails to correct GH/IGF-I hypersecretion, try somatostatin analogues (SSA) and/or radiotherapy, SSA being generally preferred. Example: octreotide (Sandostatin LAR®, given monthly IM), or lanreotide (Somatuline LA®). SE: pain at the injection site; gastrointestinal: abdominal cramps, flatulence, loose stools, ↑gallstones; impaired glucose tolerance. 3 The GH antagonist pegvisomant (recombinant GH analogue) is used if resistant or intolerant to SSA. It suppresses IGF-1 to normal in 90%, but GH levels may rise; rarely tumour size increases, so monitor closely. Radiotherapy: If unsuited to surgery or as adjuvant; may take years to work. Follow-up: Yearly GH, IGF-1 ±OGTT; visual fields; vascular assessment. BMI; photos (fig 5.29).
+
+## Prognosis
+May return to normal (any excess mortality is mostly vascular). 16% get diabetes with SSAs vs ~13% after surgery.
+
+Fig 5.28 Acromegaly. Courtesy of Omar Rio.
+My life with acromegaly. (http://odelrio.blogspot.com)
+
+The image shows a series of photographs depicting the progression of facial features in a person with acromegaly over time, from 2004 to 2008, including 2 weeks post-operation.

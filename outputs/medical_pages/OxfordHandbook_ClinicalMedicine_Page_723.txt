@@ -1,0 +1,40 @@
+# Prinzmetal angina and vascular hyperreactivity
+
+Coronary spasm causes Prinzmetal angina and also contributes to coronary heart disease in general, eg acute coronary syndrome (esp. in Japan). Coronary spasm can be induced by ergonovine, acetylcholine, and methacholine (the former is used diagnostically).⁵ These cause vasodilation by endothelium-derived nitric oxide when vascular endothelium is functioning normally, whereas they cause vasoconstriction if the endothelium is damaged. In the light of these facts, patients with coronary spasm are thought to have a disturbance in endothelial function as well as local hyperreactivity of the coronary arteries.
+
+If full anti-anginal therapy does not reduce symptoms, stenting or intracoronary radiation (20Gy brachytherapy) to vasospastic segments may be tried. Prognosis is good (especially if non-smoker, no past MI, and no diabetes; progress to infarction is quite rare);⁶¹ β-blockers and large doses of aspirin are contraindicated.
+
+Prinzmetal angina is associated with vascular hyperreactivity/vasospastic disorders such as Raynaud's phenomenon and migraine. It is also associated with circle of Willis occlusion from intimal thickening (moyamoya disease).
+
+Fig 15.12 Telangiectasia in Osler-Weber-Rendu syndrome.
+
+Reproduced from Cox and Roper, Clinical Skills, 2005, with permission from Oxford University Press.
+
+Fig 15.13 Paget's disease of the breast.
+
+Fig 15.14 Perioral pigmentation, seen in Peutz-Jeghers' syndrome.
+
+Reproduced from Cox and Roper, Clinical Skills, 2005, with permission from Oxford University Press.
+
+Fig 15.15 TB of axis: soft tissue swelling displaces the retropharyngeal air-tissue boundary forwards. There is an anterior defect in the vertebra, below the axis peg.
+
+Courtesy of Dr Ian Maddison, myweb.lsbu.ac.uk.
+
+## Conditions in which Raynaud's phenomenon may be exhibited
+
+| Category | Conditions |
+|----------|------------|
+| Connective tissue disorders | Systemic sclerosis, SLE, rheumatoid arthritis, dermatomyositis/polymyositis. |
+| Occupational | Using vibrating tools. |
+| Obstructive | Thoracic outlet obstruction, Buerger's disease, atheroma. |
+| Blood | Thrombocytosis, cold agglutinin disease, polycythaemia rubra vera (p366), monoclonal gammopathies. |
+| Drugs | β-blockers. |
+| Others | Hypothyroidism. |
+
+Fig 15.16 Raynaud's phenomenon in SLE.
+
+Courtesy of the Crookston Collection.
+
+⁴ Patient information on Raynaud's is available from www.raynauds.org.uk.
+
+⁵ Since Prinzmetal angina is not a 'demand-induced' symptom, but a supply (vasospastic) abnormality, exercise tolerance tests don't help. The most sensitive and specific test is IV ergonovine: 50mcg at 5min intervals in a specialist lab until a +ve result or 400mcg is given. When positive, the symptoms and ST should be present. Nitroglycerin rapidly reverses the effects of ergonovine if refractory spasm occurs.⁶²

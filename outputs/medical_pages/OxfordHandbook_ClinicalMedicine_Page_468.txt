@@ -1,0 +1,63 @@
+# 454 Dermatomes and peripheral nerves
+
+![Diagram of dermatomes and peripheral nerves on human body]
+
+The image shows a diagram of the human body with labeled dermatomes and peripheral nerves. The body is divided into colored sections representing different nerve distributions.
+
+## Nerve distributions:
+
+- **Trigeminal**: 
+  - Ophthalmic division (V1)
+  - Maxillary division (V2)
+  - Mandibular division (V3)
+- Great auricular, C2, C3
+- Cervical plexus, superficial branches
+- **Intercostal nerves T2-T11**:
+  - Lateral cutaneous br.
+  - Anterior cutaneous br.
+- **Brachial plexus**:
+  - Axillary
+  - Intercostobrachial
+  - Medial cutaneous
+  - Musculocutaneous
+  - Radial (Posterior cutaneous, Superficial branch)
+  - Median
+  - Ulnar
+- **Lumbar plexus**:
+  - Ilioinguinal
+  - Genitofemoral
+  - Lateral cutaneous
+  - Femoral (Anterior cutaneous rami, Saphenous)
+- **Sacral plexus**:
+  - Sciatic
+    - Lateral cutaneous nerve of calf
+    - Superficial and deep peroneal
+    - Sural
+    - Medial plantar
+
+The diagram also shows dermatome labels from C3 to S1.
+
+**Fig 10.5** The white areas denote terra incognita: considerable inter-individual variation exists, and no single best option can be given.
+
+**Fig 10.6** Pain in a dermatomal distribution suggests a problem with a cranial nerve or dorsal root ganglion (radiculopathy)—where the cell bodies of sensory fibres live. What is the dermatome? What is the lesion? See p404 for the answer.
+
+## Aim to keep a few key dermatomes up your sleeve (C5-T2)
+
+| Dermatome | Area                           |
+|-----------|--------------------------------|
+| C3-4      | Clavicles                      |
+| C6-7      | Lateral arm/forearm            |
+| T1        | Medial side of arm             |
+| C6        | Thumb                          |
+| C7        | Middle finger                  |
+| C8        | Little finger                  |
+| T4        | Nipples                        |
+| T10       | Umbilicus                      |
+| L1        | Inguinal ligament              |
+| L2-3      | Anterior and inner leg         |
+| L5        | Medial side of big toe         |
+| L5, S1-2  | Posterior and outer leg        |
+| S1        | Lateral margin of foot and little toe |
+| S2-4      | Perineum                       |
+
+Rough approximations!

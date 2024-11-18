@@ -1,0 +1,35 @@
+# Carcinoid tumours
+
+This is a specialized area! A diverse group of tumours of enterochromaffin cell (neural crest) origin, by definition capable of producing 5HT. Common sites: appendix (45%), ileum (30%), or rectum (20%).[^22] They also occur elsewhere in the GI tract, ovary, testis, and bronchi. 80% of tumours >2cm across will metastasize (ie consider all as malignant).
+
+## Symptoms and signs
+Initially few. GI tumours can cause appendicitis, intussusception, or obstruction. Hepatic metastases may cause RUQ pain. Tumours may secrete bradykinin, tachykinin, substance P, VIP, gastrin, insulin, glucagon, ACTH (∴ Cushing's syndrome), parathyroid, and thyroid hormones. 10% are part of MEN-1 syndrome (p223); 10% occur with other neuroendocrine tumours.
+
+## Carcinoid syndrome
+Occurs in ~5% and implies hepatic involvement.
+
+**Symptoms and signs:** Bronchoconstriction; paroxysmal flushing especially in upper body (± migrating weals); diarrhoea; CCF (tricuspid incompetence and pulmonary stenosis from 5HT-induced fibrosis). ► Carcinoid crisis: See BOX 'Carcinoid crisis'.
+
+## Tests
+24h urine 5-hydroxyindoleacetic acid (5HIAA, a 5HT metabolite; levels change with drugs and diet: discuss with lab). CXR + chest/pelvis MRI/CT help locate primary tumours. Plasma chromogranin A (reflects tumour mass); 111Indium octreotide scintigraphy (octreoscan) and positron emission tomography (p739) also have a role. Echocardiography and BNP (p137) can be used to investigate carcinoid heart disease.
+
+## Treatment
+**Carcinoid syndrome:** Octreotide (somatostatin analogue) blocks release of tumour mediators and counters peripheral effects. Long-acting alternative: lanreotide. Loperamide for diarrhoea. 
+
+**Tumour therapy:** Resection is the only cure for carcinoid tumours so it is vital to find the primary site. At surgery, tumours are an intense yellow. Procedures depend on site, eg rectal carcinoid tumours <1cm can be resected endoscopically. Debulking (eg enucleating), embolization, or radiofrequency ablation of hepatic metastases can ↓ symptoms. Give octreotide cover to avoid precipitating a massive carcinoid crisis.
+
+**Median survival** 5-8yrs (~3yrs if metastases are present, but may be up to 20yrs; so beware of giving up too easily, even in metastatic disease).
+
+## Carcinoid crisis
+
+When a tumour outgrows its blood supply or is handled too much during surgery, mediators flood out. There is life-threatening vasodilation, hypotension, tachycardia, bronchoconstriction, and hyperglycaemia. It is treated with high-dose octreotide, supportive measures, and careful management of fluid balance (ie a central line is needed—see p775 for insertion technique).
+
+## Whipple's procedure
+
+| (a) Areas of reflection of different parts | (b) Post-operation |
+|-------------------------------------------|---------------------|
+| Liver, Stomach, Duodenum, Pancreas        | Liver, Stomach, Roux loop, Pancreas |
+
+Fig 6.23 Whipple's procedure may be used for removing masses in the head of the pancreas— typically from pancreatic carcinoma or, rarely, a carcinoid tumour.[^10]
+
+[^22]: Some are never clinically detected: 1 in 300 autopsies have a small bowel carcinoid tumour.

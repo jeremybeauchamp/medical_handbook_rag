@@ -1,0 +1,34 @@
+# Anticoagulants
+
+## Main indications
+- **Therapeutic:** Venous thromboembolic disease: DVT and PE.
+- **Prophylactic:** 
+  - Prevention of DVT/PE in high-risk patients (p375), eg post-op.
+  - Prevention of stroke, eg in chronic AF or prosthetic heart valves.
+
+## Heparin
+### 1 Low-molecular-weight heparin (LMWH): 
+Eg dalteparin, enoxaparin, tinzaparin. The preferred option in the prevention and initial treatment of venous thromboembolism. Inactivates factor Xa (but not thrombin). t½ is 2- to 4-fold longer than standard heparin, and response is more predictable: only needs to be given once or twice daily SC, and laboratory monitoring is usually not required. See BNF for doses. It accumulates in renal failure: decrease dose for prophylaxis, use UFH for therapeutic treatment.
+
+### 2 Unfractionated heparin (UFH): 
+IV or SC. Binds antithrombin (an endogenous inhibitor of coagulation), increasing its ability to inhibit thrombin, factor Xa, and IXa. Rapid onset and has a short t½. Monitor and adjust dose with APTT (p346).
+
+**SE for both:** Bleeding (eg at operative site, gastrointestinal, intracranial), heparin-induced thrombocytopenia (HIT), osteoporosis with long-term use. HIT and osteoporosis are less common with LMWH than UFH. Beware hyperkalaemia.
+
+**CI:** Bleeding disorders, platelets <60×10⁹/L, previous HIT, peptic ulcer, cerebral haemorrhage, severe hypertension, neurosurgery.
+
+## Warfarin
+Used PO OD as long-term anticoagulation. The therapeutic range is narrow, varying with the condition being treated (see BOX 'Warfarin guidelines and target levels for INR')—and effects are reflected in the INR. Warfarin inhibits the reductase enzyme responsible for regenerating the active form of vitamin K, producing a state analogous to vitamin K deficiency. CI: Peptic ulcer, bleeding disorders, severe hypertension, pregnancy (teratogenic, see OHCS p640). Use with caution in elderly and those with past GI bleeds. In the UK, warfarin tablets are 0.5mg (white), 1mg (brown), 3mg (blue), or 5mg (pink). ►Interactions: p757.
+
+## DOACs 
+(Direct oral anticoagulants.) Rivaroxaban, apixaban (factor Xa inhibitors) and dabigatran (a direct thrombin inhibitor) do not require regular monitoring and dose adjustment; just a quarterly assessment and annual blood test. They offer an attractive alternative to warfarin (particularly where monitoring and maintaining a therapeutic INR is difficult). CI: severe renal/liver impairment; active bleeding; lesion at risk of bleeding; clotting factors. Interactions: heparin, clopidogrel.
+
+## Others 
+Fondaparinux is a pentasaccharide Xa inhibitor and is used in acute coronary syndrome or in place of LMWH for prophylaxis.
+
+## Beginning therapeutic anticoagulation 
+(Follow local guidelines, and see BNF.)
+For treatment of venous thromboembolism, LMWH or UFH are typically used initially. When transitioning to warfarin, give heparin in combination (as early as day 1) and continue until INR is in target therapeutic range on 2 consecutive days (see BOX 'Warfarin dosage'). Start warfarin at 5-10mg given at 18.00 on days 1 and 2, then check INR on day 3 (it takes 48-72h for anticoagulant effect to develop). Adjust subsequent doses according to the INR (see table 8.5), which needs to be measured on alternate days until stable, then weekly or less often. When transitioning to a DOAC switch from heparin (ie do not coadminister DOAC and heparin). DOACs and warfarin may both be initiated as monotherapy in chronic AF (DOACs also in less extensive thromboembolism).
+
+## Antidotes 
+If UFH overdose: stop infusion. If there is bleeding, protamine sulphate counteracts UFH: discuss with a haematologist. Warfarin: see BOX 'Warfarin dosage' and table 8.6. DOACs: challenging and evolving area (including monoclonal anti-drug antibodies eg idarucizumab for dabigatran)—discuss with haematologist.

@@ -1,0 +1,25 @@
+| Fig 8.50 Gum hypertrophy in AML | Fig 8.51 Auer rods (crystals of coalesced granules) found in AML myeloblast cells |
+|----------------------------------|-----------------------------------------------------------------------------|
+| Gum hypertrophy   | Auer rods                                                    |
+| Courtesy of Prof. Christine Lawrence. | Courtesy of Prof. Christine Lawrence.                                       |
+
+| Fig 8.52 AML with monoblasts and myeloblasts on the peripheral blood film | Fig 8.53 Marrow in AML: multiple monoblasts |
+|--------------------------------------------------------------------------|---------------------------------------------|
+| AML blood film                                            | AML marrow                   |
+| Courtesy of Prof. Christine Lawrence.                                    | Courtesy of Prof. Christine Lawrence.       |
+
+## Myelodysplastic syndromes (MDS, myelodysplasia)
+
+These are a heterogeneous group of disorders that manifest as marrow failure with risk of life-threatening infection and bleeding (median survival varies from 6 months to 6 years according to disease type). Mostly primary, but can develop secondary to chemotherapy or radiotherapy. 30% transform to acute leukaemia.
+
+Tests: Pancytopenia (p364), with reticulocyte count. Marrow cellularity is usually increased due to ineffective haematopoiesis. Ring sideroblasts may also be seen in the marrow (fig 8.9, p327).
+
+Treatment:
+- Multiple transfusions of red cells or platelets as needed.
+- Erythropoietin ± G-CSF (p352) may lower transfusion requirement.
+- Allogeneic stem cell transplantation is one option (curative but often inappropriate owing to age-related comorbidities—most are >70yrs old).
+- Low-intensity treatments that are not curative but may improve quality of life in symptomatic disease include thalidomide analogues (eg lenalidomide) or hypomethylating agents (eg azacitidine and decitabine).
+
+## Heterogeneity in AML
+
+Consider four types of heterogeneity as we move through medical history: morphologic, immunophenotypic, cytogenetic, and molecular. Genomic technologies enable an ever more detailed molecular analysis of AML and this can be used to inform prognosis and guide risk stratification. Epigenetic and other profiling reveals more and more biomarkers, eg mutations in the genes encoding DNA (cytosine-5)-methyltransferase 3A (DNMT3A).

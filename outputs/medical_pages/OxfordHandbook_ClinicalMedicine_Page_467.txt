@@ -1,0 +1,54 @@
+Table 10.4 Assessment of peripheral nerve function in the upper limb
+
+| Nerve root | Muscle | Test by asking the patient to: |
+|------------|--------|-------------------------------|
+| C3, 4 | Trapezius | Shrug shoulder (via accessory nerve) |
+| C5, 6, 7 | Serratus anterior | Push arm forward against resistance; look for scapula winging (p511) if weak |
+| C5, 6 | Pectoralis major (P major) clavicular head | Adduct arm from above horizontal, and push it forward |
+| C6, 7, 8 | P major sternocostal head | Adduct arm below horizontal |
+| C5, 6 | Supraspinatus | Abduct arm the first 15° |
+| C5, 6 | Infraspinatus | Externally rotate semi-flexed arm, elbow at side |
+| C6, 7, 8 | Latissimus dorsi | Adduct arm from horizontal position |
+| C5, 6 | Biceps | Flex supinated forearm |
+| C5, 6 | Deltoid | Abduct arm between 15° and 90° |
+
+Radial nerve (p502)
+
+| Nerve root | Muscle | Test by asking the patient to: |
+|------------|--------|-------------------------------|
+| C6, 7, 8 | Triceps | Extend elbow against resistance |
+| C5, 6 | Brachioradialis | Flex elbow with forearm half way between pronation and supination |
+| C5, 6 | Extensor carpi radialis longus | Extend wrist to radial side |
+| C6, 7 | Supinator | Arm by side, resist hand pronation |
+| C7, 8 | Extensor digitorum | Keep fingers extended at MCP joint |
+| C7, 8 | Extensor carpi ulnaris | Extend wrist to ulnar side |
+| C7, 8 | Abductor pollicis longus | Abduct thumb at 90° to palm |
+| C7, 8 | Extensor pollicis brevis | Extend thumb at MCP joint |
+| C7, 8 | Extensor pollicis longus | Resist thumb flexion at IP joint |
+
+Median nerve (p502)
+
+| Nerve root | Muscle | Test by asking the patient to: |
+|------------|--------|-------------------------------|
+| C6, 7 | Pronator teres | Keep arm pronated against resistance |
+| C6, 7 | Flexor carpi radialis | Flex wrist towards radial side |
+| C7, 8, T1 | Flexor digitorum superficialis | Resist extension at PIP joint (with proximal phalanx fixed by the examiner) |
+| C7, 8 | Flexor digitorum profundus I & II | Resist extension at index DIP joint of index finger |
+| C7, 8, T1 | Flexor pollicis longus | Resist thumb extension at interphalangeal joint (fix proximal phalanx) |
+| C8, T1 | Abductor pollicis brevis | Abduct thumb (nail at 90° to palm) |
+| C8, T1 | Opponens pollicis | Thumb touches base of 5th fingertip (nail parallel to palm) |
+| C8, T1 | 1st lumbrical/interosseus (median and ulnar nerves) | Extend PIP joint against resistance with MCP joint held hyperextended |
+
+Ulnar nerve (p502)
+
+| Nerve root | Muscle | Test by asking the patient to: |
+|------------|--------|-------------------------------|
+| C7, 8, T1 | Flexor carpi ulnaris | Flex wrist to ulnar side; observe tendon |
+| C7, C8 | Flexor digitorum profundus III & IV | Resist extension of distal phalanx of 5th finger while you fix its middle phalanx |
+| C8, T1 | Dorsal interossei | Finger abduction: cannot cross the middle over the index finger (tests index finger adduction too) |
+| C8, T1 | Palmar interossei | Finger adduction: pull apart a sheet of paper held between middle and ring finger DIP joints of both hands; the paper moves on the weaker side* |
+| C8, T1 | Adductor pollicis | Adduct thumb (nail at 90° to palm) |
+| C8, T1 | Abductor digiti minimi | Abduct little finger |
+| C8, T1 | Flexor digiti minimi | Flex little finger at MCP joint |
+
+*Also, metacarpophalangeal joint flexion may be more on the affected side as flexor tendons are recruited—the basis of Froment's paper sign. Wartenberg's sign is persistent little finger abduction.

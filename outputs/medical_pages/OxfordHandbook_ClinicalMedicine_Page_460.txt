@@ -1,0 +1,50 @@
+# Where is the lesion?
+
+This is an important first question to ask and depends on recognizing characteristic patterns of cognitive, cranial nerve, motor, and sensory deficits. Locating a focal lesion can be aided by features such as asymmetry (eg one pupil dilated, one upgoing plantar response) or a spinal level (effects may be symmetrical below the lesion).
+
+Note that sometimes there is no single lesion, rather, a general insult causing a falsely localizing sign, eg abducens nerve palsy in ↑ICP. Other generalized causes of specific local effects are: trauma, encephalitis, anoxia, poisoning, or post-ictal states.
+
+## Patterns of loss 
+Are crucial in locating the lesion (see BOX 'From findings to neuroanatomy'):
+
+### Upper motor neuron (UMN): 
+Patterns of weakness are caused by damage anywhere along the corticospinal (=pyramidal) tracts: pathways that carry motor information from the precentral gyrus of the frontal cortex up to the synapse with anterior horn cells in the spinal cord (via the internal capsule, brainstem, and cord).¹ 
+- UMN weakness affects groups rather than individual muscles, typically in a 'pyramidal' pattern: in the arm, extensors are predominantly affected; in the leg the opposite is true and the flexors are the weaker muscle group. 
+- Spasticity develops in the stronger muscle groups (arm flexors and leg extensors). It manifests as tone that is velocity-dependent, ie the faster you move the patient's muscle, the greater the resistance, until it finally gives way (like a 'clasp-knife').² 
+- Muscle wasting is less prominent. 
+- There is hyperreflexia: reflexes are brisk. 
+- Plantars are upgoing (+ve Babinski sign) ± clonus (elicited by rapidly dorsiflexing the foot; ≤3 rhythmic, downward beats of the foot are normal). 
+- Loss of skilled fine finger movements may be greater than expected from the overall grade of weakness (see BOX 'Muscle weakness grading'). 
+- UMN lesions can mimic LMN lesions in the first few hours before spasticity and hyperreflexia develop.
+
+### Lower motor neuron (LMN): 
+Lesions are caused by damage anywhere from the anterior horn cells distally, including the nerve roots, plexuses, and peripheral nerves. The pattern of weakness corresponds to the muscles supplied by the involved neurons. 
+- Affected muscles show wasting ± fasciculation (spontaneous involuntary twitching). 
+- There is hypotonia/flaccidity: the limb feels soft and floppy, providing little resistance to passive stretch. 
+- Reflexes are reduced or absent; the plantars remain flexor. 
+- The chief differential for LMN weakness is a primary muscle disease (p510)—but here there is symmetrical loss, reflexes are normal or lost late, and there is no sensory component.
+
+### Mixed LMN and UMN signs: 
+Can occur, eg in MND, B₁₂, taboparesis (see p466).
+
+### Sensory deficits: 
+It is important to test individual modalities and remember the quirks of our normal wiring: correctly interpreted, the distribution of sensory loss and the modality involved (pain, T°, touch, vibration, joint-position sense) will help refine and increase your confidence in localizing the lesion (see BOX 'From findings to neuroanatomy'). Pain and T° sensations travel along small fibres in peripheral nerves and the anterolateral (spinothalamic) tracts in the cord and brainstem (p516), whereas joint-position and vibration sense travel in large fibres in peripheral nerves and the large dorsal columns of the cord.
+
+## Muscle weakness grading (MRC classification)
+
+| Grade | Description |
+|-------|-------------|
+| Grade 0 | No muscle contraction |
+| Grade 1 | Flicker of contraction |
+| Grade 2 | Some active movement |
+| Grade 3 | Active movement against gravity |
+| Grade 4 | Active movement against resistance |
+| Grade 5 | Normal power (allowing for age) |
+
+Grade 4 covers a big range: 4-, 4, and 4+ denote movement against slight, moderate, and stronger resistance; avoid fudging descriptions—'strength 4/5 throughout' suggests a mild quadriparesis or myopathy. It is better to document 'poor effort' and the maximum grade for each muscle tested. Distribution of weakness tells us more than grade of weakness (grade does help document improvement).
+
+----
+
+¹ Most of the fibres of the corticospinal (=pyramidal) tract decussate at the medullary pyramids, hence the name and the contralateral nature of symptoms. Extrapyramidal denotes damage to the basal ganglia and presents as parkinsonism (see p468, 494).
+
+² Whereas with rigidity, tone is not velocity-dependent but constant throughout passive movement.

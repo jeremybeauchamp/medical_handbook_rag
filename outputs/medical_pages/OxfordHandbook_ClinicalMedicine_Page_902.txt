@@ -1,0 +1,205 @@
+888
+Sinus 565
+    bradycardia 98, 122
+    pilonidal 630
+    rhythm 96
+    tachycardia 98, 122, 127, 806
+Sinusitis 456
+Sister Mary Joseph nodule 710, 711F
+Situation syncope 460
+Sjögren's syn 710
+Skin
+    colour 32, 34
+    hand 74, 76
+    hypercorticolism 225F
+    important diagnoses 597
+    lumps 594, 595F
+    lymphoma 362, 363F
+    malignant tumours 596
+    pre-malignant tumours 596
+    systemic dis 562, 563F
+    tags 630
+    TB 393
+    tropical disease 440-1
+    ulcers 660-1
+    warts 406
+Sleep hygiene 29
+Sleeping sickness 423
+Sleeve gastrectomy 626, 627F
+Sliding hernia 255, 612
+Slough 661
+Small bowel
+    gas patterns 728
+    lymphoma 362
+    mucosa 267
+    obstruction 610, 611F
+    surgery 580
+Small cell lung cancer 174, 176
+Small vessel vasculitis 314, 556
+Smell 70
+Smoke inhalation 847
+Smoking
+    cessation 93
+    pack-years 26
+Snake bites 843
+Snow, J. 431
+Social history 26
+SOCRATES questions 26
+Sod's law 21, 365F
+Sodium 668
+Sodium channel blockers 115
+Sodium valproate
+    dose and side-effects 493
+    drug interactions 757
+Soil-transmitted helminths 433
+Solar keratoses 596
+Sontag, S. 23
+Space-occupying lesions 498, 499
+Spasm
+    coronary 709
+    infantile 491
+    oesophagus 250
+Spasmodic torticollis 469
+Spastic
+    gait 467
+    paraparesis 466
+Specificity 20
+Speck, P.W. 535
+SPECT 739
+Speech 64, 86-7
+Spermatocele 651F
+Spherocytes 328
+Spherocytosis 338, 339F
+Sphincter dysfunction 58
+
+Sphygmomanometer 139
+Spider naevi 60F, 277F
+Spigelian hernia 612
+Spinal cord
+    compression 466, 508, 509F, 528, 543
+    localizing lesions 447
+    subacute combined degeneration 334
+Spine
+    cervical injury 447, 828
+    GALS screen 540
+    TB 393, 708, 709F
+Spiritual pain 535
+Spirochete 382
+Spirometry 162, 163F
+Spleen
+    differentiating from enlarged kidney 63
+    palpation 61, 62
+    percussion 61
+Splenectomy 373, 580
+Splenomegaly 63, 373, 604
+Splinter haemorrhages 76, 150, 151F
+Spondyloarthritides 550-1
+Spontaneous
+    bacterial peritonitis 276
+    pneumothorax 54F
+Spotted fevers 422
+Sputum 53, 162
+Squamous cell cancer 596, 597F
+SSRIs 57
+ST depression 98
+ST elevation 98
+ST elevation MI (STEMI) 118, 120, 796, 797F
+ST segment 96
+Stable angina 116
+Staging cancer 523; see also TNM staging
+Standard deviation 751
+Standard error of the mean 751
+Staphylococcal pneumonia 168
+Staphylococci 388
+Staphylococcus aureus 388, 428
+    resistant 388
+Statins 115
+Statistics 20-1, 751
+Status epilepticus 826, 827F
+Steatorrhoea 59
+Steele-Richardson-Olszewski syn 494
+Stem cell transplantation 358
+STEMI 118, 120, 796, 797F
+Stenosis
+    aortic 146
+    carotid artery 472
+    mitral 144
+    pulmonary 148
+    tricuspid 148
+Stent 565
+    endovascular 655F
+    ureteric 641
+Stereotactic radiotherapy 527
+Sternal notch 50F
+Steroids
+    advice and warnings 227, 376
+    side effects 376, 377
+    surgery 590
+Stevens-Johnson syn 493, 562, 710, 711F
+
+Stigler, S. 694
+Stokes-Adams attacks 460
+Stoma 60F, 565, 582-3
+Stomach cancer 619, 622
+Stomatocytosis 338
+Stones
+    renal 638-9, 680
+    silent 634
+    submandibular 598
+Straight leg test 542
+Strangury 80
+Streptococcus
+    agalactiae 388
+    bovis 388
+    milleri 388
+    pneumoniae 388
+    pyogenes 388
+Stress
+    echocardiography 110
+    incontinence 648
+Stridor 48
+Stroke 159, 470-5, 746
+Strongyloides stercoralis 433
+Struvite stones 638, 639F
+Sturge-Weber syn 710
+Subacute
+    combined degeneration of spinal cord 334
+    sclerosing panencephalitis 406
+Subarachnoid haemorrhage 456, 478-9
+Subclavian
+    artery aneurysm 598
+    steal syn 450
+    vein catheterization 775
+Subclinical thyroid dis 221
+Subconjunctival haemorrhage 561
+Subcutaneous
+    lumps 595
+    nodules 142
+Subdural haematoma 482, 483F
+Subfalcian herniation 830
+Submandibular stone 598
+Sudden unexpected death in epilepsy 492
+Sugar worker's lung 198
+Suicide, assisted 507, 537
+Sulfamethoxazole+ trimethoprim 387
+Sulfonylureas 208
+    drug interactions 757
+Superior
+    alternating hemiplegia 714
+    gluteal nerve 452
+    vena cava syn 528
+Supraclavicular lymph nodes 60F
+Suprapubic catheterization 762
+Supraventricular tachycardia 806
+    with aberrancy 128
+Surgery
+    anaesthesia 572-3
+    antibiotic prophylaxis 570
+    anticoagulated patients 590
+    bariatric 626, 627F
+    cancer therapy 525
+    cardiac 148
+    day case 592
+    diabetes 213, 588
+    dialysis 307
+    drains 571

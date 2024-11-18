@@ -1,0 +1,24 @@
+## Early warning score
+
+Early warning scores are scoring systems based on physiological parameters. The magnitude of the given score reflects how far the parameter varies from normal. The collated score from different parameters is used in:
+• the assesssment of acute illness
+• the detection of a clinical deterioration
+• the initiation of a timely and competent clinical response.
+
+A standardized National Early Warning Score (NEWS) is recommended for use across the NHS.¹ The components of the NEWS are detailed in fig A1. An appropriate clinical response to the aggregate score from fig A1 is outlined in fig A2.
+
+| PHYSIOLOGICAL PARAMETERS | 3 | 2 | 1 | 0 | 1 | 2 | 3 |
+|--------------------------|---|---|---|---|---|---|---|
+| Respiration Rate | ≤8 | | 9 - 11 | 12 - 20 | | 21 - 24 | ≥25 |
+| Oxygen Saturations | ≤91 | 92 - 93 | 94 - 95 | ≥96 | | | |
+| Any Supplemental Oxygen | | Yes | | No | | | |
+| Temperature | ≤35.0 | | 35.1 - 36.0 | 36.1 - 38.0 | 38.1 - 39.0 | ≥39.1 | |
+| Systolic BP | ≤90 | 91 - 100 | 101 - 110 | 111 - 219 | | | ≥220 |
+| Heart Rate | ≤40 | | 41 - 50 | 51 - 90 | 91 - 110 | 111 - 130 | ≥131 |
+| Level of Consciousness | | | | A | | | V, P, or U |
+
+The NEWS initiative flowed from the Royal College of Physicians' NEWSDIG, and was jointly developed and funded in collaboration with the Royal College of Physicians, Royal College of Nursing, National Outreach Forum and NHS Training for Innovation.
+
+Fig A1 National Early Warning Score for adult patients. © RCP 2012.
+
+¹ Royal College of Physicians. National Early Warning Scores (NEWS): standardising the assessment of acute illness severity in the NHS. London: RCP, 2012.

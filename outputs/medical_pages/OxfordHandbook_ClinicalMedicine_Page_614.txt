@@ -1,0 +1,39 @@
+# Lumps in the thyroid
+
+If the thyroid (fig 13.21) is enlarged (=goitre), ask yourself: 1 Is the thyroid diffusely enlarged or nodular? 2 Is the patient euthyroid, thyrotoxic (p218), or hypothyroid (p220)?
+
+## Diffuse goitre: 
+Causes: Endemic (iodine deficiency); congenital; secondary to goitrogens (substances that ↓ iodine uptake); acute thyroiditis (de Quervain's); physiological (pregnancy/puberty); autoimmune (Graves' disease; Hashimoto's thyroiditis).
+
+## Nodular goitre: 
+- **Multinodular goitre (MNG)**: The most common goitre in the UK. 50% who present with a single nodule actually have MNG. Patients are usually euthyroid, but may become hyperthyroid ('toxic'). MNG may be retro- or substernal. Hypothyroidism and malignancy within MNG are rare. Plummer's disease is hyperthyroidism with a single toxic nodule (uncommon). 
+- **Fibrotic goitre**: Eg Reidel's thyroiditis. 
+- **Solitary thyroid nodule**: typically cyst, adenoma, discrete nodule in MNG or malignant (~10%).
+
+## Investigations 
+Check TSH and USS (solid, cystic, complex or part of a group of lumps). If abnormal consider: 
+- T₄, autoantibodies (p216, eg if Hashimoto's/Graves', suspected). 
+- CXR with thoracic inlet view (tracheal goitres and metastases?). 
+- Radionuclide scans (fig 13.22) may show malignant lesions as hypofunctioning or 'cold', whereas a hyperfunctioning 'hot' lesion suggests adenoma. 
+- FNA (fine-needle aspiration) and cytology—will characterize lesion. 
+- A FNA finding of a follicular neoplasm can be challenging (15-30% malignant)—discuss with cytopathologist and perform molecular diagnostics where available; if any doubt, refer for surgery.
+
+## What should you do if high-resolution ultrasound shows impalpable nodules?
+Such thyroid nodules can usually be observed provided they are:
+- <1cm across (which accounts for most; ultrasound can detect lumps <2mm; such 'incidentalomas' occur in 46% of routine autopsies) and are asymptomatic.
+- There is no past history of thyroid cancer or neck irradiation.
+- No family history of medullary cancer (if present, do USS-guided FNA).
+
+## Thyroid cancer
+1. **Papillary**: (60%.) Often in younger patients. Spread: lymph nodes and lung (jugulodigastric node metastasis is the so-called lateral aberrant thyroid). ℞: total thyroidectomy to remove non-obvious tumour ±node excision ±radioiodine (¹³¹I) to ablate residual cells. Give levothyroxine to suppress TSH. Prognosis: better if young and ♀.
+
+2. **Follicular**: (≤25%.) Occurs in middle-age and spreads early via blood (bone, lungs). Well-differentiated. ℞: total thyroidectomy + T₄ suppression + radioiodine ablation.
+
+3. **Medullary**: (5%.) Sporadic (80%) or part of MEN syndrome (p223). May produce calcitonin which can be used as a tumour marker. They do not concentrate iodine. ▶Perform a phaeochromocytoma screen pre-op. ℞: thyroidectomy + node clearance. External beam radiotherapy may prevent regional recurrence.
+
+4. **Lymphoma**: (5%.) ♀:♂≈3:1. May present with stridor or dysphagia. Do full staging pre-treatment (chemoradiotherapy). Assess histology for mucosa-associated lymphoid tissue (MALT) origin (associated with a good prognosis).
+
+5. **Anaplastic**: Rare. ♀:♂≈3:1. Elderly, poor response to any treatment. In the absence of unresectable disease, excision + radiotherapy may be tried.
+
+## Thyroid surgery 
+Plays a significant role in the management of thyroid disease. Operations include partial lobectomy or lobectomy (for isolated nodules); and thyroidectomy (for cancers, MNG, or Graves'). Indications: Pressure symptoms, relapse hyperthyroidism after >1 failed course of drug treatment, carcinoma, cosmetic reasons, symptomatic patients planning pregnancy. Pre-operative management: Render euthyroid pre-op with antithyroid drugs (eg carbimazole up to 20mg/12h PO or propylthiouracil 200mg/12h PO but stop 10d prior to surgery as these increase vascularity). Propranolol up to 80mg/8h PO can be used to control tachycardia or tremor associated with hyperthyroidism (continue for 5d post-op). Check vocal cords by indirect laryngoscopy pre- and post-op (risk of recurrent laryngeal nerve injury). Check serum Ca²⁺ (and PTH if abnormal). Complications: see p580.

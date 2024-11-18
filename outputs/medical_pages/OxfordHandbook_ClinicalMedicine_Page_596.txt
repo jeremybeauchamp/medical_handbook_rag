@@ -1,0 +1,35 @@
+# 582 Stoma care
+
+A stoma (Greek=mouth) is an artificial union between a conduit and the outside world—eg a colostomy, in which faeces are made to pass through an opening in the abdominal wall when a loop of colon is brought out onto the skin. NB: a stoma can also be made between two internal conduits (eg a choledochojejunostomy).
+
+## Colostomies 
+(Usually left illiac fossa and flush with the skin—fig 13.8.) May be temporary or permanent. Are they suitable for a laparoscopic operation?
+
+- **Loop colostomy:** A loop of colon is exteriorized and partially divided, forming two stomas that are joined together (the proximal end passes stool, the distal end passes mucus, see fig 13.6). A rod under the loop prevents retraction and may be removed after 7d. A loop colostomy is often temporary and performed to protect a distal anastomosis, eg after anterior resection.
+
+- **End colostomy:** The bowel is divided and the proximal end brought out as a stoma; the distal end may be: 1 resected, eg abdominoperineal (AP) resection (inspect the perineum for absent anus when examining a stoma) 2 closed and left in the abdomen (Hartmann's procedure) 3 exteriorized, forming a 'mucous fistula'.
+
+- **Paul-Mikulicz colostomy:** A double-barrelled colostomy in which the colon is divided completely (eg to excise a section of bowel). Each end is exteriorized as two separate stomas.
+
+**Output:** Colostomies ideally pass 1-2 formed motions/day into an adherent plastic pouch. Some may be managed with irrigation, thus avoiding a pouch.
+
+**Incidence:** 21 000 stomas/yr in UK (>50% are permanent). Most manage their stomas well. The cost for appliances is ~£1500/yr. If there is a skin reaction to the adhesive or pouch, a change of device may be all that is needed. Contact the stoma nurse.
+
+## Ileostomies 
+(Usually right illiac fossa.) Protrude from the skin and emit frequent fluid motions which contain active enzymes (so the skin needs protecting—see fig 13.7). Loop ileostomies can be formed to defunction the colon as a temporary measure eg during control of difficult perianal Crohn's disease. End ileostomy follows total or subtotal colectomy, eg for UC; subsequent formation of ileal pouch-anal anastomosis (pouch of ileum is joined to the upper anal canal) can allow for stoma reversal.
+
+## Alternative (non-stoma forming) surgery 
+**Low/ultralow anterior resection:** All or part of the rectum is excised and the proximal colon anastomosed to the top of the anal canal (the lower the level of anastomosis, the higher the risk of complication).
+
+**Transanal endoscopic microsurgery:** Allows excision of small tumours within the rectum with preservation of sphincter function.
+
+## Urostomies 
+are fashioned after total cystectomy, bringing urine from the ureters to the abdominal wall via an ileal conduit that is usually incontinent. Formation of a catheterizable valvular mechanism may retain continence. Advances in urological surgery have seen an increase in continence-saving procedures such as orthotopic neobladder reconstruction, with good long-term continence rates.
+
+## When choosing a stoma site, avoid:
+- Bony prominences (eg anterior superior iliac spine, costal margins).
+- The umbilicus.
+- Old wounds/scars—there may be adhesions beneath.
+- Skin folds and creases.
+- The waistline.
+- The site should be assessed pre-operatively by the stoma nurse, with the patient both lying and standing.

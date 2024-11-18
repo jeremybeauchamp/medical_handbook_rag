@@ -1,0 +1,40 @@
+# Encephalitis
+
+Suspect encephalitis whenever odd behaviour, ↓consciousness, focal neurology or seizure is preceded by an infectious prodrome (↑T°, rash, lymphadenopathy, cold sores, conjunctivitis, meningeal signs). It is often wise to treat (see below) before the exact cause is known—usually viral, and often never identified. Without the infectious prodrome consider encephalopathy: hypoglycaemia, hepatic encephalopathy, diabetic ketoacidosis, drugs, hypoxic brain injury, uraemia, SLE, Wernicke's (give vit B1 if in doubt p714).
+
+## Signs and symptoms
+- Bizarre encephalopathic behaviour or confusion.
+- ↓GCS or coma.
+- Fever.
+- Headache.
+- Focal neurological signs.
+- Seizures.
+- History of travel or animal bite.
+
+## Causes
+- Viral: HSV-1 & 2, arboviruses, CMV, EBV, VZV (varicella-zoster virus), HIV (seroconversion), measles, mumps, rabies, Japanese B encephalitis, West Nile virus, tick-borne encephalitis.
+- Non-viral: Any bacterial meningitis, TB, malaria, listeria, Lyme disease, legionella, leptospirosis, aspergillosis, cryptococcus, schistosomiasis, typhus.
+
+## Investigations
+- Bloods: Blood cultures; serum for viral PCR (also throat swab and MSU); toxoplasma IgM titre; malaria film.
+- Contrast-enhanced CT: Focal bilateral temporal lobe involvement is suggestive of HSV encephalitis. Meningeal enhancement suggests meningoencephalitis. Do before LP. MRI is alternative if allergic to contrast.
+- LP: Typically moderately ↑CSF protein and lymphocytes, and ↓glucose (p822). Send CSF for viral PCR including HSV.
+- EEG: Urgent EEG showing diffuse abnormalities may help confirm a diagnosis of encephalitis, but does not indicate a cause.
+
+## Management
+Mortality in untreated viral encephalitis is ~70%. Aim to start aciclovir within 30min of the patient arriving (10mg/kg/8h IV over 1h) for 14d as empirical treatment for HSV (21d if immunosuppressed). Specific therapies also exist for CMV and toxoplasmosis (p425).
+- Supportive therapy, in high-dependency unit or ICU environment if necessary.
+- Symptomatic treatment: eg phenytoin for seizures (p826).
+
+# Cerebral abscess
+
+Suspect this in any patient with ↑ICP, especially if there is fever or ↑WCC. It may follow ear, sinus, dental, or periodontal infection; skull fracture; congenital heart disease; endocarditis; bronchiectasis. It may also occur in the absence of systemic signs of inflammation.
+
+## Signs 
+Seizures, fever, localizing signs, or signs of ↑ICP. Coma. Signs of sepsis elsewhere (eg teeth, ears, lungs, endocarditis).
+
+## Investigations 
+CT/MRI p746 (eg 'ring-enhancing' lesion); ↑WCC, ↑ESR; biopsy.
+
+## Treatment 
+Urgent neurosurgical referral; treat ↑ICP (p830). If frontal sinuses or teeth are the source, the likely organism will be Strep. milleri (microaerophilic), or oropharyngeal anaerobes. In ear abscesses, B. fragilis or other anaerobes are most common. Bacterial abscesses are often peripheral; toxoplasma lesions (p425) are deeper (eg basal ganglia). NB: ask yourself: is the patient immunocompromised? Discuss with infectious diseases/microbiology.

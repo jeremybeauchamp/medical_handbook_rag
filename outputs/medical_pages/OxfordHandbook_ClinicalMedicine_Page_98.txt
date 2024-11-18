@@ -1,0 +1,26 @@
+# The thyroid: examination
+
+For symptoms of thyroid disease see p218 & p220. See also lumps in the neck, p598-600.
+
+1. **Inspection** The key questions to ask oneself when presented with a lump in the neck are: Is this lump thyroid related or not? What is the patient's thyroid status? Inspect the neck; the normal thyroid is usually neither visible nor palpable. A midline swelling should raise your suspicion of thyroid pathology. Look for scars (eg collar incision from previous thyroid surgery). Examine the face for signs of hypothyroidism (puffiness, pallor, dry flaky skin, xanthelasma, corneal arcus, balding, loss of lateral third of eyebrow) as well as overall body habitus. Assess the patient's demeanour; do they appear anxious, nervous, agitated, fidgety (hyperthyroid)? Or slow and lethargic (hypothyroid)?
+
+2. **Swallow test** Only goitres (p600), thyroglossal cysts (p598) and in some cases lymph nodes should move up on swallowing.
+
+3. **Tongue protrusion test** A thyroglossal cyst will move up on tongue protrusion.
+
+4. **Palpation** (By this stage of the examination if the evidence is in favour of the lump not rising from the thyroid it is acceptable to examine the lump like any other (p594); assess site, size, shape, smoothness (consistency), surface (contour/edge/colour), and surroundings, as well as transilluminance, fixation/tethering, fluctuance/compressibility, temperature, tenderness and whether it is pulsatile.)
+   If a thyroid mass is suspected, standing behind the patient provides an opportunity to check for any proptosis (hyperthyroidism). Proceed to palpate each lobe, attempting to decide whether any lump is solitary or multiple, nodular or smooth/diffuse as well as site, size, etc. Repeating the swallow test while palpating allows you to confirm the early finding, but also attempt to 'get below the lump'. If there is a distinct inferior border under which you can place your hand with the entire lump above it then the goitre is unlikely to have retrosternal extension. Examining for 'spread' to the lymph nodes is particularly important if you suspect a thyroid malignancy (p600). Complete palpation by assessing if the presence of the lump has caused the trachea to deviate from the midline.
+
+5. **Percussion** A retrosternal goitre will produce a dull percussion note when the sternum is percussed.
+
+6. **Auscultation** A bruit in a smooth thyroid goitre is suggestive of Graves' disease (p218).
+
+The next stages of the exam are to examine the systemic signs of thyroid status.
+
+7. **Hands** Clubbing ('thyroid acropachy') is seen in Graves' disease. Palmar erythema and a fine tremor are also signs of thyrotoxicosis. Assess temperature (warm peripheries if hyperthyroid) and the radial pulse; tachycardia and atrial fibrillation are seen in hyperthyroidism, while bradycardia is seen in hypothyroidism.
+
+8. **Eyes** The 'normal' upper eyelid should always cover the upper eye such that the white sclera is not visible between the lid and the iris. In hyperthyroidism with exophthalmus there is proptosis as well as lid retraction and 'lid lag' may also be detected. If the patient reports double vision when eye movements are being tested this indicates ophthalmoplegia of hyperthyroidism.
+
+9. Asking the patient to stand allows you to assess whether there is any proximal myopathy (hypothyroidism). Look for pretibial myxoedema (brown swelling of the lower leg above the lateral malleoli in Graves' disease). Finally, test the reflexes; these will be slow relaxing in hypothyroidism and brisk in hyperthyroidism.
+
+10. Thank the patient and consider whether the lump is a goitre, and if so whether it is single/multiple, diffuse/nodular, as well as the patient's thyroid status. Decide on a diagnosis (p600).

@@ -1,0 +1,28 @@
+# Gastro-oesophageal reflux disease (GORD)
+
+GORD is common, and caused by reflux of stomach contents (acid ± bile)⁸ causing troublesome symptoms and/or complications. If reflux is prolonged, it may cause oesophagitis (fig 6.16), benign oesophageal stricture, or Barrett's oesophagus (fig 6.17 and p695; it is pre-malignant). 
+
+**Causes** Lower oesophageal sphincter hypotension, hiatus hernia (see BOX), oesophageal dysmotility (eg systemic sclerosis), obesity, gastric acid hypersecretion, delayed gastric emptying, smoking, alcohol, pregnancy, drugs (tricyclics, anticholinergics, nitrates), Helicobacter pylori?⁹
+
+**Symptoms**
+- *Oesophageal:* Heartburn (burning, retrosternal discomfort after meals, lying, stooping, or straining, relieved by antacids); belching; acid brash (acid or bile regurgitation); waterbrash (↑↑salivation: 'My mouth fills with saliva'); odynophagia (painful swallowing, eg from oesophagitis or ulceration). 
+- *Extra-oesophageal:* Nocturnal asthma, chronic cough, laryngitis (hoarseness, throat clearing), sinusitis.
+
+**Complications** Oesophagitis, ulcers, benign stricture, iron-deficiency. *Metaplasia →dysplasia→neoplasia:* GORD may lead to Barrett's oesophagus (p695; distal oesophageal epithelium undergoes metaplasia from squamous to columnar, fig6.17). 0.1–0.4%/yr of those with Barrett's progress to oesophageal cancer (higher if dysplasia is present).
+
+**∆∆** Oesophagitis from corrosives, NSAIDS, herpes, Candida; duodenal or gastric ulcers or cancers; non-ulcer dyspepsia; oesophageal spasm; cardiac disease.
+
+**Tests** Endoscopy if dysphagia, or if ≥55yrs old with alarm symptoms (p252) or with treatment-refractory dyspepsia. 24h oesophageal pH monitoring ± manometry help diagnose GORD when endoscopy is normal.
+
+**Treatment**
+- *Lifestyle:* Weight loss; smoking cessation; small, regular meals; reduce hot drinks, alcohol, citrus fruits, tomatoes, onions, fizzy drinks, spicy foods, caffeine, chocolate; avoid eating <3h before bed. Raise the bed head.
+- *Drugs:* Antacids, eg magnesium trisilicate mixture (10mL/8h), or alginates, eg Gaviscon® (10–20mL/8h PO) relieve symptoms. Add a PPI, eg lansoprazole 30mg/24h PO. For refractory symptoms, add an H₂ blocker and/or try twice-daily PPI. Avoid drugs affecting oesophageal motility (nitrates, anticholinergics, Ca²⁺ channel blockers—relax the lower oesophageal sphincter) or that damage mucosa (NSAIDS, K⁺ salts, bisphosphonates).
+- *Surgery:* (Eg laparoscopic Nissen fundoplication, or novel options including laparoscopic insertion of a magnetic bead band or radiofrequency-induced hypertrophy.) These all aim to ↑resting lower oesophageal sphincter pressure. Consider in severe GORD (confirm by pH-monitoring/manometry) if drugs are not working. Atypical symptoms (cough, laryngitis) are less likely to improve with surgery compared to patients with typical symptoms.
+
+| Fig 6.16 Upper GI endoscopy showing longitudinal mucosal breaks in severe oesophagitis. | Fig 6.17 Barrett's oesophagus. |
+|---|---|
+| [Image of severe oesophagitis] | [Image of Barrett's oesophagus] |
+| ©Dr A Mee. | ©Dr A Mee. |
+
+8 The reflux of duodenal fluid, pancreatic secretions and bile may be as important as acid; it may respond to similar lifestyle measures, sucralfate (2g/12h PO), domperidone, or metoclopramide.
+9 H. pylori association with GORD controversial, but eradication may help symptoms.

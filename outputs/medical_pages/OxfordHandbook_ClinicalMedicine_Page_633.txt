@@ -1,0 +1,23 @@
+# Carcinoma of the stomach
+
+Incidence of adenocarcinoma at the gastro-oesophageal junction is increasing in the West, though incidence of distal and gastric body carcinoma has fallen sharply. It remains a tumour notable for its gloomy prognosis and non-specific presentation.
+
+**Incidence** 23/100,000/yr in the UK, but there are unexplained wide geographical variations; it is especially common in Japan, as well as Eastern Europe, China, and South America. ♂:♀≈2:1. Risk factors: Pernicious anaemia, blood group A, H. pylori (p252), atrophic gastritis, adenomatous polyps, lower social class, smoking, diet (high nitrate, high salt, pickling, low vitamin C), nitrosamine exposure.
+
+**Pathology** A range of clinical and histological classifications are in use. Of note, 'early' gastric carcinoma (confined to mucosa and submucosa) carries a better prognosis with endoscopic resection often possible.
+
+**Presentation** Symptoms: Often non-specific. Dyspepsia (p59; age ≥55yrs with treatment-refractory symptoms demands investigation), ↓weight, vomiting, dysphagia, anaemia. Signs suggesting incurable disease: epigastric mass, hepatomegaly; jaundice, ascites (p604); large left supraclavicular (Virchow's) node (=Troisier's sign); acanthosis nigricans (p562). Most patients in the West present with locally advanced (inoperable) or metastatic disease. Spread is local, lymphatic, blood-borne, and transcoelomic, eg to ovaries (Krukenberg tumour).
+
+**Tests** Gastroscopy + multiple ulcer edge biopsies. ►Aim to biopsy all gastric ulcers as even malignant ulcers may appear to heal on drug treatment. Endoscopic ultrasound (EUS) can evaluate depth of invasion; CT/MRI helps staging. Staging laparoscopy is recommended for locally advanced tumours. Cytology of peritoneal washings can help identify peritoneal metastases.
+
+**Treatment** See p622 for a description of surgical resections. Early gastric cancers may be resectable endoscopically (endoscopic mucosal resection). Partial gastrectomy may suffice for more advanced distal tumours. If proximal, total gastrectomy may be needed. Combination chemotherapy (eg epirubicin, cisplatin and fluorouracil) appears to increase survival in advanced disease. If given perioperatively in operable disease it improves survival compared to surgery alone. Surgical palliation is often needed for obstruction, pain, or haemorrhage. In locally advanced and metastatic disease, chemotherapy increases quality of life and survival. Targeted therapies are likely to have an increasing role, eg trastuzumab for HER-2-positive tumours.
+
+**5yr survival** <10% overall, but nearly 20% for patients undergoing radical surgery. The prognosis is much better for 'early' gastric carcinoma.
+
+## Bile duct and gallbladder cancers
+
+All are rare, have an overall poor prognosis, and are difficult to diagnose. They account for ~3% of all GI cancers worldwide, but there is geographical variation (↑ in north-east Thailand, Japan, Korea, and Eastern Europe). Most are adenocarcinomas. Primary sclerosing cholangitis (p282) is the commonest predisposing factor in the West. Presentation: Varies according to location and may include obstructive jaundice, pruritus, abdominal pain, weight loss, and anorexia. Investigations: US, CT, and ERCP. MRI has a role for determining extent of invasion in bile duct cancers.
+
+Treatment:
+• Bile duct cancer: surgical resection is the only potentially curative treatment yet ~80% present with inoperable disease. Palliation includes biliary stenting and chemotherapy.
+• Gallbladder cancer: again, radical surgery is the only chance of cure. Patients with a calcified ('porcelain') gallbladder have an increased risk of cancer—prophylactic surgery should be considered. Palliative treatment of inoperable disease includes biliary stenting and chemotherapy.

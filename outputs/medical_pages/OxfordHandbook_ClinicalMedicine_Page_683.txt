@@ -1,0 +1,28 @@
+# Estimating GFR
+
+Calculating GFR is useful because it is a more sensitive indication of the degree of renal impairment than serum creatinine. Subjects with low muscle mass (eg the elderly, women) can have a 'normal' serum creatinine, despite a significant reduction in GFR. This can be important when prescribing nephrotoxic drugs, or drugs that are renally excreted, which may therefore accumulate to toxic levels in the serum.
+
+A number of methods for estimating GFR exist, all relying on a calculation of the clearance of a substance that is renally filtered and then not reabsorbed in the renal tubule. For example, the rate of clearance of creatinine can be used as a marker for the rate of filtration of fluid and solutes in the glomerulus because it is only slightly reabsorbed from the renal tubule. The more of the filtered substance that is reabsorbed, however, the less accurate the estimate of GFR.
+
+## MDRD (Modification of Diet in Renal Disease Study Group)
+This provides an estimate of GFR from four simple parameters: serum creatinine, age, gender, and race (black/non-black). It is one of the best validated for monitoring patients with established moderately severe renal impairment, and most labs now routinely report estimated GFR (eGFR) using the MDRD equation on all U&E reports:
+
+eGFR = 32788 × serum creatinine⁻¹·¹⁵⁴ × age⁻⁰·²⁰³ × [1.212 if black] × [0.742 if female]
+
+However, a number of caveats exist, so that it is best used in monitoring declining renal function rather than labelling elderly patients with mild renal impairment:
+
+- It is not validated for mild renal impairment, and therefore its use for screening general populations is questionable.
+- Inter-individual variations (and thus confidence intervals) are wide, although for each individual variations are small so that a decline in eGFR over a number of serum samples is always significant.
+- Single results may be affected by variations in serum creatinine, such as after a protein-rich meal.
+
+## Cockcroft-Gault equation
+This provides an estimate of creatinine clearance. It is an improvement on the MDRD equation because it also takes into account the patient's weight. However, 10% of creatinine is actively excreted in the tubules, and therefore creatinine clearance overestimates true GFR and underestimates renal impairment. Moreover, the equation assumes ideal body weight and is thus unreliable in the obese or oedematous. Also unreliable in unstable renal function.
+
+Creatinine clearance = ((140 - age) × weight (kg) × [0.85 if female] × [1.212 if black]) / (0.813 × serum creatinine (μmol/L))
+
+Creatinine clearance can also be calculated by measuring the excreted creatinine in a 24h urine collection and comparing it with the serum creatinine concentration. However, the accuracy of collection is vital but often poor, making this an unreliable and inconvenient method.
+
+GFR can also be measured by injection of a radioisotope followed by sequential blood sampling (⁵¹Cr-EDTA) or by an isotope scan (eg DTPA ⁹⁹Tc, p190). These methods allow a more accurate estimate of GFR than creatinine clearance, since smaller proportions of these substances are reabsorbed in the tubules. They also have the advantage of being able to provide split renal function.
+
+## Inulin clearance
+The gold standard for calculating GFR, because 100% of filtered inulin (not insulin) is retained in the luminal fluid and therefore reflects exactly the rate of filtration of water and solutes in the glomerulus. However, measuring inulin clearance again requires urine collection over several hours, and also a constant IV infusion of inulin, and is therefore inconvenient to perform.

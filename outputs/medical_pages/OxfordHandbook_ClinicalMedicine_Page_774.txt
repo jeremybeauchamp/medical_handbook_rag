@@ -1,0 +1,52 @@
+# Placing IV cannulae
+
+Much of what we do is not evidence based; however, in more recent years, particularly in intensive care units, the rise of hospital-acquired infections and multidrug-resistant organisms has prompted a review of standard practice and a series of evidence-based interventions put together as a 'care bundle' to reduce hospital-acquired infections. The technique for placing a cannula is best shown at the bedside by an expert, but following these simple rules will significantly reduce the risk of infection from the cannula.
+
+## Preparation is key, remember the following before you start
+
+1. **Equipment**: Set up a tray with cleaning swabs, gauze, cannulae (swallow your pride and take at least three of different sizes, see table 18.1), dressings, 0.9% saline, 10mL syringe, needle-free adaptor (eg octopus with bionector), blood tubes if required, portable sharps bin → needlestick injuries do happen.
+
+2. **Patient**: Have them lying down, explain procedure, obtain verbal consent, place tourniquet around arm, rest the arm below the heart to aid venous filling.
+
+3. **Site**: Look for the best vein—it should be palpable; some of the best veins are not easily visible, some of the most visible collapse on insertion. Tapping gently helps.
+   - Never cannulate: AV fistulae arms, limbs with lymphoedema.
+   - Avoid: Sites crossing a joint (if possible), the cephalic vein in a renal patient.
+
+4. **Consider**: EMLA® cream, cold spray, or 1% lidocaine for children or those with needle phobia. EMLA® takes 45min to work, but can save you hassle later.
+
+## Insertion care bundle
+
+1. Aseptic technique.
+2. Hand hygiene.
+3. Apron + non-sterile gloves.
+4. Skin preparation—2% chorhexidine in 70% isopropyl alcohol (allow to dry for 30 seconds). Do not repalpate vein after cleaning unless wearing sterile gloves.
+5. Dressing—sterile and transparent so that insertion site can be observed.
+
+## After insertion
+
+1. Take blood with syringe or adaptor.
+2. Remove tourniquet.
+3. Attach needle-free device (if appropriate) and flush with 10mL 0.9% saline.
+4. Apply dressing.
+5. Let nursing staff know that cannula is in place and ready for use.
+6. Document insertion according to local policy.
+7. Write up appropriate fluids or parenteral medication.
+
+When seeing your patient on the daily ward round (and to avoid being called to review or replace cannulae at 6pm) do a RAID assessment: consider if the drip is:
+
+- **R**equired—can the patient manage with oral medication/fluids?
+- **A**ppropriate—should you consider a PICC, central line, long-term line, etc?
+- **I**nfected—any signs of inflammation or infection? Remove if yes. Peripheral cannulae should be replaced every 72–96 hours.
+- **D**ressed properly—many drips are replaced early because they have 'fallen out', or are kinked from poor dressings.
+
+Tissued or infected cannulae need replacing, either with another peripheral cannula, or with a longer-term access device, such as a PICC line.
+
+## If you fail after three attempts
+
+Shocked patients need fluid quickly: if you are having trouble putting in a drip, call your senior. The following advice assumes that the drip is not immediately life-saving. If it is, see BOX.
+
+- Ask for help—from colleagues or seniors—do not be ashamed, everyone has to learn and even senior doctors have bad days; a fresh pair of eyes can be all it takes. As a house officer, one of us was asked to place a drip when a very shame-faced consultant had 'had a go' to prove he still could, and found out that he couldn't!
+
+- Help yourself—try putting the hand in warm water, using a small amount of GTN paste over the vein, or using ultrasound if available to help you identify the vein.
+
+- If there is no one else to help, take a break and come back in half an hour. Veins come and go, and coming back with fresh eyes can make all the difference.
