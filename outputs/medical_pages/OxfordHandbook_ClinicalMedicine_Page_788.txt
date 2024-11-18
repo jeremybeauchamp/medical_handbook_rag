@@ -1,0 +1,28 @@
+# Central venous cannulation
+
+Central venous cannulae may be inserted to measure central venous pressure (CVP), to administer certain drugs (eg amiodarone, chemotherapy), or for intravenous access (fluid, parenteral nutrition). In an emergency, the procedure can be done using the landmark method (see p775), though NICE recommends that all routine internal jugular catheters should be placed with US guidance. Even if the line is not placed under direct US visualization, a look to check vessel size, position in relation to artery, and patency (no thrombus or stenosis) is extremely useful. For contraindications, see table 18.2.
+
+## Table 18.2 Contraindications to central venous cannulation
+
+| Absolute | Relative |
+|----------|----------|
+| Infection at insertion site | Coagulopathy |
+| | Ipsilateral carotid endarterectomy |
+| | Newly inserted cardiac pacemaker leads |
+| | Thrombus within the vein |
+| | Venous stenosis |
+| | Ipsilateral abnormal anatomy |
+
+## Sites of insertion
+These include the internal jugular vein (see p775 and p43), subclavian vein, and the femoral vein. The choice depends largely on operator experience, but evidence suggests that the femoral approach is associated with a higher rate of line infection and thrombosis. Overall, the internal jugular approach (with ultrasound guidance) is most commonly used and risks fewer complications than the subclavian. If possible, get written consent (p568). Check clotting and platelets. The technique for internal jugular (routine) and femoral (emergency) are given here.
+
+## Complications (~20%.)
+Insertion is not without hazard, so decide whether the patient requires a line first, and then ask for help if you are inexperienced.
+
+Bleeding; arterial puncture/cannulation; AV fistula formation; air embolism; pneumothorax; haemothorax; chylothorax (lymph); phrenic nerve palsy (the right phrenic nerve passes over the brachiocephalic artery, posterior to the subclavian vein—hiccups may be a sign of injury); phlebitis; thrombus formation on tip or in vein (if high risk for thromboembolism, eg malignancy, consider anticoagulation, eg LMWH); bacterial colonization; cellulitis; sepsis (can be reduced by adherence to a strict aseptic technique; if taking blood cultures in a febrile patient with a central venous line, remember to take samples from the central line and from a peripheral vein).
+
+## Peripherally inserted central cannulas (PICC lines)
+These are a good alternative to central lines, as they can stay in situ for up to 6 months, and provide access for blood sampling, fluids, antibiotics (allowing home IV therapy). They are placed using a Seldinger technique, puncturing the brachial or basilic vein then threading the line into the subclavian or superior vena cava. Because of the insertion site there is a much lower risk of pneumo- or haemothorax, but they are tricky to insert in an emergency.
+
+## Removing central lines
+Should be done carefully with aseptic technique. Position the patient slightly head down, remove dressings, clean and drape the area, remove sutures. Ask the patient to inhale and hold their breath, then breathe out smoothly while you are pulling the line out. This helps to prevent air emboli. Ask the patient to rehearse this sequence with you to ensure they have understood their role. Apply pressure for 5 minutes (longer if coagulopathic).

@@ -1,0 +1,24 @@
+| Drug | Dose and frequency | Notes |
+|------|-------------------|-------|
+| **Acute asthma/COPD** |||
+| Salbutamol | 5mg via nebulizer as required according to clinical response | Oxygen-driven nebulizer in asthma, air-driven in COPD with appropriate concentration of oxygen provided in addition. SE: tachycardia; hypokalaemia. |
+| Ipratropium bromide | 500mcg/4-6h via nebulizer | SE: GI disturbance, cough. |
+| Prednisolone | 30-50mg/24h (refer to local guidelines). | Oral steroids are as effective as IV. Specify course length. SE: DM; peptic ulceration; psychosis; ↑BP; fluid retention. |
+| **Antihistamines** |||
+| Chlorphenamine | 4mg/4-6h PO In anaphylaxis: 10mg IM | SE: drowsiness; urinary retention; dry mouth; blurred vision; GI disturbance. |
+| Cetirizine | 10mg/24h PO ||
+| Loratidine | 10mg/24h PO ||
+| **Gastric acid-reducing drugs** |||
+| Ranitidine | 150mg/12h PO or 50mg/8h IV | SE: diarrhoea; dizziness; cholestasis. |
+| Omeprazole | 20-40mg/24h PO or 40mg/24h IV | SE: GI disturbance; hypersensitivity. |
+| Lansoprazole | 15-30mg/24h PO ||
+| Pantoprazole | 20-40mg/24h PO or 40mg/24h IV | ▶ May mask symptoms of gastric cancer. |
+| **Heparins (refer to local guidelines)** |||
+| Unfractionated heparin | DVT prophylaxis: 5000U/8-12h SC | Dose needs correcting for renal function and pregnancy (see local guidelines). SE: bleeding; thrombocytopenia (watch for ↓ by 30% or thrombosis 5-10 days into treatment); hyperkalaemia; osteoporosis after prolonged use (↓risk with LMWH). CI: heparin-induced thrombocytopenia; bleeding disorders; epidural anaesthesia, recent cerebral bleed; recent trauma or surgery; active bleeding. |
+| Enoxaparin | DVT prophylaxis: 20-40mg/24h SC DVT/PE treatment: 1.5mg/kg/24h SC ||
+| Tinzaparin | DVT prophylaxis: 3500U/24h SC DVT/PE treatment: 175U/kg per 24h SC ||
+| Dalteparin | DVT prophylaxis: 2500-5000U/24h SC DVT/PE treatment: 200U/kg/d SC ||
+| **Tranquillizers for non-psychotic behavioural disturbance** |||
+| Lorazepam | 1-2mg PO/IM | De-escalation techniques first. Medication only to ↓risk of harm to self/others. ↑Risk of medication in frail, elderly, comorbid conditions. Wait 60 min for response. Seek expert help if needs repeat dose. SE: respiratory depression; drowsiness; ataxia; confusion; GI disturbance; urinary retention. CI: respiratory disease |
+
+See also: prescribing in palliative care (pp532-537), laxatives (p260), inhalers (p183), digoxin (p115), insulin (p589), fluid (p666), oxygen prescribing (p189), naloxone (p842).

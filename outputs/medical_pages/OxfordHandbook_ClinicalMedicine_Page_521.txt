@@ -1,0 +1,46 @@
+## Bulbar and corticobulbar ('pseudobulbar') palsy
+
+**Bulbar palsy** denotes diseases of the nuclei of cranial nerves IX–XII in the medulla.
+*Signs:* An LMN lesion of the tongue and muscles of talking and swallowing: flaccid,
+fasciculating tongue (like a sack of worms); jaw jerk is normal or absent, speech
+is quiet, hoarse, or nasal. *Causes:* MND, Guillain–Barré, polio, myasthenia gravis,
+syringobulbia (p516), brainstem tumours, central pontine myelinolysis (p672).
+
+**Corticobulbar palsy** UMN lesion of muscles of swallowing and talking due to
+bilateral lesions above the mid-pons, eg corticobulbar tracts (MS, MND, stroke, cen-
+tral pontine myelinolysis). It is commoner than bulbar palsy. *Signs:* Slow tongue
+movements, with slow deliberate speech; ↑jaw jerk; ↑pharyngeal and palatal re-
+flexes; pseudobulbar affect (PBA)—weeping unprovoked by sorrow or mood-incon-
+gruent giggling (emotional incontinence without mood change is also seen in MS,
+Wilson's, and Parkinson's disease, dementia, nitrous oxide use, and head injury). In
+some countries, dextromethorphan + quinidine is licensed for PBA.
+
+### Revised El Escorial diagnostic criteria for ALS
+
+| Criteria | Description |
+|----------|-------------|
+| Definite | Lower + upper motor neuron signs in 3 regions. |
+| Probable | Lower + upper motor neuron signs in 2 regions. |
+| Probable with lab support | Lower + upper motor neuron signs in 1 region, or upper motor neuron signs in ≥1 region + EMG shows acute denervation in ≥2 limbs. |
+| Possible | Lower + upper motor neuron signs in 1 region. |
+| Suspected | Upper or lower motor neuron signs only—in 1 or more regions. |
+
+## Dignity and Dignitas
+
+ALS is closely linked with frontotemporal dementia (FTD, p486) by increasing
+clinical, genetic, and molecular evidence (nucleotide repeat expansions in gene
+C9orf72 have been described in familial and sporadic ALS and in FTD). However, pa-
+tients with MND often have no cognitive impairment in the early stages of the dis-
+ease, and witness their inorexable physical decline with terrified awareness. For
+this reason it is imperative to plan for the future early: discuss their wishes for
+end-of-life care and in the eventuality of respiratory decline before it is too late
+for wishes to be communicated. These discussions are crucial but not binding: the
+patient can change their mind at any point, and also refuse any life-prolonging
+treatment, knowing the consequence is death. However, in most countries, in-
+cluding the UK, we cannot traverse that line that lies between management of
+a supported death following withdrawal of life-prolonging (or death-prolonging)
+interventions, and acting with the intention of causing death. Court battles en-
+sue, with requests for assisted suicide that may frustrate and challenge ethicists,
+physicians, politicians, and the judiciary, but above all, patients and their families.
+Faced with such conflicting passions, perhaps our role is to be clear that we stand
+beside our patients, come what may.

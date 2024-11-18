@@ -1,0 +1,36 @@
+## Fig 5.23 Sagittal T1-weighted MRI of the brain
+(no gadolinium contrast) showing a lesion in the pituitary fossa, most likely a haemorrhagic pituitary adenoma. Differential diagnosis includes a Rathke's cleft cyst.
+Courtesy of Norwich Radiology Dept.
+
+## Fig 5.24 Coronal T1-weighted MRI of the brain
+(no gadolinium contrast) showing a lesion in the pituitary fossa (see fig 5.23).
+Courtesy of Norwich Radiology Dept.
+
+## Fig 5.25 The pituitary gland's relationships to cranial nerves III, IV, V, and VI.
+
+| Structure | Description |
+|-----------|-------------|
+| Supraoptic recess | |
+| Suprasellar cistern | |
+| Hypothalamus | |
+| Optic chiasm | |
+| Pituitary stalk | |
+| Pituitary gland | |
+| Temporal lobe | |
+| Internal carotid artery | |
+| Sphenoid sinus | |
+| Sphenoid bone | |
+| III | Cranial nerve III |
+| IV | Cranial nerve IV |
+| V | Cranial nerve V |
+| VI | Cranial nerve VI |
+
+Reproduced from Turner and Wass, Oxford Handbook of Endocrinology and Diabetes, 2009, with permission from Oxford University Press.
+
+## Fig 5.26 Endoscopic surgery is now possible for pituitary surgery.
+
+| Structure | Description |
+|-----------|-------------|
+| Endoscope | |
+| Pituitary adenoma | |
+| Sphenoid sinus | |

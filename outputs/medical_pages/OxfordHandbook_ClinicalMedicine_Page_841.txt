@@ -1,0 +1,33 @@
+# Management of convulsive status epilepticus
+
+1. Open and secure the airway (adjuncts as necessary)
+   Remove false teeth if poorly fitting
+
+2. Oxygen, 100% + suction (as required)
+
+3. IV access and take blood:
+   U&E, LFT, FBC, glucose, Ca2+
+   Toxicology screen if indicated
+   Anticonvulsant levels
+
+4. IV bolus—to stop seizures: eg lorazepam 4mg
+   Give 2nd dose of lorazepam if no response after 10-20min
+
+5. Thiamine 250mg IV over 30min if alcoholism or
+   malnourishment suspected
+   Glucose 50mL 50% IV, unless glucose known to be normal
+   Treat acidosis if severe (contact ICU)
+
+6. Correct hypotension with fluids
+
+7. IV infusion: If seizures continue, start phenytoin,
+   15-18mg/kg IVI, at a rate of 50mg/min. Monitor ECG and BP.
+   100mg/6-8h is a maintenance dose (check levels)
+
+8. General anaesthesia: Continuing seizures after 60-90mins of above
+   therapies require expert help with paralysis (eg propofol infusion) and
+   ventilation with continuous EEG monitoring in ICU. NB: never spend longer
+   than 20min on someone with status epilepticus without having help at the
+   bedside from an anaesthetist
+
+Fig 19.20 Management of status epilepticus.

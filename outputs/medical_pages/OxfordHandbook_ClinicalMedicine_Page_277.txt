@@ -1,0 +1,42 @@
+Severe UC: If unwell and ≥6 motions/d, admit for: IV hydration/electrolyte replace- 263
+ment; IV steroids, eg hydrocortisone 100mg/6h or methylprednisolone 40mg/12h;
+rectal steroids, eg hydrocortisone 100mg in 100mL 0.9% saline/12h PR; thromboem-
+bolism prophylaxis (p350); ensure multiple stool MC&S/CDT to exclude infection.
+• Monitor T°, pulse, and BP—and record stool frequency/character on a stool chart.
+• Twice-daily exam: document distension, bowel sounds, and tenderness.
+• Daily FBC, ESR, CRP, U&E ± AXR. Consider blood transfusion (eg if Hb <80g/L).
+• If on day 3-5 CRP >45 or >6 stools/d, action is needed.18 Rescue therapy with ciclo-
+sporin or infliximab, can avoid colectomy, but involve surgeons early in shared care.
+• If improving, transfer to prednisolone PO (40mg/24h). Schedule maintenance inflixi-
+mab if used for rescue, or azathioprine if ciclosporin rescue.
+• If fails to improve then urgent colectomy by d7-10—the challenge is not to delay
+surgery so long as to accumulate significant steroid exposure and debilitation that
+will delay post-surgical recovery.
+
+It's time for immunomodulation if... Patients flare on steroid tapering or require
+≥2 courses of steroids/year eg azathioprine (2-2.5mg/kg/d PO). 30% of patients will
+develop SEs requiring treatment cessation including abdominal pain, nausea, pan-
+creatitis, leucopenia, abnormal LFTs. Monitor FBC, U+E, LFT weekly for 4 wks, then every
+4 wks for 3 months, then at least 3-monthly.
+
+Biologic therapy For patients intolerant of immunomodulation, or developing symp-
+toms despite an immunomodulator, monoclonal antibodies to TNFα (infliximab, adali-
+mumab, golimumab) or to adhesion molecules involved in gut lymphocyte trafficking
+(vedolizumab) play an important role (see BOX 'Therapies in Crohn's disease' p265).
+
+Surgery This is needed at some stage in ~20%, eg subtotal colectomy + terminal
+ileostomy for failure of medical therapy or fulminant colitis with toxic dilatation/
+perforation. Subsequently completion proctectomy (permanent stoma) vs ileo-anal
+pouch. Pouches mean stoma reversal and the possibility of long-term continence but
+pouch opening frequency may still be around 6×/day and recurrent pouchitis can be
+troublesome (give antibiotics, eg metronidazole + ciprofloxacin for 2wks).
+
+## Diagnosing IBD-unclassified (IBD-U)
+
+After full investigation, IBD may not obviously be Crohn's or UC. IBD-U refers
+to isolated colonic IBD where the diagnosis remains unknown (small bowel
+involvement=Crohn's). This situation is rare in adults but commoner in children.
+Over time the phenotype tends to become clearer (generally UC>Crohn's). Colecto-
+my ± pouch formation may be needed, though pouch failure rate is higher than in UC.
+
+18 Day 3 stool frequency >8×/day or frequency 3-8×/day & CRP >45 =85% chance of colectomy this admission.

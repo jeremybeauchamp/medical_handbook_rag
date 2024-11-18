@@ -1,0 +1,33 @@
+# Cranial nerve examination
+
+## Approach to examining the cranial nerves
+Where is the lesion? Think systematically. Is it in the brainstem (eg MS) or outside, pressing on the brainstem? Is it the neuromuscular junction (myasthenia) or the muscles (eg a dystrophy)? Cranial nerves may be affected singly or in groups. Face the patient (helps spot asymmetry). For causes of lesions see BOX 'Causes of cranial nerve lesions'.
+
+### Cranial nerve names
+
+| Number | Name |
+|--------|------|
+| I | olfactory |
+| II | optic |
+| III | oculomotor |
+| IV | trochlear |
+| V1 | ophthalmic division |
+| V2 | maxillary division |
+| V3 | mandibular division |
+| VI | abducens |
+| VII | facial |
+| VIII | vestibulocochlear |
+| IX | glossopharyngeal |
+| X | vagus |
+| XI | accessory |
+| XII | hypoglossal |
+
+- **I: Smell**—test ability of each nostril (separately) to distinguish familiar smells, eg coffee.
+- **II: Acuity**—test each eye separately, and its correctability with glasses or pin-hole; use Snellen chart, or the one inside the cover of this book. Visual fields—compare with your own fields or formally via perimetry testing. Any losses/inattention? Sites of lesions: OHCS p428. Pupils (p72)—size, shape, symmetry, reaction to light (direct and consensual) or accommodation. Swinging light test for relative afferent pupillary defect. Ophthalmoscopy (OHCS, p414)—best learnt from an ophthalmologist and dilating drops help! Darken the room, warn the patient you will need to get close to their face. Focus the lens on the optic disc (pale? swollen?). Follow vessels outwards to view each quadrant. If the view is obscured, examine the red reflex, with your focus on the margin of the pupil, to look for a cataract. Try to get a view of the fovea by asking the patient to look directly at the ophthalmoscope. Pathology here needs prompt ophthalmic review. If in doubt, ask for slit lamp examination or photography of the retina.
+- **III, IV, & VI**—eye movements. Ask the patient to keep their head still and follow your finger as you trace an imaginary 'H'. IIIrd nerve palsy—ptosis, large pupil, eye down and out. IVth nerve palsy—diplopia on looking down and in (often noticed on descending stairs)—head tilting compensates for this (ocular torticollis). VIth nerve palsy—horizontal diplopia on looking out. Nystagmus is involuntary, often jerky, eye oscillations. Horizontal nystagmus is often due to a vestibular lesion (acute: nystagmus away from lesion; chronic: towards lesion), or cerebellar lesion (unilateral lesions cause nystagmus towards the affected side). If it is more in whichever eye is abducting, MS may be the cause (internuclear ophthalmoplegia, see fig 2.34). If also deafness/tinnitus, suspect a peripheral cause (eg VIIIth nerve lesion, barotrauma, Ménière's, p462). If it varies with head position, suspect benign positional vertigo (p462). If it is up-and-down, ask a neurologist to review—upbeat nystagmus classically occurs with lesions in the midbrain or at the base of the 4th ventricle, downbeat nystagmus in foramen magnum lesions. Nystagmus lasting ≤2 beats is normal, as is nystagmus at the extremes of gaze.
+- **V: Motor palsy**—'Open your mouth'; jaw deviates to side of lesion, muscles of mastication (temporalis, masseter and pterygoids). Sensory—check all three divisions. Consider corneal reflex (lost first).
+- **VII: Facial nerve lesions** cause droop and weakness. As the forehead has bilateral representation in the brain, only the lower two-thirds is affected in UMN lesions, but all of one side of the face in LMN lesions. Ask to 'raise your eyebrows', 'show me your teeth', 'puff out your cheeks'. Test taste with salt/sweet solutions (supplies anterior two-thirds of tongue).
+- **VIII: Hearing**—p464. Ask to repeat a number whispered in an ear while you block the other. Perform Weber's and Rinne's tests (p464). Balance/vertigo—p462.
+- **IX & X: Gag reflex**—ask the patient to say 'Ah'. Xth nerve lesions also cause the palate to be pulled to the normal side on saying 'Ah', uvula deviates away. Ask them to swallow a sip of water. Consider gag reflex—touch the back of the soft palate with an orange stick. The afferent arm of the reflex involves IX; the efferent arm involves X.
+- **XI: Trapezii**—'Shrug your shoulders' against resistance. Sternocleidomastoid: 'Turn your head to the left/right' against resistance.
+- **XII: Tongue movement**—the tongue deviates to the side of the lesion.

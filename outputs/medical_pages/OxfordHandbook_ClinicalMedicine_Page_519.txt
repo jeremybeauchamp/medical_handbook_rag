@@ -1,0 +1,36 @@
+| Table 10.10 Causes of polyneuropathy | | | | 505 |
+|--------------------------------|---------------|--------------|--------------|
+| Metabolic | Vasculitides | Malignancy | Inflammatory |
+| Diabetes mellitus | Polyarteritis | Paraneoplastic | Guillain-Barré |
+| Renal failure | nodosa | syndromes | syndrome |
+| Hypothyroidism | Rheumatoid | Polycythaemia rubra | Sarcoidosis; CIDP* |
+| Hypoglycaemia | arthritis | vera | |
+| Mitochondrial disorders | GPA | | |
+| Infections | Nutritional | Inherited | Drugs |
+| Leprosy | ↓Vit B₁ | syndromes | Vincristine |
+| HIV | ↓Vit B₁₂/folate | Charcot-Marie-Tooth | Cisplatin |
+| Syphilis | ↓Vit B₆ | Refsum's syndrome | Isoniazid |
+| Lyme disease | ↓Vit E | Porphyria | Nitrofurantoin |
+| | | Leucodystrophy | Phenytoin |
+| | | | Metronidazole |
+| Others | | | |
+| Paraproteinaemias, amyloidosis, lead, arsenic | | | |
+
+*Chronic inflammatory demyelinating polyradiculoneuropathy (CIDP): autoimmune demyelination of peripheral nerves (distal onset of weakness/sensory loss in limbs + nerve enlargement + ↑CSF protein)
+
+## Autonomic neuropathy
+
+Sympathetic and parasympathetic neuropathies may be isolated or part of a generalized sensorimotor peripheral neuropathy.
+
+**Causes** DM, amyloidosis, Guillain-Barré and Sjögren's syndromes, HIV, leprosy, SLE, toxic, genetic (eg porphyria), or paraneoplastic, eg paraneoplastic encephalomyeloneuropathies and Lambert-Eaton myasthenic syndrome (LEMS, p512).
+
+**Signs** *Sympathetic:* Postural hypotension, ↓sweating, ejaculatory failure, Horner's syndrome (p702). *Parasympathetic:* Constipation, nocturnal diarrhoea, urine retention, erectile dysfunction, Holmes-Adie pupil (p72).
+
+**Autonomic function tests**
+• BP: Postural drop of >20/10mmHg is abnormal.
+• ECG: A variation of <10bpm with respiration is abnormal (check R-R interval).
+• Cystometry: Bladder pressure studies.
+• Pupils: Instil 0.1% adrenaline (dilates if post-ganglionic sympathetic denervation, not if normal); 2.5% cocaine (dilates if normal; not if sympathetic denervation); 2.5% methacholine (constricts if parasympathetic lesion)—rarely used.
+• Paraneoplastic antibodies: Anti-HU, anti-YO, anti-RI, anti-amphiphysin, anti-CV2, anti-MA2. Other Ab: Antiganglionic acetylcholine receptor antibody presence shows that the cause may be autoimmune autonomic ganglionopathy.
+
+**Primary autonomic failure** Occurs alone (autoimmune autonomic ganglionopathy), as part of multisystem atrophy (MSA, p494), or with Parkinson's disease, typically in a middle-aged/elderly man. Onset: insidious; symptoms as listed previously.

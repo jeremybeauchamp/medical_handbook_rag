@@ -1,0 +1,44 @@
+# What is life?
+
+By convention, life is anything which is organic and converts nutrients into prog-
+eny. Failure to meet this definition means non-living, dead, dying, or perhaps male.
+Life is a thing of dynamism, fragility, beauty, danger, and evanescence; gushing
+forth from a single source. But here the certainties end: what does it really take
+to be alive? Are viruses and prions living? How many branches are there on our
+tree? The harder we look, the more complexities we find. The Hillis plot is a circular
+phylogenetic tree, and a representation of humanity's place in nature. We are duly
+humbled by this challenge to our imagined self-importance, reminding us that we
+do not in reality occupy a privileged position in the hierarchy of the living, just a
+unique subunit RNA sequence (fig 9.2).
+
+Fig 9.2 Tree of life based on subunit RNA sequences sampled from ~3000 species out of the 1.7 million species that are formally named. The image on the right is a close up of the 'animal' segment of the diagram (upper left quadrant) showing 'You are here'.
+
+Copyright David M. Hillis, Derrick Zwickl and Robin Gutell, University of Texas.
+http://www.zo.utexas.edu/faculty/antisense/downloadfilesToL.html
+
+Because micro-organisms kill our friends we think of them as bad:
+> 'I have no philosophy, nor piety, no art of reflection, no theory of compensa-
+> tion to meet things so hideous, so cruel, and so mad, they are just unspeak-
+> ably horrible and irremediable to me and I stare at them with angry and
+> almost blighted eyes.'
+> 
+> Henry James, 1915, describing the death of Rupert Brooke from septicaemia.
+
+But this is a mistake. Kill off micro-organisms and the whole show fizzles out.
+Micro-organisms gave us the DNA and organelles needed for reading and digesting
+this page. Even killing a single pathogen might be a mistake: Sod's Law will prob-
+ably ensure that something worse will come to inhabit the vacated ecospace. Prod
+one part of the system and events ripple out in an unending stream of unintended
+consequences, played out under the stars, which themselves are evolving, and
+which donate and receive our primordial elements.
+
+Can we win against infectious diseases? No. But winning or losing is the wrong
+image: infectious diseases have made us who we are. All we can do is live with
+them. To help us do this in ways that are not too destructive we need robust
+public health surveillance, sound vector-control policies, political will, quarantine
+laws, openness, and cooperation. Most importantly, do not underestimate the
+importance of maintaining our infectious cohabitants in their apparent subor-
+dinate position. The speed and capacity for learning by ribonucleic malware and
+single-celled organisms is amazing. So do not inadvertently teach them. Preserve
+your precious warfare tactics. Expose them to antibiotic therapies only in a
+stand-off situation from which they cannot return to fight again.

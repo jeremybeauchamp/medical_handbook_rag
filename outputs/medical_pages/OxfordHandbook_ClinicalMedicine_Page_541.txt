@@ -1,0 +1,39 @@
+# Methods of delivering radiotherapy
+
+Conventional external beam radiotherapy (EBRT): Is the most common form of treatment. Delivers beams of ionizing radiation to the patient from an external linear accelerator.
+
+Stereotactic radiotherapy is a highly accurate form of EBRT used to target small lesions with great precision—most frequently in treating intracranial tumours. It is often referred to by the manufacturer's name, eg Gamma Knife®, Truebeam®.
+
+Brachytherapy involves a radiation source being placed within or close to a tumour, allowing a high local radiation dose. Implants may be placed within a cavity (eg uterus, post-surgical space) or within tissue (eg prostate, breast).
+
+Radioisotope therapy uses tumour-seeking radionuclides to target specific tissues. For example, ¹³¹I (radioiodine) to ablate remaining thyroid tissue after thyroidectomy for thyroid cancer.
+
+## Interventional oncology
+
+Interventional oncology (IO) refers to interventional radiology procedures used in the treatment or palliation of patients with cancer. IO can be divided into disease-modifying and symptomatic procedures.
+
+### Disease-modifying IO:
+Intended to modify cancer progression and/or to improve prognosis. Includes:
+- Image-guided ablation, eg radiofrequency ablation, cryoablation, irreversible electroporation.
+- Embolization, eg transarterial embolization, chemoembolization, selective internal radiation therapy.
+- Image-guided brachytherapy.
+- Isolated perfusion chemotherapy: uses occlusion techniques to protect normal tissue from high doses of chemotherapy.
+
+### Symptomatic IO:
+Provides relief from cancer-related symptoms, but does not modify the underlying disease process. The techniques (table 11.2) can offer significantly improved quality of life, reduce admissions, and increase time spent outside of hospital.
+
+#### Table 11.2 Interventional techniques available for cancer symptom control
+
+| Clinical problem | Interventional treatment option |
+|------------------|--------------------------------|
+| Ascites | Temporary/permanent image-guided ascitic drain |
+| Pleural effusion | Temporary/permanent image-guided pleural drain |
+| Superior vena cava obstruc­tion (p528) | Superior vena cava stenting |
+| Oesophageal obstruction | Oesophageal stenting |
+| Large bowel obstruction | Colonic stenting |
+| Tumour-related haemorrhage | Transarterial embolization |
+| Jaundice | Biliary drainage and stenting |
+| Renal tract obstruction | Nephrostomy, ureteric stenting |
+| Bone metastases | Image-guided ablation |
+
+Talk to your interventional radiologist.

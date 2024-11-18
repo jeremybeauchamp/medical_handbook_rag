@@ -1,0 +1,38 @@
+# Thrombophilia
+
+Thrombophilia is an inherited or acquired coagulopathy that predisposes to thrombosis, usually venous: DVT or PE (venous thromboembolism: VTE). Special precautions are needed when there is an additional risk factor for thrombosis, eg surgery, pregnancy, or enforced rest (see BOX for other risk factors). Only ~50% of patients with thrombosis and a +ve family history have an identifiable thrombophilia on routine tests; others may have abnormalities that are as yet unidentified.
+
+## Inherited
+- **Activated protein c (APC) resistance/factor V Leiden:** Chief cause of inherited thrombophilia. Present in ~5% of the population, although most will not develop thrombosis. Usually associated with a single point mutation in factor V (factor V Leiden), so that this clotting factor is not broken down by APC. Risk of DVT or PE is raised 5-fold if heterozygous for the mutation (50-fold if homozygous). Thrombotic risk is increased in pregnancy and those on oestrogens (OHCS p33, p257 & p303).
+- **Prothrombin gene mutation:** Causes high prothrombin levels and thrombosis due to down-regulation of fibrinolysis, by thrombin-activated fibrinolysis inhibitor.
+- **Protein C & S deficiency:** These vitamin K-dependent factors act together to cleave and so neutralize factors V & VIII. Heterozygotes deficient for either protein risk thrombosis. Skin necrosis also occurs (esp. if on warfarin). Homozygous deficiency for either protein causes neonatal purpura fulminans—fatal, if untreated.
+- **Antithrombin deficiency:** Antithrombin is a co-factor of heparin, and inhibits thrombin. Less common, affects 1:500. Heterozygotes' thrombotic risk is greater than protein C or S deficiency by ~4-fold. Homozygosity is incompatible with life.
+
+## Acquired Causes:
+- **Antiphospholipid syndrome (APL: p554)—**serum antiphospholipid antibodies (lupus anticoagulant ± anticardiolipin antibody) predispose to venous and arterial thrombosis, thrombocytopenia, and recurrent fetal loss. In most it is a primary disease, but it is also seen in SLE.
+- **Oral contraceptive pills/HRT** (relative risk 2-4; related to both oestrogen and progesterone content/type).
+- **Any cause of thrombocytosis or polycythaemia** may also cause thrombosis (p366).
+
+## Which tests?
+Ask the lab. Do FBC, film, clotting (PT, thrombin time, APTT, fibrinogen) ± APC resistance test, lupus anticoagulant and anticardiolipin antibodies, and assays for antithrombin and proteins C & S deficiency (± DNA analysis by PCR for the factor V Leiden mutation if APC resistance test is +ve, and for prothrombin gene mutation).
+> These tests should ideally be done when the patient is well, not pregnant, and off anticoagulation for 1 month.
+
+## Who?
+Test those with:
+- arterial thrombosis or MI at <50yrs old (eg for APL)
+- unprovoked VTE (ie at <40yrs with no risk factors)
+- VTE with oral contraceptives/pregnancy
+- unexplained recurrent VTE
+- unusual site, eg mesenteric or portal vein thrombosis
+- recurrent fetal loss (≥3)
+- neonatal thrombosis.
+
+## Who not?
+Those already on lifelong anticoagulation, 1st-degree relatives of people with a history of DVT/PE or thrombophilia except in special circumstances.
+> There is often no benefit to testing (ie no change to management), it is expensive and may cause significant worry to patients: be sparing in requesting these tests.
+
+## Treatment
+Anticoagulate acute thrombosis (p350). If recurrence occurs with no other risk factors, consider lifelong anticoagulation. Recurrence whilst on treatment should be treated by increasing treatment intensity (eg target INR to 3-4). In antithrombin deficiency, high doses of heparin may be needed; liaise with a haematologist. In protein C or S deficiency, monitor treatment closely as skin necrosis may occur with warfarin.
+
+## Prevention
+Lifelong anticoagulation is not needed in absence of VTE, but advise of risk with the oral contraceptive pill or HRT, and counsel as regards to the best form of contraception. Warn about other risk factors for VTE. Prophylaxis may be needed in pregnancy, eg in antiphospholipid syndrome (get expert help: aspirin and, sometimes, prophylactic heparin are used as warfarin is teratogenic, see OHCS p33). Prophylactic SC heparin may also be indicated in high-risk situations, eg pre-surgery.

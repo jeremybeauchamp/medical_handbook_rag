@@ -1,0 +1,61 @@
+Fig 3.21 Sequential ECG changes following acute MI.
+
+| Normal | Hours | Days | Weeks | Months |
+|--------|-------|------|-------|--------|
+| [ECG showing normal pattern] | [ECG showing ST elevation] | [ECG showing Q wave development] | [ECG showing T wave inversion] | [ECG showing near-normal pattern] |
+
+Fig 3.22 Enzyme changes following acute MI. Increasingly, high-sensitivity troponins are used alone for routine investigation of ACS.
+
+| Cardiac enzymes | Abbreviation | Full Name |
+|-----------------|--------------|-----------|
+| CK | CK | Creatine kinase |
+| CK-MB | CK-MB | CK cardiac isoenzyme |
+| AST | AST | Aspartate transaminase |
+| LDH | LDH | Lactate dehydrogenase |
+| Trop | Trop | Cardiac troponin |
+
+```mermaid
+graph LR
+    A[Days] --> B[Serum enzyme level]
+    B --> C[x1]
+    B --> D[x2]
+    B --> E[x3]
+    B --> F[x4]
+    B --> G[x5]
+    B --> H[x50]
+    I[0] --> J[1]
+    J --> K[2]
+    K --> L[3]
+    L --> M[4]
+    M --> N[5]
+    N --> O[6]
+    O --> P[7]
+    P --> Q[8]
+    Q --> R[9]
+    R --> S[10]
+    T[Trop] --> U[CK]
+    U --> V[CK-MB]
+    V --> W[AST]
+    W --> X[LDH]
+```
+
+## Troponin
+
+Troponins are proteins involved in cardiac and skeletal muscle contraction (fig 3.23). When myocardial cells are damaged, troponins are released and enter the bloodstream. The levels of troponin in the blood can therefore help with diagnosing myocardial damage. Troponins I and T are most specific to the heart.
+
+Troponin levels are most commonly measured when ACS is suspected. In this circumstance, one would expect troponin levels to rise in the hours following the insult (fig 3.22). Troponin levels can be high with other causes of myocardial damage, for example myocarditis, pericarditis, and ventricular strain. With these conditions, the troponin levels are likely to change little hour by hour as the insults are ongoing. Discrete episodes of tachyarrhythmias may cause troponin rises similar to in ACS. Troponin levels can also be raised iatrogenically, eg following CPR, DC cardioversion, ablation therapy.
+
+A troponin rise may have a non-cardiac aetiology. This can be indirectly related to the heart, eg a massive PE causing right ventricular strain, or have no clear cardiac connection, eg subarachnoid haemorrhage, burns, or sepsis. A common cause of consistently elevated troponin is renal failure. Hence, when measuring troponin, change in level is often more important than the level itself.
+
+Fig 3.23 Diagram of myocardial contraction unit. The troponin complex controls when the myosin heads can bind to the actin chain, shortening the muscle fibre.
+
+```mermaid
+graph TD
+    A[tropomyosin] --> B[actin]
+    B --> C[troponin]
+    C --> D[ATP]
+    D --> E[myosin]
+    E --> F[cross-bridge]
+```
+
+Reproduced from Barnard et al., Cardiac Anaesthesia, 2010, with permission from Oxford University Press.

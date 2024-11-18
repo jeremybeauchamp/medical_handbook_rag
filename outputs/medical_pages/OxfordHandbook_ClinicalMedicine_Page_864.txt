@@ -1,0 +1,25 @@
+# 850 Major disasters
+
+## Planning
+All hospitals have a detailed Major Incident Plan, but additionally the tasks of key personnel can be distributed on individual Action Cards.
+
+## At the scene
+Call the police to notify them of the Major Incident and ask them to take command. They will set up a central command centre to assess and manage the incident, depending on casualty numbers they will inform multiple hospitals of the need to prepare for the imminent arrival of casualties.
+
+**Safety:** Paramount—your own and others. Be visible (luminous monogrammed jacket) and wear protective clothing where appropriate (safety helmet; waterproofs; boots; respirator in chemical environment).
+
+**Triage:** See OHCS p800. There are several commercial systems available to label patients so emergency personnel can see at a glance the scale of the incident. The key is to divide patients by the urgency of care/transfer to hospital:
+
+1. Emergency (label RED = will die in a few minutes if no treatment)
+2. Urgent (label YELLOW = will die in ~2h if no treatment)
+3. Non-urgent (label GREEN = walking wounded/those who are stable and can wait)
+4. Deceased (label BLUE/WHITE).
+
+**Communications:** Essential; each emergency service will dispatch a control vehicle and will have a designated incident officer for liaison. Support medical staff from hospital report to the medical incident officer (MIO)—he or she is usually the first doctor on the scene. Their job is to assess then communicate to the receiving hospital the number + severity of casualties, to organize resupply of equipment and to replace fatigued staff. The MIO must resist temptation to treat casualties as this compromises their role.
+
+**Equipment:** Must be portable and include: intubation and cricothyrotomy set; intravenous fluids (colloid); bandages and dressings; chest drain (+flutter valve); amputation kit (when used, ideally 2 doctors should concur); drugs—analgesic: morphine; anaesthetic: ketamine 2mg/kg IV over >60s (0.5mg/kg is a powerful analgesic without respiratory depression); limb splints (may be inflatable); defibrillator/monitor ± pulse oximeter.
+
+**Evacuation:** Remember that with immediate treatment on scene, the priority for evacuation may be reduced (eg a tension pneumothorax—RED—once relieved can wait for evacuation and becomes YELLOW), but those who may suffer by delay at the scene must go first. Send any severed limbs to the same hospital as the patient, ideally chilled—but not frozen.
+
+## At the hospital
+A 'major incident' is declared. The first receiving hospital will take most of the casualties; the support hospital(s) will cope with overflow and may provide mobile teams so that staff are not depleted from the first hospital. A control room is established and the medical coordinator ensures staff have been summoned and informed of their roles, nominates a triage officer, and supervises the best use of inpatient beds and ICU/theatre resources.

@@ -1,0 +1,39 @@
+# The diagnostic puzzle
+
+## How to formulate a diagnosis
+
+**Diagnosing by recognition:** For students, this is the most irritating method. You spend an hour asking all the wrong questions, and in waltzes a doctor who names the disease before you have even finished taking the pulse. This doctor has simply recognized the illness like he recognizes an old friend (or enemy).
+
+**Diagnosing by probability:** Over our clinical lives we build up a personal database of diagnoses and associated pitfalls. We unconsciously run each new 'case' through this continuously developing probabilistic algorithm with increasing speed and effortlessness.
+
+**Diagnosing by reasoning:** Like Sherlock Holmes, we must exclude each differential, and the diagnosis is what remains. This is dependent on the quality of the differential and presupposes methods for absolutely excluding diseases. All tests are statistical rather than absolute (5% of the population lie outside the 'normal' range), which is why this method remains, like Sherlock Holmes, fictional at best.
+
+**Diagnosing by watching and waiting:** The dangers and expense of exhaustive tests may be obviated by the skilful use of time.
+
+**Diagnosing by selective doubting:** Diagnosis relies on clinical signs and investigative tests. Yet there are no hard signs or perfect tests. When diagnosis is difficult, try doubting the signs, then doubting the tests. But the game of medicine is unplayable if you doubt everything: so doubt selectively.
+
+**Diagnosis by iteration and reiteration:** A brief history suggests looking for a few signs, which leads to further questions and a few tests. As the process reiterates, various diagnostic possibilities crop up, leading to further questions and further tests. And so history taking and diagnosing never end.
+
+## A razor, a dictum, and a bludgeon
+
+Consider three wise men:
+
+**Occam's razor:** *Entia non sunt multiplicanda praeter necessitatem* translates as 'entities must not be multiplied unnecessarily'. The physician should therefore seek to achieve diagnostic parsimony and find a single disease to explain all symptoms, rather than proffer two or three unrelated diagnoses.
+
+**Hickam's dictum:** Patients can have as many diagnoses as they damn well please. Signs and symptoms may be due to more than one pathology. Indeed, a patient is statistically more likely to have two common diagnoses than one unifying rare condition.
+
+**Crabtree's bludgeon:** No set of mutually inconsistent observations can exist for which some human intellect cannot conceive a coherent explanation however complicated. This acts as a reminder that physicians prefer Occam to Hickam: a unifying diagnosis is a much more pleasing thing. Confirmation bias then ensues as we look for supporting information to fit with our unifying theory. Remember to test the validity of your diagnosis, no matter how pleasing it may seem.
+
+## Heuristic pitfalls
+
+Heuristics are the cognitive shortcuts which allow quick decision-making by focusing on relevant predictors. Be aware of them so you can be vigilant of their traps.
+
+**Representativeness:** Diagnosis is driven by the 'classic case'. Do not forget the atypical variant.
+
+**Availability:** The diseases that we remember, or treated most recently, carry more weight in our diagnostic hierarchy. Question whether this more readily available information is truly relevant.
+
+**Overconfidence:** Are you overestimating how much you know and how well you know it? Probably.
+
+**Bias:** The hunt for, and recall of, clinical information that fits with our expectations. Can you disprove your own diagnostic hypothesis?
+
+**Illusory correlation:** Associated events are presumed to be causal. But was it treatment or time that cured the patient?

@@ -1,0 +1,43 @@
+# Specific post-operative complications
+
+## Laparotomy
+Wound may break down from a few days to a few weeks post-op (incidence ≈3.5%). Particular risk in the elderly, malnourished (eg cancer, IBD), if infection, uraemia, or haematoma is present, or in repeat laparotomies. Warning sign is a pink serous discharge. Always assume the defect involves the whole of the wound. Wound dehiscence may lead to a 'burst abdomen' with evisceration of bowel (mortality 15-30%). If you are on the ward when this happens, call your senior, put the viscera back into the abdomen, place a sterile dressing over the wound, and give IV antibiotics (eg piperacillin/tazobactam; see local guidelines). Allay anxiety, give parenteral pain control, set up an IVI, and return patient to theatre. Incisional hernia is a common late problem (20%), repairable by mesh insertion (if necessary).
+
+## Biliary surgery
+### Early:
+Iatrogenic bile duct injury, cholangitis, bile leakage, bleeding into the biliary tree (haemobilia—may lead to melaena or haematemesis); pancreatitis. Retained stones may be removed by ERCP (p742); if this is not available a 'T-tube' left in the bile duct at the time of closure allows free drainage to the exterior; unrelieved distal obstruction of the bile duct may result in fistula formation and chronic leakage of bile. If jaundiced, maintain a good urine output, monitor coagulation, and consider antibiotics.
+### Late:
+Bile duct stricture; post-cholecystectomy syndrome (symptoms arising from alterations in bile flow due to loss of the reservoir function of the gallbladder).
+
+## Thyroid surgery
+### Early:
+Recurrent (± superior) laryngeal nerve palsy (+hoarseness) can occur permanently in 0.5% and transiently in 1.5%—warn the patient that their voice will be different for a few days post-op because of intubation and local oedema (NB: pre-operative fibreoptic laryngoscopy should be performed to exclude pre-existing vocal cord dysfunction); thyroid storm (symptoms of severe hyperthyroidism—see p834); tracheal obstruction due to haematoma in the wound: relieve by immediate removal of stitches or clips using the cutter/remover that should remain at the beside; may require urgent surgery; hypoparathyroidism (p222); check plasma Ca²⁺ daily; transient drops in serum concentration are common, permanent in 2.5%.
+### Late:
+Hypothyroidism; recurrent hyperthyroidism.
+
+## Mastectomy
+Arm lymphoedema in up to 20% of those undergoing axillary node sampling or dissection. The risk of lymphoedema increases with the level of axillary dissection: risk is lower with level 1 dissection (remains inferior to pec. minor) compared to level 3 dissection (goes superior to pec. minor, rarely done); skin necrosis.
+
+## Arterial surgery
+Bleeding; thrombosis; embolism; graft infection; MI; AV fistula formation. Complications of aortic surgery: Gut ischaemia; renal failure; respiratory distress; trauma to ureters or anterior spinal artery (leading to paraplegia); ischaemic events from distal emboli from dislodged thrombus; aorto-enteric fistula.
+
+## Colonic surgery
+### Early:
+Sepsis; ileus; fistulae; anastomotic leak (11% for radical rectal surgery); haemorrhage; trauma to ureters or spleen.
+### Late:
+Adhesional obstruction (BOX).
+
+## Small bowel surgery
+Short gut syndrome (best defined functionally, as malabsorption due to insufficient residual small bowel; adults with ≤150cm at risk). Diarrhoea and malabsorption (particularly of fats) lead to a number of metabolic abnormalities including deficiency in vitamins A, D, E, K, and B₁₂, hyperoxaluria (causing renal stones), and bile salt depletion (causing gallstones). The management of short bowel syndrome is complex, aiming to correct metabolic abnormalities, optimize residual bowel function, and support nutrition (using parenteral route if necessary).
+
+## Tracheostomy
+Mediastinitis; surgical emphysema. Later: stenosis.
+
+## Splenectomy (p373.)
+Acute gastric dilatation (a serious consequence of not using a NGT, or to check that the one in place is working); thrombocytosis; sepsis. Lifetime sepsis risk is partly preventable with pre-op vaccines—ie Haemophilus type B, meningococcal, and pneumococcal (p407 & p167) and prophylactic penicillin.
+
+## Genitourinary surgery
+Septicaemia (from instrumentation in the presence of infected urine)—consider a stat dose of gentamicin; urinoma—rupture of a ureter or renal pelvis leading to a mass of extravasated urine.
+
+## Gastrectomy
+See p622. Prostatectomy p642. Haemorrhoidectomy p632.

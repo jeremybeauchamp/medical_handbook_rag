@@ -1,0 +1,23 @@
+# 7 Renal medicine
+
+## Contents
+- Urine 294
+- Urinary tract infection (UTI) 296
+- Acute kidney injury (AKI):
+  - A clinical approach 298
+  - Management 300
+- Chronic kidney disease (CKD) 302
+  - Management 304
+- Renal replacement therapy (RRT):
+  - Dialysis and filtration 306
+  - Transplantation 308
+- Glomerulonephritis 310
+- Nephrotic syndrome 312
+- Renal manifestations of systemic disease 314
+- The renal tubule: disorders and diuretics 316
+- Tubulointerstitial nephropathy and nephrotoxins 318
+- Inherited kidney disease 320
+
+Fig 7.1 A 'rotating drum artificial kidney': one of the earliest dialysis machines built by Willem Kolff in 1943. Exiled to a remote Dutch hospital during the Nazi occupation of the Netherlands, the resourceful inventor assembled a junkyard construction using a water pump from a Ford model T, an aluminium drum from a downed warplane, washing machine parts, orange juice cans, and sausage skins. The first 16 patients to use the machine died. Then, in 1945, 67-year-old Sofia Maria Schafstadt ('Patient Number 17') was referred reluctantly to Kolff with 'poisoning'. Her blood was passed through his sausage-skin tube which was wrapped around the drum, rotating like a washing machine in a bath of salt water. A total of 80L of her blood was treated in this way, removing 60g of urea. After 11 hours she opened her eyes to declare, 'I'm going to divorce my husband'. This she duly achieved, as well as making medical history. Kolff chose not to patent his life-saving invention but donated copies to hospitals across the world.
+
+We thank Dr Andrew Mooney, our Specialist Reader, for his contribution to this chapter.

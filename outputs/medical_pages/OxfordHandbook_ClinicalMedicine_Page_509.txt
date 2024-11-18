@@ -1,0 +1,15 @@
+# Pharmacological therapy in Parkinson's disease
+
+A key decision is when to start supplementation of dopaminergic signalling with levodopa. Efficacy of this therapy reduces with time, requiring larger and more frequent dosing, with worsening SEs and response fluctuations (such as unpredictable freezing and pronounced end-of-dose reduced response: ~50% at 6yrs). Starting late may therefore be wise, eg when >70yrs or when PD seriously interferes with life: discuss pros and cons with the patient. ▶Do not withdraw medication suddenly—risks acute akinesia and neuroleptic malignant syndrome. Be aware of situations where malabsorption could also have this effect (eg abdominal surgery, gastroenteritis).
+
+**Levodopa:** Dopamine precursor, given combined with a dopa-decarboxylase inhibitor in co-beneldopa or co-careldopa. SEs: dyskinesia, painful dystonia. Non-motor SEs: psychosis; visual hallucinations, nausea and vomiting (give domperidone). Modified-release preparations should only be used in late disease.
+
+**Dopamine agonists (DAs):** Ropinirole and pramipexole monotherapy can delay starting levodopa in early stages of PD, and allow lower doses of levodopa as PD progresses. Rotigotine transdermal patches are available as mono- or additive. SEs: drowsiness, nausea, hallucinations, compulsive behaviour (gambling, hypersexuality, p449). Ergot-derived DA-agonists (bromocriptine, pergolide, cabergoline) can cause fibrotic reactions, and are not favoured. Amantadine (weak DA) is used for drug-induced dyskinesias in late PD.
+
+**Apomorphine:** Potent DA agonist used with continuous SC infusion to even out end-of-dose effects, or as a rescue-pen for sudden 'off' freezing. SE: injection-site ulcers.
+
+**Anticholinergics:** (Eg benzhexol, orphenadrine.) Cause confusion in the elderly and have multiple SEs—limit to younger patients (but not 1st line).
+
+**MAO-B inhibitors:** (Eg rasagiline, selegiline.) An alternative to dopamine agonists in early PD. SEs include postural hypotension and atrial fibrillation.
+
+**COMT inhibitors:** (Eg entacapone, tolcapone.) May help motor complications in late disease. Lessen the 'off' time in those with end-of-dose wearing off. Tolcapone has better efficacy, but may cause severe hepatic complications and requires close monitoring of LFT.

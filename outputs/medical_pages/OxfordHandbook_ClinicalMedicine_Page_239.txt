@@ -1,0 +1,18 @@
+# Investigating suspected Cushing's syndrome
+
+First, confirm the diagnosis (a raised plasma cortisol), then localize the source on the basis of laboratory testing. Use imaging studies to confirm the likely source.
+
+## 1st-line tests
+Overnight dexamethasone suppression test is a good outpatient test. Dexamethasone 1mg PO at midnight; do serum cortisol at 8AM. Normally, cortisol suppresses to <50nmol/L; no suppression in Cushing's syndrome. False -ve rate: <2%; false +ves: 2% normal, 13% obese, and 23% of inpatients. NB: false +ves (pseudo-Cushing's) are seen in depression, obesity, alcohol excess, and inducers of liver enzymes (↑rate of dexamethasone metabolism, eg phenytoin, phenobarbital, rifampicin, p689). 24h urinary free cortisol (normal: <280nmol/24h) is an alternative.
+
+## 2nd-line tests
+If 1st-line tests abnormal: 48h dexamethasone suppression test: Give dexamethasone 0.5mg/6h PO for 2d. Measure cortisol at 0 and 48h (last test at 6h after last dose). Again, in Cushing's syndrome, there is a failure to suppress cortisol. 48h high-dose dexamethasone suppression test: (2mg/6h.) May distinguish pituitary (suppression) from others causes (no/part suppression). Midnight cortisol: Admit (unless salivary cortisol used). Often inaccurate due to measurement issues. Normal circadian rhythm (cortisol lowest at midnight, highest early morning) is lost in Cushing's syndrome. Midnight blood, via a cannula during sleep, shows cortisol ↑ in Cushing's.
+
+## Localization tests (Where is the lesion?)
+If the 1st- and 2nd-line tests are +ve—Plasma ACTH. If ACTH is undetectable, an adrenal tumour is likely → CT/MRI adrenal glands. If no mass, proceed to adrenal vein sampling. If ACTH is detectable, distinguish a pituitary cause from ectopic ACTH production by high-dose suppression test or corticotropin-releasing hormone (CRH) test: 100mcg ovine or human CRH IV. Measure cortisol at 120min. Cortisol rises with pituitary disease but not with ectopic ACTH production.
+
+If tests indicate that cortisol responds to manipulation, Cushing's disease is likely. Image the pituitary (MRI) and consider bilateral inferior petrosal sinus blood sampling.
+
+If tests indicate that cortisol does not respond to manipulation, hunt for the source of ectopic ACTH—eg IV contrast CT of chest, abdomen, and pelvis ± MRI of neck, thorax, and abdomen, eg for small ACTH secreting carcinoid tumours.
+
+Fig 5.20 Hypercortisolism weakens skin; even normal stretching (or the pressure of obesity, as here) can make its elastin break—on healing we see these depressed purple scars (striae). Cortisone or rapid growth contributes to striae in other contexts: pregnancy, adolescence, weight lifting, sudden-onset obesity, or from strong steroid creams. Striae mature into silvery crescents looking like the underside of willow leaves. Unsightly immature striae may be improved by YAG lasers.

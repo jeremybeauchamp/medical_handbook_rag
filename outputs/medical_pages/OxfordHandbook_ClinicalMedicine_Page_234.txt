@@ -1,0 +1,36 @@
+# Hypothyroidism (myxoedema)
+
+The clinical effect of lack of thyroid hormone. It is common (4/1000/yr). If treated, prognosis is excellent; untreated it is disastrous (eg heart disease, dementia). As it is insidious, both you and your patient may not realize anything is wrong, so be alert to subtle, non-specific symptoms, esp. in women ≥40yrs old (♀:♂≈6:1).
+
+**Symptoms** Tiredness; sleepy, lethargic; ↓mood; cold-disliking; ↑weight; constipation; menorrhagia; hoarse voice; ↓memory/cognition; dementia; myalgia; cramps; weakness.
+
+**Signs** BRADYCARDIC; reflexes relax slowly; ataxia (cerebellar); dry thin hair/skin; yawning/drowsy/coma (p834); cold hands ± ↓T°; ascites ± non-pitting oedema (lids; hands; feet) ± pericardial or pleural effusion; round puffy face/double chin/obese; defeated demeanour; immobile ± ileus; CCF. Also: neuropathy; myopathy; goitre (fig 5.16).
+
+**Diagnosis** (p216) Have a low threshold for doing TFTs! ↑TSH (eg ≥4mU/L); ↓T4 (in rare secondary hypothyroidism: ↓T4 and ↓TSH or ↔ due to lack from the pituitary, p232). Cholesterol and triglyceride↑; macrocytosis (less often normochromic anaemia too).
+
+**Causes of primary autoimmune hypothyroidism**
+- Primary atrophic hypothyroidism: ♀:♂≈6:1. Common. Diffuse lymphocytic infiltration of the thyroid, leading to atrophy, hence no goitre.
+- Hashimoto's thyroiditis: Goitre due to lymphocytic and plasma cell infiltration. Commoner in women aged 60–70yrs. May be hypothyroid or euthyroid; rarely initial period of hyperthyroid ('Hashitoxicosis'). Autoantibody titres are very high.
+
+**Other causes of primary hypothyrodism**
+- World-wide the chief cause is iodine deficiency.
+- Post-thyroidectomy or radioiodine treatment.
+- Drug-induced: Antithyroid drugs, amiodarone, lithium, iodine.
+- Subacute thyroiditis: Temporary hypothyroidism after hyperthyroid phase.
+
+**Secondary hypothyroidism** Not enough TSH (due to hypopituitarism); very rare.
+
+**Hypothyroidism's associations** Autoimmune is seen with other autoimmune diseases (type 1 DM, Addison's, and PA, p334). Turner's and Down's syndromes, cystic fibrosis, primary biliary cholangitis, ovarian hyperstimulation (OHCS p311); POEMS syndrome—polyneuropathy, organomegaly, endocrinopathy, m-protein band (plasmacytoma) + skin pigmentation/tethering. Genetic: Dyshormonogenesis: genetic (often autosomal recessive) defect in hormone synthesis, eg Pendred's syndrome (with deafness): there is ↑uptake on isotope scan, which is displaced by potassium perchlorate.
+
+**Pregnancy problems** Eclampsia, anaemia, prematurity, ↓birthweight, stillbirth, PPH.
+
+**Treatment**
+- Healthy and young: Levothyroxine (T4), 0–100mcg/24h PO; review at 12wks. Adjust 6-weekly by clinical state and to normalize but not suppress TSH (keep TSH >0.5mU/L). Thyroxine's t½ is ~7d, so wait ~4wks before checking TSH to see if a dose change is right. NB: small changes in serum free T4 have a logarithmic effect on TSH. Once normal, check TSH yearly. Enzyme inducers (p689) ↑metabolism of levothyroxine.
+- Elderly or ischaemic heart disease: Start with 25mcg/24h; ↑dose by 25mcg/4wks according to TSH (cautiously, as levothyroxine may precipitate angina or MI).
+- If diagnosis is in question and T4 already given: Stop T4; recheck TSH in 6 weeks.
+
+**Amiodarone** An iodine-rich drug structurally like T4; 2% of users will get significant thyroid problems from it. Hypothyroidism can be caused by toxicity from iodine excess (T4 release is inhibited). Thyrotoxicosis may be caused by a destructive thyroiditis causing hormone release. Here, radioiodine uptake can be undetectable and if this is the case, glucocorticoids may help. Get expert help. Thyroidectomy may be needed if amiodarone cannot be discontinued. T½ of amiodarone ≈80d, so problems persist after withdrawal. If on amiodarone, check TFTs 6-monthly.
+
+**Myxoedema coma** The ultimate hypothyroid state before death. See p834.
+
+3 Treat the patient not the blood level! No exact cut-off in TSH can be given partly because risk of death from heart disease mirrors TSH even when in the normal range in women. Risk ≈ 1.4 if TSH 1.5–2.4 vs 1.7 if TSH 2.5–3.5. If TSH >3.65 and possibly symptomatic, a low dose of levothyroxine may be tried. Monitor symptoms, TSH and T4 carefully. Over-exposure to thyroxine may cause osteoporosis ± AF.

@@ -1,0 +1,37 @@
+Diagram of facial nerve branches
+
+| Number | Structure |
+|--------|-----------|
+| 1 | Facial nerve nucleus, deep in reticular form-ation of lower pons |
+| 2 | Spinal nucleus of V |
+| 3 | Superior salivary nuc. |
+| 4 | Solitary tract |
+| 5 | Porus acusticus internus |
+| 6 | Meatal foramen |
+| 7 | Large petrosal nerve |
+| 8 | Sphenopalatine ganglion |
+| 9 | Superior maxillary nerve |
+| 10 | Lacrimal gland |
+| 11 | Large deep petrosal nerve |
+| 12 | Vidian nerve |
+| 13 | Nose/palate gland nerves |
+| 14 | Small petrosal nerve at geniculate ganglion |
+| 15 | Stapedial nerve |
+| 16 | Chorda tympani |
+| 17 | Auricular branch |
+| 18 | Stylomastoid foramen |
+| 19 | Lingual nerve— and taste VII and general sensory from tongue (V³) |
+| 20 | Submandibular gan-glion (and gland, 21) |
+| 22 | Sublingual gland |
+
+Legend:
+- Motor fibres
+- Sensory fibres
+- Parasymp.(secretory fibres)
+- Taste fibres
+
+Fig 10.26 Facial nerve branches. The motor part moves the muscles of the face, scalp, and ears—also buccinator (puffs out the cheeks), platysma, stapedius, and the posterior belly of the digastric. It also contains the sympathetic motor fibres (vasodilator) of the submaxillary and sublingual glands (via the chorda tympani nerve). The sensory part contains the fibres of taste for the anterior ⅔ of the tongue and a few somatic sensory fibres from the middle ear region.
+
+## Ramsay Hunt syndrome
+
+Latent varicella zoster virus reactivating in the geniculate ganglion of the VIIth cranial nerve. Symptoms: Painful vesicular rash on the auditory canal ± on drum, pinna, tongue palate, or iris (→hyphaema, ie blood under the cornea) with ipsilateral facial palsy, loss of taste, vertigo, tinnitus, deafness, dry mouth and eyes. The rash may be subtle or even absent ('herpes sine herpete'=herpes without herpes). Incidence: ~5/100 000 (higher if >60yrs). Diagnosis: Clinical, as antiviral treatment is thought to be most effective within the 1st 72h, while the virus is replicating. ℞: Antivirals (eg aciclovir 800mg PO 5× daily for 7d) + prednisolone, as for Bell's palsy. Prognosis: If treated within 72h, ~75% recover well; if not, ~⅓ make a good recovery, ⅓ a reasonable recovery, and ⅓ a poor recovery.

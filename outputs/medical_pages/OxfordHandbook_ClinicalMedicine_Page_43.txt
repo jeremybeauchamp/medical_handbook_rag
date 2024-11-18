@@ -1,0 +1,23 @@
+## Fatigue
+
+So common that it is a variant of normality. Only 1 in 400 episodes of fatigue leads to visiting the doctor. Don't miss depression (p15). Even if depressed, still rule out common treatable causes—eg anaemia, hypothyroidism, diabetes. After history and examination: FBC, ESR, U&E, plasma glucose, TFT, ± CXR. Follow up to see what develops, and to address emotional problems. Take a sleep history.
+
+## Fevers, rigors, sweats
+
+While some night sweating is common in anxiety, drenching sweats requiring changes of night-clothes are a more ominous symptom associated with infection (eg TB, brucellosis), lymphoproliferative disease, or other malignancies. Patterns of fever may be relevant (see p442).
+
+Rigors are uncontrolled paroxysms of shivering which occur as a patient's temperature rises rapidly.
+
+Sweating excessively (hyperhidrosis) may be primary (eg hidradenitis suppurativa may be very distressing to the patient)—or secondary to fever, pain or anxiety (cold & sweaty) or a systemic condition: the menopause, hyperthyroidism (warm & sweaty), acromegaly, malignancy, phaeochromocytoma, amyloidosis, or neuroleptic malignant syndrome (+hyperthermia). Or it may reflect gabapentin or opiate withdrawal, or a cholinergic or parasympathomimetic side-effect (amitriptyline, bethanechol, distigmine, spider bites)—also hormonal drugs, eg levothyroxine, gonadorelin or somatostatin analogues, vasopressin, and ephedrine. Also amiodarone, ciprofloxacin, levodopa, lisinopril, rivastigmine, ritonavir, pioglitazone, venlafaxine. At the bedside: ask about all drugs, examine all over for nodes; any signs of hyperthyroidism? Any splenomegaly? Test the urine; do T°, ESR, TSH, FBC, & blood culture. ℞: Antiperspirants (aluminium chloride 20%=Driclor®), sympathectomy, or iontophoresis may be tried.
+
+## Insomnia
+
+This is trivial—until we ourselves have a few sleepless nights. Then sleep becomes the most desirable thing imaginable, and bestowing it the best thing we can do, like relieving pain. But don't give drugs without looking for a cause.
+
+- Self-limiting: Jet lag; stress; shift work; in hospital. We need less sleep as we age.
+- Psychic: Depression; anxiety; mania; grief; psychomotor agitation/psychosis.
+- Organic: Drugs (many; eg caffeine; mefloquine; nicotine withdrawal); nocturia; alcohol; pain (eg acid reflux —worse on lying down); itch; tinnitus; asthma; dystonias; obstructive sleep apnoea (p194); dementia; restless leg syndrome (p698, check ferritin). Rarer: encephalitis (eg West Nile virus) and encephalopathy (Whipple's; pellagra; HIV; prion diseases, eg CJD, p696, and fatal familial insomnia).
+
+℞ Sleep hygiene. No daytime naps; don't turn in till you feel sleepy; regular bedtime routines. Keep a room for sleep; don't eat or work in it (not viable for much of the world). Less caffeine, nicotine, late exercise (but sexual activity may give excellent torpor!), and alcohol (its abuse causes paradoxical pro-adrenergic tremor and insomnia). Try monitoring quality with a sleep diary (unless already over-obsessive). Music and relaxation may make sleep more restorative and augment personal resources.
+
+Hypnotic drugs. Give for a few nights only (addictive and cause daytime somnolence ± rebound insomnia on stopping). Warn about driving/machine use. Example: zopiclone 3.75-7.5mg. Obstructive sleep apnoea, p194. Parasomnias, sleep paralysis, etc. OHCS p371. Narcolepsy, p700.

@@ -1,0 +1,36 @@
+## Diagnosis of diabetes mellitus: WHO criteria (rather arbitrary!)
+
+- Symptoms of hyperglycaemia (eg polyuria, polydipsia, unexplained weight loss, visual blurring, genital thrush, lethargy) AND raised venous glucose detected once—fasting ≥7mmol/L or random ≥11.1mmol/L OR
+- Raised venous glucose on two separate occasions—fasting ≥7mmol/L, random ≥11.1mmol/L or oral glucose tolerance test (OGTT)—2h value ≥11.1mmol/L
+- HbA1c ≥48mmol/mol. Avoid in pregnancy, children, type 1 DM, and haemoglobinopathies.
+
+> Whenever you have a needle in a vein, do a blood glucose (unless recently done); note if fasting or not. Non-systematic, but better than urine tests (false −ves).
+
+## Differentiating type 1 and 2 diabetes
+
+Occasionally it may be difficult to differentiate whether a patient has type 1 or 2 DM, although they can present differently (see table 5.1). Features of type 1 include weight loss; persistent hyperglycaemia despite diet and medications; presence of autoantibodies: islet cell antibodies (ICA) and anti-glutamic acid decarboxylase (GAD) antibodies; ketonuria.
+
+### Table 5.1 Differences between type 1 and type 2 diabetes
+
+| | Type 1 DM | Type 2 DM |
+|-------------|------------|------------|
+| Epidemiology | Often starts before puberty | Older patients (usually) |
+| Genetics | HLA D3 and D4 linked | No HLA association |
+| Cause | Autoimmune β-cell destruction | Insulin resistance/β-cell dysfunction |
+| Presentation | Polydipsia, polyuria, ↓weight, ketosis | Asymptomatic/complications, eg MI |
+
+> Not all new-onset DM in older people is type 2: if ketotic ± a poor response to oral hypoglycaemics (and patient is slim or has a family or personal history of autoimmunity), think of latent autoimmune diabetes in adults (LADA) and measure islet cell antibodies.
+
+## What is the best diet for obese patients with type 2 diabetes?
+
+Dietary carbohydrate is a big determinant of postprandial glucose levels, and low-carbohydrate diets improve glycaemic control. How do low-carbohydrate, ketogenic diets (<20g of carbohydrate daily; LCKD) compare with low-glycaemic index, reduced-calorie diet (eg 500kcal/day deficit from weight maintenance diet)?
+
+In one randomized study over 24 weeks, LCKD had greater improvements in HbA1c (−15 vs −5mmol/L), weight (−11kg vs −7kg), and HDL. Diabetes drugs were reduced or eliminated in 95% of LCKD vs 62% of LGID participants. NB: effects on renal function and mortality are unknown so these diets remain controversial.
+
+## Monitoring glucose control
+
+1. Fingerprick glucose if on insulin (type 1/2). NB: before a meal informs about long-acting insulin doses; after meals inform about the dose of short-acting insulin.
+
+2. Glycated haemoglobin (HbA1c) relates to mean glucose level over previous 8wks (RBC t½). Targets are negotiable, eg 48–57mmol/mol (depends on patient's wish and arterial risk, eg past MI or stroke). If at risk from the effects of hypoglycaemia, eg elderly patients prone to falls, consider less tight control. Tight control may not alter all-cause mortality. Complications rise with rising HbA1c, so any improvement helps.
+
+3. Be sure to ask about hypoglycaemic attacks (and whether symptomatic). Hypoglycaemic awareness may diminish if control is too tight, or with time in type 1 DM, due to ↓glucagon secretion. It may return if control is loosened.

@@ -1,0 +1,36 @@
+# The myeloproliferative disorders
+
+Caused by clonal proliferation of haematopoietic myeloid stem cells in the bone marrow. These cells retain the ability to differentiate into RBCs, WBCs, or platelets, causing an excess of one or more of these cell types (table 8.10).
+
+## Table 8.10 Classification of myeloproliferative disorders
+
+| By proliferating cell type |                                        |
+|---------------------------|----------------------------------------|
+| RBC                       | Polycythaemia vera (PRV)               |
+| WBC                       | Chronic myeloid leukaemia (CML, p358)  |
+| Platelets                 | Essential thrombocythaemia             |
+| Fibroblasts               | Myelofibrosis                          |
+
+## Polycythaemia
+
+**Relative polycythaemia** (↑plasma volume, normal RBC mass) may be acute (due to dehydration) or chronic (associated with obesity, HTN, and a high alcohol and tobacco intake). **Absolute polycythaemia** (↑RBC mass) is classically measured by dilution of infused autologous radioactive chromium (51Cr) labelled RBCs. Causes are primary (polycythaemia vera) or secondary due to hypoxia (eg high altitudes, chronic lung disease, cyanotic congenital heart disease, heavy smoking) or inappropriately ↑erythropoietin secretion (eg in renal carcinoma, hepatocellular carcinoma).
+
+## Polycythaemia vera
+
+The malignant proliferation of a clone derived from one pluripotent stem cell. A mutation in JAK2 (JAK2 V617F) is present in >95%. The erythroid progenitor offspring are unusual in not needing erythropoietin to avoid apoptosis. There is excess proliferation of RBCs, WBCs, and platelets, leading to hyperviscosity and thrombosis. Commoner if >60yrs old.
+
+**Presentation:** May be asymptomatic and detected on FBC, or present with vague symptoms due to hyperviscosity (p372): headaches, dizziness, tinnitus, visual disturbance. Itching after a hot bath, and erythromelalgia, a burning sensation in fingers and toes, are characteristic. Signs: facial plethora and splenomegaly (in 60%). Gout may occur due to ↑urate from RBC turnover. Features of arterial (cardiac, cerebral, peripheral) or venous (DVT, cerebral, hepatic) thrombosis may be present.
+
+**Investigations:** • FBC: ↑RCC, ↑Hb, ↑HCT, ↑PCV, often also ↑WBC and ↑platelets. • ↑B12. • Marrow shows hypercellularity with erythroid hyperplasia. • Cytogenetics as required to differentiate from CML. • ↓Serum erythropoietin. • Raised red cell mass on 51Cr studies and splenomegaly, in the setting of a normal PO2, is diagnostic.
+
+**Treatment:** Aim to keep HCT <0.45 to ↓risk of thrombosis. In younger patients at low risk, this is done by venesection. If higher risk (age >60yrs, previous thrombosis), hydroxycarbamide (=hydroxyurea) is used. α-interferon is preferred in women of childbearing age. Aspirin 75mg daily is also given.
+
+**Prognosis:** Variable, many remain well for years. Thrombosis and haemorrhage (due to defective platelets) are the main complications. Transition to myelofibrosis occurs in ~30% or acute leukaemia in ~5%. Monitor FBC every 3 months.
+
+## Essential thrombocythaemia
+
+(fig 8.67) A clonal proliferation of megakaryocytes leads to persistently ↑platelets, often >1000 × 109/L, with abnormal function, causing bleeding or arterial and venous thrombosis, and microvascular occlusion—headache, atypical chest pain, light-headedness, erythromelalgia. Exclude other causes of thrombocytosis (see BOX). Treatment: aspirin 75mg OD. Hydroxycarbamide in high-risk patients.
+
+## Myelofibrosis
+
+There is hyperplasia of megakaryocytes which produce platelet-derived growth factor, leading to intense marrow fibrosis and haematopoiesis in the spleen and liver→massive hepatosplenomegaly. Presentation: Hypermetabolic symptoms: night sweats, fever, weight loss; abdominal discomfort due to splenomegaly; bone marrow failure (↓Hb, infections, bleeding). Film: Leukoerythroblastic cells (nucleated red cells, p328); characteristic teardrop RBCs (see fig 8.68). ↓Hb. Bone marrow trephine for diagnosis (fig 8.69). Treatment: Marrow support (see p364). Allogeneic stem cell transplant may be curative in young people but carries a high risk of mortality. Prognosis: Median survival 4-5 years.

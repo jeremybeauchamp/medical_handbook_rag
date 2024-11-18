@@ -1,0 +1,36 @@
+# Pulmonary embolism (PE)
+
+> Always suspect pulmonary embolism (PE) in sudden collapse 1-2wks after surgery.
+
+**Mechanism** Venous thrombi, usually from DVT, pass into the pulmonary circulation and block blood flow to lungs. The source is often occult.
+
+**Risk factors**
+- Malignancy; myeloproliferative disorder; antiphospholipid syndrome.
+- Surgery—especially pelvic and lower limb (much lower if prophylaxis used).
+- Immobility; active inflammation (eg infection, IBD).
+- Pregnancy; combined OCP; HRT.
+- Previous thromboembolism and inherited thrombophilia, see p374.
+
+**Signs and symptoms**
+- Acute dyspnoea, pleuritic chest pain, haemoptysis, and syncope.
+- Hypotension, tachycardia, gallop rhythm, JVP, loud P2, right ventricular heave, pleural rub, tachypnoea, cyanosis, AF.
+
+With thromboprophylaxis, PE following surgery is far less common, but PE may occur after any period of immobility, or with no predisposing factors. Breathlessness may be the only sign. Multiple small emboli may present less dramatically with pleuritic pain, haemoptysis, and gradually increasing breathlessness. > Look for a source of emboli—especially DVT (is a leg swollen?).
+
+**Investigations** > Risk stratify based upon clinical features (use 2-level Wells' score for PE—p191). A -ve D-dimer in a low-probability patient effective excludes PE.¹¹
+- U&E, FBC, baseline clotting.
+- ECG: commonly normal or sinus tachycardia; right ventricular strain pattern V1–V3 (p98), right axis deviation, RBBB, AF, may be deep S waves in I, Q waves in III, inverted T waves in III ('S I QIII TIII').
+- CXR: often normal; decreased vascular markings, small pleural effusion. Wedge-shaped area of infarction. Atelectasis.
+- ABG: hyperventilation + poor gas exchange: ↓PO2, ↓PCO2, ↑pH.
+- Serum D-dimer: low specificity (↑ if thrombosis, inflammation, post-op, infection, malignancy) ∴ check only in patients with low pre-test probability (p191).
+- CT pulmonary angiography (CTPA) is sensitive and specific and is the test of choice for high-risk patients or low-risk patients with a +ve D-dimer. If unavailable, a ventilation–perfusion (V/Q) scan can aid diagnosis but frequently produces equivocal results.
+
+**Management** > See fig 19.16 for immediate management.¹¹
+> If good story and signs, make the diagnosis. Start treatment (fig 19.16) before definitive investigations: most PE deaths occur within 1h.
+- Commence LMWH or fondaparinux.
+- If there is haemodynamic instability, consider thromolysis.
+- Long-term anticoagulation: either DOAC (p350—switch directly from LMWH) or warfarin (continue LMWH until INR >2).
+- Is there an underlying cause, eg thrombophilia (p374), SLE, or polycythaemia? Consider malignancy (take a careful history and perform a full physical examination; check CXR, FBC, LFT, Ca²⁺; urinalysis; consider CT abdomen/pelvis and mammogram).
+- If obvious remedial cause, 3 months of anticoagulation (p351) may be enough; otherwise, continue for ≥3–6 months (long term if recurrent emboli, or underlying malignancy).
+
+**Prevention** See p190.

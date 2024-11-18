@@ -1,0 +1,40 @@
+# Approaches to abnormal liver function tests (LFTs)
+
+Abnormal LFTs can be found in ~17% of the asymptomatic general population. Also, remember that a normal LFT does not exclude liver disease.
+
+## Tests of hepatocellular injury or cholestasis
+
+**Aminotransferases:** (AST, ALT) Released in the bloodstream after hepatocellular injury. ALT is more specific for hepatocellular injury (but also expressed in kidney and muscle). AST is also expressed in the heart, skeletal muscle, and RBCs.
+
+**Alkaline phosphatase:** May originate from liver, bone (so raised in growing children) or placenta.
+
+**Gamma-glutamyltransferase (GGT; γGT):** Present in liver, pancreas, renal tubules, and intestine—but not bone, so it helps tell if a raised ALP is from bone (GGT→) or liver (GGT↑). NB: it is not specific to alcohol damage to the liver.
+
+## Tests of hepatic function
+Serum albumin, serum bilirubin, PT (INR).
+
+## Hepatocellular predominant liver injury
+↑AST & ↑ALT. Evaluate promptly, consider medications, collateral history from family ('Could he be consuming ↑alcohol?'); ultrasound for fatty liver, metastases, viral serology (hepatitis A, B, C, E, EBV, CMV).
+
+**Alcoholic liver disease:** AST/ALT ratio is typically 2:1 or more. When the history is not reliable, normal ALP, ↑GGT, and macrocytosis suggest this condition.
+
+**Acute viral hepatitis:** ↑ALT; bilirubin may be ↑↑. NB: AST may be ↑↑, p278, p281.
+
+**Chronic viral hepatitis:** ↑ALT; HBV & C are a leading cause worldwide.
+
+**Autoimmune hepatitis (AIH):** Occurs mainly in young and middle-aged females.
+
+**Fatty infiltration of the liver:** (See p285.) Probably the chief cause of mildly raised LFTs in the general population and may be recognized on ultrasound.
+
+**Ischaemic hepatitis:** Can be seen in conditions when effective circulatory volume is low (eg MI, hypotension, haemorrhage). ↑↑↑ALT, as well as LDH.
+
+**Drug-induced hepatitis:** As no specific serology identifies most culprits, a good history is vital. Paracetamol overdose causes most acute liver failure in the UK.
+
+## Cholestasis predominant liver injury
+ALP and GGT are ↑; AST and ALT mildly↑.
+
+## Management
+For each specific diagnosis, manage accordingly. If asymptomatic and other tests are –ve, try lifestyle modification. Help reduce weight and alcohol use (p280 & OHCS p512); control DM & dyslipidaemia; stop hepatotoxic drugs.
+
+## Follow-up
+Repeat tests after 1–2 months; if still ↑, do US (± abdominal CT). If diagnosis still unclear, get help: is biopsy needed? Consider (if you haven't already) α1-antitrypsin levels, serum caeruloplasmin (Wilson's disease), coeliac serology, ANA and ASMA (AIH, p284).

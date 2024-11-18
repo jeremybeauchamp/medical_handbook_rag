@@ -1,0 +1,35 @@
+# 460 Blackouts
+
+Causes of collapse ± loss of consciousness (LOC) are many; take a careful history (BOX).
+
+## Vasovagal (neurocardiogenic) syncope
+Occurs due to reflex bradycardia ± peripheral vasodilation provoked by emotion, pain, or standing too long (it cannot occur when lying down). Onset is over seconds (not instantaneous), and is often preceded by pre-syncopal symptoms, eg nausea, pallor, sweating, and narrowing of visual fields. Brief clonic jerking of the limbs may occur due to cerebral hypoperfusion, but there is no tonic/clonic sequence. Urinary incontinence is uncommon, and there is no tongue-biting. Unconsciousness usually lasts for ~2min and recovery is rapid.
+
+## Situation syncope
+Symptoms as for vasovagal syncope but with a clear precipitant: cough syncope occurs after a paroxysm of coughing; effort syncope is brought on by exercise; there is usually a cardiac cause, eg aortic stenosis, HCM; micturition syncope happens during or after urination: mostly men, at night.
+
+## Carotid sinus syncope
+Hypersensitive baroreceptors cause excessive reflex bradycardia ± vasodilation on minimal stimulation (eg head-turning, shaving).
+
+## Epilepsy (p490)
+Features suggestive of this diagnosis include: attacks when asleep or lying down; aura; identifiable triggers (eg TV); altered breathing; cyanosis; typical tonic-clonic movements; incontinence of urine; tongue-biting; prolonged post-ictal drowsiness, confusion, amnesia, and transient focal paralysis (Todd's palsy).
+
+## Stokes-Adams attacks
+Transient arrhythmias (eg bradycardia due to complete heart block) cause cardiac output and LOC. The patient falls to the ground (often with no warning except palpitations; injuries are common), and is pale, with a slow or absent pulse. Recovery is in seconds: the patient flushes, the pulse speeds up, and consciousness is regained. As with vasovagal syncope, anoxic clonic jerks may occur in prolonged LOC. Attacks may happen several times a day and in any posture.
+
+## Other causes
+- **Hypoglycaemia**: (p214) Tremor, hunger, and perspiration herald light-headedness or LOC; rare in non-diabetics.
+- **Orthostatic hypotension**: Unsteadiness or LOC on standing from lying in those with inadequate vasomotor reflexes: the elderly; autonomic neuropathy (p505); antihypertensive medication; overdiuresis; multisystem atrophy (MSA; p494).
+- **Anxiety**: Hyperventilation, tremor, sweating, tachycardia, paraesthesiae, light-headedness, and no LOC suggest a panic attack.
+- **Drop attacks**: Sudden fall to the ground without LOC. Mostly benign and due to leg weakness but may also be caused by hydrocephalus, cataplexy, or narcolepsy.
+- **Factitious blackouts**: Pseudoseizures, Münchausen's (p706).
+
+## Examination
+Cardiovascular, neurological. Measure BP lying and standing.
+
+## Investigation
+All with recurrent syncope (or falls) need cardiac assessment—urgently if associated with palpitations, arrhythmias, 3rd-degree AV block, or prolonged QT interval (p711). ECG ± 24h ECG (arrhythmia, long QT, eg Romano-Ward, p96); U&E, FBC, Mg²⁺, Ca²⁺, glucose; tilt-table test³; EEG, sleep EEG; echocardiogram; CT/MRI brain; ABG if practical (↓PCO₂ in attacks suggests hyperventilation as the cause).
+
+> While the cause is being elucidated, advise against driving (see p158).
+
+³ Patient is subject to continuous ECG and BP monitoring while strapped to a table and moved rapidly from resting horizontal position to vertical. Induction of symptoms with inappropriate BP drop >30mmHg or bradycardia suggests neurally mediated syncope. Consider pacing.

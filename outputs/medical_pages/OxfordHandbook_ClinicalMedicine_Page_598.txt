@@ -1,0 +1,41 @@
+# Nutritional support in hospital
+
+Over 25% of hospital inpatients may be malnourished. Hospitals can become so focused on curing disease that they ignore the foundations of good health—malnourished patients recover more slowly and experience more complications. See table 13.6.
+
+## Why are so many hospital patients malnourished?
+
+1. Increased nutritional requirements (eg sepsis, burns, surgery).
+2. Increased nutritional losses (eg malabsorption, output from stoma).
+3. Decreased intake (eg dysphagia, nausea, sedation, coma).
+4. Effect of treatment (eg nausea, diarrhoea).
+5. Enforced starvation (eg prolonged periods nil by mouth).
+6. Missing meals (eg due to investigations—minimize meal time disruption).
+7. Difficulty with feeding (eg lost dentures; no one available to assist).
+8. Unappetizing food.
+
+## Identifying at-risk patients
+Assess nutrition state (using eg Malnutrition Universal Screening Tool) and weight on admission; reassess weekly thereafter. Involve dieticians early in those at risk.
+
+- **History**: Recent weight (>20%, accounting for fluid balance); recent reduced intake; diet change (eg recent change in consistency of food); nausea, vomiting, pain, diarrhoea which might have led to reduced intake.
+
+- **Examination**: State of hydration (p666): dehydration can go hand-in-hand with malnutrition, and overhydration can mask malnutrition. Evidence of malnutrition: skin hanging off muscles (eg over biceps); no fat between fold of skin; hair rough and wiry; pressure sores; sores at corner of mouth. Calculate body mass index (p244); BMI <18.5kg/m² suggests malnourishment. Anthropomorphic indices, eg mid-arm circumference, skin fold measures, and grip strength are also used.
+
+- **Investigations**: Generally unhelpful. Low albumin suggestive, but is affected by many things other than nutrition. Albumin can be helpful in monitoring recovery.
+
+## Enteral nutrition
+(Ie nutrition given into gastrointestinal tract.) If at all possible, give nutrition by mouth. An all-fluid diet can meet requirements (but get advice from dietician). If danger of choking or aspiration (eg after stroke), consider semi-solid diet. Early post-op enteral nutrition has been shown to benefit patients (eg after GI surgery) and may reduce complications. 
+
+**Tube feeding**: Liquid nutrition via a tube: Nasogastric typically placed without guidance (p759); nasojejunal tubes require endoscopic placement (used if gastric outlet obstruction, delayed gastric emptying, post-gastrectomy, or pancreatitis). Alternatively, gastric or jejunal tubes may be inserted radiologically or surgically (ie gastrostomy/jejunostomy). Use for nutritionally complete, commercially prepared feeds. Close liaison with a dietician is essential.
+
+**Polymeric feeds** consist of undigested proteins, starches, and long-chain fatty acids (eg Nutrison standard®, Osmolite®). Normally contain ~1kCal/mL and 4-6g protein per 100mL. Typical requirements met with 2L/24h. 
+
+**Elemental feeds** consist of individual amino acids, oligo- and monosaccharides needing minimal digestion. Feed is typically initiated at a slow, continuous rate (nausea and vomiting less problematic) but patients may build up to shorter, bolus feeds, freeing them from pumps between.
+
+## Guidelines for success
+
+- Use fine-bore (9Fr) nasogastric feeding tube when possible.
+- Check position of nasogastric tube (pH testing) before starting feeding (p759); the positioning of a nasojejunal tube can be checked on abdominal x-ray.
+- Build up feeds gradually to avoid diarrhoea and distension.
+- Weigh at least weekly.
+- Check blood glucose and plasma electrolytes (monitor for refeeding syndrome if previously malnourished—p587).
+- Treat underlying conditions vigorously, eg sepsis may impede +ve nitrogen balance.

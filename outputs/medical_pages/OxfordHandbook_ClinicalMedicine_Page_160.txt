@@ -1,0 +1,29 @@
+# Aortic valve disease
+
+## Aortic stenosis (AS)
+**Causes:** Senile calcification is the commonest. Others: congenital (bicuspid valve, Williams syndrome, p149), rheumatic heart disease.
+
+**Presentation:** Think of AS in any elderly person with chest pain, exertional dyspnoea, or syncope. The classic triad includes angina, syncope, and heart failure. Also: dyspnoea; dizziness; faints; systemic emboli if infective endocarditis; sudden death.
+
+**Signs:** Slow rising pulse with narrow pulse pressure (feel for diminished and delayed carotid upstroke—parvus et tardus); heaving, non-displaced apex beat; LV heave; aortic thrill; ejection systolic murmur (heard at the base, left sternal edge and the aortic area, radiates to the carotids). S1 is usually normal. As stenosis worsens, A2 is increasingly delayed, giving first a single S2 and then reversed splitting. But this sign is rare. More common is a quiet A2. In severe AS, A2 may be inaudible (calcified valve). There may be an ejection click (pliable valve) or an S4.
+
+**Tests:** ECG: LVH with strain pattern; P-mitrale; LAD; poor R-wave progression; LBBB or complete AV block (calcified ring). CXR: LVH; calcified aortic valve (fig 3.44); post-stenotic dilatation of ascending aorta. Echo: diagnostic (p110). Doppler echo can estimate the gradient across valves: severe stenosis if peak gradient ≥40mmHg (but beware the poor left ventricle not able to generate gradient) and valve area <1cm². If the aortic jet velocity is >4m/s (or is increasing by >0.3m/s per yr) risk of complications is increased. Cardiac catheter can assess: valve gradient; LV function; coronary artery disease; risks: emboli generation.
+
+**Differential diagnosis:** Hypertrophic cardiomyopathy (HCM, p152); aortic sclerosis.
+
+**Management:** If symptomatic, prognosis is poor without surgery: 2-3yr survival if angina/syncope; 1-2yr if cardiac failure. If moderate-to-severe and treated medically, mortality can be as high as 50% at 2yrs, therefore prompt valve replacement (p148) is usually recommended. In asymptomatic patients with severe AS and a deteriorating ECG, valve replacement is also recommended. If the patient is not medically fit for surgery, percutaneous valvuloplasty/replacement (TAVI = transcatheter aortic valve implantation) may be attempted (fig 3.45).
+
+## Aortic sclerosis
+Senile degeneration of the valve. There is an ejection systolic murmur; but no carotid radiation, and normal pulse (character and volume) and S2.
+
+## Aortic regurgitation (AR)
+**Acute:** Infective endocarditis, ascending aortic dissection, chest trauma.
+**Chronic:** Congenital, connective tissue disorders (Marfan's syndrome, Ehlers-Danlos), rheumatic fever, Takayasu arteritis, rheumatoid arthritis, SLE, pseudoxanthoma elasticum, appetite suppressants (eg fenfluramine, phentermine), seronegative arthritides (ankylosing spondylitis, Reiter's syndrome, psoriatic arthropathy), hypertension, osteogenesis imperfecta, syphilitic aortitis.
+
+**Symptoms:** Exertional dyspnoea, orthopnoea, and PND. Also: palpitations, angina, syncope, CCF. 
+
+**Signs:** Collapsing (water-hammer) pulse (p42); wide pulse pressure; displaced, hyperdynamic apex beat; high-pitched early diastolic murmur (heard best in expiration, with patient sat forward). Eponyms: Corrigan's sign: carotid pulsation; de Musset's sign: head nodding with each heart beat; Quincke's sign: capillary pulsations in nail beds; Duroziez's sign: in the groin, a finger compressing the femoral artery 2cm proximal to the stethoscope gives a systolic murmur; if 2cm distal, it gives a diastolic murmur as blood flows backwards; Traube's sign: 'pistol shot' sound over femoral arteries; an Austin Flint murmur (p46) denotes severe AR.
+
+**Tests:** ECG: LVH. CXR: cardiomegaly; dilated ascending aorta; pulmonary oedema. Echo is diagnostic. Cardiac catheterization to assess: severity of lesion; anatomy of aortic root; LV function; coronary artery disease; other valve disease.
+
+**Management:** The main goal of medical therapy is to reduce systolic hypertension; ACE-i are helpful. Echo every 6-12 months to monitor. Indications for surgery: severe AR with enlarged ascending aorta, increasing symptoms, enlarging LV or deteriorating LV function on echo; or infective endocarditis refractory to medical therapy. Aim to replace the valve before significant LV dysfunction occurs. Predictors of poor post-operative survival: ejection fraction <50%, NYHA class III or IV (p135), duration of CCF >12 months.

@@ -1,0 +1,27 @@
+# Gastric surgery and its aftermath
+
+Indications for gastric surgery include gastric cancer (p619) and perforated/haemorrhaging peptic ulcers. Medical therapy (p252) for peptic ulcers has made elective surgery exceedingly rare/redundant. **Emergency surgery** may be needed for haemorrhage or perforation. Haemorrhage is usually treated by under-running the bleeding ulcer base or excision of the ulcer. If the former is done, then a biopsy should be taken to exclude malignancy. Perforation is usually managed by excision of the hole for histology, then closure.
+
+## Gastric carcinoma
+Localized disease may be treated by curative gastrectomy. Lesions in the proximal third or extensive infiltrative disease require total gastrectomy, while lesions in the distal two-thirds can be treated with a partial gastrectomy. Laparoscopic surgery may be as effective and safe as open surgery in specialist centres.
+
+### Surgery:
+- **Billroth I**: Partial gastrectomy with simple gastroduodenal re-anastomosis.
+- **Billroth II (AKA Polya) gastrectomy**: (fig 13.37) Partial gastrectomy with gastrojejunal anastomosis. The duodenal stump is oversewn (leaving a blind afferent loop), and anastomosis is achieved by a longitudinal incision into the proximal jejunum.
+- **Roux-en-Y**: (fig 13.38) Following total or subtotal gastrectomy, the proximal duodenal stump is oversewn, the proximal jejunum is divided from the distal duodenum and connects with the oesophagus (or proximal stomach after subtotal gastrectomy), while the distal duodenum is connected to the distal jejunum.
+
+**Lymph node clearance** is a controversial area. RCTs and meta-analyses suggest there may be limited benefit and increased morbidity associated with extended lymph node resections (D₂ or D₃) over resection limited to the perigastric nodes (D₁).
+
+## Physical complications of gastrectomy
+- **Abdominal fullness**: Feeling of early satiety (± discomfort and distension) improving with time. Advise to take small, frequent meals.
+- **Afferent loop syndrome**: Post-gastrectomy (eg Billroth II), the afferent loop may fill with bile after a meal, causing upper abdominal pain and bilious vomiting. This is difficult to treat—but often improves with time.
+- **Diarrhoea**: May be disabling after vagotomy. Codeine phosphate may help.
+- **Gastric tumour**: A rare complication of any surgery which ↑ acid production.
+- **↑Amylase**: If with abdominal pain, this may indicate afferent loop obstruction after Billroth II surgery and requires emergency surgery.
+
+## Metabolic complications
+- **Dumping syndrome**: Fainting and sweating after eating due to food of high osmotic potential being dumped in the jejunum, causing oligaemia from rapid fluid shifts. 'Late dumping' is due to rebound hypoglycaemia and occurs 1–3h after meals. Both tend to improve with time but may be helped by eating less sugar, and more guar gum and pectin (slows glucose absorption). Acarbose may also help to reduce the early hyperglycaemic stimulus to insulin secretion.
+- **Weight loss**: Often due to poor calorie intake.
+- **Bacterial overgrowth ± malabsorption** (blind loop syndrome) may occur.
+- **Anaemia**: Usually from lack of iron, hypochlorhydria, and stomach resection. B₁₂ levels are frequently low but megaloblastic anaemia is rare.
+- **Osteomalacia**: There may be pseudofractures which look like metastases.

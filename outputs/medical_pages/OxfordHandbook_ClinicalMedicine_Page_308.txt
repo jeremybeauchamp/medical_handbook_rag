@@ -1,0 +1,44 @@
+## Urine
+
+Perform dipstick urinalysis whenever you suspect renal disease. This is a crude way of checking whether the urine contains anything that it should not, eg protein, blood, glucose. Abnormalities can indicate intrinsic renal disease or renal tract abnormalities and usually require further investigation. However, a dipstick-positive catheter sample is difficult to interpret.
+
+Look for a urine dip result (before the catheter was inserted). A positive result indicates the need for specialist advice from nephrology/urology. A negative result may help to reassure you about the absence of intrinsic renal disease.
+
+### Proteinuria
+
+Requires quantification. 24h collections are rarely used due to inaccuracy. Albumin:creatinine ratio (A:CR) or protein:creatinine ratio (P:CR) is performed on a random spot urine sample. Normal A:CR is <2.5(♂) or <3.5(♀). P:CR is <15. Approximate equivalent levels of proteinuria are given in table 7.1.
+
+#### Table 7.1 Conversion factors
+
+| Protein excretion g/24h | A:CR mg/mmol | P:CR mg/mmol |
+|-------------------------|---------------|---------------|
+| 0.15 (physiological)    | 2.5 ♂ or 3.5 ♀| 15            |
+| 0.5                     | 30            | 50            |
+| 1                       | 70            | 100           |
+| 3 (nephrotic range)     | 250           | 300           |
+
+Causes of raised A:CR/P:CR: The higher the proteinuria, the more chance it is caused by glomerular disease, eg glomerulonephritis, DM, amyloidosis, myeloma (though dipsticks do not detect light chains). Proteinuria is associated with an ↑risk of cardiovascular disease and death. False positive: Postural (repeat using an early morning sample), post-exercise, fever, heart failure.
+
+Microalbuminuria: Ultra-sensitive dipsticks are available to measure albuminuria (albumin excretion 30-300mg/24h). Suggests early glomerular disease, eg DM, ↑BP.
+
+### Haematuria
+
+Blood in the urine may arise from anywhere in the renal tract. Transient causes should be excluded, eg UTI, menstruation. Classified as:
+- visible (VH): previously known as macroscopic, frank
+- non-visible (NVH): found on dipstick/microscopy, previously known as microscopic. NVH is subdivided according to the presence of urinary tract symptoms: symptomatic (SNVH) or asymptomatic (aNVH).
+
+Causes: Malignancy (kidney, ureter, bladder), calculi, IgA nephropathy, Alport syndrome (p320), other glomerulonephritis (p310), polycystic kidney disease (p320), schistosomiasis. Do not attribute haematuria to anticoagulation without investigation. False positive: Myoglobin triggers same dipstick reaction—check microscopy.
+
+Management: VH, SNVH, and aNVH >40yr should undergo urological assessment, imaging, and cystoscopy to exclude renal tract malignancy and calculi.
+
+A renal aetiology should be considered, and renal referral made, for NVH with:
+- eGFR <60
+- coexistent proteinuria (A:CR >30 or P:CR >50)
+- hypertension >140/90mmHg
+- family history of renal disease.
+
+A cause is not established in 19-68% of patients with NVH. These patients should be monitored via BP, eGFR, and repeat A:CR/P:CR every 6 months-1 year. Increasing proteinuria and deteriorating eGFR warrant repeat referral and investigation.
+
+### Others
+
+Glucose: DM, pregnancy, sepsis, proximal renal tubular pathology (p316). Ketones: Starvation, ketoacidosis. Leucocytes: UTI (p296), vaginal discharge. Nitrites: UTI (enteric Gram-ve organism). Bilirubin: Haemolysis. Urobilinogen: Liver disease, haemolysis. Specific gravity: Normal range: 1.005-1.030, limited surrogate for urine osmolality, affected by proteinuria. pH: NR: 4.5-9, usually acidic with meat containing diet (acid-base balance: p670, renal tubular acidosis pp316-7).

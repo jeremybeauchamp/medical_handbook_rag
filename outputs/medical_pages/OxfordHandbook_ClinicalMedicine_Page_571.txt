@@ -1,0 +1,31 @@
+# Features of vasculitis
+
+The presentation of vasculitis will depend on the organs affected:
+
+- **Systemic:** Fever, malaise, weight loss, arthralgia, myalgia.
+- **Skin:** Purpura, ulcers, livedo reticularis (fig 12.17), nailbed infarcts, digital gangrene.
+- **Eyes:** Episcleritis, scleritis, visual loss.
+- **ENT:** Epistaxis, nasal crusting, stridor, deafness.
+- **Pulmonary:** Haemoptysis and dyspnoea (due to pulmonary haemorrhage).
+- **Cardiac:** Angina or MI (due to coronary arteritis), heart failure, and pericarditis.
+- **GI:** Pain or perforation (infarcted viscus), malabsorption (chronic ischaemia).
+- **Renal:** Hypertension, haematuria, proteinuria, casts, and renal failure (renal cortical infarcts; glomerulonephritis in ANCA +ve vasculitis).
+- **Neurological:** Stroke, fits, chorea, psychosis, confusion, impaired cognition, altered mood. Arteritis of the vasa nervorum (arterial supply to peripheral nerves) may cause mononeuritis multiplex or a sensorimotor polyneuropathy.
+- **GU:** Orchitis—testicular pain or tenderness.
+
+# Polymyalgia rheumatica (PMR)
+
+PMR is not a true vasculitis and its pathogenesis is unknown. PMR and GCA share the same demographic characteristics and, although separate conditions, the two frequently occur together.
+
+**Features:** Age >50yrs; subacute onset (<2 weeks) of bilateral aching, tenderness, and morning stiffness in shoulders, hips, and proximal limb muscles ± fatigue, fever, weight, anorexia, and depression. There may be associated mild polyarthritis, tenosynovitis, and carpal tunnel syndrome (10%). Weakness is not a feature.
+
+**Investigations:** ↑CRP, ESR typically >40 (but may be normal); AlkP is ↑ in 30%. Note creatinine kinase levels are normal (helping to distinguish from myositis/myopathies).
+
+**Differential diagnoses:** Recent-onset RA, polymyositis, hypothyroidism, primary muscle disease, occult malignancy or infection, osteoarthritis (especially cervical spondylosis, shoulder OA), neck lesions, bilateral subacromial impingement (OHCS Rheumatology p666), spinal stenosis (OHCS p676).
+
+**Management:** Prednisolone 15mg/d PO. Expect a dramatic response within 1 week and consider an alternative diagnosis if not. ↓ dose slowly, eg by 1mg/month (according to symptoms/ESR). Investigate apparent 'flares' during withdrawal—attributable to another condition? Most need steroids for ≥2yrs, so give bone protection. Addition of methotrexate may be considered, under specialist supervision, for patients at risk of relapse/prolonged therapy. NSAIDs are not effective. Inform patients to seek urgent review if symptoms of GCA develop.
+
+Fig 12.16 Renal angiogram showing multiple aneurysms in PAN.
+Courtesy of Dr William Herring.
+
+Fig 12.17 Livedo reticularis: pink-blue mottling caused by capillary dilatation and stasis in skin venules. Causes: physiological, cold, or vasculitis.

@@ -1,0 +1,29 @@
+# The control of pain
+
+Humans are the most exquisite devices ever made for experiencing pain: the richer our inner lives, the greater the varieties of pain there are for us to feel, and the more resources we have for dealing with pain. If we can connect with patients' inner lives we may make a real difference. Never forget how painful pain is, nor how fear magnifies pain. Try not to let these sensations, so often interposed between your patient and recovery, be invisible to you as he or she bravely puts up with them.
+
+## Approach to management (fig 13.5 and p532.)
+Review and chart each pain carefully and individually.
+- Identify and treat the underlying pathology wherever possible.
+- Give regular doses rather than on an 'as-required' basis.
+- Choose the best route: PO, PR, IM, epidural, SC, inhalation, or IV.
+- Explanation and reassurance contribute greatly to analgesia.
+- Allow the patient to be in charge. This promotes wellbeing, and does not lead to overuse. Patient-controlled continuous IV morphine delivery systems are useful.
+- Liaise with the Acute Pain Service, if possible.
+
+## Non-narcotic (simple) analgesia
+Paracetamol 0.5-1.0g/4h PO (up to 4g daily; 15mg/kg/4h IV over 15min in children <50kg; up to 60mg/kg/d). Caution in liver impairment. NSAIDs, eg ibuprofen 400mg/8h PO (see BNF C for dosing in children) are good for musculoskeletal pain and renal or biliary colic. CI: peptic ulcer, clotting disorders, anticoagulants. Cautions: asthma, renal or hepatic impairment, heart failure, IHD, pregnancy, and the elderly. Aspirin is contraindicated in children due to the risk of Reye's syndrome (OHCS p652).
+
+## Opioid drugs for severe pain
+Morphine (eg 10-15mg/2-4h IV/IM) or diamorphine (5-10mg/2-4h PO, SC, or slow IV, but you may need much more) are best. NB: these are 'controlled' drugs. For palliative care, see p532. Alternative delivery routes include transdermal (once baseline requirements are established) or sublingual.
+
+### Side-effects of opioids:
+These include nausea (so give with an anti-emetic, p251), respiratory depression, constipation, cough suppression, urinary retention, ↓BP, and sedation (do not use in hepatic failure or head injury). Dependency is rarely a problem. Naloxone (eg 100-200mcg IV, followed by 100mcg increments, eg every 2min until responsive) may be needed to reverse the effects of excess opioids (p842).
+
+## Epidural analgesia
+Opioids and anaesthetics are given into the epidural space by infusion or as boluses. Ask the advice of the Pain Service. SEs are thought to be less, as the drug is more localized: watch for respiratory depression and local anaesthetic-induced autonomic blockade (↓BP).
+
+## Adjuvant treatments
+Eg radiotherapy for bone cancer pain; anticonvulsants, antidepressants, gabapentin or steroids for neuropathic pain, antispasmodics, eg hyoscine butylbromide⁴ (Buscopan® 10-20mg/8h PO/IM/IV) for intestinal or renal tract colic. If brief pain relief is needed (eg for changing dressings or exploring wounds), try inhaled nitrous oxide (with 50% O₂—as Entonox®) with an 'on-demand' valve. Transcutaneous electrical nerve stimulation (TENS), local heat, local or regional anaesthesia, and neurosurgical procedures (eg excision of neuroma) may be tried but can prove disappointing. Treat conditions that exacerbate pain (eg constipation, depression, anxiety).
+
+⁴ Not to be confused with hyoscine hydrobromide; used for drying secretions and in motion sickness.

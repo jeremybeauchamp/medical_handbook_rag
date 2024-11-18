@@ -1,0 +1,17 @@
+| ABCDE criteria for diagnosis of melanoma | 597 |
+|-------------------------------------------|-----|
+| Asymmetry                                 |     |
+| Border—irregular                          |     |
+| Colour—non-uniform                        |     |
+| Diameter >7mm                             |     |
+| Elevation                                 |     |
+
+The image contains three medical photographs showing different skin conditions:
+
+Fig 13.16 Melanoma: A dark, irregularly shaped lesion on skin with a 2cm scale bar.
+
+Fig 13.17 Squamous cell cancer: An elevated, reddish lesion with a rough surface.
+
+Fig 13.18 Basal cell carcinoma (BCC): A small, round, pearly-looking growth on skin.
+
+Surgery

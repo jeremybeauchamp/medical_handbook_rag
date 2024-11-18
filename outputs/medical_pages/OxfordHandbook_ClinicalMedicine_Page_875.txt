@@ -1,0 +1,67 @@
+8 Pérez Fidalgo JA, García Fabregat L, Cervantes A, et al. Management of chemotherapy extravasation: ESMO-EONS Clinical Practice Guidelines. Ann Oncol 2012; 23(suppl 7): vii167–vii173. https://academic.oup.com/annonc/article/23/suppl_7/vii167/145139/Management-of-chemotherapy-extravasation-ESMO-EONS
+
+9 Loren AW, Mangu PB, Beck LN, et al. Fertility preservation for patients with cancer: American Society of Clinical Oncology clinical practice guideline update. J Clin Oncol 2013; 31(19):2500-10. http://ascopubs.org/doi/full/10.1200/JCO.2013.49.2678
+
+10 Ahmad SS, Duke S, Jena R, et al. Advances in radiotherapy. BMJ 2012; 345:e7765. http://www.bmj.com/content/345/bmj.e7765.long
+
+11 DeAngelo D, Alyea EP. Oncologic emergencies. In: Singh AK, Loscalzo J (eds) The Brigham Intensive Review of Internal Medicine. Oxford: Oxford University Press, 2014:159–67
+
+12 Lee DLY, Anthoney A. Complications of systemic therapy – gut infections and acute diarrhoea. Clin Med 14(5):528–45. http://www.clinmed.rcpjournal.org/content/14/5/528.full.pdf+html
+
+13 Pelosof LC, Gerber DE. Paraneoplastic syndromes: an approach to diagnosis and treatment. Mayo Clin Proc 2010; 85(9):838–54. http://www.mayoclinicproceedings.org/article/S0025-6196(11)60214-0/abstract
+
+14 Sturgeon CM, Lai LC, Duffy MJ. Serum tumour markers: how to order and interpret them. BMJ 2009; 339:b3527. http://www.bmj.com/content/339/bmj.b3527.long
+
+15 Schröder FH, Hugosson J, Roobol MJ, et al. Screening and prostate cancer mortality: results of the European Randomised Study of Screening for Prostate Cancer (ERSPC) at 13 years of follow up. Lancet 2014; 384(9959):2027–35. http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(14)60525-0/abstract
+
+16 Temel JS, Greer JA, Muzikansky A, et al. Early palliative care for patients with metastatic non-small-cell lung cancer. N Engl J Med 2010; 363:733–42. http://www.nejm.org/doi/full/10.1056/NEJMoa1000678
+
+17 World Health Organization. Analgesic ladder. http://www.who.int/cancer/palliative/painladder/en/
+
+18 NHS England. NPSA safety alert: Risk of distress and death from inappropriate doses of naloxone in patients on long-term opioid/opiate treatment. 2014. https://www.england.nhs.uk/wp-content/uploads/2014/11/psa-inappropriate-doses-naloxone.pdf
+
+19 NHS Scotland. Scottish palliative care guidelines. 2014. http://www.palliativecareguidelines.scot.nhs.uk/
+
+20 Universities of Hull, Staffordshire and Aberdeen. Spiritual care at the end of life: A systematic review. 2010. https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/215798/dh_123804.pdf
+
+21 Kaye P. Spiritual pain. In: Notes on symptom control in hospice and palliative care. Hospice Education Institute. 1990.
+
+22 Ruegger J, Hodgkinson S, Field-Smith A, et al. Care of adults in the last days of life. BMJ 2015; 351:h6631. http://www.bmj.com/content/351/bmj.h6631
+
+23 General Medical Council. Treatment and care towards the end of life. 2010. http://www.gmc-uk.org/static/documents/content/Treatment_and_care_towards_the_end_of_life_-_English_1015.pdf
+
+## Chapter 12: Rheumatology
+
+1 Doherty M, Dacre J, Dieppe P, et al. The 'GALS' locomotor screen. Ann Rheum Dis 1992; 51:1165–9. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1012427/
+
+2 Courtney P, Doherty M. Joint aspiration and injection. Best Pract Res Clin Rheumatol 2005; 19:345–69. http://www.bprclinrheum.com/article/S1521-6942(05)00010-0/abstract
+
+3 Speed C. Low back pain. BMJ 2004; 328:1119–21. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC406328/
+
+4 NICE. Low back pain in adults: Early management [CG88]. 2009. https://www.nice.org.uk/guidance/cg88
+
+5 Woolf AD, Pfleger B. Burden of major musculoskeletal conditions. Bull World Health Organ 2003; 81(9):646–56. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2572542/
+
+6 Sowers M, Jannausch M, Stein E, et al. C-reactive protein as a biomarker of emergent osteoarthritis. Osteoarthritis Cartilage 2002; 10(8):595–601. https://www.ncbi.nlm.nih.gov/pubmed/12479380
+
+7 NICE. Osteoarthritis: Care and management [CG177]. Available at: https://www.nice.org.uk/guidance/cg177
+
+8 Bellamy N, Campbell J, Robinson V, et al. Viscosupplementation for the treatment of osteoarthritis of the knee. Cochrane Database Syst Rev 2006; 2:CD005321. http://onlinelibrary.wiley.com/doi/10.1002/14651858.CD005321.pub2/abstract
+
+9 García-De La Torre I. Advances in the management of septic arthritis. Rheum Dis Clin North Am 2003; 29(1):61–75. https://www.ncbi.nlm.nih.gov/pubmed/12635500
+
+10 Ross JJ, Saltzman CL, Carling P, et al. Pneumococcal septic arthritis: review of 190 cases. Clin Infect Dis 2003; 36(3):319–27. http://cid.oxfordjournals.org/content/36/3/319.long
+
+11 Coakley G, Mathews C, Field M, et al. BSR & BHPR, BOA, RCGP and BSAC guidelines for management of the hot swollen joint in adults, 2006. Rheumatology (Oxford) 2006; 45(8):1039–41. http://rheumatology.oxfordjournals.org/content/45/8/1039.long
+
+12 Mathews CJ, Kingsley G, Field M, et al. Management of septic arthritis: a systematic review. Ann Rheum Dis 2007; 66(4):440–5. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1856038/
+
+13 Blizard Institute Clinical Effectiveness Group. NSAIDs: Reducing the risk summary guidelines. 2015. http://www.blizard.qmul.ac.uk/ceg-resource-library/clinical-guidance/clinical-guidelines.html
+
+14 McGettigan P, Henry D. Cardiovascular risk with non-steroidal anti-inflammatory drugs: systematic review of population-based controlled observational studies. PLoS Med 2011; 8(9):e1001098. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3181230/
+
+15 Scarpignato C, Lanas A, Blandizzi C, et al. Safe prescribing of non-steroidal anti-inflammatory drugs in patients with osteoarthritis – an expert consensus addressing benefits as well as gastrointestinal and cardiovascular risks. International NSAID Consensus Group. BMC Med 2015; 13:55. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4365808/
+
+16 Chan F, Wong VW, Suen BY, et al. Combination of COX-2 and PPI for prevention of recurrent ulcer bleeding in patients at very high risk. Lancet 2007; 369:1621–6. http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(07)60749-1/abstract
+
+17 Calgüneri M, Ureten K, Akif Oztürk M, et al. Extra-articular manifestations of rheumatoid arthritis: results of a university hospital of 526 patients in Turkey. Clin Exp Rheumatol 2006; 24(3):305–8. http://www.clinexprheumatol.org/article.asp?a=2873

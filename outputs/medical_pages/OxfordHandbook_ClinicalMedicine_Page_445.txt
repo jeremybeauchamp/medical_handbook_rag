@@ -1,0 +1,24 @@
+# On the mode of communication of cholera
+
+Fig 9.37 Death's Dispensary, George Pinwell, 1866. © Granger, NYC / Topfoto
+
+In 1854, at 40 Broad St, London, a child became ill with diarrhoea, dying on 2 September. Her mother rinsed her soiled nappies into the house drains where faulty brickwork allowed mixing with the water supply of the Broad St pump (fig 9.37). From this confluence sprung the discipline of Public Health. The ensuing deaths from cholera clustered around the Broad St pump, as detailed by the local doctor, Dr John Snow. He used his now famous Voronoi diagram showing the deaths within a 'line of nearest pump' to motivate the parish vestry: 'In consequence of what I said, the handle of the pump was removed the following day', so inaugurating the control of cholera. These events illustrate a number of truths:
+
+1. Knowledge of the microscopic cause of disease is not required for public health measures to succeed (Vibrio cholerae was identified by Robert Kock in 1883).
+2. Even the most parochial are capable of life-saving action when assisted by a doctor in command of the facts.
+3. Influential friends help. Snow remained largely unknown until the 1930s when On the Mode of Communication of Cholera was republished by Wade Hampton Frost, first professor of epidemiology at John Hopkins School.
+4. Randomization (Broad St pump versus an alternative water supply) is king.
+
+## Diarrhoea with blood (dysentery)
+
+**Shigella (sonnei, flexneri, dysenteriae, boydii)**: Gram -ve anaerobe. Presentation: watery or bloody diarrhoea, pain, tenesmus, fever 1-2d after exposure. Lasts ~5-7d. ↑ in MSM. Complications: bacteraemia, reactive arthritis (~2% of flexneri), HUS (Shiga-toxin-producing dysenteriae, p315). Diagnosis: stool culture. PCR/enzyme immuno-assay. Treatment: supportive. Nutrition: green bananas (↑short-chain fatty acids in colon), zinc if age <6y, vitamin A. Antibiotics if systemically unwell, immunosuppressed. Guided by local sensitivities (ciprofloxacin, azithromycin). Avoid antidiarrhoeal agents: risk of toxic dilatation.
+
+**Enterohaemorrhagic/Shiga-toxin producing E. coli (STEC), eg O157:H7**: Gram -ve anaerobe. Produces veratoxins which are 'Shiga-like' due to similarity with Shigella dysenteriae. Presentation: incubation 3-8d. Diarrhoea, haemorrhagic colitis. HUS in up to 10% (p315). Diagnosis: stool culture. PCR/enzyme immunoassay for Shiga-toxin. Treatment: Supportive. Do not give antibiotics: ↑ risk of HUS.
+
+**Campylobacter**: Gram -ve, spiral-shaped rod. Presentation: incubation 1-10d (usually 2-5d). Bloody diarrhoea, pain, fever, headache. Complications: bacteraemia, hepatitis, pancreatitis, miscarriage, reactive arthritis, Guillain-Barré. Diagnosis: stool culture. PCR/enzyme immunoassay. Treatment: supportive. Antibiotics only in invasive cases, refer to local sensitivities (macrolide, doxycycline, quinolone).
+
+**Salmonella enterocolitis (non-typhoidal)**: Gram -ve, anaerobic, motile bacilli. Presentation: diarrhoea, cramps, fever, usually within 12-36h of exposure. Invasive infection (<10%) can cause bacteraemia/sepsis, meningitis, osteomyelitis, septic arthritis. Diagnosis: stool culture. PCR. Treatment: supportive. Meta-analysis shows no evidence of benefit for antibiotics in healthy people. Consider in severe/extra-intestinal disease according to local sensitivities (quinolone, macrolide).
+
+**Yersinia enterocolitica**: Gram -ve rod. Presentation: incubation 4-7d. Diarrhoea, fever, pain (may mimic appendicitis), vomiting. May last 1-3wk. Also erythema nodosum, reactive arthritis (~1 month after diarrhoea). Diagnosis: stool culture, agglutination titres. Treatment: antibiotics in severe disease depending on local sensitivities (aminoglycosides, co-trimoxazole, quinolone).
+
+> See also: Staph. aureus pre-formed toxin (p388), GI parasites (pp432-3), Clostridium difficile (p411).

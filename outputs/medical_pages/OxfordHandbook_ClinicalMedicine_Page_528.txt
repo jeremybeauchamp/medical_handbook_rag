@@ -1,0 +1,35 @@
+# Neurofibromatosis
+
+## Type 1 neurofibromatosis (NF1, von Recklinghausen's disease)
+Autosomal dominant inheritance (gene locus 17q11.2). Expression of NF1 is variable, even within a family. Prevalence: 1 in 2500, ♀:♂≈1:1; no racial predilection.
+
+Signs:
+- Café-au-lait spots: flat, coffee-coloured patches of skin seen in 1st year of life (clearest in UV light), increasing in size and number with age. Adults have ≥6, >15mm across. They do not predispose to skin cancer.
+- Freckling: typically in skin-folds (axillae, groin, neck base, and submammary area), and usually present by age 10.
+- Dermal neurofibromas: small, violaceous nodules, gelatinous in texture, which appear at puberty, and may become papillomatous. They are not painful but may itch. Numbers increase with age.
+- Nodular neurofibromas arise from nerve trunks. Firm and clearly demarcated, they can give rise to paraesthesiae if pressed.
+- Lisch nodules (fig 10.34) are tiny harmless regular brown/translucent mounds (hamartomas) on the iris (use a slit lamp) ≤2mm in diameter. They develop by 6yrs old in 90%.
+- Also short stature and macrocephaly.
+
+Complications: Occur in 30%. Mild learning disability is common. Local effects of neurofibromas: nerve root compression (weakness, pain, paraesthesiae); GI—bleeds, obstruction; bone—cystic lesions, scoliosis, pseudarthrosis. ↑BP from renal artery stenosis or phaeochromocytoma. Plexiform neurofibromas (large, subcutaneous swellings). Malignancy (5% patients with NF1): optic glioma, sarcomatous change in a neurofibroma. ↑Epilepsy risk (slight). Rare association: carcinoid syndrome (p271).
+
+Management: Multidisciplinary team with geneticist, neurologist, surgeon, and physiotherapist, orchestrated by a GP. Yearly cutaneous survey and measurement of BP. Dermal neurofibromas are unsightly, and catch on clothing; if troublesome, excise, but removing all lesions is unrealistic. Genetic counselling is vital (OHCS p154).
+
+## Type 2 neurofibromatosis (NF2)
+Autosomal dominant inheritance, though 50% are de novo, with mosaicism in some (NF2 gene locus is 22q11). Rarer than NF1 with a prevalence of only 1 in 35 000.
+
+Signs:
+- Café-au-lait spots are fewer than in NF1.
+- Bilateral vestibular Schwannomas (= acoustic neuromas; p462) are characteristic, becoming symptomatic by ~20yrs old when sensorineural hearing loss is the 1st sign. There may be tinnitus and vertigo. The rate of tumour growth is unpredictable and variable. The tumours are benign but cause problems by pressing on local structures and by ↑ICP. They may be absent in mosaic NF2.
+- Juvenile posterior subcapsular lenticular opacity (a form of cataract) occurs before other manifestations and can be useful in screening those at risk.
+
+Complications: Tender Schwannomas of cranial and peripheral nerves, and spinal nerve roots. Meningiomas (45% in NF2, often multiple). Glial tumours are less common. Consider NF2 in any young person presenting with one of these tumours in isolation.
+
+Management: Hearing tests yearly from puberty in affected families, with MRI brain if abnormality is detected. A normal MRI in the late teens is helpful in assessing risk to any offspring. A clear scan at 30yrs (unless a family history of late onset) indicates that the gene has not been inherited. Treatment of vestibular Schwannomas is neurosurgical and complicated by hearing loss/deterioration and facial palsy. Mean survival from diagnosis is ~15yrs.
+
+## Schwannomatosis
+Multiple tender cutaneous Schwannomas without the bilateral vestibular Schwannomas that are characteristic of NF2. Indistinguishable from mosaic NF2, where vestibular Schwannomas are also absent, except by genetic analysis of tumour biopsies. There is typically a large tumour load, assessable only by whole-body MRI. Mutations in the tumour suppressor genes SMARCB1 and LZTR1 and spontaneous NF2 mutations have all been described. Life expectancy is normal.
+
+| Fig 10.34 Multiple brown Lisch nodules on the iris. ©Jon Miles. |
+|----------------------------------------------------------------|
+| [Image shows a close-up of an eye with multiple small brown spots visible on the iris] |

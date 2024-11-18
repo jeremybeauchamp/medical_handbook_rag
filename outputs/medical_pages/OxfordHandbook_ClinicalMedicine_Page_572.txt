@@ -1,0 +1,25 @@
+# Fibromyalgia and chronic fatigue syndrome
+
+Fibromyalgia and chronic fatigue syndrome are part of a diffuse group of overlapping syndromes, sharing similar demographic and clinical characteristics, in which chronic symptoms of fatigue and widespread pain feature prominently. Their existence as discrete entities is controversial, especially in the absence of clear pathology, and some find such dysfunctional diagnoses frustrating. However, a correct diagnosis enables the doctor to give appropriate counselling and advise appropriate therapies, and allows the patient to begin to accept and deal with their symptoms.
+
+## Fibromyalgia
+
+Fibromyalgia comprises up to 10% of new referrals to the rheumatology clinic.54
+
+**Prevalence:** 0.5-4%. ♀:♂≈6:1 but varies depending on which diagnostic criteria are used.
+
+**Risk factors:** BOX 'Risk factors'. Female sex, middle age, low household income, divorced, low educational status.
+
+**Associations:** Other somatic syndromes such as chronic fatigue syndrome, irritable bowel syndrome (p266), and chronic headaches syndromes (see OHCS p502). Also found in ~25% of patients with RA, AS, and SLE.
+
+**Features:** Diagnosis depends on pain that is chronic (>3 months) and widespread (involves left and right sides, above and below the waist, and the axial skeleton). Profound fatigue is almost universal with complaint of unrefreshing sleep and significant fatigue and pain with small increases in physical exertion. Additional features: morning stiffness (~80-90%), paraesthesiae (without underlying cause), headaches (migraine and tension), poor concentration, low mood, and sleep disturbance (~70%). Widespread and severe tender points.
+
+**Investigations:** All normal. Diagnosis is clinical. Over-investigation can consolidate illness behaviour; but exclude other causes of pain and/or fatigue (eg RA, PMR see p557, vasculitis see p556, hypothyroidism see p220, myeloma see p368).
+
+**Management:** Multidisciplinary with optimal results coming from full engagement of the patient who should be encouraged to remain as active as they feel able, and ideally to continue to participate in the workforce. New symptoms should be fully reviewed to exclude an alternative diagnosis. Patients should be advised that there is no one specific treatment that is guaranteed to work, but any of the following may help: graded exercise programmes, including both aerobic and strength-based training. Pacing of activity is vital to avoid over-exertion and consequent pain and fatigue. Long-term graded exercise programmes improve functional capacity.55,56 Relaxation, rehabilitation and physiotherapy may also help. Cognitive-behavioural therapy (CBT) aims to help patients develop coping strategies and set achievable goals.57
+
+**Pharmacotherapy:** Low-dose amitriptyline (eg 10-20mg at night) has been shown to help relieve pain and improve sleep. Pregabalin (150-300mg/12h PO) can be used if amitriptyline is ineffective. Duloxetine or an SSRI can be used for fibromyalgia with comorbid anxiety and depression. Steroids or NSAIDs are not recommended because there is no inflammation (if it does respond, reconsider your diagnosis!).
+
+## Chronic fatigue syndrome (AKA myalgic encephalomyelitis)
+
+Chronic fatigue syndrome58 is defined as persistent disabling fatigue lasting >6 months, affecting mental and physical function, present >50% of the time, plus ≥4 of: myalgia (~80%), polyarthralgia, memory, unrefreshing sleep, fatigue after exertion >24h, persistent sore throat, tender cervical/axillary lymph nodes. Management principles are similar to fibromyalgia and include graded exercise and CBT. No pharmacological agents have yet been proved effective for chronic fatigue syndrome (see also OHCS p502).

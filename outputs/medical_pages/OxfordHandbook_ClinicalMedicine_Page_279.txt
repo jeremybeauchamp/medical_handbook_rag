@@ -1,0 +1,26 @@
+# Therapies in Crohn's disease
+
+**Azathioprine (AZA)** (2-2.5mg/kg/d PO) used if refractory to steroids, relapsing on steroid taper, or requiring ≥2 steroid courses/yr. Takes 6-10wks to work. 30% will develop SEs requiring treatment cessation including abdominal pain, nausea, pancreatitis, leucopenia, abnormal LFTs. Monitor FBC, U&E, LFT weekly for 4wks, then every 4wks for 3 months, then at least 3-monthly. Alternative immunomodulators include 6-mercaptopurine and methotrexate (CI: ♀ of reproductive age).
+
+**5-ASA** Unlike in UC, have no role in the management of Crohn's.
+
+**Biologics**
+- *Anti-TNFα:* TNFα plays an important role in pathogenesis of Crohn's disease, therefore monoclonal antibodies to TNFα, eg infliximab and adalimumab, can ↓disease activity. They counter neutrophil accumulation and granuloma formation and cause cytotoxicity to CD4+ T cells, thus clearing cells driving the immune response. These drugs play a vital role in both induction and maintenance therapy. CI: sepsis, active/latent TB, LFT >3-fold above top end of normal. SE: rash. Avoid in people with known underlying malignancy. TB may reactivate when on infliximab, so screen patients before starting the treatment (CXR, PPD, interferon gamma release assay (IGRA)). Combined AZA and infliximab can ↑ efficacy of Rx at 12 months, but there are long-term safety issues (eg increased lymphoma risk).
+- *Anti-integrin:* Monoclonal antibodies targeting adhesion molecules involved in gut lymphocyte trafficking, eg vedolizumab, reduce disease activity and have a more gut-specific mechanism of activiy.
+- *Anti-IL12/23:* Represents a new cytokine target with an emerging role in treatment, eg ustekinumab.
+
+**Nutrition** Enteral is preferred (eg polymeric diet); consider TPN as a last resort.
+- *Elemental diets:* (Eg E028®.) Contain amino acids and can give remission.
+- *Low residue diets:* Help symptoms in those with active disease or strictures.
+
+**Surgery** 50-80% need ≥1 operation in their life. It never cures. Indications: drug failure (most common); GI obstruction from stricture; perforation; fistulae; abscess. Surgical aims are: 1 resection of affected areas—but beware short bowel syndrome (p580) 2 to control perianal or fistulizing disease 3 defunction (rest) distal disease eg with a temporary ileostomy. Pouch surgery is avoided in Crohn's (↑ risk of recurrence).
+
+**Poor prognosis** Age <40yrs; steroids needed at 1st presentation; perianal disease; isolated terminal ileitis; smoking.
+
+----
+
+Fig 6.21 Beyond the gut... 'I hate how this stupid illness is crippling me...' As well as erythema nodosum on the shins (above; also caused by sarcoid, drugs, streptococci, and TB), Crohn's can associate with sero -ve arthritis of large or small joints, spondyloarthropathy, ankylosing spondylitis, sacroiliitis, pyoderma gangrenosum, conjunctivitis, episcleritis, and iritis.
+
+Fig 6.22 Deep fissured ulcers seen at colonoscopy. The end result? 'My family does not or will not even talk to me about the disease ... I don't know when urgency to race for the bathroom will happen so I don't go out and have been living a hermit life...'
+
+©Dr A Mee.

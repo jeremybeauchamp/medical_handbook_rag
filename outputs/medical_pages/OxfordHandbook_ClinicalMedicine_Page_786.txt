@@ -1,0 +1,28 @@
+# Emergency airway management
+
+## Cricothyroidotomy
+This is an emergency procedure to overcome airway obstruction above the level of the larynx. It should only be done in absolute 'can't intubate, can't ventilate' situations, ie where ventilation is impossible with a bag and mask (± airway adjuncts) and where there is an immediate threat to life. If not, call anaesthetics or ENT for immediate help.
+
+### Indications
+Upper airway obstruction when endotracheal intubation not possible, eg irretrievable foreign body; facial oedema (burns, angio-oedema); maxillofacial trauma; infection (epiglottitis).
+
+### Procedure
+Lie the patient supine with neck extended (eg pillow under shoulders) unless there is suspected cervical-spine instability. Run your index finger down the neck anteriorly in the midline to find the notch in the upper border of the thyroid cartilage (the Adam's apple): just below this, between the thyroid and cricoid cartilages, is a depression—the cricothyroid membrane (see fig 18.14). If you cannot feel the depression and it is an emergency, you can access the trachea directly approximately halfway between the cricoid cartilage and the suprasternal notch.
+
+Ideally use a purpose-designed kit (eg QuickTrach®, MiniTrach®), all hospitals will stock one version. If no kit is available then a cannula (needle cricothyroidotomy) can buy time, and in out-of-hospital situations a blade and empty biro case have saved lives. Needle and kit cricothyroidotomies are temporary measures pending formal tracheostomy.
+
+| Thyroid cartilage |
+|-------------------|
+| Cricothyroid membrane |
+| Cricoid cartilage |
+
+Fig 18.14 The cricothyroid membrane.
+
+1. **Needle cricothyroidotomy:** Pierce the membrane perpendicular to the skin with large-bore cannula (14G) attached to syringe: withdrawal of air confirms position; lidocaine may or may not be required. Slide cannula over needle at 45° to the skin superiorly in the sagittal plane. Use a Y-connector (see fig 18.16) or improvise connection to O₂ supply at 15L/min: use thumb on Y-connector to allow O₂ in over 1s and CO₂ out over 4s ('transtracheal jet insufflation'). This is the preferred method in children <12yrs. This will only sustain life for 30–45min before CO₂ builds up. However, if the patient has a completely obstructed airway then they will not be able to exhale through this, and it will lead to cardiovascular compromise and pneumothoraces.
+
+2. **Cricothyroidotomy kit:** Most contain a guarded blade, and a large (4–6mm) shaped cannula (cuffed or uncuffed depending on brand) over an introducer, plus a connector and binding tape. The patient will have to be ventilated via a bag, as the resistance is too high to breathe spontaneously. This will sustain for 30–45min.
+
+3. **Surgical cricothyroidotomy:** Smallest tube for prolonged ventilation is 6mm. Introduce high-volume, low-pressure cuff tracheostomy tube through a horizontal incision in membrane. Take care not to cut the thyroid or cricoid cartilages.
+
+### Complications
+Local haemorrhage ± aspiration; posterior perforation of trachea ± oesophagus; subglottic stenosis; laryngeal stenosis if membrane over-incised in childhood; tube blockage; subcutaneous tunnelling; vocal cord paralysis or hoarseness (the recurrent laryngeal nerve runs superiorly in the tracheo-oesophageal groove).

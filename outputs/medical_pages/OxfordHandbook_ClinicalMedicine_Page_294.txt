@@ -1,0 +1,28 @@
+# 280 Alcoholism
+
+An alcoholic is one whose problematic pattern of alcohol use leads to clinically significant impairment or distress, manifested by multiple psychosocial, behavioural, or physiological features. Other addictions may coexist. Lifetime prevalence: ♂~10% (♀≈4%). ▶Denial is a leading feature, so be sure to question relatives.
+
+## Organs affected 
+▶Don't forget the risk of trauma while intoxicated.
+
+**The liver:** Normal in 50%; ↑ or ↑↑γGT—but may be ↑↑ in any type of liver inflammation, eg fatty liver, AIH (p284), HBV. Fatty liver: Acute/reversible, but may progress to cirrhosis if drinking continues (also seen in obesity, DM, and with amiodarone).
+Alcoholic hepatitis: See BOX 'Managing alcoholic hepatitis'. 80% progress to cirrhosis (hepatic failure in 10%). Cirrhosis: (See p276.) 5yr survival is 48% if drinking continues (if not, 77%). Biopsy: Mallory bodies ± neutrophil infiltrate (can be indistinguishable from NASH, p277).
+
+**CNS:** Self neglect; ↓memory/cognition: high-potency vitamins IM may reverse it (p714; don't delay!); cortical atrophy; retrobulbar neuropathy; fits; falls; wide-based gait; neuropathy; confabulation/Korsakoff's (p704) ± Wernicke's encephalopathy (p714).
+
+**Gut:** Obesity; D&V; gastric erosions; peptic ulcers; varices (p257); pancreatitis (acute or chronic); cancer (many types); oesophageal rupture (↑↑ vomiting against a closed glottis; suspect if shock and surgical emphysema in the neck: Boerhaave's syndrome).
+
+**Blood:** ↑MCV; anaemia from: marrow depression, GI bleeding, alcoholism-associated folate deficiency, haemolysis; sideroblastic anaemia. See p326.
+
+**Heart:** Arrhythmias; ↑BP; cardiomyopathy; sudden death in binge drinkers.
+
+**Reproduction:** Testicular atrophy; ↓testosterone/progesterone; ↑oestrogen; fetal alcohol syndrome—↓IQ, short palpebral fissure, absent philtrum, and small eyes.
+
+**Withdrawal** starts 10–72h after last drink. Signs: ↑Pulse; ↑BP; tremor; confusion; fits; hallucinations (delirium tremens)—may be visual or tactile, eg animals crawling all over skin. Consider it in any new (<3d) ward patient with acute confusion.
+
+## Management Alcohol withdrawal: 
+There is almost no role for hospital inpatient 'detox' as a sole indication for admission however attractive the idea of a 'quick fix' may be—community-based services are much better placed to support cessation. Admit only if complicating or coexisting medical problems require inpatient treatment. Check BP + TPR/4h. Beware ↓BP. For the 1st 3d give generous chlordiazepoxide, eg 10–50mg/6h PO with additional doses PRN, then sum total dose and plan weaning regimen over 5–7d. Vitamins may be needed (p714). Prevention: (OHCS p512.) Alcohol-free beers; price may help promote lower-risk drinking. NB: there are no absolutes: risk is a continuum. Suggest: 1 Graceful ways of declining a drink, eg 'I'm seeing what it's like to go without for a bit'. 2 Not buying him- or herself a drink when it is his/her turn. 3 'Don't lift your glass to your lips until after the slowest drinker in your group takes a drink.' 4 'Sip, don't gulp.' Give follow-up and encouragement. Treating established alcoholics: May be rewarding, particularly if they really want to change. If so, group therapy or self-help (eg Alcoholics Anonymous) may be useful—especially if self-initiated and determined. Encourage the will to change.
+
+**Relapse** 50% will relapse soon after starting treatment. Acamprosate (p449)may help intense anxiety, insomnia, and craving. CI: pregnancy, severe liver failure, creatinine >120μmol/L. SE: D&V, ↑ or ↓ libido; dose example: 666mg/8h PO if >60kg and <65yrs old. It should be started as soon as acute withdrawal is complete and continued for ~1yr. Disulfiram can be used to treat chronic alcohol dependence. It causes acetaldehyde build-up (like metronidazole) with extremely unpleasant effects to any alcohol ingestion—eg flushing, throbbing headache, palpitations. Care must be taken to avoid alcohol (eg toiletries, food, medicines) since severe reactions can occur. ▶Confer with experts if drugs are to be used.
+
+30 γGT is ↑ in 52% of alcoholics; it is also ↑ in 50% of those with non-alcoholic fatty livers. Its best use is not in diagnosing alcoholism but in seeing if a raised ALP is likely to be from liver, not bone.

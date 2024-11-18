@@ -1,0 +1,21 @@
+# Diagnosing groin lumps: lateral to medial thinking
+
+- Psoas abscess—may present with back pain, limp, and swinging pyrexia.
+- Neuroma of the femoral nerve.
+- Femoral artery aneurysm.
+- Saphena varix—like a hernia, it has a cough impulse.
+- Lymph node.
+- Femoral hernia.
+- Inguinal hernia.
+- Hydrocele or varicocele.
+- Also consider an undescended testis (cryptorchidism).
+
+| Normal | Hydrocele* | Spermatocele* | Varicocele |
+|--------|------------|---------------|------------|
+| [Diagram showing normal testicular anatomy] | [Diagram showing fluid accumulation around testicle] | [Diagram showing small cyst near top of testicle] | [Diagram showing dilated veins above and around testicle] |
+
+| Testicular tumour | Epididymitis | Orchitis | Indirect inguinal hernia |
+|--------------------|--------------|----------|--------------------------|
+| [Diagram showing solid mass within testicle] | [Diagram showing inflammation of epididymis] | [Diagram showing enlarged, inflamed testicle] | [Diagram showing hernial sac descending into scrotum] |
+
+Fig 13.51 Diagnosis of scrotal masses. (*=transilluminates: position of pen torch shown in image).

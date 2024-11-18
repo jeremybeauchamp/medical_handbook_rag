@@ -1,0 +1,31 @@
+# Hirsutism, virilism, gynaecomastia, and impotence
+
+Hirsutism is common (10% of women) and usually benign. It implies male pattern hair growth in women. Causes are familial, idiopathic, or are due to androgen secretion by the ovary (eg polycystic ovarian syndrome, ovarian cancer, OHCS p281), the adrenal gland (eg late-onset congenital adrenal hyperplasia, OHCS p251, Cushing's syndrome, adrenal cancer), or drugs (eg steroids). Polycystic ovarian syndrome (PCOS) causes secondary oligo- or amenorrhoea, infertility, obesity, acne, and hirsutism (OHCS p252). Ultrasound: bilateral polycystic ovaries. Blood tests: ↑testosterone (if ≥6nmol/L, look for an androgen-producing adrenal or ovarian tumour), ↑sex-hormone binding globulin, ↑LH:FSH ratio (not consistent), TSH, lipids. Address any feelings of lack of conformity to society's perceived norms of feminine beauty.
+
+Management: Healthy eating, optimize weight, shaving; laser photoepilation; wax; creams, eg eflornithine, or electrolysis (expensive/time-consuming, but effective); bleach (1:10 hydrogen peroxide).
+
+- Oestrogens: combined contraceptive pill (OHCS p302)—Yasmin® is one choice as its progestogen, drospirenone, is an antimineralocorticoid. Alternatively, co-cyprindiol provided there are no contraindications, such as uncontrolled hypertension and current breast cancer. Stop co-cyprindiol 3-4 months after hirsutism has completely resolved because of increased VTE risk. If COCs are contraindicated or have not worked (after 6/12), refer the woman to secondary care for specialist treatment:
+- Metformin (helps with insulin resistance) and spironolactone are sometimes tried.
+- Clomifene is used for infertility (a fertility expert should prescribe).
+
+## Virilism
+Onset of amenorrhoea, clitoromegaly, deep voice, temporal hair recession + hirsutism. Look for an androgen-secreting adrenal or ovarian tumour.
+
+## Gynaecomastia
+(ie abnormal amount of breast tissue in men; may occur in normal puberty.) Oestrogen/androgen ratio ↑ (vs galactorrhoea in which prolactin is ↑).
+
+Causes: Hypogonadism (see BOX 'Male hypogonadism'), liver cirrhosis (↑oestrogens), hyperthyroidism, tumours (oestrogen-producing, eg testicular, adrenal; HCG-producing, eg testicular, bronchial); drugs: oestrogens, spironolactone, digoxin, testosterone, marijuana; if stopping is impossible, consider testosterone if hypogonadism ± anti-oestrogen (tamoxifen).
+
+## Impotence (= erectile dysfunction)
+Erections result from neuronal release of nitric oxide (NO) which, via cGMP and Ca2+, hyperpolarizes and thus relaxes vascular and trabecular smooth muscle cells, allowing engorgement. Common after 50yrs, and often multifactorial. A psychological facet is common (esp. if erectile dysfunction occurs only in some situations, if onset coincides with stress, and if early morning erections still occur: these also persist in early organic disease).
+
+Organic causes: The big three: smoking, alcohol, and diabetes (reduce NO +autonomic neuropathy). Also endocrine: hypogonadism, hyperthyroidism, ↑prolactin; neurological: cord lesions, MS, autonomic neuropathy; pelvic surgery, eg bladder-neck, prostate; radiotherapy; atheroma; renal or hepatic failure; prostatic hyperplasia; penile anomalies, eg post-priapism, or Peyronie's (p708); drugs: digoxin, β-blockers, diuretics, antipsychotics, antidepressants, oestrogens, finasteride, narcotics.
+
+Workup: After a full sexual and psychological history do: U&E, LFT, glucose, TFT, LH, FSH, lipids, testosterone, prolactin ± Doppler. Is penile arterial pressure enough for inflow? Is penile sensation OK (if not, ?CNS problem)? Is the veno-occlusive mechanism OK?
+
+Rx: 
+- Treat causes. 
+- Counselling. 
+- Oral phosphodiesterase (PDE5) inhibitors ↑cGMP. Erection isn't automatic (depends on erotic stimuli). Sildenafil 25-100mg ½-1h pre-sex (food and alcohol upset absorption). SE: Headache (16%); flushing (10%); dyspepsia (7%); stuffy nose (4%); transient blue-green tingeing of vision (inhibition of retinal PDE6). CI: See BOX 'Contraindications and cautions to PD5 Inhibitors'. Tadalafil (long t½) 10-20mg ½-36h pre-sex. Don't use >once daily. Vardenafil (5-20mg). 
+- Vacuum aids (ideal for penile rehabilitation after radical prostatectomy), intracavernosal injections, transurethral pellets, and prostheses (inflatable or malleable; partners may receive unnatural sensations). 
+- Corpus cavernosum tissue engineering (eg on acellular collagen scaffolds) is in its infancy.

@@ -1,0 +1,39 @@
+# Causes of a long QT interval
+
+Many conditions and drugs (check BNF) cause a long QT interval. Brugada syndrome (p695) is similar, predisposing to sudden cardiac death.
+
+**Congenital:** Romano-Ward syndrome (autosomal dominant). Jervell and Lange-Nielsen syndrome (autosomal recessive) with associated deafness (p702).
+
+**Cardiac:** Myocardial infarction or ischaemia; mitral valve prolapse.
+
+**HIV:** May be a direct effect of the virus or from protease inhibitors.
+
+**Metabolic:** ↓K+; ↓Mg2+; ↓Ca2+; starvation; hypothyroidism; hypothermia.
+
+**Toxic:** Organophosphates.
+
+**Anti-arrhythmic drugs:** Quinidine; amiodarone; procainamide; sotalol.
+
+**Antimicrobials:** Erythromycin; levofloxacin; pentamidine; halofantrine.
+
+**Antihistamines:** Terfenadine; astemizole.
+
+**Motility drugs:** Domperidone.
+
+**Psychoactive drugs:** Haloperidol; risperidone; tricyclics; SSRIs.
+
+**Connective tissue diseases:** Anti-Ro/SSA antibodies (p552).
+
+**Herbalism:** Ask about Chinese folk remedies (may contain unknown amounts of arsenic). Cocaine, quinine, and artemisinins (and other antimalarials) are examples of herbalism-derived products that can prolong the QT interval.
+
+## Eponymous syndromes
+
+Fig 15.17 Sister Mary Joseph nodule.
+Reproduced from Postgraduate Medical Journal, "Sister Joseph nodule", J E Clague, 78(917), 174, 2002 with permission from BMJ Publishing Group Ltd.
+
+[The image shows a close-up view of a purplish, rounded nodule protruding from what appears to be skin or tissue.]
+
+Fig 15.18 Stevens-Johnson syndrome.
+Reproduced from Emberger et al, Stevens-Johnson syndrome associated with anti-malarial prophylaxis. Clinical Infectious Diseases (2003) 37:1, with permission from Oxford University Press.
+
+[The image shows a close-up view of a mouth with severe inflammation and lesions on the lips and inside the oral cavity, characteristic of Stevens-Johnson syndrome.]

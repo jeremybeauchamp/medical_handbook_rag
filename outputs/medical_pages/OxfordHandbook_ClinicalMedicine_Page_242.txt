@@ -1,0 +1,48 @@
+# Hyperaldosteronism
+
+## Primary hyperaldosteronism
+Excess production of aldosterone, independent of the renin-angiotensin system, causing sodium and water retention, and renin release. Consider if: hypertension, hypokalaemia, or alkalosis in someone not on diuretics. Sodium tends to be mildly raised or normal.
+
+**Symptoms:** Often asymptomatic or signs of hypokalaemia (p674): weakness (even quadriparesis), cramps, paraesthesiae, polyuria, polydipsia. ↑BP but not always.
+
+**Causes:** ~⅔ due to a solitary aldosterone-producing adenoma (linked to mutations in K+ channels)⁵—Conn's syndrome. ~⅓ due to bilateral adrenocortical hyperplasia. Rare causes: adrenal carcinoma; or glucocorticoid-remediable aldosteronism (GRA)—the ACTH regulatory element of the 11β-hydroxylase gene fuses to the aldosterone synthase gene, ↑aldosterone production, & bringing it under the control of ACTH.
+
+**Tests:** U&E, renin and aldosterone, and adrenal vein sampling. Do not rely on a low K+, as >20% are normokalaemic. For GRA (suspect if there is a family history of early hypertension), genetic testing is available. 
+
+**Treatment:** 
+- *Conn's:* laparoscopic adrenalectomy. Spironolactone (25-100mg/24h PO) for 4wks pre-op controls BP and K+. 
+- *Hyperplasia:* treated medically: spironolactone or amiloride. 
+- *GRA:* dexamethasone 1mg/24h PO for 4wks, normalizes biochemistry but not always BP. If BP is still ↑, use spironolactone as an alternative. 
+- *Adrenal carcinoma:* surgery ± post-operative adrenolytic therapy with mitotane—prognosis is poor.
+
+## Secondary hyperaldosteronism
+Due to a high renin from renal perfusion, eg in renal artery stenosis, accelerated hypertension, diuretics, CCF, or hepatic failure.
+
+## Bartter's syndrome
+This is a major cause of congenital (autosomal recessive) salt wasting—via a sodium and chloride leak in the loop of Henle via mutations in channels and transporters. Presents in childhood with failure to thrive, polyuria, and polydipsia. BP is normal. Sodium loss leads to volume depletion, causing ↑renin and aldosterone production, leading to hypokalaemia and metabolic alkalosis, ↑urinary K+ and Cl⁻. 
+
+**Treatment:** K+ replacement, NSAIDs (to inhibit prostaglandins), and ACE-i.
+
+# Phaeochromocytoma
+
+Rare catecholamine-producing tumours. They arise from sympathetic paraganglia cells (=phaeochrome bodies), which are collections of chromaffin cells. They are usually found within the adrenal medulla. Extra-adrenal tumours (paragangliomas) are rarer, and often found by the aortic bifurcation (the organs of Zuckerkandl). Phaeochromocytomas roughly follow the 10% rule: 10% are malignant, 10% are extra-adrenal, 10% are bilateral, and 10% are familial. Recent data suggest higher preponderance in patients with genetic mutations affecting several genes including SDH (succinyl dehydrogenase). Thus, family history is crucial and referral for genetic screening (particularly <50 years old). A dangerous but treatable cause of hypertension (in <0.1%). 
+
+**Associations:** ~90% are sporadic; 10% are part of hereditary cancer syndromes (p215), eg thyroid, MEN-2A and 2B, neurofibromatosis, von Hippel-Lindau syndrome (SDH mutations).
+
+**Classic triad:** Episodic headache, sweating, and tachycardia (±↑, ↓, or ↔BP, see BOX 'Features of phaeochromocytoma').
+
+**Tests:**
+- *Biochemical:* 24h urine for metanephrines/metadrenaline (better than catecholamines and vanillylmandelic acid²⁵), ↑WCC. 
+- *Localization:* Abdominal CT/MRI, or meta-iodobenzylguanidine (chromaffin-seeking isotope) scan (can find extra-adrenal tumours, p738). 
+
+**Treatment:** Surgery: α-blockade pre-op: phenoxybenzamine (α-blocker) is used before β-blocker to avoid crisis from unopposed α-adrenergic stimulation, β-block too if heart disease or tachycardic. Consult the anaesthetist. 
+
+**Post-op:** Do 24h urine metanephrine 2wks post-op, monitor BP (risk of ↓BP).
+
+**Emergency ℞:** p837. If malignant, chemotherapy or therapeutic radiolabelled MIBG may be used. 
+
+**Follow-up:** Lifelong: malignant recurrence may present late, genetic screening.
+
+----
+
+⁵ Tumours from the zona glomerulosa, zona fasciculata, or zona reticularis associate with syndromes of mineralocorticoids, glucocorticoids, or androgens respectively, usually; remember 'GFR≈miner GA'.

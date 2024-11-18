@@ -1,0 +1,55 @@
+# Guillain-Barré polyneuritis
+
+## Table 15.2 Diagnostic criteria
+
+| Features required for | Features supporting diagnosis |
+|------------------------|--------------------------------|
+| Progressive weakness of >1 limb | • Progression over days, up to 4wks |
+| Areflexia | • Near symmetry of sytoms |
+| **Features making diagnosis doubtful** | • Sensory symptoms/signs only mild |
+| • Sensory level | • CN involvement (eg bilateral facial weakness) |
+| • Marked, persistent asymmetry of weakness | • Recovery starts ~2wks after the period of progression has finished |
+| • Severe bowel and bladder dysfunction | • Autonomic dysfunction |
+| • CSF WCC >50 | • Absence of fever at onset |
+|  | • CSF protein ↑ with CSF WCC <10×10⁶/L |
+|  | • Typical electrophysiological tests |
+
+Variants of Guillain-Barré syndrome include:
+
+**Chronic inflammatory demyelinating polyradiculopathy (CIDP)**: Characterized by a slower onset and recovery.
+
+**Miller Fisher syndrome**: Comprises of ophthalmoplegia, ataxia, and areflexia. Associated with anti-GQ1b antibodies in the serum.
+
+## Fig 15.4 Right Horner's: everything reduces: pupil, eye, sweating, etc.
+
+The image shows a close-up of eyes with one pupil noticeably smaller than the other, demonstrating the effects of Horner's syndrome.
+
+## Fig 15.5 Henoch-Schönlein vasculitis.
+
+The image displays the lower legs and feet of a person with numerous small, reddish-purple spots and lesions scattered across the skin, characteristic of Henoch-Schönlein vasculitis.
+
+## Fig 15.6 Pathways in Horner's syndrome.
+
+```mermaid
+graph TD
+    A[Hypothalamus] --> B[Ophthalmic division of trigeminal nerve]
+    B --> C[To sweat glands of forehead]
+    B --> D[To lid's smooth muscle]
+    B --> E[Long ciliary nerve]
+    E --> F[To pupil]
+    A --> G[To facial sweat glands]
+    A --> H[Third neuron]
+    H --> I[Internal carotid artery]
+    I --> J[External carotid artery]
+    J --> K[Superior cervical ganglion]
+    K --> L[First neuron]
+    M[Spinal cord] --> N[Second neuron]
+    N --> K
+    O[C2] --> N
+```
+
+## Fig 15.7 Kaposi's sarcoma.
+
+The image shows a close-up of dark, raised lesions on skin, typical of Kaposi's sarcoma.
+
+Reproduced from Oxford Handbook of Medical Dermatology, 2010, with permission from Oxford University Press.

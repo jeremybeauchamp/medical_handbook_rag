@@ -1,0 +1,67 @@
+862
+
+## References
+
+18. Young A, Koduri G. Extra-articular manifestations and complications of rheumatoid arthritis. Best Pract Res Clin Rheumatol 2007; 21(5):907-27. http://www.bprclinrheum.com/article/S1521-6942(07)00063-0/abstract
+
+19. Farid SS, Azizi G, Mirshafiey A. Anti-citrullinated protein antibodies and their clinical utility in rheumatoid arthritis. Int J Rheum Dis 2013; 16(4):379-86. http://onlinelibrary.wiley.com/doi/10.1111/1756-185X.12129/abstract
+
+20. Brown AK, Wakefield RJ, Conaghan PG, et al. New approaches to imaging early inflammatory arthritis. Clin Exp Rheumatol 2004; 22(5 Suppl 35): S18-25. http://www.clinexprheumatol.org/article.asp?a=2432
+
+21. Szekanecz Z, Kerekes G, Dér H, et al. Accelerated atherosclerosis in rheumatoid arthritis. Ann N Y Acad Sci 2007; 1108:349-58. http://onlinelibrary.wiley.com/doi/10.1196/annals.1422.036/abstract
+
+22. Aletaha D, Neogi T, Silman AJ, et al. 2010 Rheumatoid arthritis classification criteria: an American College of Rheumatology/European League Against Rheumatism collaborative initiative. Arthritis Rheum 2010; 62(9):2569-81. http://onlinelibrary.wiley.com/doi/10.1002/art.27584/abstract
+
+23. O'Dell JR. Therapeutic strategies for rheumatoid arthritis. N Engl J Med 2004; 350:2591-602. http://www.nejm.org/doi/full/10.1056/NEJMra040226
+
+24. British Society for Rheumatology. National guidelines for the monitoring of second line drugs. 2000. http://www.rheumatology.org.uk/includes/documents/cm_docs/2009/m/monitoring_second_line_drugs.pdf
+
+25. NICE. Adalimumab, etanercept and infliximab for the treatment of rheumatoid arthritis [TA130]. 2007. https://www.nice.org.uk/guidance/ta130
+
+26. NICE. Adalimumab, etanercept, infliximab, rituximab and abatacept for the treatment of rheumatoid arthritis after the failure of a TNF inhibitor [TA195]. 2010. https://www.nice.org.uk/guidance/ta195
+
+27. NICE. Tocilizumab for the treatment of rheumatoid arthritis [TA247]. 2012. https://www.nice.org.uk/guidance/ta247
+
+28. NICE. Abatacept for the treatment of rheumatoid arthritis after the failure of conventional disease-modifying anti-rheumatic drugs [TA234]. 2011. https://www.nice.org.uk/guidance/ta234
+
+29. Ramiro S, Gaujoux-Viala C, Nam JL, et al. Safety of synthetic and biological DMARDs: a systematic literature review informing the 2013 update of the EULAR recommendations for management of rheumatoid arthritis. Ann Rheum Dis 2014; 73(3):529-35
+
+30. Thompson A, Gandhi KK, Hochberg MC, et al. Incidence of malignancy in adult patients with rheumatoid arthritis: a meta-analysis. Arthritis Res Ther 2015; 17(1):212. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4536786/
+
+31. Zhang W, Doherty M, Pascual E, et al. EULAR evidence based recommendations for gout. Part I: Diagnosis. Report of a task force of the Standing Committee for International Clinical Studies Including Therapeutics (ESCISIT). Ann Rheum Dis 2006; 65(10):1301-11. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1798330/
+
+32. Sturrock R. Gout. Easy to misdiagnose. BMJ 2000; 320:132-3. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1128728/
+
+33. Jordan KM, Cameron JS, Snaith M, et al. British Society for Rheumatology and British Health Professionals in Rheumatology guideline for the management of gout. Rheumatology 2007; 46(8):1372-4. http://rheumatology.oxfordjournals.org/content/46/8/1372.full
+
+34. Cronstein BN, Terkeltaub R. The inflammatory process of gout and its treatment. Arthritis Res Ther 2006; 8 Suppl 1:S3. https://arthritis-research.biomedcentral.com/articles/10.1186/ar1908
+
+35. Becker MA, Schumacher HR Jr, Wortmann RL, et al. Febuxostat compared with allopurinol in patients with hyperuricemia and gout. N Engl J Med 2005; 353(23):2450-61. http://www.nejm.org/doi/full/10.1056/NEJMoa050373
+
+36. Zhang W, Doherty M, Bardin T, et al. EULAR recommendations for calcium pyrophosphate deposition. Part II: Management. Ann Rheum Dis 2011; 70:571-5. http://ard.bmj.com/content/70/4/571.full
+
+37. Wanders A, Heijde DV, Landewe R, et al. Nonsteroidal antiinflammatory drugs reduce radiographic progression in patients with ankylosing spondylitis: a randomized clinical trial. Arthritis Rheum 2005; 52(6):1756-65. https://www.ncbi.nlm.nih.gov/pubmed/15934081
+
+38. NICE. Adalimumab, etanercept and infliximab for ankylosing spondylitis [TA143]. 2008. https://www.nice.org.uk/guidance/ta143
+
+39. Hakim A, Clunie G, Haq I (eds). Oxford handbook of rheumatology (3rd edn). Oxford: Oxford University Press, 2011
+
+40. Di Lorenzo AL. HLA-B27 syndromes. Medscape. 2015. http://emedicine.medscape.com/article/1201027-overview
+
+41. Distler JH, Distler O. Tyrosine kinase inhibitors for the treatment of fibrotic diseases such as systemic sclerosis: towards molecular targeted therapies. Ann Rheum Dis 2010; 69 Suppl 1:i48-51. http://ard.bmj.com/content/69/Suppl_1/i48.long
+
+42. Gross WL, Reinhold-Keller E. [ANCA-associated vasculitis (Wegener's granulomatosis, Churg-Strauss syndrome, microscopic polyangiitis). 1. Systemic aspects, pathogenesis and clinical aspects.] Z Rheumatol 1995; 54(5):279-90. https://www.ncbi.nlm.nih.gov/pubmed/8578884
+
+43. Rahman A. Systemic lupus erythematosus. N Engl J Med 2008; 358:929-39. http://www.nejm.org/doi/full/10.1056/NEJMra071297
+
+44. NICE. Final appraisal determination. Belimumab for treating active autoantibody-positive systemic lupus erythematosus. 2016. https://www.nice.org.uk/guidance/GID-TAG273/documents/final-appraisal-determination-document
+
+45. Goral S, Ynares C, Shappell SB, et al. Recurrent lupus nephritis in renal transplant recipients revisited: it is not rare. Transplantation 2003; 75(5):651-6. https://www.ncbi.nlm.nih.gov/pubmed/12640304
+
+46. Baglin TP, Keeling DM, Watson HG. British Committee for Standards in Haematology. Guidelines on oral anticoagulation (warfarin): third edition - 2005 update. Br J Haematol 2006; 132(3):277-85. https://www.ncbi.nlm.nih.gov/pubmed/16409292
+
+47. Petri M, Orbai AM, Alarcón GS, et al. Derivation and validation of the Systemic Lupus International Collaborating Clinics classification criteria for systemic lupus erythematosus. Arthritis Rheum 2012; 64(8):2677-86. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3409311/
+
+48. Jennette JC, Falk RJ, Bacon PA, et al. 2012 Revised International Chapel Hill Consensus Conference Nomenclature of Vasculitides. Arthritis Rheum 2012; 65(1):1-11
+
+49. Trejo-Gutierrez JF, Larson JM, Abril A. Shortness of breath, weak pulses, and a high ESR. Lancet 2008; 371:176. http://www.thelancet.com/pdfs/journals/lancet/PIIS0140-6736(08)60109-9.pdf

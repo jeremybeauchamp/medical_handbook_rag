@@ -1,0 +1,44 @@
+# Some important rheumatological investigations
+
+**Joint aspiration:** The most important investigation in any monoarthritic presentation (table 12.2, see also OHCS p706). Send synovial fluid for urgent white cell count, Gram stain, polarized light microscopy (for crystals, p548), and culture. The risk of inducing septic arthritis, using sterile precautions, is <1:10 000. Look for blood, pus, and crystals (gout or CPPD crystal arthropathy; p548). Do not attempt joint aspiration through inflamed and potentially infected skin (eg through a psoriatic plaque or overlying cellulitis).
+
+## Table 12.2 Synovial fluid in health and disease
+
+| | Appearance | Viscosity | WBC/mm³ | Neutrophils |
+|---------------|-------------------|-----------|------------|-------------|
+| Normal | Clear, colourless | ++ | ≤200 | None |
+| Osteoarthritis | Clear, straw | ↓ | ≤1000 | ≤50% |
+| Haemorrhagic* | Bloody, xanthochromic | Varies | ≤10 000 | ≤50% |
+| Acutely inflamed | | | | |
+| • RA | Turbid, yellow | ↓ | 1000-50 000 | Varies |
+| • Crystal | Turbid, yellow | ↓ | 5000-50 000 | ~80% |
+| Septic | Turbid, yellow | ↓ | 10 000-100 000 | >90% |
+
+*Eg trauma, tumour, or haemophilia.
+
+**Blood tests:** FBC, ESR, urate, U&E, CRP. Blood culture for septic arthritis. Consider rheumatoid factor, anti-CCP, ANA, other autoantibodies (p553), and HLA B27 (p551) —as guided by presentation. Consider causes of reactive arthritis (p551), eg viral serology, urine chlamydia PCR, hepatitis and HIV serology if risk factors are present.
+
+**Radiology:** Look for erosions, calcification, widening or loss of joint space, changes in underlying bone of affected joints (eg periarticular osteopenia, sclerotic areas, osteophytes). Characteristic X-ray features for various arthritides are shown in figs 12.4-12.6. Irregularity of the sacroiliac joints is seen in spondyloarthritis. Ultrasound and MRI are more sensitive in identifying effusions, synovitis, enthesitis and infection than plain radiographs—discuss further investigations with a radiologist. Do a CXR for RA, vasculitis, TB, and sarcoid.
+
+## Fig 12.4 X-ray features of osteoarthritis.
+- Loss of joint space
+- Osteophytes
+- Subarticular sclerosis
+- Subchondral cysts
+
+Courtesy of Dr DC Howlett.
+
+## Fig 12.5 X-ray features of rheumatoid arthritis (MCPJ).
+- Juxta-articular osteopenia
+- Soft tissue swelling
+- Joint deformity
+- Loss of joint space
+
+Courtesy of Dr DC Howlett.
+
+## Fig 12.6 X-ray features of gout (1st MTPJ).
+- Periarticular erosions
+- Normal joint space
+- Soft tissue swelling
+
+Courtesy of Dr DC Howlett.

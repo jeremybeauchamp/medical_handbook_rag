@@ -1,0 +1,34 @@
+# Healthcare-associated (nosocomial) infection
+
+Healthcare-associated, or nosocomial, infections include diseases which occur:
+- As a direct result of treatment or contact in a hospital or healthcare setting.
+- As a result of healthcare delivered in the community.
+- Outside a healthcare setting but are brought in by patients, staff, or visitors and transmitted to others.
+
+7-25% of hospital admissions are complicated by a nosocomial infection resulting in morbidity, mortality, and cost. The causal microbe may be benign in normal circumstances, but is able to cause disease when the patient:
+
+1. has been given broad-spectrum antibiotics (eg antibiotic-resistant organisms, Clostridium difficile colitis)
+2. is unwell/immunosuppressed (opportunistic infection)
+3. has compromised barriers (indwelling catheter/line, ventilation, surgery).
+
+## Healthcare-associated infection
+
+### Catheter-associated UTI:
+A catheter is inserted in ~20% of hospitalized patients. UTI is the most common infection acquired as a result of healthcare, accounting for 19% of all healthcare-associated infection. ~50% of UTIs are associated with a urethral catheter. Risk of infection is related to method of catheter insertion, duration of catheter, quality of catheter care, and patient susceptibility.
+
+To reduce risk, only catheterize if necessary: Is there obstruction? Do you need precise urine output monitoring? Remove as soon as possible. See UTI pp296-7.
+
+### Infections associated with the use of intravascular access devices:
+Includes peripheral, central venous, and arterial catheters: tunnelled and non-tunnelled. >60% of bloodstream infections are associated with intravascular devices. Risk is higher with central catheters. Infection can result from introduction of microbes during insertion, access (eg when giving IV antibiotics), or from microbes elsewhere in the body seeding to the foreign material. Organisms include Staphylococcus epidermidis (p388), Staphylococcus aureus (including meticillin-resistant forms ► MRSA see p388), Candida species (p408), and enterococci (p389).
+
+Ensure that vascular access devices are used only when clinically indicated. Switch to oral treatment (fluid, medication, nutrition) as soon as clinically appropriate. Treatment includes removal/exchange of the device whenever possible.
+
+### Ventilator-associated pneumonia (VAP):
+VAP affects up to 20% of patients admitted to intensive care units. Occurs as the endotracheal tube interferes with protective upper airway reflexes and facilitates microaspiration. Risks ↓ with non-invasive ventilation. In critical illness, the oropharynx becomes contaminated with Gram-ve bacteria due to antibiotic exposure, altered host defences, and changes in mucosal adherence. Access to the airway occurs via folds in the endotracheal cuff and the bacterial biofilm is then propelled to the distal airways. Organisms include Pseudomonas aeruginosa (p391), Enterobacteriaceae (p391), and Staphylococcus aureus (p388).
+
+Clinical diagnosis has ↓sensitivity and ↓specificity. Suspect if new/persistent infiltrates on CXR plus two or more of: purulent sputum, leucocytosis (>12×10⁹/L), leucopenia (<4×10⁹/L), temperature >38.3°C.
+
+Prevent by reducing colonization (mouthwash, silver-coated endotracheal tubes), nurse at 45° to ↓ aspiration risk, wean off ventilator as soon as possible.
+
+### Surgical site infection:
+Affects 5% of patients undergoing surgical procedures, contributes to >⅓ of post-operative deaths. Common organisms include Staphylococcus aureus (p388), Streptococcus pyogenes (p388), and Enterobacteriaceae when surgery involves entry to hollow viscera (p391). Prevention methods include hand hygiene, strict asepsis, MRSA screening and decolonization, hair removal, peri-operative normothermia, minimally disturbed low adherence/transparent dressings.

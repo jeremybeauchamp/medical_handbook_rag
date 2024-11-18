@@ -1,0 +1,25 @@
+## Renal manifestations of systemic disease
+
+### Diabetic nephropathy
+
+DM nephropathy® is the commonest cause of end-stage renal failure: ~30-40% of patients requiring renal replacement. Predicted prevalence ↑ by 25-40% over next 20 years. Hyperglycaemia leads to ↑growth factors, renin-angiotensin-aldosterone activation, production of advanced glycosylation end-products, and oxidative stress. Causes ↑glomerular capillary pressure, podocyte damage, and endothelial dysfunction. Albuminuria is first clinical sign. Later scarring (glomerulosclerosis), nodule formation (Kimmelstiel-Wilson lesions), and fibrosis with progressive loss of renal function. Coexisting BP accelerates the disease course.
+
+**Diagnosis:** Microalbuminuria ('moderately increased albuminuria') = A:CR 3-30mg/mmol (p294, 302). Regression at this level of disease is possible. Not detected on standard dipstick ∴ must send A:CR. Screen annually.
+
+**Treatment:**
+- Intensive DM control prevents microalbuminuria and reduces risk of progression to macroalbuminuria ('severely increased albuminuria') = A:CR >30mg/mmol. HbA1C of 53mmol/mol (7%) reduces the development of all microvascular complications. However, less impact on CVD risk and hard renal outcomes including progression to kidney failure. Consider risk of hypoglycaemia.
+- BP <130/80. Use ACE-i or ARB for CV and renal protection above BP control. Can prevent progression from normoalbuminuria to microalbuminuria to macroalbuminuria in hypertensive DM. (Less clear benefit in normotensive DM but recommended if A:CR >30mg/mmol.) No head-to-head studies of ACE-i/ARB in DM but equivalence outside DM. If cough with ACE-i switch to ARB. No benefit to dual therapy and ↑risk of K+. Data on direct renin inhibitors (eg aliskiren) awaited.
+- Sodium restriction to <2g/day (=<5g sodium chloride/day).
+- Statins to reduce CV risk (p305). Unclear benefit once on dialysis: do not initiate but do not need to discontinue if tolerated.
+
+### Lupus nephritis
+
+SLE is a systemic autoimmune disease with antibodies against nuclear components, eg double-stranded (ds)DNA. Deposition of antibody complexes causes inflammation and tissue damage. Presentation: Rash, photosensitivity, ulcers, arthritis, serositis, CNS effects, cytopenias, and renal disease. Nephropathy is common (50% in first year, 75% overall). Can present as nephritis (p310) or nephrosis (p312). Diagnosis: Clinical. Antibody profile: ANA is sensitive but not specific. Anti-dsDNA has a specificity of 75-100% and titres correlate with disease activity. Consider biopsy if A:CR >30, P:CR >50. Treatment: Depends on histological class. Classes I and II show mild changes with little risk of renal disease progression: ACE-i/ARB for renal protection and hydroxychloroquine for extra-renal disease. Classes III-V require immunosuppression: mycophenolate, glucocorticoids, cyclophosphamide, rituximab.
+
+### Small vessel vasculitis
+
+Multiple classification systems exist. Clinical phenotype and ANCA subtype are important. ANCA-associated vasculitis (AAV) occurs with or without specificity for proteinase 3 (PR3) and myeloperoxidase (MPO). AAV classically presents at an older age (>60yrs) and accounts for 20% of biopsy findings >80yrs. Ask about lethargy, fever, myalgia, anorexia ('When did you last feel well?'). Ask about respiratory symptoms and investigate for pulmonary haemorrhage. Diagnosis: Clinical + ANCA + biopsy: rapidly progressive GN (p311) without immune deposits ('pauci-immune'). Treatment: High-dose glucocorticoids plus cyclophosphamide or rituximab. Plasma exchange if presents with renal failure or pulmonary haemorrhage.
+
+### Myeloma (See p368.)
+
+Associated renal disease in up to 40%: tubular obstruction due to light chain casts ('myeloma kidney'); deposition of Ig/light chains in glomerulus (causes proteinuria); hypercalcaemia; renal tract infection due to immunoparesis. Treatment: Adequate hydration, bisphosphonates for hypercalcaemia (care if GFR <30), anti-myeloma treatment including glucocorticoids. It remains unclear whether there is a benefit in removing light chains by either plasma exchange or large pore haemodialysis.

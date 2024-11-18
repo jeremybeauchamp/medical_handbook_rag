@@ -1,0 +1,40 @@
+## What to start
+
+▶Use local guidelines. ▶Get expert help.
+
+For a treatment-naive patient consider two nucleoside reverse transcriptase inhibitors (='NRTI backbone') plus one of:
+- ritonavir-boosted protease inhibitor
+- non-nucleoside reverse transcriptase inhibitor
+- integrase inhibitor.
+
+1st line drugs commonly used in the UK include:
+
+- **NRTI backbone:** Tenofovir and emtricitabine (combination tablet=Truvada®), abacavir and lamivudine (combination tablet=Kivexa®). Side-effects: GI disturbance, anorexia, pancreatitis, hepatic dysfunction (severe lactic acidosis with hepatomegaly and hepatic steatosis reported, caution with hepatitis B/C), bone-mineral density. Avoid abacavir if high risk of CVD. Avoid tenofovir if eGFR <30.
+- **Protease inhibitors:** Atazanavir, darunavir. Side-effects: hyperglycaemia, insulin resistance (mainly 1st-generation drugs), dyslipidaemia, jaundice, and hepatitis.
+- **NNRTI:** Rilpivirine (give with food, interaction with proton pump inhibitors), efavirenz (CNS toxicity, association with suicidality .. care in depression/anxiety, adverse lipid profile). Other side-effects: rash, GI disturbance.
+- **Integrase inhibitor:** Dolutegravir, elvitegravir, raltegravir. Side-effects: rash, GI disturbance, insomnia.
+
+Monitor: adherence (see BOX 'Adherence'), adverse effects (LFTs, glucose), virological response (viral load). CD4 counts guide prophylaxis of opportunistic infection (values may not correlate with virological response, use viral load preferentially).
+
+## Adherence
+
+Adherence to ART is associated with drug resistance, disease progression, and death. Adherence support should be integral to ART provision.
+
+**Assess:** Ask about adherence in a non-judgemental way. Do not blame. Explain the reasoning behind your questions. Is non-adherence due to practical problems or healthcare beliefs? Be ready to address both. What help would your patient like?
+
+**Intervene:** Normalize the situation—doubts and concerns about ART are common. Find time for discussion/information. Address concerns. Simplify the dosage regimen, offer a multicompartment medication system. Link the taking of medication to a regular daily activity. Discuss side-effects: what are the risks/benefits to changing dose or ART regimen?
+
+## Resource-limited settings
+
+In many resource-limited settings, universal access to ART remains an objective yet to be achieved. ~50% of those in need of treatment for HIV do not receive it. Interim prioritization of those with symptomatic HIV or CD4 count <350 cells/microlitre may be appropriate as these patients are at high risk of mortality and have most short-term benefit from ART.
+
+Equality in the treatment of HIV requires:
+- Effective, acceptable, and reliable methods to reduce HIV transmission, including treatment as prevention.
+- Rapid, accurate, and low-cost diagnosis and monitoring.
+- Standardization and simplification of ART regimens.
+- Evidence-based ART to prevent the use of sub-standard protocols which compromise treatment and lead to the emergence of drug-resistant strains.
+- Reduced ART costs and/or effective allocation of resources.
+
+## An HIV vaccine?
+
+Vaccines are the most effective way to prevent infectious disease. They can also be therapeutic, clearing a virus after infection. HIV vaccines to date have failed to induce an immune response sufficient to confer protection. Research is ongoing into neutralizing HIV antibodies, peptides, genes, viral vectors, physiological 'boosters', and mechanisms to counter the mutational evolution of HIV. See www.hvtn.org

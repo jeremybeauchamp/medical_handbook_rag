@@ -1,0 +1,78 @@
+# Urinary tract malignancies
+
+## Renal cell carcinoma (RCC)
+- Arises from proximal renal tubular epithelium
+- Epidemiology: 
+  - Accounts for 90% of renal cancers
+  - Mean age 55yrs
+  - ♂:♀≈2:1
+  - 15% of haemodialysis patients develop RCC
+- Features:
+  - 50% found incidentally
+  - Haematuria, loin pain, abdominal mass, anorexia, malaise, weight loss, PUO—often in isolation
+  - Rarely, invasion of left renal vein compresses left testicular vein causing a varicocele
+  - Spread may be direct (renal vein), via lymph, or haematogenous (bone, liver, lung)
+  - 25% have metastases at presentation
+- Tests:
+  - BP: ↑from renin secretion
+  - Blood: FBC (polycythaemia from erythropoietin secretion); ESR; U&E, ALP (bony mets?)
+  - Urine: RBCs; cytology
+  - Imaging: US (p744); CT/MRI; CXR ('cannon ball' metastases)
+- Treatment:
+  - Radical nephrectomy (nephron-sparing surgery is as good for T1 tumours + preserves renal function)
+  - Cryotherapy and radiofrequency ablation is an option for patients unfit or unwilling to undergo surgery
+  - RCC is generally radio- & chemoresistant
+  - In those with unresectable or metastatic disease, options include:
+    - High-dose IL-2 and other T-cell activation therapies
+    - Anti-angiogenesis agents (eg pazopanib, sunitinib, axitinib, or bevacizumab)
+    - mTOR inhibitors, eg temsirolimus
+- The Mayo prognostic risk score (SSIGN) was developed to predict survival and uses information on tumour stage, size, grade, and necrosis
+- Prognosis: 10yr survival ranges from 96.5% (scores 0-1) to 19.2% (scores ≥ 10)
+
+## Transitional cell carcinoma (TCC)
+- May arise in the bladder (50%), ureter, or renal pelvis
+- Epidemiology: Age >40yrs; ♂:♀≈4:1
+- Risk factors: p646
+- Presentation: Painless haematuria; frequency; urgency; dysuria; urinary tract obstruction
+- Diagnosis: Urine cytology; IVU; cystoscopy + biopsy; CT/MRI
+- Treatment: See 'Bladder tumours', p646
+- Prognosis: Varies with clinical stage/histological grade: 10-80% 5yr survival
+
+## Wilms' tumour (nephroblastoma)
+- A childhood tumour of primitive renal tubules and mesenchymal cells
+- Prevalence: 1:100 000—the chief abdominal malignancy in children
+- It presents with an abdominal mass and haematuria
+- Treatment: OHCS p133
+
+## Prostate cancer
+- The commonest male malignancy
+- Incidence: ↑with age: 80% in men >80yrs (autopsy studies)
+- Associations: +ve family history (x2-3 risk, p521), ↑testosterone
+- Most are adenocarcinomas arising in peripheral prostate
+- Spread may be local (seminal vesicles, bladder, rectum) via lymph, or haematogenously (sclerotic bony lesions)
+- Symptoms: Asymptomatic or nocturia, hesitancy, poor stream, terminal dribbling, or obstruction. ↓Weight ± bone pain suggests mets
+- DRE exam of prostate: may show hard, irregular prostate
+- Diagnosis: PSA (normal in 30% of small cancers); transrectal US & biopsy; bone scan; CT/MRI
+- Staging: MRI
+- Treatment:
+  - Disease confined to prostate: options depend on prognosis (see BOX 'Prognostic factors'), patient preference, and comorbidities
+  - Radical prostatectomy if <70yrs gives excellent disease-free survival (laparoscopic surgery is as good)
+  - The role of adjuvant hormonal therapy is being explored
+  - Radical radiotherapy (± neoadjuvant & adjuvant hormonal therapy) is an alternative curative option that compares favourably with surgery (no RCTs)
+  - It may be delivered as external beam or brachytherapy
+  - Hormone therapy alone temporarily delays tumour progression but refractory disease eventually develops. Consider in elderly, unfit patients with high-risk disease
+  - Active surveillance—particularly if >70yrs and low-risk
+- Metastatic disease:
+  - Hormonal drugs may give benefit for 1-2yrs
+  - LHRH agonists, eg 12-weekly goserelin (10.8mg SC) first stimulate, then inhibit pituitary gonadotrophin
+  - NB: risks tumour 'flare' when first used—start anti-androgen, eg cyproterone acetate, in susceptible patients
+  - The LHRH antagonist degarelix is also used in advanced disease
+- Symptomatic treatment: Analgesia; treat hypercalcaemia; radiotherapy for bone mets/spinal cord compression
+- Prognosis: 10% die in 6 months, 10% live >10yrs
+- Screening: DRE of prostate; transrectal US; PSA (see BOX 'Advice to asymptomatic men')
+
+## Penile cancer
+- Epidemiology: Rare in UK, more common in Far East and Africa, very rare in circumcised
+- Related to chronic irritation, viruses, smegma
+- Presentation: Chronic fungating ulcer, bloody/purulent discharge, 50% spread to lymph at presentation
+- Treatment: Radiotherapy & irridium wires if early; amputation & lymph node dissection if late

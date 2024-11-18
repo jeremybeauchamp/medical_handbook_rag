@@ -1,0 +1,34 @@
+# Primary hyperlipidaemias
+
+## Table 14.8 Classification of primary hyperlipidaemias
+
+| Condition | Cholesterol/Triglycerides | Lipoproteins | Clinical Features |
+|-----------|---------------------------|--------------|-------------------|
+| Familial hyperchylomicronae-mia (lipoprotein lipase deficiency or apoCII deficiency)¹ | Chol <6.5<br>Trig 10-30<br>Chylomicrons ↑ | | Eruptive xanthomata;<br>lipaemia retinalis;<br>hepatosplenomegaly |
+| Familial hypercholesterol-aemia²<br>(LDL receptor defects) | Chol 7.5-16<br>Trig <2.3 | LDL | Tendon xanthoma;<br>corneal arcus;<br>xanthelasma |
+| Familial defective apolipoprotein B-100²ᵃ | Chol 7.5-16<br>Trig <2.3 | LDL | Tendon xanthoma;<br>arcus; xanthelasma |
+| Common hypercholesterol-aemia²ᵃ | Chol 6.5-9<br>Trig <2.3 | LDL | The commonest 1°<br>lipidaemia; may have<br>xanthelasma or arcus |
+| Familial combined hyper-lipidaemia²ᵇ⁻ᵛ | Chol 6.5-10<br>Trig 2.3-12 | LDL VLDL<br>HDL | Next commonest 1° lipid-<br>aemia; xanthelasma; arcus |
+| Dysbetalipoproteinaemia<br>(remnant particle disease)³ | Chol 9-14<br>Trig 9-14 | IDL<br>HDL LDL | Palmar striae; tubero-<br>eruptive xanthoma |
+| Familial hypertriglyceridae-mia⁴ | Chol 6.5-12<br>Trig 3.0-6.0 | VLDL | |
+| Type V hyperlipoproteinaemia | Trig 10-30;<br>chylomicrons<br>found | | Eruptive xanthomata;<br>lipaemia retinalis;<br>hepatosplenomegaly |
+
+Blue superscript numbers = WHO phenotype; chol/trig levels given in mmol/L.
+
+### Primary HDL abnormalities:
+- Hyperalphalipoproteinaemia: ↑HDL, chol >2.
+- Hypoalphalipoproteinaemia (Tangier disease): ↓HDL, chol <0.92.
+
+### Primary LDL abnormalities:
+- Abetalipoproteinaemia (ABL): trig <0.3, chol <1.3, missing LDL, VLDL, and chylomicrons.
+  Autosomal recessive disorder of fat malabsorption causing vitamin A & E deficiency,
+  with retinitis pigmentosa, sensory neuropathy, ataxia, pes cavus, and acanthocytosis.
+- Hypobetalipoproteinaemia: chol <1.5, ↓LDL, ↓HDL. Autosomal codominant disorder
+  of apolipoprotein B metabolism. ↑longevity in heterozygotes. Homozygotes pre-
+  sent with a similar clinical picture to ABL.
+
+## Fig 14.13 Xanthelasma
+
+The image shows a close-up view of the eye area of an individual. Yellow, slightly raised lesions are visible near the inner corners of both eyes, just below the lower eyelids. These lesions are characteristic of xanthelasma.
+
+Xanthos is Greek for yellow, and elasma means plate. Xanthelasmata are lipid-laden yellow plaques, typically a few millimetres wide. They congregate around the lids, or just below the eyes, and signify hyperlipidaemia.

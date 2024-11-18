@@ -1,0 +1,61 @@
+## Myiasis
+
+Infection with fly larvae/maggot. Can affect living and necrotic tissue. In south and central America the human botfly lays its eggs on mosquitoes which deposit them when they bite. In sub-Sahran Africa the tumbu fly lays its eggs on clothing which then transfer to skin. 
+
+**Presentation:** Painful swelling. May have sensation of movement within the lesion. May open to reveal larval breathing tubes (fig 9.57). 
+
+**Diagnosis:** Clinical. Identification of larvae in lesion. 
+
+**Treatment:** Petroleum or pork fat cause asphyxiation of the maggot causing it to protrude further out of the skin enabling removal with tweezers. Care: backward-facing spines in American disease may prevent complete removal unless done surgically. Ensure tetanus vaccination is up to date.
+
+| Fig 9.57 Myiasis |
+|-------------------|
+| [Image shows a close-up of skin with a small, red, circular lesion, likely depicting a myiasis infection] |
+| Reproduced under Creative Commons CC0 1.0 Universal Public Domain from https://commons.wikimedia.org/wiki/File:Miasis_human.jpg |
+
+## Tungiasis
+
+Infection of the skin by the sand/jigger flea Tunga penetrans. Acquired (usually walking barefoot) in sandy soil, rainforests, and banana plantations in south and central America, sub-Saharan Africa, Asia, Caribbean. 
+
+**Presentation:** Painful, itchy papule on the feet. May be visible extrusion of eggs. Black crusting when flea dies. 
+
+**Diagnosis:** Clinical. 
+
+**Treatment:** None, self-limiting.
+
+## Leprosy (Hansen's disease)
+
+Caused by slow-growing, acid-fast Mycobacterium leprae which affects skin, nerves, and mucous membranes. Incubation 5-20y. Transmitted via droplets from nose/mouth during close and frequent contact. Classified as:
+
+- Multibacillary ('lepromatous'): ↓immune response, ↑bacilli, +ve smear.
+- Paucibacillary ('tuberculoid'): ↑immune response, granulomata with ↓bacilli, smears may be -ve.
+
+Free treatment through WHO since 1995: prevalence ↓ by 99% to 176 000 in 2014 (5.2 million in 1985).
+
+**Presentation:** Hypopigmented skin lesions (fig 9.58, less well demarcated than vitiligo), sensory loss, thickened nerves, nodules, plaques, nasal congestion, epistaxis, muscle weakness, paralysis, neuropathic ulcers. Eye involvement: chronic iritis, scleritis, episcleritis, ↓corneal sensation (V nerve palsy), ↓blinking and lagophthalmos (VII nerve palsy), trauma from eyelashes (trichiasis). 
+
+**Diagnosis:** Clinical, +ve skin smear, skin biopsy. Serology unreliable. 
+
+**Treatment:** WHO multidrug therapy:
+- Multibacillary: Rifampicin 600mg/month, dapsone 100mg OD, clofazimine 300mg/month and 50mg OD. Duration: 1yr.
+- Paucibacillary: rifampicin 600mg/month, dapsone 100mg OD. Duration: 6 months. If single lesion: rifampicin 600mg+ofloxacin 400mg+minocycline 100mg (single dose).
+
+| Fig 9.58 Leprosy: hypopigmented macules |
+|------------------------------------------|
+| [Image shows a close-up of skin with lighter patches, illustrating hypopigmented macules characteristic of leprosy] |
+| Courtesy of Prof. Jayakar Thoma. |
+
+## Yaws
+
+Chronic granulomatous disease caused by Treponema pertenue. Found in humid/rainforest areas in Africa, Asia, Latin American, Pacific. Associated with ↓socio-economic conditions. Transmission via direct contact. 
+
+**Presentation:** Primary disease = papilloma. If untreated will ulcerate (fig 9.59). Secondary disease: yellow skin lesions, dactylitis. CVS and CNS complications do not occur. 
+
+**Diagnosis:** Serology is indistinguishable from syphilis (Treponema pallidum). Dual-path platform (DPP) assay can distinguish between current and past infection. PCR. 
+
+**Treatment:** Single-dose azithromycin PO.
+
+| Fig 9.59 Ulceropapillomatous yaws |
+|------------------------------------|
+| [Image shows a person with a large, raised lesion on their face, characteristic of ulceropapillomatous yaws] |
+| Courtesy of Dr B Hudson, Sydney, Australia. |

@@ -1,0 +1,61 @@
+# Common haematology values
+
+| Test | Value | Reference |
+|------|-------|-----------|
+| Haemoglobin | men: 130-180g/L | p324 |
+|  | women: 115-160g/L | p324 |
+| Mean cell volume, MCV | 76-96fL | p326; p332 |
+| Platelets | 150-400 × 10⁹/L | p364 |
+| White cells (total) | 4-11 × 10⁹/L | p330 |
+| neutrophils | 2.0-7.5 × 10⁹/L | p330 |
+| lymphocytes | 1.0-4.5 × 10⁹/L | p330 |
+| eosinophils | 0.04-0.4 × 10⁹/L | p330 |
+
+# Blood gases
+
+| Test | Value | Reference |
+|------|-------|-----------|
+| pH | 7.35-7.45 | p670 |
+| PO₂ | >10.6kPa | p670 |
+| PCO₂ | 4.7-6kPa | p670 |
+| Base excess | ±2mmol/L | p670 |
+
+# U&Es (urea and electrolytes)
+
+| Test | Value | Reference |
+|------|-------|-----------|
+| Sodium | 135-145mmol/L | p672 |
+| Potassium | 3.5-5.3mmol/L | p674 |
+| Creatinine | 70-100μmol/L | p298-301 |
+| Urea | 2.5-6.7mmol/L | p298-301 |
+| eGFR | >60 | p669 |
+
+# LFTs (liver function tests)
+
+| Test | Value | Reference |
+|------|-------|-----------|
+| Bilirubin | 3-17μmol/L | p272, p274 |
+| Alanine aminotransferase, ALT | 5-35IU/L | p272, p274 |
+| Aspartate transaminase, AST | 5-35IU/L | p272, p274 |
+| Alkaline phosphatase, ALP | 30-130IU/L (non-pregnant adults) | p272, p274 |
+| Albumin | 35-50g/L | p686 |
+
+# Cardiac enzymes
+
+| Test | Value | Reference |
+|------|-------|-----------|
+| Troponin T | <99th percentile of upper reference limit: value depends on local assay | p119 |
+
+# Other biochemical values
+
+| Test | Value | Reference |
+|------|-------|-----------|
+| Cholesterol | <5mmol/L | p690 |
+| Triglycerides | Fasting: 0.5-2.3mmol/L | p690 |
+| Amylase | 0-180 IU/dL | p636 |
+| C-reactive protein, CRP | <10mg/L | p686 |
+| Corrected calcium | 2.12-2.60mmol/L | p676 |
+| Glucose, fasting | 3.5-5.5mmol/L | p206 |
+| Thyroid stimulating hormone, TSH | 0.5-4.2mU/L | p216 |
+
+For all other reference intervals, see p750-7

@@ -1,0 +1,37 @@
+# Immediate management if shocked
+
+1. Protect airway and keep NBM
+   Insert two large-bore cannulae (14-16G)
+
+2. Urgent bloods: FBC, U&E, LFT, glucose, clotting
+   screen, crossmatch 4-6 units
+
+3. Rapid IV crystalloid infusion up to 1L
+
+4. If signs of grade III or IV shock (p790) give blood
+   Group specific or O Rh-ve until crossmatch done
+
+5. Otherwise continue IV fluids to
+   maintain BP and transfuse if eg Hb <7
+
+6. Correct clotting abnormalities
+   Vitamin K, FFP, platelet concentrate
+
+7. If risk of varices (eg known liver disease or
+   alcohol excess), give terlipressin IV 1-2mg/6h and
+   broad-spectrum IV antibiotics
+
+8. Consider referral to ICU or HDU, and consider CVP
+   line to guide fluid replacement. Aim for >5cmH2O
+   CVP may mislead if there is ascites or CCF
+
+9. Catheterize and monitor urine output. Aim for >30mL/h
+
+10. Monitor vital signs every 15min until stable, then hourly
+
+11. Notify surgeons of all severe bleeds
+
+12. Urgent endoscopy for diagnosis ± control of bleeding
+    at the earliest possible point after adequate resuscitation
+
+Fig 19.17 Immediate management of suspected upper GI bleed with shock.

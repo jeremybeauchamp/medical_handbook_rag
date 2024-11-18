@@ -1,0 +1,35 @@
+## Adult congenital heart disease (ACHD)
+
+This is a growing area of cardiology as increasing numbers of children with congenital heart defects survive to adulthood, sometimes as a result of complex restructuring procedures which have their own physiological implications (see BOX 'Patients with one ventricle'). ACHD patients are at increased risk of many conditions described elsewhere, for which many of the 'standard' investigations and therapies will apply: including arrhythmias (p124), heart failure (p134), and infective endocarditis (p150).
+
+### Investigations
+Echocardiography (± bubble contrast) is first line. Increasingly, cardiac CT and MR are used to provide precise anatomical and functional information. Cardiac catheterization generates data on oxygen saturation and pressure in different vessels and chambers. Exercise testing assesses functional capacity.
+
+A few of the more common ACHDs are discussed below:
+
+### Bicuspid aortic valve
+These work well at birth and go undetected. Many eventually develop aortic stenosis (needing valve replacement) ± aortic regurgitation predisposing to IE/SBE ± aortic dilatation/dissection. Intense exercise may accelerate complications, so do yearly echocardiograms on affected athletes.
+
+### Atrial septal defect (ASD)
+A hole connects the atria.
+- *Ostium secundum defects:* 80% cases; hole high in the septum; often asymptomatic until adulthood when a L→R shunt develops. Shunting depends on the compliance of the ventricles. LV compliance decreases with age (esp. if ↑BP), so augmenting L→R shunting; hence dyspnoea/heart failure, typically aged 40-60yrs.
+- *Ostium primum defects:* associated with AV valve anomalies, eg in Down's syndrome; present in childhood.
+
+**Signs and symptoms:** Chest pain, palpitations, dyspnoea. Arrhythmias incl. AF; ↑JVP; wide, fixed split S₂; pulmonary systolic flow murmur. Pulmonary hypertension may cause pulmonary or tricuspid regurgitation, dyspnoea and haemoptysis. ↑Frequency of migraine. 
+
+**Simple tests:** ECG: RBBB with LAD (primum defect) or RAD (secundum defect). CXR: small aortic knuckle, pulmonary plethora, atrial enlargement. 
+
+**Complications:** 
+- Reversal of left-to-right shunt, ie *Eisenmenger's complex:* initial L→R shunt leads to pulmonary hypertension which increases right heart pressures until they exceed left heart pressures, hence shunt reversal. This causes cyanosis as deoxygenated blood enters systemic circulation. 
+- Paradoxical emboli eg causing CVAs (vein→artery via ASD; rare). 
+
+**Treatment:** May close spontaenously. If not, primum defects are usually closed in childhood. Secundum defects should be closed if symptomatic or signs of RV overload. Transcatheter closure is more common than surgical.
+
+### Ventricular septal defect (VSD)
+A hole connects the ventricles. **Causes:** Congenital (prevalence 2:1000 births); acquired (post-MI). **Symptoms:** May present with severe heart failure in infancy, or remain asymptomatic and be detected incidentally in later life. **Signs:** Classically, a harsh pansystolic murmur is heard at the left sternal edge, with a systolic thrill, ± left parasternal heave. Smaller holes, which are haemodynamically less significant, give louder murmurs. Signs of pulmonary hypertension. **Complications:** AR, IE/SBE, pulmonary hypertension, Eisenmenger's complex (above), heart failure from volume overload. **Tests:** ECG: normal, LAD, LVH, RVH. CXR: normal heart size ± mild pulmonary plethora (small VSD) or cardiomegaly, large pulmonary arteries and marked pulmonary plethora (large VSD). Cardiac catheter: step up in O₂ saturation in right ventricle. **Treatment:** Initially medical as many close spontaneously. Indications for surgical closure: failed medical therapy, symptomatic VSD, shunt >3:1, SBE/IE. Endovascular closure may be possible.
+
+### Coarctation of the aorta
+Congenital narrowing of the descending aorta; usually occurs just distal to the origin of the left subclavian artery. More common in boys. **Associations:** Bicuspid aortic valve; Turner's syndrome. **Signs:** Radiofemoral delay; weak femoral pulse; ↑BP; scapular bruit; systolic murmur (best heard over the left scapula); cold feet. **Complications:** Heart failure from high afterload; IE; intracerebral haemorrhage. **Tests:** CT or MRI-aortogram; CXR may show rib notching as blood diverts down intercostal arteries to reach the lower body, causing these vessels to dilate and erode local rib bone. **Treatment:** Surgery, or balloon dilatation ± stenting.
+
+### Tetralogy of Fallot
+See p157.

@@ -1,0 +1,35 @@
+# Chapter 19: Emergencies
+
+1. Hawkes C. Smart handles and red flags in neurological diagnosis. Hosp Med 2002; 63:732–42. https://www.ncbi.nlm.nih.gov/pubmed/12512200
+
+2. NICE. Sepsis: Recognition, diagnosis and early management [NG51]. 2016. https://www.nice.org.uk/guidance/ng51
+
+3. Task Force on the management of ST-segment elevation acute myocardial infarction of the European Society of Cardiology (ESC). ESC Guidelines for the management of acute myocardial infarction in patients presenting with ST-segment elevation. Eur Heart J 2012; 33(20):2569–619. http://eurheartj.oxfordjournals.org/content/33/20/2569.long
+
+4. Roffi M, Patrono C, Collet JP, et al. 2015 ESC Guidelines for the management of acute coronary syndromes in patients presenting without persistent ST-segment elevation. Eur Heart J 2016; 37(3):267–315. http://eurheartj.oxfordjournals.org/content/37/3/267.long
+
+5. NICE. Ticagrelor for the treatment of acute coronary syndromes [TA236]. 2011. https://www.nice.org.uk/guidance/ta236
+
+6. Resuscitation Council (UK). Advanced life support (7th edn). London: Resuscitation Council (UK), 2016
+
+7. Scottish Intercollegiate Guidelines Network. British guideline on the management of asthma (SIGN 141). 2014. https://www.brit-thoracic.org.uk/document-library/clinical-information/asthma/btssign-asthma-guideline-2014/
+
+8. NICE. Management of exacerbations of COPD. In: Chronic obstructive pulmonary disease in over 16s: Diagnosis and management [CG101]. 2010. https://www.nice.org.uk/guidance/cg101/chapter/1-guidance#management-of-exacerbations-of-copd
+
+9. MacDuff A, Arnold A, Harvey J, et al. Management of spontaneous pneumothorax: British Thoracic Society pleural disease guideline 2010. Thorax 2010; 65(Suppl 2):ii18–31. http://thorax.bmj.com/content/65/Suppl_2/ii18.long
+
+10. Lim WS, Baudouin SV, George RC, et al. BTS guidelines for the management of community acquired pneumonia in adults: update 2009. Thorax 2009; 64(Suppl 3):iii1–55. http://thorax.bmj.com/content/64/Suppl_3/iii1.long
+
+11. NICE. Recommendations. In: Venous thromboembolic diseases: Diagnosis, management and thrombophilia testing [CG141]. 2012. https://www.nice.org.uk/guidance/cg144/chapter/recommendations
+
+12. NICE. Acute upper gastrointestinal bleeding in over 16s: Management [CG141]. 2012. https://www.nice.org.uk/guidance/cg141
+
+13. McGill F, Heyderman R, Michael B, et al. The UK Joint Specialist Societies guideline on the diagnosis and management of acute meningitis and meningococcal sepsis in immunocompetent adults. J Infect 2016; 72:405–38. http://www.journalofinfection.com/article/S0163-4453(16)00024-4/abstract
+
+14. NICE. Epilepsies: Diagnosis and management [CG137]. 2012, updated 2016. https://www.nice.org.uk/guidance/cg137
+
+15. NICE. Head injury: Assessment and early management [CG176]. 2014. https://www.nice.org.uk/guidance/cg176
+
+16. Joint British Diabetes Societies Inpatient Care Group. The management of diabetic ketoacidosis in adults. Second edition. Update: September 2013. https://www.diabetes.org.uk/Documents/About%20Us/What%20we%20say/Management-of-DKA-241013.pdf
+
+17. Joint British Diabetes Societies Inpatient Care Group. The management of the hyperosmolar hyperglycaemic state (HHS) in adults with diabetes. August 2012. https://www.diabetes.org.uk/Documents/Position%20statements/JBDS-IP-HHS-Adults.pdf

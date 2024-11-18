@@ -1,0 +1,26 @@
+# Systemic lupus erythematosus (SLE)
+
+SLE is a multisystemic autoimmune disease. Autoantibodies are made against a variety of autoantigens (eg ANA) which form immune complexes. Inadequate clearance of immune complexes results in a host of immune responses which cause tissue inflammation and damage. Environmental triggers play a part (eg EBV p405).43
+
+**Prevalence** ~0.2%. ♀:♂≈9:1, typically women of child-bearing age. Commoner in African-Caribbeans, Asians, and if HLA B8, DR2, or DR3 +ve. ~10% of patients have a 1st- or 2nd-degree relative with SLE.
+
+**Clinical features** See BOX. Remitting and relapsing illness of variable presentation and course. Features often non-specific (malaise, fatigue, myalgia, and fever) or organ-specific and caused by active inflammation or damage. Other features include lymphadenopathy, weight loss, alopecia, nail-fold infarcts, non-infective endocarditis (Libman–Sacks syndrome), Raynaud's (30%; see p708), stroke, and retinal exudates.
+
+**Immunology** >95% are ANA +ve. A high anti-double-stranded DNA (dsDNA) antibody titre is highly specific, but only +ve in ~60% of cases. ENA (p553) may be +ve in 20–30% (anti-Ro, anti-La, anti-Sm, anti-RNP); 40% are RhF +ve; antiphospholipid antibodies (anticardiolipin or lupus anticoagulant) may also be +ve. SLE may be associated with other autoimmune conditions: Sjögren's (15-20%), autoimmune thyroid disease (5-10%).
+
+**Diagnosis** See BOX. **Monitoring activity** Three best tests: 1 Anti-dsDNA antibody titres. 2 Complement: C3, C4 (denotes consumption of complement, hence C3 and C4, and C3d and C4d, their degradation products). 3 ESR. Also: BP, urine for casts or protein (lupus nephritis, below), FBC, U&E, LFTs, CRP (usually normal) ▶ think of SLE whenever someone has a multisystem disorder and ↑ESR but CRP normal. If ↑CRP, think instead of infection, serositis, or arthritis. Skin or renal biopsies may be diagnostic.
+
+**Drug-induced lupus** Causes (>80 drugs) include isoniazid, hydralazine (if >50mg/24h in slow acetylators), procainamide, quinidine, chlorpromazine, minocycline, phenytoin, anti-TNF agents. It is associated with antihistone antibodies in >95% of cases. Skin and lung signs prevail (renal and CNS are rarely affected). The disease remits if the drug is stopped. Sulfonamides or the oral contraceptive pill may worsen idiopathic SLE.
+
+**Management** Refer: complex cases should involve specialist SLE/nephritis clinics.
+- **General measures**: High-factor sunblock. Hydroxychloroquine, unless contraindicated, reduces disease activity and improves survival. Screen for co-morbidities and medication toxicity. For skin flares, first trial topical steroids.
+- **Maintenance**: NSAIDs (unless renal disease) and hydroxychloroquine for joint and skin symptoms. Azathioprine, methotrexate, and mycophenolate as steroid-sparing agents. Belimumab (monoclonal antibody) used as an add-on therapy for auto-antibody positive disease where disease activity is high.44 (See BOX.)
+- **Mild flares**: (No serious organ damage.) Hydroxychloroquine or low-dose steroids.
+- **Moderate flares**: (Organ involvement.) May require DMARDs or mycophenolate.
+- **Severe flares**: If life- or organ-threatening, eg haemolytic anaemia, nephritis, severe pericarditis or CNS disease; urgent high-dose steroids, mycophenolate, rituximab, cyclophosphamide. MDT working vital for neuropsychiatric lupus (psychometric testing, lumbar puncture may be indicated).
+
+**Lupus nephritis**: (p314.) May require more intensive immunosuppression with steroids and cyclophosphamide or mycophenolate. BP control vital (e.g. ACE-i). Renal replacement therapy (p306) may be needed if disease progresses; nephritis recurs in ~50% post-transplant, but is a rare cause of graft failure.45
+
+**Prognosis**: ~80% survival at 15 years.43 There is an increased long-term risk of CVD and osteoporosis.
+
+**Antiphospholipid syndrome** Can be associated with SLE (20-30%). Often occurs as a primary disease. Antiphospholipid antibodies (anticardiolipin & lupus anticoagulant, anti-β 2 glycoprotein 1) cause CLOTS: Coagulation defect (arterial/venous), Livedo reticularis (p557), Obstetric (recurrent miscarriage), Thrombocytopenia. Thrombotic tendency affects cerebral, renal, and other vessels. Dx: Persistent antiphospholipid antibodies with clinical features. ℞: Anticoagulation; seek advice in pregnancy.46

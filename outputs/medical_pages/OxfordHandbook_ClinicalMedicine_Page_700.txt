@@ -1,0 +1,31 @@
+# Plasma proteins
+
+The plasma contains a number of proteins including albumin, immunoglobulins, α1-antitrypsin, α2-macroglobulin, caeruloplasmin, transferrin, low-density lipoprotein (LDL), fibrinogen, complement, and factor VIII. The most abundant is albumin (see fig 14.12).
+
+## Albumin
+Synthesized in the liver; t½ ≈20d. It binds bilirubin, free fatty acids, Ca2+, and some drugs. Low albumin: Results in oedema, and is caused by: •synthesis: liver disease, acute phase response (due to vascular permeability—eg sepsis, trauma, surgery), malabsorption, malnutrition, malignancy •loss: nephrotic syndrome, protein-losing enteropathy, burns •haemodilution: late pregnancy, artefact (eg from 'drip' arm). Also posture (5g/L if upright) and genetic variations. High albumin: Causes are dehydration; artefact (eg stasis).
+
+## Immunoglobulins
+(Antibodies) are synthesized by B cells. Five isoforms Ig A,D,E,G,M exist in humans, and IgG is the most abundant circulating form. Specific monoclonal band in paraproteinaemia (see p370). Diffusely raised in chronic infections, TB, bronchiectasis, liver cirrhosis, sarcoidosis, SLE, RA, Crohn's disease, 1° biliary cirrhosis, hepatitis, and parasitaemia. Low in nephrotic syndrome, malabsorption, malnutrition, and immune deficiency states (eg severe illness, renal failure, diabetes mellitus, malignancy, or congenital).
+
+## Acute phase response
+The body responds to a variety of insults with, among other things, the synthesis, by the liver, of a number of proteins (normally present in serum in small quantities)—eg α1-antitrypsin, fibrinogen, complement, haptoglobin, and CRP. A concomitant reduction in albumin level, is characteristic of conditions such as infection, malignancy (especially α2-fraction), trauma, surgery, and inflammatory disease.
+
+## CRP
+So called because it binds to a polysaccharide (fraction C) in the cell wall of pneumococci. Levels help monitor inflammation/infection (normal <8mg/L). Like the ESR, it is raised in many inflammatory conditions, but changes more rapidly. It increases in hours and begins to fall within 2-3d of recovery; thus it can be used to follow disease activity (eg Crohn's disease) or the response to therapy (eg antibiotics). CRP values in mild inflammation 10-50mg/L; active bacterial infection 50-200mg/L; severe infection or trauma >200mg/L; see table 14.6.
+
+# Urinary proteins
+
+Urinary protein loss >150mg/d is pathological (p294).
+
+## Albuminuria
+Usually caused by renal disease (p294). Microalbuminuria: Urinary protein loss between 30 and 300mg/d (so not visible on normal dipstick) and may be seen with diabetes mellitus, ↑BP, SLE, and glomerulonephritis (see p314 for role in DM). Can also be quantified by measuring the urinary albumin:creatinine ratio (A:CR), usually a first-in-the-morning spot urine sample. A level >30mg/mmol indicates albuminuria, and microalbuminuria is defined as >2.5mg/mmol in men and >3.5 in women. This is a useful screening test in diabetics, and subjects with reduced eGFR. Note some labs measure total urinary protein not albumin—a P:CR of 50, is equivalent to an A:CR of 30.20
+
+## Bence Jones protein
+Consists of light chains excreted in excess by some patients with myeloma (p368). They are not detected by dipsticks and may occur with normal serum electrophoresis.
+
+## Haemoglobinuria
+Caused by intravascular haemolysis (p336).
+
+## Myoglobinuria
+Caused by rhabdomyolysis (p319).

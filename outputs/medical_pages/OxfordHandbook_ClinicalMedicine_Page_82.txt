@@ -1,0 +1,37 @@
+# Neurological examination of the lower limbs
+
+If the patient is able, begin your examination by asking the patient to remove their lower garments down to underwear, and to walk across the room. Gait analysis (p467) gives you more information than any other test. If they aren't able to walk, start with them lying down, legs fully exposed. Then, Inspection, Tone, Reflexes, Power, Coordination, Sensation (fig 2.32).
+
+## 1 General inspection and gait
+
+**Gait:** Ask patient to walk a few metres, turn, and walk back to you. Note use of walking aids, symmetry, size of paces, arm swing. Ask patient to 'walk heel-to-toe as if on a tightrope' to exaggerate any instability. Ask patient to walk on tiptoes, then on heels. Inability to walk on tiptoes indicates S1 or gastrocnemius lesion. Inability to walk on heels indicates L4,5 lesion or foot drop.
+
+**Romberg's test:** Ask patient to stand unaided with arms by their sides and close their eyes (be ready to support them). If they sway/lose balance the test is positive and indicates posterior column disease/sensory ataxia.
+
+**Inspect:** Abnormal posturing, muscle wasting, fasciculation (LMN lesion?), deformities of the foot (eg pes cavus of Friedreich's ataxia or Charcot-Marie-Tooth disease). Is one leg smaller than the other (old polio, infantile hemiplegia)?
+
+## 2 Tone
+
+Ask patient to 'relax/go floppy like a rag-doll'. Ask if they have any pain in feet/legs/hips before passively flexing and extending each limb while also internally and externally rotating. Hold the patient's knee and roll it from side to side. Put your hand behind the knee and raise it quickly. The heel should lift slightly from the bed if tone is normal. Any spasticity/rigidity?
+
+**Clonus:** Plantar flex the foot then quickly dorsiflex and hold. More than 3 'beats' of plantar flexion is sustained clonus and is abnormal. Clonus can also be elicited at the patella with rapid downward movement of patella. Hypertonia and clonus suggest an upper motor neuron lesion.
+
+## 3 Reflexes
+
+For each reflex, test right, then left and compare. If absent, attempt to elicit with 'reinforcement'. Decide whether reflexes are absent/present (with reinforcement)/normal/brisk/exaggerated.
+
+- **Knee:** (L3,4.) Strike on the patella tendon, just below the patella.
+- **Ankle:** (L5,S1.) Several accepted methods; ideally ask the patient to slightly bend the knee, then drop it laterally, grasp the foot and dorsiflex, then strike the Achilles tendon. If hip pain limits mobility, dorsiflex the foot with a straight leg and strike your hand, feeling for an ankle jerk.
+- **Plantar reflexes:** (L5, S1, S2.) Stroke the patient's sole with an orange stick or similar. The normal reflex is downward movement of the great toe. Babinski's sign is positive if there is dorsiflexion of the great toe (this is abnormal (upper motor neuron lesion) if patient age >6 months).
+
+| Dermatomes |
+|------------|
+| T10        |
+| T11        |
+| T12        |
+| L1         |
+| L2         |
+| L3         |
+| L4         |
+| L5         |
+| S1         |

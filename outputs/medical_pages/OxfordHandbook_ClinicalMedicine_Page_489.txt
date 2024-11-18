@@ -1,0 +1,48 @@
+# Assessing dependence in daily life
+
+Handicap entails inability to carry out social functions. 'A disadvantage for a given individual, resulting from an impairment or disability, that limits or prevents the fulfilment of a role.' Two people with the same impairment (eg paralysed arm) may have different disabilities (table 10.5, eg one may be able to dress but the other cannot). Disabilities are likely to determine quality of future life. Treatment is often best aimed at reducing disability, not curing disease. For example, Velcro® fasteners in place of buttons may enable a person to dress.
+
+## Table 10.5 Barthel's index of activities of daily living
+
+| Activity     | Score | Description |
+|--------------|-------|-------------|
+| Bowels       | 0     | Incontinent (or needs to be given enemas) |
+|              | 1     | Occasional accidents (once a week) |
+|              | 2     | Continent |
+| Bladder      | 0     | Incontinent, or catheter inserted but unable to manage it |
+|              | 1     | Occasional accidents (up to once per 24h) |
+|              | 2     | Continent (for more than 7 days) |
+| Grooming     | 0     | Needs help with personal care: face, hair, teeth, shaving |
+|              | 1     | Independent (implements provided) |
+| Toilet use   | 0     | Dependent |
+|              | 1     | Needs some help but can do some things alone |
+|              | 2     | Independent (on and off, wiping, dressing) |
+| Feeding      | 0     | Unable |
+|              | 1     | Needs help in cutting, spreading butter, etc. |
+|              | 2     | Independent (food provided within reach) |
+| Transfer     | 0     | Unable to get from bed to commode: the vital transfer to prevent the need for 24-hour nursing care |
+|              | 1     | Major help needed (physical, 1-2 people), can sit |
+|              | 2     | Minor help needed (verbal or physical) |
+|              | 3     | Independent |
+| Mobility     | 0     | Immobile |
+|              | 1     | Wheelchair-independent, including corners, etc. |
+|              | 2     | Walks with help of one person (verbal or physical) |
+|              | 3     | Independent |
+| Dressing     | 0     | Dependent |
+|              | 1     | Needs help but can do about half unaided |
+|              | 2     | Independent (including buttons, zips, laces, etc.) |
+| Stairs       | 0     | Unable |
+|              | 1     | Needs help (verbal, physical, carrying aid) |
+|              | 2     | Independent up and down |
+| Bath/shower  | 0     | Dependent |
+|              | 1     | Independent (must get in and out unaided and wash self) |
+
+Mahoney FI, Barthel DW: Functional evaluation: the Barthel Index. Maryland State Medical Journal. 1965; 14:61-65.
+
+## Barthel's paradox
+
+The more we contemplate Barthel's eulogy of independence, the more we see it as a mirage reflecting a greater truth about human affairs: there is no such thing as independence—only interdependence—and in fostering this interdependence lies our true vocation:
+
+> No man is an Island, intire of it selfe; every man is a peece of the Continent, a part of the maine; if a Clod bee washed away by the Sea, Europe is the lesse, as well as if a promontorie were, as well as if a Mannor of thy friends or of thine owne were. Any man's death diminishes me, because I am involved in mankinde; And therefore never send to know for whom the bell tolls: It tolls for thee.
+
+John Donne 1572-1631; Meditation XVII.

@@ -1,0 +1,50 @@
+## Pericardial diseases
+
+### Acute pericarditis
+This is inflammation of the pericardium.
+
+**Causes:** Idiopathic or secondary to:
+- Viruses: eg coxsackie, echovirus, EBV, CMV, adenovirus, mumps, varicella, HIV.
+- Bacteria: eg TB—commonest cause worldwide, Lyme disease, Q fever, pneumonia, rheumatic fever, Staphs, Streps, mycoplasma, legionella, MAI in HIV.
+- Fungi and parasitic: v rare, usually in immunocompromised.
+- Autoimmune: systemic autoimmune diseases eg SLE, RA; vasculitides eg Behçet, Takayasu; IBD; sarcoid; amyloid; Dressler's (p698).
+- Drugs: eg procainamide, hydralazine, penicillin, isoniazid, chemotherapy.
+- Metabolic: uraemia, hypothyroidism, anorexia nervosa.
+- Others: trauma, surgery, malignancy, radiotherapy, MI, chronic heart failure.
+
+**Clinical features:** Central chest pain worse on inspiration or lying flat ± relief by sitting forward. A pericardial friction rub (p46) may be heard. Look for evidence of a pericardial effusion or cardiac tamponade (see later in topic). Fever may occur.
+
+**Tests:** ECG classically shows concave (saddle-shaped) ST segment elevation and PR depression, but may be normal or non-specific (10%); see fig 3.51. Blood tests: FBC, ESR, U&E, cardiac enzymes (NB: troponin may be raised); tests relating to possible aetiologies. Cardiomegaly on CXR may indicate a pericardial effusion. Echo (if suspected pericardial effusion). CMR and CT may show localized inflammation.
+
+**Treatment:** NSAIDs or aspirin with gastric protection for 1-2weeks. Add colchicine 500mcg OD or BD for 3 months to reduce the risk of recurrence. Rest until symptoms resolve. Treat the cause. If not improving or autoimmune, consider steroids (may increase the risk of recurrence) or other immunosuppressive therapies.
+
+### Pericardial effusion
+Accumulation of fluid in the pericardial sac (normally 10-50mL).
+
+**Causes:** Pericarditis, myocardial rupture (haemopericardium—surgical, stab wound, post-MI); aortic dissection; pericardium filling with pus; malignancy.
+
+**Clinical features:** Dyspnoea, chest pain, signs of local structures being compressed— hiccoughs (phrenic N), nausea (diaphragm), bronchial breathing at left base (Ewart's sign: compressed left lower lobe). Muffled heart sounds. Look for signs of cardiac tamponade (below).
+
+**Diagnosis:** CXR shows an enlarged, globular heart if effusion >300mL; fig 3.14. ECG shows low-voltage QRS complexes and may have alternating QRS morphologies (electrical alternans). Echocardiography shows an echo-free zone surrounding the heart.
+
+**Management:** Treat the cause. Pericardiocentesis may be diagnostic (suspected bacterial pericarditis) or therapeutic (cardiac tamponade). See p773. Send pericardial fluid for culture, ZN stain/TB culture, and cytology.
+
+### Constrictive pericarditis
+The heart is encased in a rigid pericardium.
+
+**Causes:** Often unknown (UK); elsewhere TB, or after any pericarditis.
+
+**Clinical features:** These are mainly of right heart failure with ↑JVP (with prominent x and y descents, p43); Kussmaul's sign (JVP rising paradoxically with inspiration); soft, diffuse apex beat; quiet heart sounds; S3; diastolic pericardial knock, hepatosplenomegaly, ascites, and oedema.
+
+**Tests:** CXR: small heart ± pericardial calcification. CT/MRI—helps distinguish from restrictive cardiomyopathy. Echo. Cardiac catheterization.
+
+**Management:** Surgical excision. Medical Rx to address the cause and symptoms.
+
+### Cardiac tamponade
+A pericardial effusion that raises intrapericardial pressure, reducing ventricular filling and thus dropping cardiac output. Can lead rapidly to cardiac arrest.
+
+**Signs:** ↑Pulse, ↓BP, pulsus paradoxus, ↑JVP, Kussmaul's sign, muffled S1 and S2.
+
+**Diagnosis:** Beck's triad: falling BP; rising JVP; muffled heart sounds. ECG: low-voltage QRS ± electrical alternans. Echo is diagnostic: echo-free zone (>2cm, or >1cm if acute) around the heart ± diastolic collapse of right atrium and right ventricle.
+
+**Management:** Seek expert help. The pericardial effusion needs urgent drainage (p773). Send fluid for culture, ZN stain/TB culture, and cytology.

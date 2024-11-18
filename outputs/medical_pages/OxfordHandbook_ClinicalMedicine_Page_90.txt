@@ -1,0 +1,32 @@
+## Musculoskeletal hand examination 2
+
+The hands can give you a wealth of information about a patient. Shaking hands can tell you about thyroid disease (warm, sweaty, tremor), anxiety (cold, sweaty), and neurological disease (myotonic dystrophy patients have difficulty relaxing their grip, a weak grip may suggest muscle wasting or peripheral neuropathy). The nails and skin can inform about systemic disease:
+
+### Nail abnormalities
+
+- **Koilonychia** (spoon-shaped nails, fig 2.40) suggests iron deficiency, haemochromatosis, infection (eg fungal), endocrine disorders (eg acromegaly, hypo-thyroidism), or malnutrition.
+- **Onycholysis** (detachment of the nail from the nail-bed) is seen with hyperthyroidism, fungal infection, and psoriasis.
+- **Beau's lines** (fig 2.41) are transverse furrows from temporary arrest of nail growth at times of biological stress: severe infection. Nails grow at ~0.1mm/d, the furrow's distance from the cuticle allows dating of the stress.
+- **Mees' lines** are single white transverse bands classically seen in arsenic poisoning, chronic kidney disease, and carbon monoxide poisoning among others.
+- **Muehrcke's lines** are paired white parallel transverse bands (without furrowing of the nail itself, distinguishing them from Beau's lines) seen, eg, in chronic hypoalbuminaemia, Hodgkin's disease, pellagra (p268), chronic kidney disease.
+- **Terry's nails**: Proximal portion of nail is white/pink, nail tip is red/brown (causes include cirrhosis, chronic kidney disease, congestive cardiac failure).
+- **Pitting** is seen in psoriasis and alopecia areata.
+- **Splinter haemorrhages** (fig 2.42) are fine longitudinal haemorrhagic streaks (under the nails), which in the febrile patient may suggest infective endocarditis. They may be microemboli, or be normal—eg due to gardening.
+- **Nail-fold infarcts**: Embolic, typically seen in vasculitic disorders (OHCS, p452).
+- **Nail clubbing** See p77.
+- **Chronic paronychia** is a chronic infection of the nail-fold and presents as a painful swollen nail with intermittent discharge (fig 2.43).
+
+### Skin changes
+
+- **Palmar erythema** (fig 2.44) is associated with cirrhosis, pregnancy, hyperthyroidism, rheumatoid arthritis, polycythaemia; also chronic liver disease—via inactivation of vasoactive endotoxins by the liver. Also chemotherapy-induced palmar/plantar erythrodysaesthesia.
+- **Pallor** of the palmar creases suggests anaemia.
+- **Pigmentation** of the palmar creases is normal in people of African-Caribbean or Asian origin but is also seen in Addison's disease and Nelson's syndrome (increased ACTH after removal of the adrenal glands in Cushing's disease).¹⁵
+- **Gottron's papules** (purple rash on the knuckles) with dilated end-capillary loops at the nail fold suggests dermatomyositis (p552).
+
+| Figure | Description |
+|--------|-------------|
+| Fig 2.40 | Koilonychia. |
+| Fig 2.41 | Beau's lines, here due to chemotherapy, a new line is seen with each cycle. See p525. |
+| Fig 2.42 | Splinter haemorrhages. |
+| Fig 2.43 | Paronychia. Reproduced from Burge et al. Oxford Handbook of Medical Dermatology 2016, with permission from Oxford University Press. |
+| Fig 2.44 | Palmar erythema. |

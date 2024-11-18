@@ -1,0 +1,28 @@
+# Fallot's tetralogy: what the non-specialist needs to know
+
+Tetralogy of Fallot (TOF) is the most common cyanotic congenital heart disorder (prevalence: 3–6 per 10 000). It is also the most common cyanotic heart defect that survives to adulthood, accounting for 10% of all ACHD. It is believed to be due to abnormalities in separation of the truncus arteriosus into the aorta and pulmonary arteries early in gestation (fig 3.52).
+
+The 'tetralogy' of features are:
+1. Ventricular septal defect (VSD).
+2. Pulmonary stenosis.
+3. Right ventricular hypertrophy.
+4. The aorta overrides the VSD, accepting right heart blood.
+
+A few patients also have an ASD, which makes up the pentad of Fallot.
+
+**Presentation:** Severity of illness depends greatly on the degree of pulmonary stenosis. Infants may be acyanotic at birth, with a pulmonary stenosis murmur as the only initial finding. Gradually (especially after closure of the ductus arteriosus) they become cyanotic due to decreasing flow of blood to the lungs and increasing right-to-left flow across the VSD. During a hypoxic spell, the child becomes restless and agitated. Toddlers may squat, which is typical of TOF, as it increases peripheral vascular resistance, thereby decreasing the degree of right to left shunt. Adult patients are often asymptomatic. In the unoperated adult patient, cyanosis is common, although extreme cyanosis or squatting is uncommon. In repaired patients, late symptoms include exertional dyspnoea, palpitations, clubbing, RV failure, syncope, and even sudden death.
+
+**Investigations:** ECG shows RV hypertrophy with a right bundle-branch block. CXR may be normal, or show the hallmark of TOF, which is the classic boot-shaped heart (fig 3.53). Echocardiography can show the anatomy as well as the degree of stenosis. Cardiac CT and cardiac MRI can give valuable information for planning the surgery.
+
+**Management:** Surgery is usually done before 1yr of age, with closure of the VSD and correction of pulmonary stenosis.
+
+**Prognosis:** Without surgery, mortality rate is ~95% by age 20. After repair, 85% of patients survive to 35yrs. Common problems in adulthood include pulmonary regurgitation, causing RV dilatation and failure; RV outflow tract obstruction; AR; LV dysfunction; and arrhythmias.
+
+## Patients with one ventricle
+
+Many patients born with single-ventricle hearts (eg hypoplastic left heart syndrome) will undergo a Fontan procedure. This results in systemic venous blood flowing directly into the pulmonary arteries and the single ventricle being used to pump oxygenated blood into the aorta. The lack of a right heart results in many of the signs and symptoms of right heart failure and puts the patient at risk of rapid cardiac decompensation. When looking after these patients, seek advice from specialist ACHD centres.
+
+| Figure | Description |
+|--------|-------------|
+| Fig 3.52 | Tetralogy of Fallot. Reproduced from Thorne et al., Adult Congenital Heart Disease, 2009, with permission from Oxford University Press. |
+| Fig 3.53 | Boot-shaped heart. Courtesy of Dr Edward Singleton. |

@@ -1,0 +1,43 @@
+# Viral haemorrhagic fever (VHF)
+
+Viral haemorrhagic fever (VHF) is a term used for severe, multi-organ disease in which the endothelium is damaged, and homeostasis is impaired. Haemorrhage complicates the disease course and can be life-threatening. VHF classification by viral subtype is shown in table 9.22.
+
+## Table 9.22 VHF classification (HF=haemorrhagic fever)
+
+| Virus family | Disease (virus subtype) | Details |
+|--------------|-------------------------|---------|
+| Filovirus | Ebola | See Ebola, this page |
+| | Marburg | See Marburg, p427 |
+| Arenavirus | Lassa fever (Lassa) | See Lassa, p427 |
+| | Argentinian HF (Junin) | South American VHF are rare causes of infec- |
+| | Bolivian HF (Chapare, | tion in travellers. Incubation 2-16d. Resemble |
+| | Machupo) | Lassa fever. Severe disease with bleeding in |
+| | Brazilian HF (Sabia) | ~⅓. Supportive treatment. Live vaccine avail- |
+| | Venezuelan HF (Guanarito) | able for Junin virus. |
+| Bunyavirus | Crimean-Congo HF | See CCHF, p427 |
+| | Hanta | Rodent host. Incubation 2d-8wk. Causes: 1 |
+| | | HF with renal syndrome: fever, headache, GI |
+| | | symptoms, and AKI. 2 Hanta virus pulmonary |
+| | | syndrome: bilateral interstitial pulmonary |
+| | | infiltrates, mortality 30-40%. Supportive |
+| | | treatment. |
+| | Rift valley fever | Endemic in Africa. 80% asymptomatic or |
+| | | self-limiting febrile illness. <2% CNS involve- |
+| | | ment/haemorrhagic. |
+| Flavivirus | Dengue | see p420 |
+| | Yellow fever | see p420 |
+
+The Advisory Committee on Dangerous Pathogens (ACDP) classifies a pathogen as Group 4 (highest) when it causes severe human disease, with high risk of spread, and no effective prophylaxis or treatment. Ebola,19 Marburg, Lassa, and Crimean-Congo haemorrhagic fever (CCHF) are all Hazard Group 4 haemorrhagic fever viruses. They are largely confined to Africa (fig 9.35), with the exception of CCHF which occurs in Africa, the Middle East, Eastern Europe, and Asia.
+
+VHF risk in Africa.
+
+Fig 9.35 VHF risk in Africa.
+Reproduced with permission from Viral haemorrhagic fevers: origins, reservoirs, transmission and guidelines, Crown copyright 2016. Contains public sector information licensed under the Open Government Licence v3.0.
+
+## Ebola
+
+Incubation 2-21d (usually 3-12d). Evidence for fruit bats as reservoir. Outbreaks with mortality. Largest epidemic (2014-16) due to Ebola virus (EBOV, formally Zaire ebolavirus): 28,646 cases and 11,323 deaths in Guinea, Liberia, and Sierra Leone. Cytokine activation→endothelial damage, oedema, coagulopathy, tissue necrosis, multi-organ failure. Transmission from index case via mucous membranes, or contact with body fluids (including burial contact), viral shedding in semen. Presentation:
+
+- Undifferentiated (0-3d). Fever (>38°C axillary), myalgia, weakness, anorexia, headache, sore throat. May not look unwell.
+- GI (4-10d). Epigastric/abdominal pain, liver tenderness, N&V, hiccups, diarrhoea, hypovolaemia.
+- Late organ stage (>10d). Haemorrhagic: petechiae, ecchymoses, mucosal haemorrhage, GI bleeding, haemoptysis. Neurological: extreme weakness, confusion, agitation, bradypsychia, coma. Other: hypoglycaemia, electrolyte abnormalities, secondary infection, shock, DIC, multi-organ failure, death.

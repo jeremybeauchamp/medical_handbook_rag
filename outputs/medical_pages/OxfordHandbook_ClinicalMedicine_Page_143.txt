@@ -1,0 +1,27 @@
+ECG tracings showing various cardiac arrhythmias
+
+Fig 3.29 VF (p894).
+
+ECG tracing of ventricular fibrillation
+
+Fig 3.30 VT with a rate of 235/min.
+
+ECG tracing of ventricular tachycardia
+
+Fig 3.31 Torsade de pointes tachycardia.
+
+ECG tracing of Torsade de pointes
+
+Fig 3.32 A fusion beat (*)—a 'normal beat' fuses with a VT complex creating an unusual complex.
+
+ECG tracing showing a fusion beat
+
+Fig 3.33 A capture beat (*)—a normal QRS amongst runs of VT. This would not be expected if the QRS breadth were down to bundle branch block or metabolic causes.
+
+ECG tracing showing a capture beat
+
+Fig 3.34 Bigeminy—a normal QRS is followed by a ventricular ectopic beat * then a compensatory pause, this pattern then repeats. The ectopic beats have the same morphology as each other so probably all share an origin.
+
+ECG tracing showing bigeminy
+
+Cardiovascular medicine

@@ -1,0 +1,23 @@
+## Varicose veins (VVs)
+
+Long, tortuous, & dilated veins of the superficial venous system (see fig 13.55).
+
+**Pathology** Blood from superficial veins of the leg passes into deep veins via perforator veins (perforate deep fascia) and at the saphenofemoral and saphenopopliteal junctions. Valves prevent blood from passing from deep to superficial veins. If they become incompetent there is venous hypertension and dilatation of the superficial veins occurs. **Risk factors:** Prolonged standing, obesity, pregnancy, family history, and contraceptive pill. **Causes:** Primary mechanical factors (in ~95%); secondary to obstruction (eg DVT, fetus, pelvic tumour), arteriovenous malformations, overactive muscle pumps (eg cyclists); rarely congenital valve absence.
+
+**Symptoms** 'My legs are ugly.' Pain, cramps, tingling, heaviness, and restless legs. But studies show these symptoms are only slightly commoner in those with VVs.
+
+**Signs** Oedema; eczema; ulcers; haemosiderin; haemorrhage; phlebitis; *atrophie blanche* (white scarring at the site of a previous, healed ulcer); lipodermatosclerosis (skin hardness from subcutaneous fibrosis caused by chronic inflammation and fat necrosis). On their own VVs don't cause DVTs (except possibly *proximally spreading thrombophlebitis* of the long saphenous vein).
+
+**Examination** See p78.
+
+**Treatment** NICE guidelines¹¹ suggest that the criteria for specialist referral of patients with VVs should be: bleeding, pain, ulceration, superficial thrombophlebitis, or 'a severe impact on quality of life' (ie not for cosmetic reasons alone).
+
+- Treat any underlying cause.
+- Education—avoid prolonged standing and elevate leg(s) whenever possible; support stockings (compliance is a problem); lose weight; regular walks (calf muscle action aids venous return).
+- Endovascular treatment (less pain and earlier return to activity than surgery.)
+  - Radiofrequency ablation (VNUS Closure®)—a catheter is inserted into the vein and heated to 120°C destroying the endothelium and 'closing' the vein. Results are as good as conventional surgery at 3 months.
+  - Endovenous laser ablation (EVLA) is similar but uses a laser. Outcomes are similar to surgical repair after 2yrs (in terms of quality of life and recurrence).
+  - Injection sclerotherapy—either liquid or foam can be used. Liquid sclerosant is indicated for varicosities below the knee if there is no gross saphenofemoral incompetence. It is injected at multiple sites and the vein compressed for a few weeks to avoid thrombosis (intravascular granulation tissue obliterates the lumen). Alternatively foam sclerosant is injected under ultrasound guidance at a single site and spreads rapidly throughout the veins, damaging the endothelium. Ultrasound monitoring prevents inadvertent spread of foam into the femoral vein. It achieves ~80% complete occlusion but is not more effective than liquid sclerotherapy or surgery.
+  - Surgery—there are several choices, depending on vein anatomy and surgical preference, eg saphenofemoral ligation (Trendelenburg procedure); multiple avulsions; stripping from groin to upper calf (stripping to the ankle is not needed, and may damage the saphenous nerve). Post-op: bandage legs tightly and elevate for 24h. Surgery is more effective than sclerotherapy in the long term. Before surgery and after venous mapping, ensure that all varicosities are indelibly marked to either side (to avoid tattooing if the incision is made through inked skin).
+
+**Saphena varix** Dilatation in the saphenous vein at its confluence with the femoral vein (the SFJ). It transmits a cough impulse and may be mistaken for an inguinal or femoral hernia, but on closer inspection it may have a bluish tinge.

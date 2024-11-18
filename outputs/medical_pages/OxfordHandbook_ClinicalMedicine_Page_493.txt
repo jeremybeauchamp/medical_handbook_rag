@@ -1,0 +1,20 @@
+| Table 10.7 Mortality in subarachnoid haemorrhage |                |
+|--------------------------------------------------|----------------|
+| Grade | Signs                                    | Mortality: %   |
+| I     | None                                     | 0              |
+| II    | Neck stiffness and cranial nerve palsies | 11             |
+| III   | Drowsiness                               | 37             |
+| IV    | Drowsy with hemiplegia                   | 71             |
+| V     | Prolonged coma                           | 100            |
+
+Most mortality occurs in 1st month. 90% of survivors of the 1st month, survive >1 year.
+
+## Unruptured aneurysms: 'the time-bomb in my head'
+
+Bear in mind the old adage: 'if it ain't broke, don't fix it'—usually, risks of preventive intervention outweigh any benefits, except perhaps in •young patients (more years at risk, and surgery is twice as hazardous if >45yrs old) who have •aneurysms >7mm in diameter, especially if located at the •junction of the internal carotid and the posterior communicating cerebral artery, or at the •rostral basilar artery bifurcation, and especially if there is •uncontrolled hypertension or a •past history of bleeds. Data from the 2003 International Study of Unruptured Intracranial Aneurysms (ISUIA) show that relative risk of rupture for an aneurysm 7-12mm across is 3.3 compared with aneurysms <7mm across; if the diameter is >12mm, the relative risk is 17.
+
+Fig 10.17 CT images can be manipulated to show only high-density structures such as bones and arteries containing contrast. Here is a middle cerebral artery aneurysm.
+
+Fig 10.18 Blood from a ruptured aneurysm occupies the interhemispheric fissure (top arrow), a crescentic intracerebral area presumably near the aneurysm (2nd arrow), the basal cisterns, the lateral ventricles (temporal horns), and the 4th ventricle (bottom arrow).
+
+We thank Prof. Peter Scally for these CT images and the commentaries on them.

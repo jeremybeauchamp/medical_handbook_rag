@@ -1,0 +1,49 @@
+# Endocrine physiology
+
+Hormones are chemical messengers which act directly on nearby cells (paracrine effect), on the cell of origin (autocrine effect), at a distant site (endocrine effect), or as neurotransmitters (brain and gastrointestinal tract). Thirst, thermal regulation, appetite, sleep cycles, menstrual cycle, and stress/mood are all controlled by the hypothalamus. Releasing factors produced by the hypothalamus reach the pituitary via the portal system (pituitary stalk), see fig 5.3. The releasing factors stimulate or inhibit the production of hormones from the anterior pituitary, fig 5.4. Vasopressin and oxytocin are produced in the hypothalamus and stored and released from the posterior pituitary.
+
+## Fig 5.3 Hypothalamic-pituitary axis.
+
+```mermaid
+graph TD
+    A[Hypothalamus] --> B[Releasing factors]
+    B --> C[Anterior pituitary]
+    B --> D[Posterior pituitary]
+    C --> E[LH/FSH]
+    C --> F[GH]
+    C --> G[TSH]
+    C --> H[Prolactin]
+    C --> I[ACTH]
+    D --> J[Vasopressin]
+    D --> K[Oxytocin]
+    E --> L[Ovaries and testes]
+    F --> M[Many tissues]
+    G --> N[Thyroid]
+    H --> O[Breasts/gonads]
+    I --> P[Adrenals]
+    J --> Q[Renal tubules]
+    K --> R[Breasts/uterus]
+    L --> S[Testosterone/oestrogens]
+    N --> T[Thyroxine]
+    O --> U[Lactation]
+    P --> V[Steroids]
+```
+
+## Fig 5.4 Neuroregulation and integration of endocrine axes makes us who we are—and who we are and what we do feeds back into our hormonal milieu. Multifactorial disruptions within the growth hormone (GH), luteinizing hormone (LH)–testosterone, adrenocorticotropin (ACTH)–cortisol and insulin axes play a major role in healthy maturation and ageing.
+
+```mermaid
+graph TD
+    A[Neurosecretory cells] --> B[Capillaries]
+    A --> C[TSH]
+    A --> D[Prolactin]
+    A --> E[FSH]
+    A --> F[LH]
+    A --> G[ADH]
+    A --> H[GH]
+    C --> I[Thyroid]
+    D --> J[Breast]
+    E --> K[Ovary]
+    F --> L[Testicle]
+    G --> M[Kidney and adrenal gland]
+    H --> N[Muscle and bone]
+```

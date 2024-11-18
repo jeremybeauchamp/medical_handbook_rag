@@ -1,0 +1,15 @@
+| Artery | Location/Description |
+|--------|----------------------|
+| Superior mesenteric artery | Main artery supplying the midgut |
+| Middle colic artery | Supplies the transverse colon |
+| Right colic artery | Supplies the ascending colon |
+| Jejunal and ileal branches | Supply the small intestine |
+| Ileocolic artery | Supplies the terminal ileum, cecum, and appendix |
+| Inferior mesenteric artery | Main artery supplying the hindgut |
+| Left colic artery | Supplies the descending colon |
+| Sigmoid branches | Supply the sigmoid colon |
+| Superior rectal artery | Supplies the upper part of the rectum |
+
+Fig 13.36 The arterial supply to the colon.
+
+The image shows a diagram of the large intestine (colon) with its arterial blood supply highlighted in red. The colon is depicted as a light pink, looped structure. The arteries branch out in a tree-like pattern, supplying different segments of the colon. The diagram is labeled to indicate the names of the major arteries and their branches.
