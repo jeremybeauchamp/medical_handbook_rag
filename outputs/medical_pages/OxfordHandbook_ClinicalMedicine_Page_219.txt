@@ -1,9 +1,0 @@
-The image shows a mostly blank page with minimal content. Here's the markdown representation of the visible elements:
-
-# Endocrinology
-
-In the top right corner of the page, there's the number "205".
-
-At the bottom right, there's a small orange icon with three circles.
-
-The word "Endocrinology" is written vertically along the right edge of the page in an orange bar.

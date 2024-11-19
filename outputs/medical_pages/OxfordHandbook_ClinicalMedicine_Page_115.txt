@@ -1,7 +1,0 @@
-The image shows an electrocardiogram (ECG) with 12 leads labeled I, II, III, aVR, aVL, aVF, V1, V2, V3, V4, V5, and V6. The ECG is printed on pink graph paper. Below the ECG tracing is the following caption:
-
-Fig 3.7 Left bundle branch block: wide QRS with a W pattern in V1 (slight notching in upstroke of S wave—clearer in V3) and the M pattern in V6. WiLLiaM = LBBB.
-
-At the bottom right of the image, there are two green boxes. The first contains an icon of a heart, and the second says "Cardiovascular medicine" with the number 101 in the corner.
-
-The ECG shows characteristic features of a Left Bundle Branch Block (LBBB), as described in the caption. The QRS complexes are widened, and there are distinctive W and M patterns in leads V1 and V6 respectively.
