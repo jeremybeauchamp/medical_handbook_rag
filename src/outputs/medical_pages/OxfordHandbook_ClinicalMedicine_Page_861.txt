@@ -1,0 +1,33 @@
+# Smoke inhalation
+
+Consider if:
+- History of exposure to fire and smoke in an enclosed space
+- Hoarseness or change in voice
+- Harsh cough
+- Stridor.
+
+- Burns to face
+- Singed nasal hairs
+- Soot in saliva or sputum
+- Inflamed oropharynx
+
+Initially laryngospasm leads to hypoxia and straining (leading to petechiae), then hypoxic cord relaxation leads to true inhalation injury. Free radicals, cyanide compounds, and carbon monoxide (CO) accompany thermal injury. Cyanide (p842) compounds (generated, eg from burning plastics) stop oxidative phosphorylation, causing dizziness, headaches, and seizures. Tachycardia + dyspnoea soon give way to bradycardia + apnoea. CO is generated later in the fire as oxygen is depleted. NB: COHb levels do not correlate well with the severity of poisoning and partly reflect smoking status and urban life. Use nomograms to extrapolate peak levels.
+
+- 100% O₂ is given to elute both cyanide and CO.
+- Involve ICU/anaesthetists early if any signs of airway obstruction or respiratory failure: early intubation and ventilation may be useful.
+- Enlist expert help in cyanide poisoning—see p842.
+
+[Diagram showing front and back view of human body with percentages marked for different body parts]
+
+Relative percentage of body surface area affected by growth
+
+| Area           | Age 0 | 1    | 5    | 10   | 15   | Adult |
+|----------------|-------|------|------|------|------|-------|
+| A: half of head| 9½    | 8½   | 6½   | 5½   | 4½   | 3½    |
+| B: half of thigh| 2¾   | 3¾   | 4    | 4¼   | 4½   | 4¾    |
+| C: half of leg | 2½    | 2½   | 2¾   | 3    | 3¼   | 3½    |
+
+Fig 19.27 Lund and Browder charts.
+
+Acknowledgement
+We thank Professor Tor Chiu for help in preparing this topic.

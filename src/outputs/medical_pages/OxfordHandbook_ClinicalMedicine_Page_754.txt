@@ -1,0 +1,31 @@
+# Cardiovascular imaging
+
+## CT Cardiac CT:
+Modern CT scanners can acquire images with sufficient speed and resolution to image coronary arteries and exclude significant disease with a negative predictive value of 97-99%. It can also visualize CABG patency, provide coronary artery Ca2+ scoring (a risk factor for coronary artery disease, p117), demonstrate cardiac anatomy including congenital anomalies, and estimate ventricular function. 
+
+## Vascular CT: 
+Has become routine in emergency assessment of suspected dissections, ruptured aneurysms, and arterial and venous thromboses (fig 16.29). CT angiography has overtaken invasive angiography in the assessment of many conditions such as stable angina and renal artery stenosis.
+
+| Fig 16.29 CT angiogram showing type A (ascending) aortic dissection with haemopericardium. |
+|-------------------------------------------------------------------------------------------|
+| [Image of a CT angiogram showing a cross-section of the chest with visible heart structures and aorta] |
+
+Courtesy of Dr C Cousins.
+
+## Catheter angiography
+Wherever intervention may be required, contrast studies such as angiography provide both image clarity and the possibility of proceeding to intervention, eg angioplasty or stenting of vessels, endovascular repair of aneurysms, clipping/coiling of aneurysms (see p746). Remember that these have a high burden of both radiation and contrast medium, so check renal function before requesting. Complications include those of arterial puncture (bleeding, infection, thrombosis, dissection, pseudoaneurysm formation) plus cholesterol emboli, thromboemboli, and vasospasm.
+
+## MRI Cardiac MRI
+Using ECG-gating to acquire the imaging data and relate it to the position in the cardiac cycle (best when the patient is in sinus rhythm) can reduce movement artefact and lead to excellent resolution images for functional assessment. This, coupled with a lack of radiation, makes it ideal for the assessment of a wide range of structural and functional heart diseases. Flow velocities can be measured and, because the flow is proportional to the pressure differences, degrees of stenosis and regurgitation across heart valves can be calculated. Myocardial infarction, perfusion, and viability can also be imaged with the use of IV gadolinium contrast (p748). 
+
+## Vascular MRI
+Is used to limit radiation exposure where multiple investigations may be required over a long time period, eg follow-up of intracranial aneurysm coiling, aortic root size in a young patient with Marfan's syndrome (p706), or Takayasu's arteritis (p712).
+
+## Ultrasound
+Non-invasive, relatively low cost, and with no radiation, US is excellent for assessing the heart and vasculature particularly in acute settings where the test can be performed at the bedside. Cardiac US (=echocardiography) evaluates myocardial and valvular anatomy and function (p110). The use of exercise or pharmacological agents for 'stress echocardiography' can permit more detailed functional assessment. 
+
+## Vascular US
+Doppler ultrasonography is widely used for detection of thrombotic disease (eg DVT p578, portal vein thrombosis p276) and carotid atherosclerosis (p472).
+
+## Multiple gated acquisition (MUGA)
+Scanning is a non-invasive way to measure left ventricle ejection fraction. After injection of 99mTc-labelled RBCs, a dynamic image of the left ventricle is obtained for a few hundred heartbeats by gamma camera. Since estimates of LVEF show less inter-operator variation than with echocardiograpy, uses include the detailed serial assessment of LVEF in patients undergoing cardiotoxic chemotherapy (eg anthracyclines, trastuzumab).

@@ -1,0 +1,54 @@
+# Hyperkalaemia
+
+A plasma potassium >6.5mmol/L is a potential emergency and needs urgent assessment (see p301). The worry is of myocardial hyperexcitability leading to ventricular fibrillation and cardiac arrest. First assess the patient—do they look unwell, is there an obvious cause? If not, could it be an artefactual result?
+
+**Concerning signs and symptoms** Include a fast irregular pulse, chest pain, weakness, palpitations, and light-headedness. ECG: (see fig 14.4) tall tented T waves, small P waves, a wide QRS complex (eventually becoming sinusoidal), and ventricular fibrillation.
+
+**Artefactual results:** If the patient is well, and has none of the above-mentioned findings, repeat the test urgently as it may be artefactual, caused by: •haemolysis (difficult venepuncture; patient clenched fist) •contamination with potassium EDTA anticoagulant in FBC bottles (do FBCs after U&Es) •thrombocythaemia (K+ leaks out of platelets during clotting) •delayed analysis (K+ leaks out of RBCs; a particular problem in a primary care setting due to long transit times to the lab).5
+
+**Causes**
+- Oliguric renal failure.
+- K+-sparing diuretics.
+- Rhabdomyolysis (p319).
+- Metabolic acidosis (DM).
+- Excess K+ therapy.
+- Addison's disease (see p226).
+- Massive blood transfusion.
+- Burns.
+- Drugs, eg ACE-i, suxamethonium.
+- Artefactual result (see earlier 'Artefactual results').
+
+**Treatment in non-urgent cases**
+Treat the underlying cause; review medications.
+- Polystyrene sulfonate resin (eg Calcium Resonium® 15g/8h PO) binds K+ in the gut, preventing absorption and bringing K+ levels down over a few days. If vomiting prevents PO administration, give a 30g enema, followed at 9h by colonic irrigation.
+
+**Emergency treatment**
+If there is evidence of myocardial hyperexcitability, or K+ is >6.5mmol/L, get senior assistance, and treat as an emergency (see p301).
+
+# Hypokalaemia
+
+If K+ <2.5mmol/L, urgent treatment is required. Note that hypokalaemia exacerbates digoxin toxicity.
+
+**Signs and symptoms** Muscle weakness, hypotonia, hyporeflexia, cramps, tetany, palpitations, light-headedness (arrhythmias), constipation.
+
+**ECG** Small or inverted T waves, prominent U waves (after T wave), a long PR interval, and depressed ST segments.
+
+**Causes**
+- Diuretics.
+- Vomiting and diarrhoea.
+- Pyloric stenosis.
+- Rectal villous adenoma.
+- Intestinal fistula.
+- Cushing's syndrome/steroids/ACTH.
+- Conn's syndrome.
+- Alkalosis.
+- Purgative and liquorice abuse.
+- Renal tubular failure (p316 & p664).
+
+If on diuretics, ↑HCO3⁻ is the best indication that hypokalaemia is likely to have been long-standing. Mg²⁺ may be low, and hypokalaemia is often difficult to correct until Mg²⁺ levels are normalized. Suspect Conn's syndrome if hypertensive, hypokalaemic alkalosis in someone not taking diuretics (p228).
+
+In hypokalaemic periodic paralysis, intermittent weakness lasting up to 72h appears to be caused by K+ shifting from extra- to intracellular fluid. See OHCS p652.
+
+**Treatment** If mild: (>2.5mmol/L, no symptoms.) Give oral K+ supplement (≥80mmol/24h, eg Sando-K® 2 tabs/8h). Review K+ after 3 days. If taking a thiazide diuretic, and K+ >3.0 consider repeating and/or K+-sparing diuretic. If severe: (<2.5mmol/L, and/or dangerous symptoms.) Give IV potassium cautiously, not more than 20mmol/h, and not more concentrated than 40mmol/L. Do not give K+ if oliguric.
+
+Never give K+ as a fast stat bolus dose.

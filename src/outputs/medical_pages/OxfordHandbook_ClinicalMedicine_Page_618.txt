@@ -1,0 +1,75 @@
+# Abdominal masses
+
+As with any mass (see p594), determine size, site, shape, and surface. Find out if it is pulsatile and if it is mobile. Examine supraclavicular and inguinal nodes. Is the lump ballotable (like bobbing an apple up and down in water)?
+
+| Right iliac fossa masses |
+|--------------------------|
+| • Appendix mass/abscess  |
+| • Caecal carcinoma       |
+| • Crohn's disease        |
+| • Pelvic mass (see later in topic) |
+| • Intussusception        |
+| • TB mass                |
+| • Amoebic abscess        |
+| • Actinomycosis (p389)   |
+| • Transplanted kidney    |
+| • Kidney malformation    |
+| • Tumour in an undescended testis. |
+
+## Abdominal distension 
+Flatus, fat, fluid, faeces, or fetus (p57)? Fluid may be outside the gut (ascites) or sequestered in bowel (obstruction; ileus). To demonstrate ascites elicit signs of a fluid thrill and/or shifting dullness (p61).
+
+| Causes of ascites | Ascites with portal hypertension |
+|-------------------|----------------------------------|
+| • Malignancy | • Cirrhosis |
+| • Infections—esp. TB | • Budd-Chiari syndrome (p696) |
+| • ↓Albumin (eg nephrosis) | • IVC or portal vein thrombosis. |
+| • CCF; pericarditis | • Portal nodes |
+| • Pancreatitis | |
+| • Myxoedema. | |
+
+Tests: Aspirate ascitic fluid (p764) for cytology, culture and albumin;⁷ US.
+
+## Left upper quadrant mass 
+Is it spleen, stomach, kidney, colon, pancreas, or a rare cause (eg neurofibroma)? Pancreatic cysts may be true (congenital; cystadenomas; retention cysts of chronic pancreatitis; cystic fibrosis) or pseudocysts (fluid in lesser sac from acute pancreatitis).
+
+## Splenomegaly 
+Causes are often said to be infective, haematological, neoplastic, etc, but grouping by associated feature is more useful clinically:
+
+| Splenomegaly with fever | With lymphadenopathy | With purpura |
+|-------------------------|----------------------|--------------|
+| • Infection^HS (malaria, SBE/IE, hepatitis,^HS EBV,^HS TB, CMV, HIV) | • Glandular fever^HS | • Septicaemia; typhus |
+| • Sarcoid; malignancy.^HS | • Leukaemias; lymphoma | • DIC; amyloid^HS |
+| | • Sjögren's syndrome. | • Meningococcaemia. |
+
+| With arthritis | With ascites | With a murmur |
+|----------------|--------------|----------------|
+| • Sjögren's syndrome | • Carcinoma | • SBE/IE |
+| • Rheumatoid arthritis; SLE | • Portal hypertension.^HS | • Rheumatic fever |
+| • Infection, eg Lyme (p422) | | • Hypereosinophilia |
+| • Vasculitis/Behçet's (p556). | | • Amyloid^HS (p370). |
+
+| With anaemia | With weight + CNS signs | Massive splenomegaly |
+|--------------|-------------------------|----------------------|
+| • Sickle-cell;^HS thalassaemia^HS | • Cancer; lymphoma | • Malaria (hyper-reactivity after chronic exposure) |
+| • Leishmaniasis;^HS leukaemia^HS | • TB; arsenic poisoning | • Myelofibrosis; CML^HS |
+| • Pernicious anaemia (p334) | • Paraproteinaemia.^HS | • Gaucher's syndrome^HS |
+| • POEMS syn. (p220). | | • Leishmaniasis. |
+
+^HS =causes of hepatosplenomegaly.
+
+## Smooth hepatomegaly 
+Hepatitis, CCF, sarcoidosis, early alcoholic cirrhosis (a small liver is typical later); tricuspid incompetence (→ pulsatile liver).
+
+## Craggy hepatomegaly 
+Secondaries or 1° hepatoma. (Nodular cirrhosis typically causes a small, shrunken liver, not an enlarged craggy one.)
+
+## Pelvic masses 
+Fibroids, fetus, bladder, ovarian cysts or malignancies. Is it truly pelvic?—Yes, if by palpation you cannot get 'below it'.
+
+## Investigating lumps 
+Check FBC (with film); CRP; U&E; LFT; Ca²⁺; tumour markers only as appropriate. Imaging by CT or US (transvaginal approach may be useful); MRI also has a role, eg in assessment of liver masses (p286). Others: TB tests (p394). Biopsy to give a tissue diagnosis may be obtained using a fine needle guided by CT, US, or endoscopy.
+
+----
+
+⁷ Subtract fluid albumin from serum albumin to obtain serum-ascites albumin gradient (SAAG). Gradient <11g/L suggests malignancy, infections, or pancreatitis.

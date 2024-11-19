@@ -1,0 +1,28 @@
+## Sexually transmitted infection (STI)
+
+STIs are common with increasing rates of diagnosis: ~×2 for Chlamydia trachomatis, N. gonorrhoeae, genital herpes, and syphilis since 2006. Prevalence highest in young adults (<25yr) and MSM. For HIV see pp398-403. For hepatitis B and C see p278.
+
+### Taking a sexual history
+- **Symptoms**: ♂: urethral discharge, dysuria, genital skin problems, testicular pain/swelling, peri-anal or anal symptoms in MSM. ♀: unusual vaginal discharge, vulval skin problems, abdominal pain, dyspareunia, unusual vaginal bleeding (post-coital, intermenstrual, consider referral for urgent colposcopy).
+- **Exposure**: Sexual contacts within last 3 months including sex of partner(s), type of contact (oral, vaginal, anal), contraceptive method (properly used?), type and duration of relationship, symptoms in partner(s), risk factors for HIV/hepatitis in partner(s), whether partner(s) can be contacted. STI history in all. Ask men whether they have ever had sex with another man.
+- **Other**: Last menstrual period, menstrual pattern, date of last cervical cytology (smear). Current contraceptive, difficulties with use/supply. Current/recent antimicrobial therapy. HPV vaccine history. There may be disclosure of non-consensual sex, or intimate partner violence. Do not be afraid to ask for help: 'Everything you tell me today is confidential unless you tell me something that worries me about your safety, at which point I may need to discuss this with another professional in order to keep you safe.'
+
+### Examination
+♂: retract foreskin, inspect urethral meatus for discharge, scrotal contents/tenderness/swelling (stand patient up). ♀: vulval examination (lithotomy), speculum of vagina/cervix, bimanual examination for adnexal tenderness, abdomen/pelvis for masses. In all: genitoanal area, protoscopy if anal symptoms, inguinal lymph nodes, oral mucosa if orogenital sex. Use a chaperone and document their name.
+
+### Urethritis/vaginal discharge 
+See table 9.16.
+
+### Genital warts 
+Caused by human papilloma virus (HPV). See p406.
+
+### Genital ulcer(s)
+- **Genital herpes**: HSV. Presentation: flu-like prodrome, then vesicles/papules around genitals, anus, throat. These burst, forming painful shallow ulcers. Also urethral discharge, dysuria, urinary retention, proctitis. Diagnosis: PCR. Treatment: analgesia, topical lidocaine. Antivirals within 5d: aciclovir, valaciclovir, famciclovir.
+- **Syphilis**: Treponema pallidum. Presentation:
+  1. Primary: <90d after innoculation (median 3wk). Macule→papule→typically painless ulcer (chancre). Central slough, defined rolled edge. Highly infectious.
+  2. Secondary: dissemination ~4-10wks after chancre. Rash (maculopapular in 50-75%, on palms/soles in 11-70%), mucous patches, condyloma lata (raised, pale plaques, often flexural), fever, headache, myalgia, lymphadenopathy, hepatitis.
+  3. Tertiary: 20-40yr after infection. Neurosyphilis: aseptic meningitis, focal neurological deficits, seizures, psychiatric symptoms, Argyll Robertson pupil (p72), tabes dorsalis (areflexia, extensor plantar reflex, dorsal column deficits, Charcot joints). Gummatous syphilis: destructive granulomata in skin, mucus membranes, bones, viscera. Cardiovascular: aortitis, aortic regurgitation/aneurysm.
+  
+  Diagnosis: PCR. Serology: non-specific (RPR, VDRL) sensitive in early infection then decline; specific (T. pallidum as antigen, eg TPHA, TPPA) reacts in early infection and persists. Treatment: parenteral benzylpenicillin (eg benzathine penicillin IM), duration depends on stage. Procaine benzylpenicillin boosted with probenicid in CSF disease.
+- **Lymphogranuloma venerum**: Chlamydia trachomatis. Presentation: mostly MSM in UK. Painless papule/ulcer→lymphadenopathy, fever, arthritis, pneumonitis. Direct transmission to rectal mucosa causes haemorrhagic proctitis: pain, rectal bleeding/discharge, tenesmus. Diagnosis: PCR. Treatment: doxycycline.
+- **Tropical infections**: Chancroid (Haemophilus ducreyi), Donovanosis (Klebsiella granulomatis). Presentation: both cause genital ulceration, and lymphadenitis with spread of infection into overlying tissue (pseudobubo). Diagnosis: H. ducreyi PCR, Donovan bodies in tissue. Treatment: azithromycin, ceftriaxone.

@@ -1,0 +1,50 @@
+## Diabetic neuropathy and diabetic foot care
+
+▶Refer early to foot services (podiatry, imaging, vascular surgery).
+Amputations are common (135/week)—and preventable: good care saves legs.
+Examine feet regularly. Distinguish between ischaemia (critical toes ± absent foot
+pulses and worse outcome) and peripheral neuropathy (injury or infection over pressure points, eg the metatarsal heads). In practice, many have both.
+
+**Neuropathy** Sensation in 'stocking' distribution: test sensation with a 10g monofilament fibre (sensory loss is patchy so examine all areas), absent ankle jerks, neuropathic deformity (Charcot joint, fig 5.11): pes cavus, claw toes, loss of transverse arch,
+rocker-bottom sole. Caused by loss of pain sensation, leading to mechanical stress
+and repeated joint injury. Swelling, instability, and deformity. ▶Early recognition is
+vital (cellulitis or osteomyelitis are often misdiagnosed).
+
+**Ischaemia** If the foot pulses cannot be felt, do Doppler pressure measurements.
+Any evidence of neuropathy or vascular disease raises risk of foot ulceration.
+Educate (daily foot inspection—eg with a mirror for the sole; comfortable shoes).
+Regular chiropody to remove callus, as haemorrhage and tissue necrosis may occur below, leading to ulceration. Treat fungal infections (p408). Surgery (including
+endovascular angioplasty balloons, stents, and subintimal recanalization) has a role.
+
+**Foot ulceration** Typically painless, punched-out ulcer (fig 5.10) in an area of thick
+callus ± superadded infection. Causes cellulitis, abscess ± osteomyelitis.
+
+Assess degree of:
+1 Neuropathy (clinically).
+2 Ischaemia (clinically + Doppler ± angiography).
+3 Bony deformity, eg Charcot joint (clinically + x-ray). See fig 5.11.
+4 Infection (swabs, blood culture, x-ray for osteomyelitis, probe ulcer to reveal depth).
+
+Management: Regular chiropody. Bed rest ± therapeutic shoes. For Charcot joints:
+bed rest/crutches/total contact cast until oedema and local warmth reduce and
+bony repair is complete (≥8wks). Bisphosphonates may help. Charcot joints are also
+seen in tabes dorsalis, spina bifida, syringomyelia, and leprosy. Metatarsal head surgery may be needed. If there is cellulitis, admit for IV antibiotics. Common organisms: staphs, streps, anaerobes. Start empirically (as per your local guidance) with
+benzylpenicillin 1.2g/6h IV and flucloxacillin 1g/6h IV ± metronidazole 500mg/8h IV.
+IV insulin may improve healing. Get surgical help early. The degree of peripheral vascular disease, general health, and patient request will determine degree of vascular
+reconstruction/surgery.
+
+▶Absolute indications for surgery: Abscess or deep infection; spreading anaerobic
+infection; gangrene/rest pain; suppurative arthritis.
+
+**Diabetic neuropathies** Symmetric sensory polyneuropathy: ('glove & stocking'
+numbness, tingling, and pain, eg worse at night). ℞: paracetamol → tricyclic (amitriptyline 10-25mg nocte; gradually ↑ to 150mg) → duloxetine, gabapentin, or pregabalin → opiates. Avoiding weight-bearing helps. Mononeuritis multiplex: (eg III & VI
+cranial nerves). Treatment: hard! If sudden or severe, immunosuppression may help
+(corticosteroids, IV immunoglobulin, ciclosporin). Amyotrophy: Painful wasting of
+quadriceps and other pelvifemoral muscles. Use electrophysiology to show, eg lumbosacral radiculopathy, plexopathy, or proximal crural neuropathy. Natural course:
+variable with gradual but often incomplete improvement. IV immunoglobulins have
+been used. Autonomic neuropathy: (p505) Postural BP drop; ↓cerebrovascular autoregulation; loss of respiratory sinus arrhythmia (vagal neuropathy); gastroparesis;
+urine retention; erectile dysfunction; gustatory sweating; diarrhoea (may respond
+to codeine phosphate). Gastroparesis (early satiety, post-prandial bloating, nausea/
+vomiting) is diagnosed by gastric scintigraphy with a ⁹⁹technetium-labelled meal;
+anti-emetics, erythromycin, or gastric pacing. Postural hypotension may respond to
+fludrocortisone (SE: oedema, ↑BP)/midodrine (α-agonist; SE: ↑BP).

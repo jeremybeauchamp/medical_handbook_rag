@@ -1,0 +1,53 @@
+# Coma
+
+**Definition** Unrousable unresponsiveness. Quantify using Glasgow Coma Scale (GCS).
+
+## Causes of impaired conscious level/coma
+
+### Metabolic:
+- Drugs, poisoning, eg carbon monoxide, alcohol, tricyclics.
+- Hypoglycaemia, hyperglycaemia (ketoacidotic, or HONK, pp832-4).
+- Hypoxia, CO2 narcosis (COPD).
+- Septicaemia (p792).
+- Hypothermia.
+- Myxoedema (p834), Addisonian crisis (p836).
+- Hepatic/uraemic encephalopathy (pp275, 298).
+
+### Neurological:
+- Trauma.
+- Infection: meningitis (p822); encephalitis (eg herpes simplex—p404), tropical: malaria (p416; do thick films), typhoid, typhus, rabies, trypanosomiasis.
+- Tumour: 1° or 2° (p528).
+- Vascular: stroke (p470), subdural (p482), subarachnoid (p478), hypertensive encephalopathy (p140).
+- Epilepsy: non-convulsive status (p484) or post-ictal state.
+
+## Immediate management 
+See fig 19.2 (and coma CNS exam, p789).
+- Assess Airway, Breathing, and Circulation. Consider intubation if GCS <8 (p788). Support the circulation if required (ie IV fluids). Give O2 and treat any seizures. Protect the cervical spine unless trauma is known not to be the cause.
+- Check blood glucose; give eg 200mL 10% glucose IV stat if hypoglycaemia possible.
+- IV thiamine if any suggestion of Wernicke's encephalopathy; see later in topic.
+- IV naloxone (0.4-2mg IV) for opiate intoxication (may also be given IM or via ET tube); IV flumazenil (p842) for benzodiazepine intoxication only if airway compromised as risk of seizures especially if concomitant tricyclic intoxication.
+
+## Examination 
+**Vital signs are vital—obtain full set, including temperature.**
+- Signs of trauma—haematoma, laceration, bruising, CSF/blood in nose or ears, fracture 'step' deformity of skull, subcutaneous emphysema, 'panda eyes'.
+- Stigmata of other illnesses: liver disease, alcoholism, diabetes, myxoedema.
+- Skin for needle marks, cyanosis, pallor, rash (meningitis; typhus), poor turgor.
+- Smell the breath (alcohol, hepatic fetor, ketosis, uraemia).
+- Opisthotonus (fig 9.45, p436) ≈meningitis or tetanus. Decerebrate/decorticate (p788)?
+- Meningism (pp456, 822) ► but do not move neck unless cervical spine is cleared.
+- Pupils (p789) size, reactivity, gaze.
+- Heart/lung exam for BP, murmurs, rubs, wheeze, consolidation, collapse.
+- Abdomen/rectal for organomegaly, ascites, bruising, peritonism, melaena.
+- Are there any foci of infection (abscesses, bites, middle ear infection)?
+- Any features of meningitis: neck stiffness, rash, focal neurology?
+- Note the absence of signs, eg no pin-point pupils in a known heroin addict.
+
+## Quick history 
+From family, ambulance staff, bystanders: abrupt or gradual onset? How found—suicide note, seizure? If injured, suspect cervical spinal injury and do not move spine (OHCS p782). Recent complaints—headache, fever, vertigo, depression? Recent medical history—sinusitis, otitis, neurosurgery, ENT procedure? Past medical history—diabetes, asthma, BP, cancer, epilepsy, psychiatric illness? Drug or toxin exposure (especially alcohol or other recreational drugs)? Any travel?
+
+## If the diagnosis is unclear:
+- Treat the treatable: O2; naloxone as above; glucose (eg 200mL of 10% IV); Pabrinex® IV for Wernicke's encephalopathy, p714; septic specifics: cefotaxime 2g/12h IV (meningitis, p822), artemether/quinine (malaria, p418), aciclovir (encephalitis, p824).
+- Do routine biochemistry, haematology, thick films, blood cultures, blood ethanol, drug screen, etc.
+- Arrange urgent CT head, if normal, and no CI, proceed to LP.
+
+The diagnosis should now be clear, eg hypo/hyperglycaemia; alcohol excess; poisoning; uraemia; pneumonia; subarachnoid; hypertensive/hepatic encephalopathy.

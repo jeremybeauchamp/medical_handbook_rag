@@ -1,0 +1,33 @@
+# The peripheral vascular system: examination
+
+## Arterial
+
+If limb is pale, pulseless, painful, paralysed, paraesthetic, and 'perishingly cold' this is acute ischaemia and is a surgical emergency (see p595 and p657).
+
+1. **Inspection**: Look for scars of previous surgery and signs of peripheral arterial disease; loss of hair, pallor, shiny skin, cyanosis, dry skin, scaling, deformed toenails, ulcers, gangrene. Be sure to inspect the pressure points, ie between the toes and under the heel.
+
+2. **Palpation**: Skin temperature will be cool in peripheral arterial disease. Is there a level above which it is warm? Delayed capillary refill (>2s) also indicates arterial disease. Are peripheral pulses palpable or not? 'If you cannot count it, you are not feeling it.' Note down on a quick stick-man diagram where they become palpable. Check for atrial fibrillation or other arrhythmias, as these can be the cause of embolic disease. Palpate for an enlarged abdominal aorta and attempt to assess size. (Though don't press too firmly!) An expansile pulsatile mass in the presence of abdominal symptoms is a ruptured aneurysm until proven otherwise.
+
+3. **Auscultation**: The presence of bruits suggests arterial disease. Listen over the major arteries—carotids, abdominal aorta, renal arteries, iliac femorals.
+
+4. **Special tests**: Buerger's angle is that above the horizontal plane which leads to development of pallor (<20° indicates severe ischaemia). Buerger's sign is the sequential change in colour from white to pink, upon return to the dependent position; if the limbs become flushed red (reactive hyperaemia) this is indicative of more severe disease.
+
+5. **Complete your examination**: measure ABPI (p656), US Doppler assessment, and a neurological examination of the lower limbs.
+
+## Venous
+
+(See also p658.)
+
+1. **Inspection**: Look for any varicosities and decide whether they are the long saphenous vein (medial), short saphenous vein (posterior lateral, below the knee), or from the calf perforators (usually few varicosities but commonly show skin changes). Ulcers around the medial malleolus are more suggestive of venous disease, whereas those at the pressure points suggest arterial pathology. Brown haemosiderin deposits result from venous hypertension. There may also be atrophy and loss of skin elasticity (lipodermatosclerosis) in venous disease.
+
+2. **Palpation**: Warm varicose veins may indicate infection. Are they tender? Firm, tender varicosities suggests thrombosis. Palpate the saphenofemoral junction (SFJ) for a saphena varix which displays a cough impulse. Similarly, incompetence at the saphenopopliteal junction (SPJ) may be felt as a cough impulse. If ulceration is present, it is prudent to palpate the arterial pulses to rule out arterial disease.
+
+3. **Tap test**: A transmitted percussion impulse from the lower limit of the varicose vein to the saphenofemoral junction demonstrates incompetence of superficial valves.
+
+4. **Auscultation**: Bruits over the varicosities means there is an arteriovenous malformation.
+
+5. **Doppler**: Test for the level of reflux. On squeezing the leg distal to placement of the probe you should only hear one 'whoosh' if the valves are competent at the level of probe placement.
+
+6. **Trendelenburg's test** assesses if the SFJ valve is competent. Doppler USS has largely consigned this and other examination methods (eg Tourniquet and Perthes' test) to the history books.
+
+7. **Complete examination**: examine the abdomen, pelvis in females, and external genitalia in males (for masses).

@@ -1,0 +1,9 @@
+WHO's Pain relief ladder
+
+| Level | Treatment | Condition |
+|-------|-----------|-----------|
+| 3 | Opioid for moderate to severe pain, +/- non-opioid +/- adjuvant | Freedom from pain |
+| 2 | Opioid for mild to moderate pain, +/- non-opioid +/- adjuvant | Pain persisting or increasing |
+| 1 | Non-opioid, +/- adjuvant | Pain persisting or increasing |
+
+Fig 13.5 World Health Organization pain ladder.

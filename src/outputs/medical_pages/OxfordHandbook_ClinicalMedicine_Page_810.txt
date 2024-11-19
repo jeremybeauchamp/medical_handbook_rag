@@ -1,0 +1,37 @@
+# 796 Acute coronary syndrome—with ST-elevation
+
+Acute coronary syndrome (ACS) includes unstable angina, STEMI, and NSTEMI (p798).
+STEMI is a common medical emergency; prompt appropriate treatment saves lives.³
+
+## Initial treatment
+See fig 19.5. Take brief history, do a quick physical examination and a 12-lead ECG. Observe on cardiac monitor or telemetry in case of dysrhythmia. Other tests on admission: U&E, troponin, glucose, cholesterol, FBC, CXR.
+
+- **Aspirin**: 300mg PO (if not already given); consider ticagrelor (180mg PO) or prasugrel (60mg PO if no history of stroke/TIA and <75yrs) as newer alternatives to clopidogrel (300mg PO) as they have been shown to be superior in outcome studies.
+- **Morphine**: 5-10mg IV (repeat after 5min if necessary). Give anti-emetic with the 1st dose of morphine: metoclopramide 10mg IV (1st line), or cyclizine 50mg IV (2nd line).
+- **GTN**: routine use now not recommended in the acute setting unless patient is hypertensive or in acute LVF. Useful as anti-anginal in chronic/stable patients.
+- **Oxygen** is recommended if patients have SaO₂ <95%, are breathless or in acute LVF.
+- **Restore coronary perfusion** in those presenting <12h after symptom onset (see BOX).
+- **Anticoagulation**: An injectable anticoagulant must be used in primary PCI. Bivalirudin is preferred, if not available use enoxaparin ± a GP IIb/IIIa blocker.
+- **ß-blockers** provide additional benefit when started early, eg bisoprolol 2.5mg PO OD. Ensure no evidence of cardiogenic shock, heart failure, asthma/COPD, or heart block.
+
+## Right ventricular infarction
+Confirm by demonstrating ST elevation in rV3/4 and/or echo. NB: rV4 means that V4 is placed in the right 5th intercostal space in the midclavicular line. Treat hypotension and oliguria with fluids (avoid nitrates and diuretics). Monitor BP carefully, and assess early signs of pulmonary oedema. Intensive monitoring and inotropes may be useful in some patients.
+
+## ⚠ Reperfusion therapy
+
+Early coronary reperfusion saves lives; decisions must be taken quickly so seek senior advice early. Look for typical clinical symptoms of MI plus ECG criteria:
+
+- ST elevation >1mm in ≥2 adjacent limb leads or >2mm in ≥2 adjacent chest leads.
+- LBBB (unless known to have LBBB previously).
+- Posterior changes: deep ST depression and tall R waves in leads V₁ to V₃.
+
+Therapy may be percutaneous intervention (PCI—with angiographic identification of the culprit blockage(s) and revascularization via deployment of an expandable metal stent) or thrombolysis (with systemically administered clot-dissolving enzymes):
+
+- **Primary PCI**: Should be offered to all patients presenting within 12h of symptom onset with a STEMI who either are at or can be transferred to a primary PCI centre within 120min of first medical contact. If this is not possible, patients should receive thrombolysis and be transferred to a primary PCI centre after the infusion for either rescue PCI (if residual ST elevation) or angiography (if successful). Use beyond 12h if evidence of ongoing ischaemia or in stable patients presenting after 12-24h may be appropriate—seek specialist advice.
+
+- **Thrombolysis**: Benefit reduces steadily from onset of pain, target time is <30min from admission; use >12h from symptom onset requires specialist advice.
+  - Do not thrombolyse ST depression alone, T-wave inversion alone, or normal ECG.
+  - Thrombolysis is best achieved with tissue plasminogen activators (eg tenecteplase as a single IV bolus). CI: •Previous intracranial haemorrhage. •Ischaemic stroke <6months. •Cerebral malignancy or AVM. •Recent major trauma/surgery/head injury (<3wks). •GI bleeding (<1 month). •Known bleeding disorder. •Aortic dissection. •Non-compressible punctures <24h, eg liver biopsy, lumbar puncture.
+  - Relative CI: •TIA <6 months. •Anticoagulant therapy. •Pregnancy/<1wk post partum. •Refractory hypertension (>180mmHg/110mmHg). •Advanced liver disease. •Infective endocarditis. •Active peptic ulcer. •Prolonged/traumatic resuscitation.
+
+Patients with STEMI who do not receive reperfusion (eg presenting >12h after symptom onset) should be treated with fondaparinux, or enoxaparin/unfractionated heparin if not available.

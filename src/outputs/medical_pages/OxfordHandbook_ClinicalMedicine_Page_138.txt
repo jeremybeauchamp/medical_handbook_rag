@@ -1,0 +1,32 @@
+# 124 Arrhythmias—overview
+
+Disturbances of cardiac rhythm (arrhythmias) are:
+- common
+- often benign (but may reflect underlying heart disease)
+- often intermittent, causing diagnostic difficulty see BOX 'Continuous ECG monitoring'
+- occasionally severe, causing cardiac compromise which may be fatal.
+
+Emergency management: pp804–9.
+
+## Causes
+**Cardiac:** Ischaemic heart disease (IHD); structural changes, eg left atrial dilatation secondary to mitral regurgitation; cardiomyopathy; pericarditis; myocarditis; aberrant conduction pathways. **Non-cardiac:** Caffeine; smoking; alcohol; pneumonia; drugs (β2-agonists, digoxin, L-dopa, tricyclics, doxorubicin); metabolic imbalance (K+, Ca2+, Mg2+, hypoxia, hypercapnia, metabolic acidosis, thyroid disease); and phaeochromocytoma.
+
+## Presentation
+Palpitations, chest pain, presyncope/syncope, hypotension, or pulmonary oedema. Some arrhythmias may be asymptomatic, incidental findings, eg AF.
+
+## History
+Take a detailed history of palpitations (p36). Ask about precipitating factors, onset/offset, nature (fast or slow, regular or irregular), duration, associated symptoms (chest pain, dyspnoea, collapse). Review drug history. Ask about past medical history and family history of cardiac disease and sudden death. Syncope occuring during exercise is always concerning; the patient may have a condition predisposing them to sudden cardiac death (eg long QT syndrome).
+
+## Tests
+FBC, U&E, glucose, Ca2+, Mg2+, TSH, ECG: Look for signs of IHD, AF, short PR interval (WPW syndrome), long QT interval (metabolic imbalance, drugs, congenital), U waves (hypokalaemia). 24h ECG monitoring or other continuous ECG monitoring (see BOX 'Continuous ECG monitoring'). Echo to look for structural heart disease, eg mitral stenosis, HCM. Provocation tests: exercise ECG, cardiac catheterization ± electrophysiological studies may be needed.
+
+Narrow complex tachycardias: See pp806-7, 126.
+
+Atrial fibrillation and flutter: See pp806-7, 130.
+
+Broad complex tachycardias: See pp804-5, 128.
+
+Bradycardia: See p808 (causes and management of acute bradycardia) and p98 (heart block). Intermittent, self-resolving bradycardic episodes can cause significant problems (eg recurrent syncope). Continuous ECG monitoring (BOX 'Continuous ECG monitoring') will be needed to assist the diagnosis ±specialist tests (eg tilt table testing for reflex syncope). Seek out reversible causes, eg hypothyroidism or medications such as β-blockers. In some cases, no reversible cause is found and the intermittent bradycardia is sufficiently dangerous to warrant a permanent pacemaker (p132). See BOX, 'Sick sinus syndrome'.
+
+## Management
+Some arrhythmias can be managed conservatively, eg by reducing alcohol intake. Many arrhythmias respond to medical management with regular tablets or a 'pill in the pocket'. Interventional management may include pacemakers (p132), ablation (eg of accessory pathways or arrhythmogenic foci), or implantable cardioverter defibrillators (ICDs), eg in patients with ventricular arrhythmias post-MI and in those with congenital arrhythmogenic conditions (p133).

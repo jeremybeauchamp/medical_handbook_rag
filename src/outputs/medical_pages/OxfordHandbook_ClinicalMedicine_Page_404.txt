@@ -1,0 +1,36 @@
+# Gram-negative bacteria
+
+## Gram-negative cocci
+
+### Neisseria:
+
+Neisseria meningitidis (meningococcus) is an upper respiratory tract commensal in ~10% (~25% adolescents) adhering to non-ciliated epithelial cells in nasopharynx and tonsils. Person-to-person transmission via droplets or upper respiratory tract secretions. Most strains are harmless but induce immunity. Pathogenic, virulent strains are mostly encapsulated and have the potential to cause septicaemia and meningitis. Serogroups A, B, C, W and Y account for nearly all invasive forms. ↓Group C following introduction of vaccination in UK. ↑ in serotype W in UK since 2009. Incubation 2-7d. Peak ages: <2yr, ~18yr. Risk factors: complement system defects, hyposplenism, HIV.
+
+#### Presentation:
+
+1. Meningitis (~50% cases). Main proliferation of bacteria is in CSF. Insidious onset with malaise, nausea, headache, vomiting. May be misdiagnosed as gastroenteritis, URTI, or childhood viral illness. Later meningism: headache, vomiting, nuchal/back rigidity, photophobia, altered consciousness. Complications in up to 20%: sensorineural hearing loss, impaired vestibular function, epilepsy, diffuse brain injury.
+
+2. Meningococcaemia. Symptoms/signs depends on amount of circulating bacteria. Mild disease presents with fever, macular rash (fig 9.6) but no signs of shock. High-grade meningococcaemia (~30% cases) causes pyrexia and septic shock within 6-12h due to rapidly escalating endotoxin levels: circulatory failure, coagulopathy with skin haemorrhage (fig 9.7), thrombosis of extremities/adrenals, AKI, ARDS. Meningism may be absent. Complications: amputation, skin necrosis, pericarditis, arthritis, ocular infection, pneumonia (especially serotypes Y and W), permanent adrenal insufficiency.
+
+Fig 9.6 Macular lesions on legs.
+*Fig 9.6 Macular lesions on legs.*
+Reproduced from Warrell et al. Oxford Textbook of Medicine, 2010, with permission from Oxford University Press.
+
+Fig 9.7 Massive skin haemorrhage with fulminant meningococcal septicaemia.
+*Fig 9.7 Massive skin haemorrhage with fulminant meningococcal septicaemia.*
+Reproduced from Warrell et al. Oxford Textbook of Medicine, 2010, with permission from Oxford University Press.
+
+#### Diagnosis:
+**Start treatment immediately if meningitis/meningococcal sepsis is a possible diagnosis. Do not wait for confirmation: delay can be deadly.** Intra- and extracellular diplococci on microscopy of CSF/blood/skin lesion. PCR of CSF/blood/skin lesion. 
+
+#### Treatment:
+Urgent antibiotic treatment: benzylpenicillin, ceftriaxone (see pp822-3). Cefotaxime, chloramphenicol, meropenem also bactericidal. 
+
+#### Prevention:
+Routine infant vaccination against capsular group C in UK. Capsular group B vaccine in UK infants since 2015: induces bacteriocidal antibodies, no population data, duration of protection unknown. Quadrivalent ACWY vaccine at age 14 and if high-risk travel. Additional B, C, ACWY doses if hyposplenism and complement deficiency. Prophylaxis of contacts: ciprofloxacin/ceftriaxone (single dose), or rifampicin 600mg BD for 48h.
+
+### Neisseria gonorrhoea: 
+See pp412-3.
+
+### Moraxella catarrhalis:
+Colonizes upper respiratory tract in children (↓ in adults). Resembles Neisseria commensal so may be overlooked. Presentation: pneumonia, exacerbation of COPD, up to 20% of acute otitis media, sinusitis. Bacteraemia is rare. Diagnosis: culture of sputum, ear effusion, sinus aspirate, blood. 'Hockey puck sign': colonies can be pushed along agar surface without disruption. Treatment: macrolide, cephalosporin.

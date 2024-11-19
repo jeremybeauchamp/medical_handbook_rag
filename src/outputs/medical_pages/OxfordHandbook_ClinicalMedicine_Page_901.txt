@@ -1,0 +1,224 @@
+Respiratory
+   acidosis 670
+   alkalosis 671
+   distress 53
+   examination 50-3
+   failure 170, 188-9
+   history 48-9
+   important presentations 54
+   segments 53F
+   viruses 406
+Resting tremor 65, 468
+Restless legs 698
+Restrictive cardiomyopathy 152
+Reticular opacification 724
+Reticulocytes 328, 329F
+Retina
+   artery occlusion 560
+   diabetic 210, 211F
+   haemorrhage 560
+   hypertensive 139, 560
+   hyperviscosity 372F
+   vein occlusion 560
+Retractile testis 652
+Retrograde pyelography 744
+Retroperitoneal fibrosis 643
+Retroviruses 517
+Reye syn 396
+Rhabdomyolysis 319
+Rheumatic fever 142
+Rheumatoid
+   arthritis 149, 541F, 546-7
+   factor 553
+   nodules 594, 595F
+Rheumatology
+   definition 538
+   history 539
+   investigations 541
+Rhonchi 52
+Riboflavin 268
+Richter's hernia 612
+Rickets 684, 685F
+Rickettsial dis 422
+Rifabutin 387
+Rifampicin 387
+Rifamycins 387
+Rifapentine 387
+Rift Valley fever 426
+Right bundle branch block
+   100, 102F
+Right heart
+   dynamics 110
+   valve dis 148
+Right iliac fossa
+   mass 604
+   pain 57
+Right shift 328
+Right upper quadrant pain 57
+Right ventricle
+   failure 122, 134
+   hypertrophy 100
+   infarction 122, 796
+Rigid bronchoscopy 164
+Rigors 29
+Rinne test 464
+Rituximab 363
+River blindness 439
+Rockall score 257
+Rocky Mountain spotted
+   fever 422
+Rolling hiatus hernia 255
+Romaña's sign 423
+Romano-Ward syn 710
+Romberg's test 68
+Rome consensus 261
+
+Röntgen, W. 718F
+Root compression 508
+Rotavirus 428, 430
+Roth's spots 150, 560
+Rotor syn 710
+Rouleaux formation 328, 329F
+Roundworm 433
+Roux-en-Y
+   bypass 626, 627F
+   reconstruction 622, 623F
+Rovsing's sign 608
+Rubella 406
+Rubeosis iridis 210
+Rule of nines 846
+Rupture
+   AAA 654
+   Berry aneurysm 478
+   oesophagus 624
+   organ 606
+
+## S
+
+Sabia virus 426
+Sabre tibia 685F
+Sacroiliitis 542
+Safe triangle 767
+St Vitus' dance 142, 469
+Salbutamol 183
+Salicylate poisoning 844
+Saline (0.9%) 666, 757
+Salivary gland 599
+Salmeterol 183
+Salmonella
+   non-typhoidal 428, 431
+   paratyphi 415
+Saphena varix 658
+Sapovirus 428
+Sarcoidosis 149, 196
+Sarcoptes scabiei 440
+SARS 169
+Saunders, C. 532
+SBAR 10
+Scabies 440
+Scalded skin syn 388
+Scapula winging 511F
+Schistocytes 328
+Schistosomiasis 434
+Schopenhauer, A. 6
+Schwannomatosis 514
+Sciatic
+   hernia 612
+   nerve 452, 502
+Scleritis 560
+Scleroderma renal crisis 315
+Sclerosis
+   amyotrophic lateral 506, 507
+   aortic 146
+   hand 75F
+   multiple 496-7, 699
+   primary lateral 506
+   systemic 149, 552
+Sclerotherapy 658
+Scoliosis 55
+Scratch test 62
+Screening
+   alcohol use 281
+   cancer 530
+   medicalization 23
+   MRSA 567
+   musculoskeletal dis 539
+   thyroid function 217
+Scribner shunt 307
+Scrotum
+   idiopathic oedema 652
+   lumps 650, 651F
+
+Scrub typhus 422
+Scurvy 268
+Seasonal influenza 396
+Sebaceous cyst 594
+Seborrheic dermatitis 408
+Secretions 537
+Seizures 490, 491, 492
+Selenium 268, 679
+Self-catheterization 763
+Semmelweis, I. 758
+Sensations 64, 67, 69
+Sensitivity 20
+Sensorineural deafness 464
+Sensory
+   deficits 446, 447
+   neuropathy 504
+Sentinel node biopsy 603
+Sepsis 17, 792, 793F
+   meningococcal 390, 715F
+   neutropenic 528
+Septic
+   arthritis 544
+   shock 792
+Septicaemia 170
+Septicaemic plague 425
+Serotonin 449
+Serum
+   osmolality 668
+   thyroglobulin 216
+Severe acute respiratory syn
+   (SARS) 169
+Sexually transmitted infection
+   412-13
+Sézary syn 363F, 596
+SGLT1 208
+Shared decision-making 7
+Shawl sign 552
+Shiga-toxin producing E.coli
+   431
+Shigella 428, 429, 431
+Shingles 404
+Shock 790
+   anaphylactic 794, 795F
+   blood pressure 40, 790
+   cardiogenic 802, 803F
+   classes 791
+   fluid therapy 667
+   haemorrhagic 790
+   hypovolaemic 790
+   septic 792
+   toxic 388
+Short gut syn 580
+Shy-Drager syn 494
+Sick
+   euthyroidism 216
+   sinus syn 125
+Sickle cell
+   anaemia 340-1
+   crisis 341
+   nephropathy 315
+Sideroblastic anaemia 326,
+   327F
+Sigmoid volvulus 611
+Sigmoidoscopy 248
+Signs 34-5
+Silent
+   chest 52
+   stones 634
+Silicosis 201
+Silver wiring 560F
+Single photon emission
+   computed tomography
+   (SPECT) 739

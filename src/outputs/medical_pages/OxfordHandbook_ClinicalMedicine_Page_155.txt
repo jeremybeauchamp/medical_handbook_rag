@@ -1,0 +1,20 @@
+The image shows an electrocardiogram (ECG) with the following content:
+
+| Lead | ECG Tracing |
+|------|-------------|
+| I    | Normal sinus rhythm with small QRS complexes |
+| aVR  | Inverted QRS complexes |
+| V1   | Small R waves, deep S waves |
+| V4   | Tall R waves |
+| II   | Normal sinus rhythm |
+| aVL  | Small QRS complexes |
+| V2   | Deep S waves, small R waves |
+| V5   | Tall R waves |
+| III  | Normal sinus rhythm |
+| aVF  | Normal QRS complexes |
+| V3   | Transition from deep S to tall R waves |
+| V6   | Tall R waves |
+
+Fig 3.41 Left ventricular hypertrophy—this is from a patient with malignant hypertension—note the sum of the S-wave in V2 and R-wave in V6 is greater than 35mm.
+
+Cardiovascular medicine

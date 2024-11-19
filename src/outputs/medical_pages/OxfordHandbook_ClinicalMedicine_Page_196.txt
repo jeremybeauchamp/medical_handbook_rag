@@ -1,0 +1,30 @@
+## Management of chronic asthma
+
+### Lifestyle
+Help to quit smoking (p93). Avoid precipitants. Weight loss if overweight. Check inhaler technique. Teach use of a peak flow meter to monitor PEF twice a day. Educate to enable self-management by altering their medication in the light of symptoms or PEF. Give specific advice about what to do in an emergency; provide a written action plan. Consider teaching relaxed breathing to avoid dysfunctional breathing* (Papworth method).³
+
+### British Thoracic Society guidelines (BTS³³)
+Start at the step most appropriate to severity; moving up if needed, or down if control is good for >3 months. Rescue courses of prednisolone may be used at any time. For drug examples see table 4.6.
+
+- **Step 1**: Occasional short-acting inhaled β₂-agonist as required for symptom relief. If used more than once daily, or night-time symptoms, go to Step 2.
+- **Step 2**: Add standard-dose inhaled steroid, eg beclometasone 200-800mcg/day, or start at the dose appropriate for disease severity, and titrate as required.
+- **Step 3**: Add long-acting β₂-agonist (eg salmeterol 50mcg/12h by inhaler). If benefit—but still inadequate control—continue and ↑dose of beclometasone to 800mcg/day. If no effect then stop LABA and ↑dose of beclometasone to 800mcg/day. Leukotriene receptor antagonist or oral theophylline may be tried.
+- **Step 4**: Consider trials of: beclometasone up to 2000mcg/day; modified-release oral theophylline; modified-release oral β₂-agonist tablets; oral leukotriene receptor antagonist, in conjunction with previous therapy.
+- **Step 5**: Add regular oral prednisolone (1 dose daily, at the lowest possible dose). Continue with high-dose inhaled steroids. Refer for specialist input.
+
+### Drugs
+**β₂-adrenoceptor agonists**: Relax bronchial smooth muscle (↑cAMP), acting within minutes. Salbutamol is best given by inhalation (aerosol, powder, nebulizer), but may also be given PO or IV. SE: tachyarrhythmias, ↓K⁺, tremor, anxiety. Long-acting inhaled β₂-agonist (eg salmeterol, formoterol) can help nocturnal symptoms and reduce morning dips. They may be an alternative to ↑steroid dose when symptoms are uncontrolled; doubts remain over whether they are associated with an increase in adverse events.³⁴ SE: as salbutamol, paradoxical bronchospasm.³⁵
+
+**Corticosteroids**: Best inhaled to minimize systemic effects, eg beclometasone via spacer (or powder), but may be given PO or IV. They act over days to ↓bronchial mucosal inflammation. Rinse mouth after inhaled steroids to prevent oral candidiasis. Oral steroids are used acutely (high-dose, short courses, eg prednisolone 40mg/24h PO for 7d) and longer term in lower dose (eg 5-10mg/24h) if control is not optimal on inhalers. Warn about SEs: p377.
+
+**Aminophylline**: (Metabolized to theophylline) acts by inhibiting phosphodiesterase, thus ↓bronchoconstriction by ↑cAMP levels. Try as prophylaxis, at night, PO, to prevent morning dipping. Stick with one brand name (bioavailability variable). Also useful as an adjunct if inhaled therapy is inadequate. In acute severe asthma, it may be given IVI. It has a narrow therapeutic ratio, causing arrhythmias, GI upset, and fits in the toxic range. Check theophylline levels (p756), and do ECG monitoring and check plasma levels after 24h if IV therapy is used.
+
+**Anticholinergics**: (Eg ipratropium, tiotropium.) May ↓muscle spasm synergistically with β₂-agonists but are not recommended in current guidelines for chronic asthma. They may be of more benefit in COPD.
+
+**Cromoglicate** (Mast cell stabilizer.) May be used as prophylaxis in mild and exercise-induced asthma (always inhaled), especially in children. It may precipitate asthma.
+
+**Leukotriene receptor antagonists**: (Eg oral montelukast, zafirlukast.) Block the effects of cysteinyl leukotrienes in the airways by antagonizing the CystLT₁ receptor.
+
+**Anti-IgE monoclonal antibody**: Omalizumab³⁶ may be of use in highly selected patients with persistent allergic asthma. Given as a subcutaneous injection every 2-4 wks depending on dose. Specialists prescribe only.
+
+³ Integrated breathing and relaxation training (Papworth method) is psychological and physical: patients learn to drop their shoulders, relax their abdomen, and breathe calmly and appropriately.

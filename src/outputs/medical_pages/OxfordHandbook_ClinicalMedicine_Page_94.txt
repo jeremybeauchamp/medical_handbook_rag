@@ -1,0 +1,46 @@
+# The genitourinary system: history
+
+See table 2.11 for direct questions to ask regarding presenting symptoms.
+
+**Detecting outflow obstruction** (See 'Irritative or obstructive bladder symptoms' later in topic.) Eg prostatic hyperplasia; stricture; stone. Ask about LUTS (lower urinary tract symptoms).
+
+- On trying to pass water, is there delay before you start? (Hesitancy)
+- Does the flow stop and start? Do you go on dribbling when you think you've stopped? (Terminal dribbling)
+- Is your stream getting weaker? (Poor stream)
+- Is your stream painful and slow/'drop-by-drop'? (eg from bladder stone)
+- Do you feel the bladder is not empty after passing water?¹
+- Do you ever pass water when you do not want to? (Incontinence—p648)
+- On feeling an urge to pass water, do you have to go at once? (Urgency)¹
+- Do you urinate often at night? (Nocturia)¹ In the day? (Frequency)¹ How often?
+
+**Past history** Renal colic, urinary tract infection, diabetes, BP, gout, analgesic use (p318), previous operations.
+
+**Drug history** Anticholinergics, prophylactic antibiotics.
+
+**Family history** Prostate carcinoma? Renal disease?
+
+**Social history** Smoking, sexual history.
+
+## Table 2.11 Presenting symptoms and questions to ask
+
+| Presenting symptoms | Direct questions |
+|---------------------|-------------------|
+| Dysuria | Pain: SOCRATES (p36). Fever? Sexual history. |
+| Lower urinary tract symptoms (LUTS) | Abnormal-looking urine? Previous problems. |
+| Loin/scrotal pain | Must rule out testicular torsion (p652). |
+| Haematuria (p293 and p647) | |
+| Urethral/vaginal discharge (p413) | |
+| Sex problems; dyspareunia (OHCS p310) | |
+| Menses (OHCS p250) | Ask about menarche, menopause, length of periods, amount, pain? Intermenstrual loss? 1st day of last menstrual period (LMP)? |
+
+## Dysuria
+
+Be sure you mean the same as your patient and colleagues, as dysuria refers to both painful micturition ('uralgia') and difficult micturition (voiding difficulty, p81). Uralgia is typically from urethral, bladder, or vaginal inflammation (UTI; perfumed bath products, spermicides, urethral syndrome, p300). If postmenopausal, look for a urethral caruncle—fleshy outgrowth of distal urethral mucosa, ≤1cm, typically originating from the posterior urethral lip. Also think of prostatitis, STI/urethritis (p413), vaginitis, and vulvitis. Rare causes: Stones, urethral lesions (eg carcinoma, lymphoma, papilloma), post-partum complications (eg retained products of conception).
+
+Voiding difficulty is a sign of outflow obstruction, eg from an enlarged prostate, or urethral stricture (commonly post-traumatic, post-gonococcal). Other features: straining to void, poor stream, urinary retention, and incontinence. Strangury is urethral pain, usually referred from the bladder base, causing a constant distressing desire to urinate even if there is little urine to void. Causes: Stones, catheters, cystitis, prostatitis, bladder neoplasia, rarely: bladder endometriosis, schistosomiasis.
+
+## Frequency
+
+Aim to differentiate urine production (eg diabetes mellitus and insipidus, polydipsia, diuretics, alcohol, renal tubular disease, adrenal insufficiency) from frequent passage of small amounts of urine (eg in cystitis, urethritis, neurogenic bladder), or bladder compression or outflow obstruction (pregnancy, bladder tumour, enlarged prostate).
+
+¹ = irritative (or 'filling') symptoms: they can be caused by, for example, UTI as well as obstructions.

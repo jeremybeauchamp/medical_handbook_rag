@@ -1,0 +1,44 @@
+# Managing UTI
+
+> Do not use antibiotics for the treatment of asymptomatic bacteriuria in non-pregnant women, men, and adults with catheters.
+
+## Non-pregnant women:
+- If three or more symptoms (or one severe) of cystitis, and no vaginal discharge, treat empirically with 3-day course of trimethoprim, or nitrofurantoin (if eGFR >30).
+- If first-line empirical treatment fails, culture urine and treat according to antibiotic sensitivity.
+- In upper UTI, take a urine culture and treat initially with a broad-spectrum antibiotic according to local guidelines/sensitivities, eg co-amoxiclav. Hospitalization should be considered due to risk of antibiotic resistance. Avoid nitrofurantoin as it does not achieve effective concentrations in the blood.
+
+## Pregnant women:
+Get expert help: UTI in pregnancy is associated with preterm delivery and intrauterine growth restriction. Asymptomatic bacteriuria should be confirmed on a second sample. Treat with an antibiotic. Refer to local guidance advice for antibiotic choice (avoid ciprofloxacin, trimethoprim in 1st trimester, nitrofurantoin in 3rd trimester). Confirm eradication.
+
+## Men:
+- Treat lower UTI with a 7-day course of trimethoprim or nitrofurantoin (if eGFR >30).
+- If symptoms suggest prostatitis (pain in pelvis, genitals, lower back, buttocks) consider a longer (4-week) course of a fluoroquinolone (eg ciprofloxacin) due to ability to penetrate prostatic fluid.
+- If upper or recurrent UTI, refer for urological investigation.
+
+## Catheterized patients:
+- All catheterized patients are bacteriuric. Send MSU only if symptomatic. Symptoms of UTI may be non-specific/atypical. Possible symptoms include fever, flank/suprapubic pain, change in voiding pattern, vomiting, confusion, sepsis.
+- Change long-term catheter before starting an antibiotic.
+- Refer to local guidelines for initial antibiotic choice. Where possible use a narrow-spectrum antibiotic according to culture sensitivity.
+
+## Urinary tract tuberculosis
+- A cause of sterile pyuria: dysuria, frequency, suprapubic pain but negative standard culture. Ask about malaise, fever, night sweats, weight loss, back/flank pain, visible haematuria (p393).
+- Can also cause an interstitial nephritis (p318) and renal amyloidosis (p315). Glomerulonephritis is rare.
+- Diagnose by microscopy with acid-fast techniques and mycobacterial culture of an early morning MSU and/or urinary tract tissue.
+- Treat with rifampicin and isoniazid for 6 months in conjunction with pyrazinamide and ethambutol for 2 months (see p394).
+
+## The 'Piss Prophets'
+
+*Beware the fallacies, deceit and juggling of the piss-pot science used by all those who pretend knowledge of diseases by the urine.* Thomas Brian, 1655.
+
+Medieval texts¹ give the following maxims regarding urinary change and disease:
+- White or straw coloured urine = weak and cold liver and stomach
+- Foamy urine = eructation (belching)
+- Light coloured, turbid urine = mucus
+- Lead circle on thin urine = pathological melancholy
+- Bubbles on the surface = disease of the head
+- Watery urine = love sickness
+- Swampy, black, stinking urine = fatal
+- Lead coloured urine = a disintegrating uterus
+- Reddish, cloudy urine with bubbles = asthma or an irregular heart beat.
+
+¹ *Uroscopy in Early Modern Europe* by Michael Stolberg, Routledge, 2016, p53-6.

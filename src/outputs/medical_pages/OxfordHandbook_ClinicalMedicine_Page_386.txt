@@ -1,0 +1,30 @@
+## Erythrocyte sedimentation rate (ESR)
+
+The ESR is a sensitive but non-specific indicator of the presence of disease. It measures how far RBCs fall through a column of anticoagulated blood in 1h. If certain proteins cover red cells, these cause RBCs to stick to each other in columns (the same phenomenon as rouleaux, p328) so they fall faster.
+
+**Causes of a raised ESR** Any inflammation (eg infection, rheumatoid arthritis, malignancy, myocardial infarction), anaemia, and macrocytosis.
+
+**Caveats**
+- ESR ↑ with age. The Westergren method is a rough guide to calculate the upper limit of normal in older patients:
+  ♂: ESR=age ÷ 2; ♀: ESR=(age + 10) ÷ 2.
+- Some conditions lower the ESR, eg polycythaemia (due to ↑red cell concentration), microcytosis, and sickle-cell anaemia. Even a slightly raised ESR in these patients should prompt one to ask: 'What else is the matter?'
+
+**Management**
+- In those with a slightly raised ESR, the best plan is probably to wait a month and repeat the test.
+- If the ESR is markedly raised (>100mm/h), this can have a 90% predictive value for disease, so such patients should be thoroughly investigated, even in the presence of non-specific symptoms. Take a full history, examine carefully and consider these tests: FBC, plasma electrophoresis, U&E, PSA, chest and abdominal imaging, ± biopsy of bone marrow or temporal artery.
+
+| Fig 8.76 Hyperviscosity syndrome. |
+|-----------------------------------|
+| [Image shows two retinal images with engorged blood vessels, indicative of hyperviscosity syndrome] |
+
+## Plasma viscosity (PV)
+
+Normal range: 1.50-1.72mPa/s. In many labs, this has replaced the ESR, as it is less affected by anaemia and simpler to automate. PV is affected by the concentration of large plasma proteins and ↑ in the same conditions as the ESR—both PV and ESR ↑ in chronic inflammation and are less affected by acute changes (unlike CRP, p686).
+
+## Hyperviscosity syndrome
+
+**Symptoms** Lethargy; confusion; ↓cognition; CNS disturbance; chest pain; abdominal pain (and sometimes spontaneous GI or GU bleeding); faints; visual disturbance (eg ↓vision, amaurosis fugax, retinopathy—eg engorged retinal veins, haemorrhages, exudates; and a blurred disc as seen in fig 8.76). The visual symptoms are like 'looking through a watery car windscreen'.
+
+**Causes of high blood viscosity** Very high red cell count (haematocrit >50, eg polycythaemia vera), white cell count (>100×10⁹/L, eg leukaemia), or plasma components—usually immunoglobulins, in myeloma or Waldenström's macroglobulinaemia (p370, as IgM is larger and so ↑viscosity more than the same amount of IgG). Drugs: oral contraceptives, diuretics, IV IG, erythropoietin, chemotherapy, radio-contrast media.
+
+**Treatment** Urgent treatment is needed which depends on the cause. Venesection is done in polycythaemia. Leukapheresis in leukaemias to remove white cells. Plasmapheresis in myeloma and Waldenström's: blood is withdrawn via a plasma exchange machine, the supernatant plasma from this is discarded, and the RBCs returned to the patient after being resuspended in a suitable medium.

@@ -1,0 +1,26 @@
+# Metabolic bone diseases: Paget's disease of bone
+
+Also called osteitis deformans, there is increased bone turnover associated with increased numbers of osteoblasts and osteoclasts with resultant remodelling, bone enlargement, deformity, and weakness. Rare in the under-40s. Incidence rises with age (3% over 55yrs old). Commoner in temperate climates, and in Anglo-Saxons.
+
+## Clinical features
+Asymptomatic in ~70%. Deep, boring pain, and bony deformity and enlargement—typically of the pelvis, lumbar spine, skull, femur, and tibia (classically a bowed sabre tibia; fig 14.11). Complications include pathological fractures, osteoarthritis, ↑Ca²⁺, nerve compression due to bone overgrowth (eg deafness, root compression), high-output CCF (if >40% of skeleton involved), and osteosarcoma (<1% of those affected for >10yrs—suspect if sudden onset or worsening of bone pain).¹⁹
+
+## Radiology x-ray
+Localized enlargement of bone. Patchy cortical thickening with sclerosis, osteolysis, and deformity (eg osteoporosis circumscripta of the skull). Affinity for axial skeleton, long bones, and skull. Bone scan may reveal 'hot spots'.
+
+## Blood chemistry
+Ca²⁺ and PO₄³⁻ normal; ALP markedly raised.
+
+## Treatment
+If analgesia fails, alendronic acid may be tried to reduce pain and/or deformity. It is more effective than etidronate or calcitonin, and as effective as IV pamidronate. Follow expert advice.
+
+----
+
+Fig 14.9 Osteomalacia. Cortical bone lucency and Looser's zones are seen in both forearms of a patient with osteomalacia.
+Image courtesy of Dr Ian Maddison.
+
+Fig 14.10 Rickets. Typical ragged metaphyseal surfaces are seen in the knee and ankle joints of a child with rickets, with bowing of the long bones.
+Image courtesy of Dr Ian Maddison.
+
+Fig 14.11 Paget's disease. The 'sabre tibia' seen in Paget's disease, with multiple sclerotic lesions.
+Image courtesy of Dr Ian Maddison.

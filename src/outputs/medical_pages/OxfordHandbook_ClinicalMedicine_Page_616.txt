@@ -1,0 +1,36 @@
+## 602 Breast carcinoma
+
+### Epidemiology
+Affects 1 in 8 ♀; nearly 60 000 new cases per year in UK (incidence increasing). Rare in men (~1% of all breast cancers).
+
+### Risk factors
+Risk is related to family history, age, and uninterrupted oestrogen exposure, hence: nulliparity; 1st pregnancy >30yrs old, early menarche; late menopause; HRT; obesity; BRCA genes (p521); not breastfeeding; past breast cancer (metachronous rate ≈2%, synchronous rate ≈1%).
+
+### Pathology
+Non-invasive ductal carcinoma in situ (DCIS) is premalignant and seen as microcalcification on mammography (unifocal or widespread). Non-invasive lobular CIS is rarer and tends to be multifocal. Invasive ductal carcinoma is most common (~70%) whereas invasive lobular carcinoma accounts for 10-15% of breast cancers. Medullary cancers (~5%) tend to affect younger patients while colloid/mucoid (~2%) tend to affect the elderly. Others: papillary, tubular, adenoid-cystic and Paget's (p708). 60-70% of breast cancers are oestrogen receptor +ve, conveying better prognosis. ~30% over-express HER2 (growth factor receptor gene) associated with aggressive disease and poorer prognosis.
+
+### Investigations
+(See p82 for history and examination.) ▶All lumps should undergo 'triple' assessment: Clinical examination + histology/cytology + mammography/ultrasound; see fig 13.24.
+
+### Staging
+- Stage 1: Confined to breast, mobile.
+- Stage 2: Growth confined to breast, mobile, lymph nodes in ipsilateral axilla.
+- Stage 3: Tumour fixed to muscle (but not chest wall), ipsilateral lymph nodes matted and may be fixed, skin involvement larger than tumour.
+- Stage 4: Complete fixation of tumour to chest wall, distant metastases.
+
+Also TNM staging: (p523) T1<2cm, T2, 2-5cm, T3 >5cm, T4, fixity to chest wall or peau d'orange; N1, mobile ipsilateral nodes; N2, fixed nodes; M1, distant metastases.
+
+### Treating local disease (Stage 1-2)
+- **Surgery**: Removal of tumour by wide local excision (WLE) or mastectomy ± breast reconstruction + axillary node sampling/surgical clearance or sentinel node biopsy (BOX 'Sentinel node biopsy').
+- **Radiotherapy**: Recommended for all patients with invasive cancer after WLE. Risk of recurrence decreases from 30% to <10% at 10yrs and increases overall survival. Axillary radiotherapy used if lymph node +ve on sampling and surgical clearance not performed (risk of lymphoedema and brachial plexopathy). SE: pneumonitis, pericarditis, and rib fractures.
+- **Chemotherapy**: Adjuvant chemotherapy improves survival and reduces recurrence in most groups of women (consider in all except excellent prognosis patients), eg epirubicin + 'CMF' (cyclophosphamide + methotrexate + 5-FU). Neoadjuvant chemotherapy has shown no difference in survival but may facilitate breast-conserving surgery.
+- **Endocrine agents**: Aim to ↓ oestrogen activity and are used in oestrogen receptor (ER) or progesterone receptor (PR) +ve disease. The ER blocker tamoxifen is widely used, eg 20mg/d PO for 5yrs post-op (may rarely cause uterine cancer so warn to report vaginal bleeding). Aromatase inhibitors (eg anastrozole) targeting peripheral oestrogen synthesis are also used (may be better tolerated). They are only used if post-menopausal. If pre-menopausal and an ER+ve tumour, ovarian ablation (via surgery or radiotherapy) or GnRH analogues (eg goserelin) ↓ recurrence and ↑ survival.
+- **Support**: Breastcare nurses
+- **Reconstruction options**: Eg tissue expanders/implants/nipple tattoos, latissimus dorsi flap, TRAM (transverse rectus abdominis myocutaneous) flap.
+
+### Treating distant disease (Stage 3-4)
+Long-term survival is possible and median survival is >2yrs. Staging investigations should include CXR, bone scan, liver USS, CT/MRI or PET-CT (p739), + LFTs and Ca2+. Radiotherapy (p526) to painful bony lesions (bisphosphonates, p677, may ↓ pain and fracture risk). Tamoxifen is often used in ER+ve; if relapse after initial success, consider chemotherapy. Trastuzumab should be given for HER2 +ve tumours, in combination with chemotherapy. CNS surgery for solitary (or easily accessible) metastases may be possible; if not—radiotherapy. Get specialist help for arm lymphoedema (try decongestive methods first).
+
+### Preventing deaths
+- Promote awareness.
+- **Screening**: 2-view mammography every 3yrs for women aged 47-73 in UK has ↓ breast cancer deaths by 30% in women >50yrs.

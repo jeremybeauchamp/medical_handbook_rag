@@ -1,0 +1,27 @@
+Fig 3.5 Rhythm strips of heart blocks.
+
+| ECG Strip | Description |
+|-----------|-------------|
+| First degree AV block | First degree AV block. P-R interval = 0.28s. |
+| Mobitz type I | Mobitz type I (Wenckebach) AV block. With each successive QRS, the P-R interval increases until there is a non-conducted P wave. |
+| Mobitz type II | Mobitz type II AV block. Ratio of AV conduction varies from 2:1 to 3:1. |
+| Complete AV block | Complete AV block with narrow ventricular complex. There is no relation between atrial and the slower ventricular activity. |
+
+## Location, location, location
+
+When considering rate and rhythm, your findings should be the same in all leads, albeit clearer in some than others. Other ECG features may vary lead by lead, both in terms of what is 'normal' and in what a change indicates. For example, ST elevation in leads II, III, and aVF suggests an inferior MI requiring immediate treatment, likely PCI to the right coronary artery, see table 3.2. ST elevation across all leads, however, suggests instead pericarditis which necessitates entirely different management (p154). An R wave taller than the S is deep (R dominance) is normal in V5 and V6 but may suggest right ventricular strain or posterior MI if seen in V1 and V2.
+
+Table 3.2 ECG territories
+
+| ECG leads | Heart territory | Coronary artery |
+|-----------|-----------------|-----------------|
+| I, aVL, V4-V6 | Lateral | Circumflex |
+| V1-3 | Anterioseptal | Left anterior descending |
+| II, III, aVF | Inferior | Right coronary artery in 80% Circumflex in 20%: 'left dominant' |
+| V7-9 | Posterior | Circumflex |
+
+Following a posterior MI, the standard 12-lead ECG will not show Q waves, ST elevation or hyperacute T waves. Instead, you may find these changes but 'upside-down' in V1-V3: prominent R waves, flat ST depression, and T-wave inversion. If you record V7-V9 leads, you may find the classic ST elevation pattern and so confirm posterior MI. See fig 3.24.
+
+The 'upside-down' changes seen in posterior MI are called 'reciprocal changes': changes that appear when 'looking' at ischaemic myocardium from the other side of the heart. These can arise with MIs in other locations (fig 3.9). They are particularly important in posterior MI as they may be the only changes on the 12-lead ECG.
+
+See fig 3.9, 3.10, 3.24 for example ECGs. See fig 3.18 for coronary artery anatomy.

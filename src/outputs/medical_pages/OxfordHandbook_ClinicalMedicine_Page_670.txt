@@ -1,0 +1,37 @@
+# Peripheral arterial disease (PAD)
+
+Occurs due to atherosclerosis causing stenosis of arteries (fig 13.53) via a multi-factorial process involving modifiable and non-modifiable risk factors. 65% have coexisting clinically relevant cerebral or coronary artery disease. Cardiovascular risk factors should be identified and treated aggressively. The chief feature of PAD is intermittent claudication (= to limp). Prevalence = 10%.
+
+## Symptoms
+Cramping pain in the calf, thigh, or buttock after walking for a given distance (the claudication distance) and relieved by rest (calf claudication suggests femoral disease while buttock claudication suggests iliac disease). Ulceration, gangrene (p660), and foot pain at rest—eg burning pain at night relieved by hanging legs over side of bed—are the cardinal features of critical ischaemia. Buttock claudication ± impotence imply Leriche's syndrome (p704). Young, heavy smokers are at risk from Buerger's disease (thromboangiitis obliterans, p696).
+
+### Fontaine classification for PAD:
+1. Asymptomatic
+2. Intermittent claudication
+3. Ischaemic rest pain
+4. Ulceration/gangrene (critical ischaemia)
+
+## Signs
+Absent femoral, popliteal, or foot pulses; cold, white leg(s); atrophic skin; punched out ulcers (often painful); postural/dependent colour change; Buerger's angle (angle that leg goes pale when raised off the couch) of <20° and capillary filling time >15s are found in severe ischaemia.
+
+## Tests
+Exclude DM, arteritis (ESR/CRP). FBC (anaemia, polycythaemia); U&E (renal disease); lipids (dyslipidaemia); ECG (cardiac ischaemia). Do thrombophilia screen and serum homocysteine if <50 years. Ankle-brachial pressure index (ABPI): Normal = 1-1.2; PAD = 0.5-0.9; critical limb ischaemia <0.5 or ankle systolic pressure <50mmHg. Beware falsely high results from incompressible calcified vessels in severe atherosclerosis, eg DM.
+
+## Imaging
+Colour duplex US 1st line. If considering intervention MR/CT angiography (fig 13.54) for extent and location of stenoses and quality of distal vessels ('run-off').
+
+## Treatment
+
+### 1 Risk factor modification:
+Quit smoking (vital). Treat hypertension and high cholesterol. Prescribe an antiplatelet agent (unless contraindicated), to prevent progression and to reduce cardiovascular risk. Clopidogrel is recommended as 1st-line.
+
+### 2 Management of claudication:
+- Supervised exercise programmes reduce symptoms by improving collateral blood flow (2h per wk for 3 months). Encourage patients to exercise to the point of maximal pain.
+- Vasoactive drugs, eg naftidrofuryl oxalate, offer modest benefit and are recommended only in those who do not wish to undergo revascularization and if exercise fails to improve symptoms.
+
+If conservative measures have failed and PAD is severely affecting a patient's lifestyle or becoming limb-threatening, intervention is required.
+
+- Percutaneous transluminal angioplasty (PTA) is used for disease limited to a single arterial segment (a balloon is inflated in the narrowed segment). 5-year patency is 79% (iliac) and 55% (femoral). Stents can be used to maintain artery patency.
+- Surgical reconstruction: If atheromatous disease is extensive but distal run-off is good (ie distal arteries filled by collateral vessels), consider arterial reconstruction with a bypass graft (fig 13.54). Procedures include femoral-popliteal bypass, femoral-femoral crossover, and aorto-bifemoral bypass grafts. Autologous vein grafts are superior to prosthetic grafts (eg Dacron® or PTFE) when the knee joint is crossed.
+- Amputation: <3% of patients with intermittent claudication require major amputation within 5 years (↑ in diabetes, p212). Amputation may relieve intractable pain and death from sepsis and gangrene. A decision to amputate must be made by the patient, usually against a background of failed alternative strategies. The knee should be preserved where possible as it improves mobility and rehabilitation potential (this must be balanced with the need to ensure wound healing). Rehabilitation should be started early with a view to limb fitting. Gabapentin (regimen on p504) can be used to treat the gruelling complication of phantom limb pain.
+- Future therapies: Early-phase clinical trials have demonstrated the safety and benefit of gene therapy (eg hepatocyte growth factor) in critical limb ischaemia.

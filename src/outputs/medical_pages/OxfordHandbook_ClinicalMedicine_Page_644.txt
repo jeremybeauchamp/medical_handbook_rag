@@ -1,0 +1,46 @@
+# Perianal problems
+
+## Pruritus ani
+Itch occurs if the anus is moist/soiled; fissures, incontinence, poor hygiene, tight pants, threadworm, fistula, dermatoses, lichen sclerosis, anxiety, contact dermatitis (perfumed goods). Cause is often unknown. 
+**Treatment:** Avoid scratching, perianal hygiene, avoid foods which loosen stools. Soothing ointment, mild topical corticosteroid if perianal inflammation (max 2wks), oral antihistamine for noctural itch.
+
+## Fissure-in-ano
+Painful tear in the squamous lining of the lower anal canal—often, if chronic, with a 'sentinel pile' or mucosal tag at the external aspect. 90% are posterior (anterior ones follow parturition). 
+**Causes:** Most are due to hard faeces. Spasm may constrict the inferior rectal artery, causing ischaemia, making healing difficult and perpetuating the problem. Rare causes (multiple ± lateral): syphilis; herpes; trauma; Crohn's; anal cancer; psoriasis. Groin nodes suggest a complicating factor (eg immunosuppression/HIV). 
+**Treatment:** 5% lidocaine ointment + GTN ointment (0.2–0.4%) or topical diltiazem (2%); dietary fibre, fluids, stool softener, and hygiene advice. Botulinum toxin injection (2nd line) and topical diltiazem (2%) are at least as effective as GTN with fewer side-effects. If conservative measures fail, surgical options include lateral partial internal sphincterotomy.
+
+## Fistula-in-ano
+A track communicates between the skin and anal canal/rectum. Blockage of deep intramuscular gland ducts is thought to predispose to the formation of abscesses, which discharge to form the fistula. Goodsall's rule determines the path of the fistula track: if anterior, the track is in a straight line (radial); if posterior, the internal opening is always at the 6 o'clock position, taking a tortuous course.
+**Causes:** perianal sepsis, abscesses (see later in topic), Crohn's disease, TB, diverticular disease, rectal carcinoma, immunocompromise. 
+**Tests:** MRI; endoanal US scan. 
+**Treatment:** Fistulotomy + excision. High fistulae (involving continence muscles of anus) require 'seton suture' tightened over time to maintain continence; low fistulae are 'laid open' to heal by secondary intention—division of sphincters poses no risk to continence.
+
+## Anorectal abscesses
+Usually caused by gut organisms (rarely staphs or TB). Male:female ratio ≈1:8. Perianal (~45%), ischiorectal (≤30%), intersphincteric (>20%), supralevator (~5%) (fig 13.43). 
+**Treatment:** Incise & drain under GA. 
+**Associations:** DM, Crohn's, malignancy, fistulae.
+
+## Perianal haematoma
+(AKA thrombosed external pile—see p633). Strictly, it is actually a clotted venous saccule. It appears as a 2–4mm 'dark blueberry' under the skin at the anal margin. It may be evacuated under LA or left to resolve spontaneously.
+
+## Pilonidal sinus
+Obstruction of natal cleft hair follicles ~6cm above the anus. Ingrowing of hair excites a foreign body reaction and may cause secondary tracks to open laterally ± abscesses, with foul-smelling discharge. (Barbers get these between fingers.) Male:female ratio ≈10:1. Obese Caucasians and those from Asia, the Middle East, and Mediterranean at risk. 
+**Treatment:** Excision of the sinus tract ± primary closure. Consider pre-op antibiotics. Complex tracks can be laid open and packed individually, or skin flaps can be used to cover the defect. Offer hygiene and hair removal advice.
+
+## Rectal prolapse
+The mucosa (partial/type 1), or all layers (complete/type 2—more common), may protrude through the anus. Incontinence in 75%. It is due to a lax sphincter, prolonged straining, and related to chronic neurological and psychological disorders. 
+**Treatment:** 
+- Abdominal approach: fix rectum to sacrum (rectopexy) ± mesh insertion ± rectosigmoidectomy. Laparoscopic rectoplexy is as effective as open repair. 
+- Perineal approach: Delorme's procedure (resect close to dentate line and suture mucosal boundaries), anal encirclement with a Thiersch wire.
+
+## Perianal warts
+Condylomata acuminata (viral warts) are treated with podophyllotoxin or imiquimod or cryotherapy/surgical excision. Giant condylomata acuminata of Buschke & Loewenstein may evolve into verrucous cancers (low-grade, non-metastasizing). Condylomata lata secondary to syphilis is treated with penicillin.
+
+## Proctalgia fugax
+Idiopathic, intense, brief, stabbing/crampy rectal pain, often worse at night. The mainstay of treatment is reassurance. Inhaled salbutamol or topical GTN (0.2-0.4%) or topical diltiazem (2%) may help.
+
+## Anal ulcers
+Consider Crohn's, anal cancer, lymphogranuloma venerum, TB, syphilis.
+
+## Skin tags
+Seldom cause trouble but are easily excised.

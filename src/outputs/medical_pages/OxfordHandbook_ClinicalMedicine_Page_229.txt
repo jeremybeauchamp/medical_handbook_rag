@@ -1,0 +1,26 @@
+# Insulinoma
+
+This often benign (90-95%) pancreatic islet cell tumour is sporadic or seen with MEN-1 (p223). It presents as fasting hypoglycaemia, with Whipple's triad:
+
+1. Symptoms associated with fasting or exercise.
+2. Recorded hypoglycaemia with symptoms.
+3. Symptoms relieved with glucose.
+
+**Screening test** Hypoglycaemia + ↑plasma insulin during a long fast.
+
+**Suppressive tests** Give IV insulin and measure C-peptide. Normally exogenous insulin suppresses C-peptide production, but this does not occur in insulinoma.
+
+**Imaging** CT/MRI ± endoscopic pancreatic US ± IACS (see BOX; all fallible, so don't waste too much time before proceeding to intra-operative visualization ± intra-operative ultrasound). 18F-L-3,4-dihydroxyphenylalanine PET-CT can help guide laparoscopic surgery.
+
+**Treatment** Excision.
+
+**Nesidioblastosis** See BOX. If this doesn't work, options are: ↑diet, diazoxide, dextrose IVI, enteral feeding, everolimus.
+
+## Diabetic ketoacidosis 
+Results from insulin deficiency (eg unknown diagnosis, intercurrent illness, interuption of insulin therapy). See p832.
+
+## Pursuing a voyage to the islets of Langerhans to the bitter end
+
+A 50-year-old had episodic early-morning sweats and tremors and was found to have hyperinsulinaemic hypoglycaemia (= Nesidioblastosis). Selective intra-arterial calcium infusions (IACS) showed a 2-fold increase in insulin secretion after infusion of the splenic and superior mesenteric arteries, so setting the stage for 'hunt the insulinoma'.
+
+But cross-sectional imaging and endoscopic ultrasound were normal. At laparotomy, no lesion was found despite mobilization of the pancreas, or during intra-operative ultrasound. 'Time to sew up and go home?' 'No!' said the surgeon, 'I'm going to do a distal pancreatectomy'. Histology showed no discrete insulinoma, but diffuse islet cell hyperplasia (nesidioblastosis). How much pancreas to resect? Too little and nothing is gained: too much spells pancreatic endocrine disaster. Luckily the surgeon guessed right, and the patient was cured by the procedure.

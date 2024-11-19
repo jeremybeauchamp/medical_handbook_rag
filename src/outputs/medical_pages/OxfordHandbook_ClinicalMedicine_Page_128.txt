@@ -1,0 +1,30 @@
+## Cardiovascular drugs
+
+### Antiplatelet drugs
+Aspirin irreversibly acetylates cyclo-oxygenase, preventing production of thromboxane A2, thereby inhibiting platelet aggregation. Used in low dose (eg 75mg/24h PO) for secondary prevention following MI, TIA/stroke, and for patients with angina or peripheral vascular disease. May have a role in primary prevention.
+
+ADP receptor antagonists (eg clopidogrel, prasugrel, ticagrelor) also block platelet aggregation, but may cause less gastric irritation. They have a role if truly intolerant of aspirin; with aspirin after coronary stent insertion; and in acute coronary syndrome. Glycoprotein IIb/IIIa antagonists (eg tirofiban) have a role in unstable angina/MI.
+
+### Anticoagulants
+See p350. Direct oral anticoagulants (DOACs, previously NOACs), eg Xa inhibitors (eg apixaban) and direct thrombin inhibitors (dabigatran), are increasingly replacing warfarin for treatment of AF and clots, see p350. Warfarin remains the anticoagulant of choice for mechanical valves. Anticoagulants used in ACS include treatment dose LMWH, fondaparinux (Xa inhibitor), & bivalirudin (thrombin inhibitor).
+
+### β-blockers
+Block β-adrenoceptors, thus antagonizing the sympathetic nervous system. Blocking β1-receptors is negatively inotropic and chronotropic; blocking β2-receptors induces peripheral vasoconstriction and bronchoconstriction. Drugs vary in their β1/β2 selectivity (eg propranolol is non-selective, and bisoprolol relatively β1 selective), but this does not seem to alter their clinical efficacy. Uses: Angina, hypertension, antidysrhythmic, post MI (↓mortality), heart failure (with caution). CI: Severe asthma/COPD, heart block. SEs: Lethargy, erectile dysfunction, ↓joie de vivre, nightmares, headache.
+
+### ACE inhibitors
+These are used in hypertension (HT), heart failure, and post-MI. First dose HT is a concern in patients with severe CCF and malignant HT. In CCF patients, reduce diuretic dose initially and use long-acting ACE-i. Monitor U&E when starting or raising ACE-i dose, a creatinine rise of >20% is concerning. If the patient starts ACE-i prior to discharge, ask the GP to check U&E in 1-2 weeks. If renal function deteriorates markedly, consider investigating for renal artery stenosis. The risk to the kidneys is greater when the patient is unwell. Hold in AKI and hyperkalaemia; avoid starting if the patient is dehydrated. SEs: Include dry cough and urticaria.
+
+### Diuretics
+- Loop diuretics (eg furosemide) are used in heart failure, and inhibit the Na/2Cl/K co-transporter. SEs: dehydration, ↓Na+, ↓K+, ↓Ca2+, ototoxic
+- Thiazides and thiazide-like diuretics are used in hypertension (eg indapamide) and heart failure (eg metolazone). SE: ↓K+, ↑Ca2+, ↓Mg2+, ↑urate (±gout), impotence (NB: small doses, eg chlortalidone 25mg/24h rarely cause significant SEs)
+- Potassium-sparing diuretics: aldosterone antagonists (eg spironolactone, eplerenone) directly block aldosterone receptors; amiloride blocks the epithelial sodium channel in the distal convoluted tubules.
+
+### Vasodilators
+Used in heart failure, IHD, and hypertension. Nitrates (p116) preferentially dilate veins and the large arteries, ↓ filling pressure (pre-load), while hydralazine (often used with nitrates) primarily dilates the resistance vessels, thus ↓ BP (after-load). Prazosin (an α-blocker) dilates arteries and veins.
+
+### Calcium antagonists
+These ↓ cell entry of Ca2+ via voltage-sensitive channels in smooth muscle, thereby promoting coronary and peripheral vasodilation and reducing myocardial oxygen consumption. All current drugs block L-type Ca2+ channels. However, their effects differ because of differential binding properties.
+- The dihydropyridines, eg nifedipine, amlodipine, are mainly peripheral vasodilators (also dilate coronary arteries) and cause a reflex tachycardia, so are often used with a β-blocker. They are used mainly in hypertension and angina.
+- The non-dihydropyridines—verapamil and diltiazem—also slow conduction at the AV and SA nodes and may be used to treat hypertension, angina, and dysrhythmias.
+Δ Don't give non-dihydropyridines with β-blockers (risk of severe bradycardia ± LVF).
+SEs: Flushes, headache, ankle oedema (diuretic unresponsive), ↓LV function, gingival hypertrophy. CI: Heart block.

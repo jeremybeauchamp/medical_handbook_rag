@@ -1,0 +1,47 @@
+# 3 Cardiovascular medicine
+
+## Contents
+Cardiovascular health 93
+At the bedside (see 40)
+Cardiovascular symptoms 94
+Investigations:
+ECG—a methodical approach 96
+ECG—abnormalities 98
+ECG—additional points 100
+Cardiac imaging 108
+Echocardiography 110
+Cardiac catheterization 112
+Drugs and the heart:
+Cardiovascular drugs 114
+Diseases and conditions:
+Angina pectoris 116
+Acute coronary syndromes (ACS) 118
+Management of ACS 120
+Complications of MI 122
+Arrhythmias—overview 124
+Continuous ECG monitoring 125
+Narrow complex tachycardia 126
+Broad complex tachycardia 128
+Atrial fibrillation (AF) and flutter 130
+Pacemakers 132
+Heart failure—basic concepts 134
+Heart failure—management 136
+Hypertension 138
+Hypertension—management 140
+Rheumatic fever (RF) 142
+Mitral valve disease 144
+Aortic valve disease 146
+Right heart valve disease 148
+Cardiac surgery 148
+The heart in various, mostly rare,
+   systemic diseases 149
+Infective endocarditis (IE) 150
+Diseases of heart muscle 152
+Pericardial diseases 154
+Adult congenital heart disease
+   (ACHD) 156
+Driving and the heart 158
+
+Fig 3.1 Helen Taussig (1898-1986) battled dyslexia, deafness, and a male-dominated world to become a leading cardiologist. She noticed that 'blue babies' with a patent ductus arteriosus (PDA) tended to survive longer than those without. This was because many blue babies have congenital obstruction to pulmonary blood flow (eg pulmonary stenosis in tetralogy of Fallot, p157) and PDAs increase blood flow to the lungs, reducing cyanosis. She devised the Blalock-Taussig shunt which creates a passage from the subclavian or carotid artery to one of the pulmonary arteries, mimicking a PDA. This dramatically improved survival in babies with tetralogy of Fallot. One of the joys of cardiology is how often solutions already exist in nature and much of our intervention involves trying to mimic circumstances that can occur naturally. Hence, a good grasp of the underlying physiology is essential for understanding clinical cardiology; as well as interesting to pursue in its own right.
+
+We thank Dr Parag Gajendragadkar, our Specialist Reader, for his contribution to this chapter.

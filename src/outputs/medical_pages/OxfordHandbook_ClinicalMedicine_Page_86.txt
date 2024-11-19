@@ -1,0 +1,30 @@
+## Cranial nerve lesions of the eye
+
+### Pupillary abnormalities
+
+Key questions:
+- Equal, central, circular, dilated, or constricted?
+- React to light, directly and consensually?
+- Constrict normally on convergence/accommodation?
+
+**Irregular pupils:** Anterior uveitis (iritis), trauma to the eye, syphilis.
+
+**Dilated pupils:** CN III lesions (inc. ↑ICP, p830) and mydriatic drugs. Always ask: is this pupil dilated, or is it the other that is constricted?
+
+**Constricted pupils:** Old age, sympathetic nerve damage (Horner's, p702, and ptosis, p73), opiates, miotics (pilocarpine drops for glaucoma), pontine damage.
+
+**Unequal pupils (anisocoria):** May be due to unilateral lesion, eye-drops, eye surgery, syphilis, or Holmes-Adie pupil. Some inequality is normal.
+
+**Light reaction:** Test: cover one eye and shine light into the other obliquely. Both pupils should constrict, one by direct, other by consensual light reflex (fig 2.33). The lesion site is deduced by knowing the pathway: from the retina the message passes up the optic nerve (CNII) to the superior colliculus (midbrain) and thence to the CNIII nuclei on both sides. The IIIrd cranial nerve causes pupillary constriction. If a light in one eye causes only contralateral constriction, the defect is 'efferent', as the afferent pathways from the retina being stimulated must be intact. Test for relative afferent pupillary defect: move torch quickly from pupil to pupil. If there has been incomplete damage to the afferent pathway, the affected pupil will paradoxically dilate when light is moved from the normal eye to the abnormal eye. This is because, in the face of reduced afferent input from the affected eye, the consensual pupillary relaxation response from the normal eye predominates. This is the Marcus Gunn sign, and may occur after apparent complete recovery from the initial lesion.
+
+**Reaction to accommodation/convergence:** If the patient first looks at a distant object and then at the examiner's finger held a few inches away, the eyes will converge and the pupils constrict. Afferent fibres in each optic nerve pass to the lateral geniculate bodies. Impulses then pass to the pre-tectal nucleus and then to the parasympathetic nuclei of the IIIrd cranial nerves, causing pupillary constriction.
+
+- **Holmes-Adie (myotonic) pupil:** The affected pupil is normally moderately dilated and is poorly reactive to light, if at all. It is slowly reactive to accommodation; wait and watch carefully: it may eventually constrict more than a normal pupil. It is often associated with diminished or absent ankle and knee reflexes, in which case the Holmes-Adie syndrome is present. Usually a benign incidental finding. Rare causes: Lyme disease, syphilis, parvovirus B19, HSV, autoimmunity.
+
+- **Argyll Robertson pupil:** This occurs in neurosyphilis. The pupil is constricted and unreactive to light, but reacts to accommodation. Other possible causes: Lyme disease; HIV; zoster; diabetes mellitus; sarcoidosis; MS; paraneoplastic; B12. The iris may be patchily atrophied, irregular, and depigmented. The lesion site is not always near the Edinger-Westphal nucleus or even in the midbrain. Pseudo-Argyll Robertson pupils occur in Parinaud's syndrome (p708).
+
+- **Hutchinson pupil:** This is the sequence of events resulting from rapidly rising unilateral intracranial pressure (eg in intracerebral haemorrhage). The pupil on the side of the lesion first constricts then widely dilates. The other pupil then goes through the same sequence. See p830.
+
+| Fig 2.33 Light reflex. Action potentials go along optic nerve (red), traversing optic chiasm, passing synapses at pre-tectal nucleus, en route to Edinger-Westphal nuclei of CNIII. These send fibres to both irises' ciliary muscles (so both pupils constrict) via ciliary ganglion (also relays accommodation and corneal sensation, and gets sympathetic roots from C8-T2, carrying fibres to dilate pupil). |
+|---|
+| [Diagram showing the pathway of light reflex from the eye through various brain structures] |

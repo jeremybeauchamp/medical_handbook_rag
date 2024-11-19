@@ -1,0 +1,41 @@
+## Complications of MI
+
+### Cardiac arrest 
+(See p894, fig A3.) Cardiogenic shock (p802.) Left ventricular failure (p136, p800, p802.)
+
+### Bradyarrhythmias 
+**Sinus bradycardia:** See p808. Patients with inferior MIs may suffer atropine-unresponsive bradycardia due to infarction of nodal tissue. **1st-degree AV block:** Most commonly seen in inferior MI. Observe closely as approximately 40% develop higher degrees of AV block (in which case calcium channel blockers and β-blockers should be stopped). **Wenckebach phenomenon:** (Mobitz type I) Does not require pacing unless poorly tolerated. **Mobitz type II block:** Carries a high risk of developing sudden complete AV block; should be paced. **Complete AV block:** Usually resolves within a few days. Insert pacemaker (may not be necessary after inferior MI if narrow QRS, reasonably stable and pulse ≈40-50). **Bundle branch block:** MI complicated by trifascicular block or non-adjacent bifascicular disease (p132) should be paced.
+
+### Tachyarrhythmias 
+NB: K+, hypoxia, and acidosis all predispose to arrhythmias and should be corrected. **Sinus tachycardia:** Can ↑ myocardial O2 demand, treat causes (pain, hypoxia, sepsis, etc.) and add β-blocker if not contraindicated. **SVT:** p126. **AF or flutter:** If compromised, DC cardioversion. Otherwise, medical therapy as per p130. **Frequent PVCs** (premature ventricular complexes) and **non-sustained VT** (≥3 consecutive PVCs >100bpm and lasting <30s) are common after acute MI and are associated with increased risk of sudden death. Correct hypokalaemia and hypomagnesaemia and ensure the patient is on β-blockers, if not contraindicated.19 **Sustained VT:** (Consecutive PVCs >100bpm and lasting >30s.) Treat with synchronized DC shock (if no pulse, treat as per advanced life support algorithm, see p894, fig A3). Use anti-arrhythmics only if VT recurrent and not controlled with shocks. Consider ablation +/or ICD. **Ventricular fibrillation:** 80% occurs within 12h. VF occuring after 48h usually indicates pump failure or cardiogenic shock. Rx: DC shock (see p894, fig A3), consider ICD.
+
+### Right ventricular failure (RVF)/infarction 
+Presents with low cardiac output and JVP. Fluid is key; avoid vasodilators (eg nitrates) and diuretics.20 Inotropes are required in some cases.
+
+### Pericarditis 
+Central chest pain, relieved by sitting forwards. ECG: saddle-shaped ST elevation, see fig 3.51, p155. Treatment: NSAIDs. Echo to check for effusion.
+
+### Systemic embolism 
+May arise from LV mural thrombus. After large anterior MI, consider anticoagulation with warfarin for 3 months.
+
+### Cardiac tamponade (p802) 
+Presents with low cardiac output, pulsus paradoxus, Kussmaul's sign,3 muffled heart sounds. Diagnosis: echo. Treatment: pericardial aspiration (provides temporary relief, see p773 for technique), surgery.
+
+### Mitral regurgitation 
+May be mild (minor papillary muscle dysfunction) or severe (chordal or papillary muscle rupture secondary to ischaemia). Presentation: pulmonary oedema. Treat LVF (p800) and consider valve replacement.
+
+### Ventricular septal defect 
+Presents with pansystolic murmur, JVP, cardiac failure. Diagnosis: echo. Treatment: surgery. 50% mortality in first week.
+
+### Late malignant ventricular arrhythmias 
+Occur 1-3wks post-MI and are the cardiologist's nightmare. Avoid hypokalaemia, the most easily avoidable cause. Consider 24h ECG monitoring prior to discharge if large MI.
+
+### Dressler's syndrome (p698) 
+Recurrent pericarditis, pleural effusions, fever, anaemia, and ↑ESR 1-3wks post-MI. Treatment: consider NSAIDs; steroids if severe.
+
+### Left ventricular aneurysm 
+This occurs late (4-6wks post-MI), and presents with LVF, angina, recurrent VT, or systemic embolism. ECG: persistent ST-segment elevation. Treatment: anticoagulate, consider excision.
+
+----
+
+3 JVP rises during inspiration. Adolf Kussmaul was a prominent 19th-century physician and the first to attempt gastroscopy. Inspired by a sword swallower he passed a rigid tube into the stomach; however light technology was limited and it was not until years later that gastroscopists could visualize the stomach.

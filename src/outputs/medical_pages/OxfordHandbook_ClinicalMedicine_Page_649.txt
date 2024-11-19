@@ -1,0 +1,32 @@
+## Complications of gallstones
+
+### In the gallbladder & cystic duct:
+- Biliary colic
+- Acute and chronic cholecystitis
+- Mucocoele
+- Empyema
+- Carcinoma
+- Mirizzi's syndrome.
+
+### In the bile ducts:
+- Obstructive jaundice
+- Cholangitis
+- Pancreatitis.
+
+### In the gut:
+- Gallstone ileus.
+
+| Table 13.16 Biliary colic, cholecystitis, or cholangitis? |           |            |         |
+|----------------------------------------------------------|-----------|------------|---------|
+|                                                          | RUQ pain  | Fever /WCC | Jaundice|
+| Biliary colic                                            | ✓         | ✗          | ✗       |
+| Acute cholecystitis                                      | ✓         | ✓          | ✗       |
+| Cholangitis                                              | ✓         | ✓          | ✓       |
+
+## Early or delayed cholecystectomy?
+
+### For acute cholecystitis
+Laparoscopic cholecystectomy for acute cholecystitis has traditionally been performed 6-12wks after the acute episode due to anticipated increased mortality and conversion to open procedure. Early laparoscopic cholecystectomy, within 7d of symptom onset, is now the treatment of choice. Early surgery reduces the duration of hospital admission compared with delayed surgery, but does not reduce mortality or complications. Up to one-quarter of people scheduled for delayed surgery may require urgent operations because of recurrent or worsening symptoms.¹⁰
+
+### For biliary colic
+Patients with biliary colic due to gallstones waiting for an elective laparoscopic cholecystectomy may develop significant complications, such as acute pancreatitis (p636) during the waiting period. One high-bias trial found early laparoscopic cholecystectomy (within 24h of an acute episode) decreased potential complications that may develop during the wait for elective surgery.

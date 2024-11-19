@@ -1,0 +1,36 @@
+# Macrocytic anaemia
+
+Macrocytosis (MCV >96fL) is common, and may not always be accompanied by anaemia (eg in alcohol excess).
+
+## Causes of macrocytosis (MCV >96fL)
+- **Megaloblastic**: (fig 8.25) a megaloblast is a cell in which nuclear maturation is delayed compared with the cytoplasm. This occurs with B12 (p334) and folate deficiency: both are required for DNA synthesis. Another cause is cytotoxic drugs.
+- **Non-megaloblastic**: Alcohol excess, reticulocytosis (eg in haemolysis), liver disease, hypothyroidism, pregnancy.
+- **Other haematological disease**: Myelodysplasia (fig 8.26), myeloma, myeloproliferative disorders, aplastic anaemia.
+
+## Tests
+B12 and folate deficiency result in similar blood film and bone marrow biopsy appearances.
+
+**Blood film**: Hypersegmented neutrophils (fig 8.25) in B12 and folate deficiency. Target cells if liver disease; see fig 8.14, p329 and fig 8.41, p343.
+
+**Other tests**: LFT (include γGT), TFT, serum B12, and serum folate (or red cell folate—a more reliable indicator of folate status, as serum folate only reflects recent intake).
+
+**Bone marrow biopsy** is indicated if the cause is not revealed by the above tests. It is likely to show one of the following four states:
+1. Megaloblastic marrow.
+2. Normoblastic marrow (eg in liver disease, hypothyroidism).
+3. Abnormal erythropoiesis (eg sideroblastic anaemia, p326, leukaemia, aplasia).
+4. Increased erythropoiesis (eg haemolysis).
+
+## Folate
+Found in green vegetables, nuts, yeast, and liver; it is synthesized by gut bacteria. Body stores can last for 4 months. Maternal folate deficiency causes fetal neural tube defects. It is absorbed by duodenum/proximal jejunum.
+
+### Causes of deficiency:
+- Poor diet, eg poverty, alcoholics, elderly.
+- Increased demand, eg pregnancy or ↑cell turnover (seen in haemolysis, malignancy, inflammatory disease, and renal dialysis).
+- Malabsorption, eg coeliac disease, tropical sprue.
+- Alcohol.
+- Drugs: anti-epileptics (phenytoin, valproate), methotrexate, trimethoprim.
+
+### Treatment:
+Assess for an underlying cause, eg poor diet, malabsorption. Treat with folic acid 5mg/day PO for 4 months, ►never without B12 unless the patient is known to have a normal B12 level, as in low B12 states it may precipitate, or worsen, subacute combined degeneration of the cord (p334). In pregnancy, prophylactic doses of folate (400mcg/day) are given from conception until at least 12wks; this helps prevent spina bifida, as well as anaemia.
+
+NB: in unwell patients (eg CCF) with megaloblastic anaemia, it may be necessary to treat before serum B12 and folate results are known. Do tests then treat with large doses of hydroxocobalamin, eg 1mg/48h IM—see BNF, with folic acid 5mg/24h PO. Blood transfusions are very rarely needed (see p324).

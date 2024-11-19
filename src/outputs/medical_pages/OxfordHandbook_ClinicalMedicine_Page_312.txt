@@ -1,0 +1,57 @@
+# Acute kidney injury (AKI): a clinical approach
+
+## Definition
+
+Acute kidney injury (AKI) is a syndrome of decreased renal function, measured by serum creatinine or urine output, occurring over hours-days. It includes different aetiologies and may be multifactorial.
+
+Different definitions of AKI exist. In 2012, there was an attempt to amalgamate different diagnostic criteria into a single definition and staging system. The Kidney Diseases: Improving Global Outcomes (KDIGO) guidelines define AKI as:
+
+- rise in creatinine >26μmol/L within 48h.
+- rise in creatinine >1.5 × baseline (ie before the AKI) within 7 days.
+- urine output <0.5mL/kg/h for >6 consecutive hours.
+
+The severity of AKI is then staged according to the highest creatinine rise or longest period/severity of oliguria (table 7.3).
+
+### Table 7.3 KDIGO staging system for AKI
+
+| Stage | Serum creatinine | Urine output |
+|-------|------------------|--------------|
+| 1 | >26.5μmol/L (0.3mg/dL) or 1.5-1.9 × baseline | <0.5mL/kg/h for 6-12h |
+| 2 | 2.0-2.9 × baseline | <0.5mL/kg/h for >12h |
+| 3 | >353.6μmol/L (4.0mg/dL) or >3.0 × baseline or renal replacement therapy | <0.3mL/kg/h for >24h or anuria for >12h |
+
+Although there are limitations to the use of serum creatinine, including the effects of muscle mass and dilution, no other biomarker has been able to supersede it (yet). The clinical approach to AKI is shown in fig 7.3.
+
+## Epidemiology
+
+AKI is common, occurring in up to 18% of hospital patients and ~50% of ICU patients. Risk factors for AKI include pre-existing CKD, age, male sex, and comorbidity (DM, cardiovascular disease, malignancy, chronic liver disease, complex surgery).
+
+## Causes
+
+Commonest causes:
+1. Sepsis.
+2. Major surgery.
+3. Cardiogenic shock.
+4. Other hypovolaemia.
+5. Drugs.
+6. Hepatorenal syndrome.
+7. Obstruction.
+
+Aetiology can be divided according to site (table 7.4) as:
+- pre-renal: ↓perfusion to the kidney.
+- renal: intrinsic renal disease.
+- post-renal: obstruction to urine.
+
+### Table 7.4 Aetiology of AKI
+
+| Where? | Pathology | Example |
+|--------|-----------|---------|
+| Pre-renal | ↓Vascular volume | Haemorrhage, D&V, burns, pancreatitis |
+| | ↓Cardiac output | Cardiogenic shock, MI |
+| | Systemic vasodilation | Sepsis, drugs |
+| | Renal vasoconstriction | NSAIDs, ACE-i, ARB, hepatorenal syndrome |
+| Renal | Glomerular (pp310-13) | Glomerulonephritis, ATN (prolonged renal hypo-perfusion causing intrinsic renal damage) |
+| | Interstitial (p318) | Drug reaction, infection, infiltration (eg sarcoid) |
+| | Vessels (pp314-5) | Vasculitis, HUS, TTP, DIC |
+| Post-renal | Within renal tract | Stone, renal tract malignancy, stricture, clot |
+| | Extrinsic compression | Pelvic malignancy, prostatic hypertrophy, retro-peritoneal fibrosis |

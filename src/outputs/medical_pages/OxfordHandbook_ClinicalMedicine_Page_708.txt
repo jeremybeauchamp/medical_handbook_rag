@@ -1,0 +1,28 @@
+# 15 Eponymous syndromes
+
+Fig 15.1
+
+"No scientific discovery is named after its original discoverer", asserts Professor Stephen Stigler in 'Stigler's Law of Eponymy', and in doing so, names the sociologist RK Merton as its discoverer—deliberately making Stigler's law exemplify itself. Is the same true in medicine? At least six others described Alzheimer's disease before Alois Alzheimer in 1906, and Tetralogy of Fallot (named after Étienne-Louis Fallot in 1888) was first described in 1672 by Niels Stenson. Not all medical eponyms obey Stigler's law. Forty years after it was first described, the French neurologist Jean-Marie Charcot (himself associated with at least 15 medical eponyms) attributed the name 'Parkinson's Disease' to the illness outlined in James Parkinson's 1817 essay 'The Shaking Palsy'. Monochromatic doctors may try to abolish eponyms by regimenting them to histologically driven disease titles. But classifications vary as facts emerge, and as a result the renaming of non-eponyms becomes essential. Eponyms, however, carry on forever, because they imply nothing about causes.
+
+## Alice in Wonderland syndrome
+Altered perception in size and shape of body parts or objects ± an impaired sense of passing time—as experienced by Alice in Lewis Carroll's novel. Seen in epilepsy, migraine, and cerebral lesions.¹ *Alice Pleasance Liddell, 1865-1924*
+
+## Arnold-Chiari malformation
+Malformed cerebellar tonsils and medulla herniate through the foramen magnum. This may cause infantile hydrocephalus with mental retardation, optic atrophy, ocular palsies, and spastic paresis of the limbs. Spina bifida, syringomyelia (p516), or focal cerebellar and brainstem signs may occur (p499). There may be bony abnormalities of the base of the skull. Often presents in early adulthood. MRI aids diagnosis. *Julius Arnold, 1835-1915 (German pathologist); Hans Chiari, 1851-1916 (Austrian pathologist)*
+
+## Baker's cyst
+Fluid from a knee effusion escapes to form a popliteal cyst (often swollen and painful) in a sub-gastrocnemius bursa.³ Usually secondary to degeneration. ΔΔ: DVT (exclude if calf swelling); sarcoma. Imaging: USS; MRI. ℞: None if asymptomatic. NSAIDs/ice if painful. Spontaneous resolution may take 10-20 months. Arthroscopy + cystectomy may be needed. *William M Baker, 1838-1896 (British surgeon)*
+
+## Bazin's disease
+(Erythema induratum.) Localized areas of fat necrosis that produce painful, firm nodules ± ulceration and an indurated rash, characteristically on adolescent girls' calves. It is associated with TB. Nodular vasculitis is a variant unrelated to TB.⁴ *Pierre-Antoine-Ernest Bazin, 1807-1878 (French dermatologist)*
+
+## Behçet's disease
+A systemic inflammatory disorder of unknown cause, associated with HLA-B5. It is most common along the old Silk Road, from the Mediterranean to China. Features: Recurrent oral and genital ulceration, uveitis, skin lesions (eg erythema nodosum, papulopustular lesions); arthritis (non-erosive large joint oligoarthropathy); thrombophlebitis; vasculitis; myo/pericarditis; CNS involvement (pyramidal signs); and colitis. Diagnosis: Mainly clinical. Pathergy test: needle prick leads to papule formation within 48hrs. ℞: Colchicine for orogenital ulceration; steroids, azathioprine/cyclophosphamide for systemic disease. Infliximab has a role in ocular disease unresponsive to topical steroids.⁵ *Hulusi Behçet, 1889-1948 (Turkish dermatologist)*
+
+## Berger's disease
+(IgA nephropathy, p311.) Ranges from invisible haematuria to rapidly progressive glomerulonephritis. Biopsy shows mesangial IgA deposition. Usually indolent disease, but progression to end-stage renal failure occurs. ℞: ACE-i/ARB if ↑BP or proteinuria. Immunosuppression considered for progressive disease.⁶ *Jean Berger, 1930-2011 (French nephrologist)*
+
+## Bickerstaff's brainstem encephalitis
+Ophthalmoplegia, ataxia, areflexia, and extensor plantars ± tetraplegia ± coma, and a reversible brain death picture (but there is no structural damage). MRI: hyperintense brainstem signals. GQ1b antibodies +ve.⁷ Plasmapheresis may help. *Edwin R Bickerstaff, 1920-2008 (British physician)*
+
+*We thank Dr Simon Eyre, our Specialist Reader, for his contribution to this chapter.*

@@ -1,0 +1,36 @@
+## Herpes viruses
+
+### Herpes simplex virus (HSV) (human herpesvirus 1 and 2)
+Includes HSV1 and HSV2. HSV1 infection in ⅔ of world's population (~3.7 billion <50yrs), and HSV2 in ~11% (~400 million). Viruses multiply in epithelial cells of mucosal surface producing vesicles or ulcers. Lifelong latent infection when virus enters sensory neurons at infection site. Can then reactivate, replicate, and infect surrounding tissue. Disseminated infection if impaired T-cell immunity: pneumonitis, hepatitis, colitis.
+
+**Presentation:** Primary infection: subclinical or sensory nerve (tingling) prodrome, then vesicles, shallow ulcers. Systemic symptoms possible: fever, malaise, lymphadenopathy. Heals 8-12d. Reactivation: usually ↓severe unless immunosuppressed.
+
+**Anatomy of infection:**
+- Herpes labialis: cold sore lesion at lip border, predominantly HSV1.
+- Genital herpes: predominantly HSV2 (see p412).
+- Gingivostomatitis: fever, sore throat followed by tender oropharyngeal vesicles.
+- Keratoconjunctivitis: corneal dendritic ulcers. ►Avoid steroids. See OHCS p416.
+- Herpetic whitlow: painful vesicles on distal phalanx due to inoculation through a break in the skin.
+- Herpes encephalitis: most common treatable viral encephalitis. Transfer of virus from peripheral site to brain via neuronal transmission. Prodrome: fever, malaise, headache, nausea. Then encephalopathy: general/focal signs of cerebral dysfunction including psychiatric symptoms, seizure, focal neurology (temporal involvement in ~60%), memory loss. Predominantly HSV1 in immunocompetent patients.
+- Secondary infection: eg HSV infection of eczematous skin—eczema herpeticum.
+
+**Diagnosis:** Clinical diagnosis. Confirmation required in encephalitis, keratoconjunctivitis, or immunosuppression: viral PCR of CSF, swab, or vesicle scraping. Also culture, immunofluorescence, serology.
+
+**Treatment:** Aciclovir: ↓symptoms and viral shedding, will not prevent latent infection. ►Give empirical IV aciclovir as soon as HSV encephalitis is suspected, mortality ~70% in untreated disease (see p824).
+
+### Varicella zoster virus (VZV) (human herpesvirus 3)
+Primary infection transmitted by respiratory droplets. Incubation 14-21d. Invades respiratory mucosa, replicates in lymph nodes. Disseminates via mononuclear cells to infect skin epithelial cells. Leads to virus containing vesicles = chicken pox. Virus then remains dormant in sensory nerve roots. Reactivation is dermatomal = shingles.
+
+**Presentation:**
+- Chicken pox: prodrome 1-2d: fever, malaise, headache, abdominal pain. Then rash (fig 9.14): pruritic, erythematous macules→vesicles, crust in ~48h. Infectious 1-2d pre-, to 5d post-rash development (lesions scabbed). Complications ↑ in immunosuppression: encephalitis (cerebellar ataxia), VZV pneumonia, transverse myelitis, pericarditis, purpura fulminans/DIC.
+- Shingles: painful, hyperaesthetic area, then macular→vesicular rash in dermatomal distribution. Disseminated infection if immunosuppressed. Infectious until scabs appear. Chicken pox risk in non-immune contacts. Complications: post-herpetic neuralgia, Ramsay Hunt syndrome (p501).
+
+**Diagnosis:** Clinical diagnosis unless immunosuppressed: viral PCR, culture, immunofluorescence.
+
+**Treatment:** Oral aciclovir/valaciclovir for uncomplicated chicken pox/shingles in adults, aim to give within 48h of rash. IV aciclovir if pregnant, immunosuppressed, severe/disseminated disease (including ocular).
+
+**Prevention:** Vaccination: not routine in children in UK, given at aged 70 to prevent shingles reactivation. VZV immunoglobulin if non-immune exposure in immunosuppression, pregnancy, neonates.
+
+| Figure 9.14 Chicken pox (VZV) |
+|-------------------------------|
+| Image shows multiple red, raised lesions on skin, characteristic of chicken pox. |

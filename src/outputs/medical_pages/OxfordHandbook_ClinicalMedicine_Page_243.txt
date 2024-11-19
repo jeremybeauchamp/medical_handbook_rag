@@ -1,0 +1,23 @@
+# Hypertension: a common context for hyperaldosteronism tests
+
+Think of Conn's in these contexts:
+• Hypertension associated with hypokalaemia.
+• Refractory hypertension, eg despite ≥3 antihypertensive drugs.
+• Hypertension occurring before 40yrs of age (especially in women).
+
+The approach to investigation remains controversial, but the simplest is to look for a suppressed renin and aldosterone (may be normal if there is severe hypokalaemia). CT or MRI of the adrenals is done to localize the cause. This should be done after hyperaldosteronism is proven, due to the high number of adrenal incidentalomas. If imaging shows a unilateral adenoma, adrenal vein sampling may be done (venous blood is sampled from both adrenals). If one side reveals increased aldosterone:cortisol ratio compared with the other (>3-fold difference), an adenoma is likely, and surgical excision is indicated. If no nodules or bilateral nodules are seen, think about adrenal hyperplasia or GRA.
+
+NB: renal artery stenosis is a more common cause of refractory BP and ↓K+ (p315).
+
+## Features of phaeochromocytoma (often episodic and often vague)
+
+Try to diagnose before death: suspect if BP hard to control, accelerating, or episodic.
+• Heart: ↑Pulse; palpitations/VT; dyspnoea; faints; angina; MI/LVF; cardiomyopathy.⁶
+• CNS: Headache; visual disorder; dizziness; tremor; numbness; fits; encephalopathy; Horner's syndrome (paraganglioma); subarachnoid/CNS haemorrhage.
+• Psychological: Anxiety; panic; hyperactivity; confusion; episodic psychosis.
+• Gut: D&V; abdominal pain over tumour site; mass; mesenteric vasoconstriction.
+• Others: Sweats/flushes; heat intolerance; pallor; ↑T°; backache; haemoptysis.
+
+Symptoms may be precipitated by straining, exercise, stress, abdominal pressure, surgery, or by agents such as β-blockers, IV contrast agents, or the tricyclics. The site of the tumour may determine precipitants, eg if pelvic, precipitants include sexual intercourse, parturition, defecation, and micturition. Adrenergic crises may last minutes to days. Suddenly patients feel 'as if about to die'—and then get better, or go on to develop a stroke or cardiogenic shock. On examination, there may be no signs, or hypertension ± signs of heart failure/cardiomyopathy (± paradoxical shock, similar to Takotsubo's⁶), episodic thyroid swelling, glycosuria during attacks, or terminal haematuria from a bladder phaeochromocytoma.
+
+6 Takotsubo cardiomyopathy (=stress- or catecholamine-induced cardiomyopathy/broken heart syndrome) may cause sudden chest pain mimicking MI, with ↑ST segments, and its signature apical ballooning on echo (also ↓ejection fraction) occurring during catecholamine surges. It is a cause of MI in the presence of normal arteries. The stress may be medical (SAH, p478) or psychological.

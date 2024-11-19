@@ -1,0 +1,29 @@
+# Signs that may distinguish variant CJD from sporadic CJD (sCJD)
+
+- An earlier age at presentation (median 29yrs vs 60yrs in sporadic CJD).
+- Longer survival and later dementia (median 14 months vs 4 for sporadic CJD).
+- Psychiatric features are an early sign (anxiety, withdrawal, apathy, agitation, a permanent look of fear in the eyes, depression, personality change, insomnia). Hallucinations and delusions may occur—before akinetic mutism.
+- Painful sensory symptoms are commoner (eg foot pain hyperaesthesia).
+- More normal EEG (sporadic CJD has a characteristic spike and wave pattern).
+- Mean CSF tau-pT181/tau protein ratio is 10-fold higher in vCJD than in sCJD.²²
+- Homozygosity for methionine at codon 129 of the PRP gene is typical.
+
+## Fame and infamy in the search for lost youth
+
+After his neurological experiments, Brown-Séquard, the most visionary of all neuroanatomists and the grandfather of HRT, proclaimed he had found the secret of perpetual youth after injecting himself with a concoction of testicular blood, semen, and testicular extracts from dogs and guinea pigs. In the 1880s, over 12,000 doctors were queuing up to use his special extracts on patients, which he gave away free, provided results were reported back to him. 314 out of 405 cases of spinal syphilis improved, and his own urinary flow rate rose by 25%. Endocrinologists never forgave him for bringing their science into disrepute. To this day, no one really knows if his (literally) seminal work has given us anything of any practical value. But he might be pleased to know that testosterone is now known to have the urodynamic benefits he anticipated, at least in men with hypogonadism.²³
+
+Like many brilliant men, he had a cruel streak, backing clitoridectomy for preventing blindness and other imaginary complications of 'masturbatory melancholia'. Had he not been blinded by 19th-century ideas about female sexuality, could he have found a marvellous use for his concoctions, for 21st-century 'hypoactive sexual desire disorder'? Possibly, but only if he relied on placebo responses.²⁴,²⁵
+
+## Poisoning your boss
+
+In 1931, Buerger's disease caused gangrene in the toes of Harvey Cushing (p224)— the most cantankerous (and greatest) neurosurgeon ever. He had to be wheeled to the operating theatre to carry on his brilliant art (and to continue terrifying his assistants).²⁶ He had to retire partially, whereupon his colleagues presented him with a magnificent silver cigarette box, containing 2000 cigarettes (to which he was addicted)—one for each brain tumour he had removed during his long career, so verifying the truth that although we owe everything to our teachers, we must eventually kill them to move out from under their shadow.¹
+
+## Why bother studying rare diseases? The Liberski imperative...
+
+For centuries, kuru was no bigger than a man's hand; a cloud barely visible on our horizon; a rare disease in cannibals beyond the Pacific. But meticulous work on kuru led to knowledge of prion diseases before the 1990s epidemic of vCJD. If in the 1950s, Gajdusek and Zigas had not been intrigued as to why kuru affected women and children more than men (their strange neural diet was the culprit), the discovery of vCJD would have been delayed, as no surveillance would have been in place. Neural tissue might still be in our food chain, with dreadful consequences. But further than this, the notion of 'protein-misfolding diseases'² would have been delayed by decades. So this is the lesson: let curiosity flourish. This is Liberski's imperative.²⁷ So now let's scan our horizon for other intriguing clouds.
+
+----
+
+¹ Der Vogel kämpft sich aus dem Ei. Das Ei ist die Welt. Wer geboren werden will, muss eine Welt zerstören. The bird struggles out of the egg. The egg is the world. Whoever will be born, must first destroy a world. (Hermann Hesse. Demian; 1917.)
+
+² Cystic fibrosis (misfolded CFTR protein), Marfan's (misfolded fibrillin),²⁸ Fabry (misfolded α-galactosidase), Gaucher's (misfolded β-glucocerebrosidase), retinitis pigmentosa 3 (misfolded rhodopsin); some cancers may be caused by misfolding of tumour suppressor proteins (von Hippel–Lindau protein).

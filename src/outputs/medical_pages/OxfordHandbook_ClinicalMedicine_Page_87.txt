@@ -1,0 +1,35 @@
+Fig 2.34 Internuclear ophthalmoplegia (INO) and its causes. To produce synchronous eye movements, cranial nerves III, IV, and VI communicate through medial longitudinal fasciculus in midbrain. In INO, a lesion disrupts communication, causing weakness in adduction of the ipsilateral eye with nystagmus of the contralateral eye only when abducting. There may be incomplete or slow abduction of the ipsilateral eye during lateral gaze. Convergence is preserved. Causes: MS or vascular (rarely: HIV; syphilis; Lyme disease; brainstem tumours; phenothiazine toxicity).
+
+| Right eye | Left eye |
+|-----------|----------|
+| To right medial rectus | Nystagmus |
+| Lesion of right medial longitudinal fasciculus | To left lateral rectus |
+| Centre for lateral gaze | Centre for lateral gaze |
+
+## Ptosis
+
+Drooping of the upper eyelid. Best observed with patient sitting up, with head held by examiner. Oculomotor nerve (CN III) innervates main muscle concerned (levator palpebrae), but nerves from the cervical sympathetic chain innervate superior tarsal muscle, and a lesion of these nerves causes mild ptosis which can be overcome on looking up. Causes:
+
+1. CN III lesions cause unilateral complete ptosis: look for other evidence of a CN III lesion: ophthalmoplegia with 'down and out' deviation of the eye, pupil dilated and unreactive to light or accommodation. If eye pain too, suspect infiltration (eg by lymphoma or sarcoidosis). If T° or ↓consciousness, suspect infection (any tick bites?).
+2. Sympathetic paralysis usually causes unilateral partial ptosis. Look for other evidence of a sympathetic lesion, as in Horner's syndrome (p702): constricted pupil = miosis, lack of sweating on same side of the face (=anhidrosis).
+3. Myopathy, eg dystrophia myotonica, myasthenia gravis (cause bilateral partial ptosis).
+4. Congenital; usually partial and without other CNS signs.
+
+## Visual loss
+
+Get ophthalmology help. See OHCS p434–p455. Consider:
+- Is the eye red? (Glaucoma, uveitis p561.)
+- Pain? Giant cell arteritis: severe temporal headache, jaw claudication, scalp tenderness, ↑ESR: ► urgent steroids (p556). Optic neuritis: eg in MS.
+- Is the cornea cloudy: corneal ulcer (OHCS p435), glaucoma (OHCS p433)?
+- Is there a contact lens problem (infection)?
+- Any flashes/floaters? (TIA, migraine, retinal detachment?)
+- Is there a visual field problem (stroke, space-occupying lesion, glaucoma)?
+- Are there any focal CNS signs?
+- Any valvular heart disease/carotid bruits (emboli)? Hyperlipidaemia (p690)?
+- Is there a relative afferent pupillary defect (p72)?
+- Any past history of trauma, migraine, hypertension, cerebrovascular disease, MS, diabetes or connective tissue disease?
+- Any distant signs: eg HIV (causes retinitis), SLE, sarcoidosis?
+
+Sudden: • Acute glaucoma • Retinal detachment • Vitreous haemorrhage (eg in diabetic proliferative retinopathy) • Central retinal artery or vein occlusion • Migraine • CNS: TIA (amaurosis fugax), stroke, space-occupying lesion • Optic neuritis (eg MS) • Temporal arteritis • Drugs: quinine/methanol • Pituitary apoplexy.
+
+Gradual: • Optic atrophy • Chronic glaucoma • Cataracts • Macular degeneration • Tobacco amblyopia.

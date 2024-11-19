@@ -1,0 +1,29 @@
+# Calcium and phosphate physiology
+
+Calcium and phosphate homeostasis is maintained through:
+
+**Parathyroid hormone (PTH)**: Overall effect is ↑Ca²⁺ & ↓PO₄³⁻. Secretion by four parathyroid glands is triggered by ↓serum ionized Ca²⁺; controlled by -ve feedback loop. Actions are: •↑osteoclast activity releasing Ca²⁺ and PO₄³⁻ from bones •↑Ca²⁺ & ↓PO₄³⁻ reabsorption in the kidney •↑renal production of 1,25-dihydroxy-vitamin D₃.
+
+**Vitamin D and calcitriol**: Vit D is hydroxylated first in the liver to 25-hydroxy-vit D, and again in the kidney to 1,25-dihydroxy-vit D (calcitriol), the biologically active form, and 24,25-hydroxy-vit D (inactive). Calcitriol production is stimulated by ↓Ca²⁺, ↓PO₄³⁻, and PTH. Actions are: •↑Ca²⁺ and ↑PO₄³⁻ absorption from the gut •inhibition of PTH release •enhanced bone turnover •↑Ca²⁺ and ↑PO₄³⁻ reabsorption in the kidney. Cholecalciferol (vit D₃—from animal sources) and ergocalciferol (vit D₂—from vegetables) are biologically identical in their activity. Disordered regulation of calcitriol underlies familial normocalcaemic hypercalciuria, which is a major cause of calcium oxalate renal stone formation (p638).
+
+**Calcitonin**: Made in C-cells of the thyroid, this causes ↓Ca²⁺ and ↓PO₄³⁻, but its physiological role is unclear. It can be used as a marker of recurrence or metastasis in medullary carcinoma of the thyroid.
+
+**Magnesium**: ↑Mg²⁺ prevents PTH release, and may cause hypocalcaemia.
+
+**Plasma binding**: Labs usually measure total plasma Ca²⁺. ~40% is bound to albumin, and the rest is free ionized Ca²⁺ which is the physiologically important amount (often available on blood gas analyser). Therefore, correct total Ca²⁺ for albumin as follows: add 0.1mmol/L to Ca²⁺ level for every 4g/L that albumin is below 40g/L, and a similar subtraction for raised albumin. However, many other factors affect binding (eg other proteins in myeloma, cirrhosis, individual variation) so be cautious in your interpretation. If in doubt over a high Ca²⁺, take blood specimens uncuffed (remove tourniquet after needle in vein, but before taking blood sample), and with the patient fasted.
+
+## Hypercalcaemia
+
+**Signs and symptoms** 'Bones, stones, groans, and psychic moans.' Abdominal pain; vomiting; constipation; polyuria; polydipsia; depression; anorexia; weight loss; tiredness; weakness; hypertension, confusion; pyrexia; renal stones; renal failure; ectopic calcification (eg cornea—see BOX); cardiac arrest. ECG: ↓QT interval.
+
+**Causes** (See fig 14.5.) Most commonly malignancy (eg from bone metastases, myeloma, PTHrP) or primary hyperparathyroidism. Others include sarcoidosis, vit D intoxication, thyrotoxicosis, lithium, tertiary hyperparathyroidism, milk-alkali syndrome, and familial benign hypocalciuric hypercalcaemia (rare; defect in calcium-sensing receptor). HIV can cause both ↑ & ↓Ca²⁺ (perhaps from PTH-related bone remodelling).
+
+**Investigations** The main distinction is malignancy vs 1° hyperparathyroidism. Pointers to malignancy are ↓albumin, ↑Cl⁻, alkalosis, ↓K⁺, ↑PO₄³⁻, ↑ALP. ↑PTH indicates hyperparathyroidism. Also FBC, protein electrophoresis, CXR, isotope bone scan, 24h urinary Ca²⁺ excretion (for familial hypocalciuric hypercalcaemia).
+
+### Causes of metastatic (ectopic) calcification 'PARATHORMONE'
+
+- Parathormone (PTH) (p222) and other causes of ↑Ca²⁺, eg sarcoidosis; Amyloidosis;
+- Renal failure (relates to ↑PO₄³⁻); Addison's disease (adrenal calcification);
+- TB nodes; Toxoplasmosis (CNS); Histoplasmosis (eg in lung); Overdose of vitamin D;
+- Raynaud's-associated diseases (eg SLE; systemic sclerosis p552; dermatomyositis);
+- Muscle primaries/leiomyosarcomas); Ossifying metastases (Osteosarcoma) or Ovarian mets (to peritoneum); Nephrocalcinosis; Endocrine tumours (eg gastrinoma).

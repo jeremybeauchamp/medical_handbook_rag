@@ -1,0 +1,59 @@
+# Table 18.1 Intravenous cannulae sizes and UK colour conventions
+
+| Gauge | Colour        | Diameter (mm) | Length (mm) | Flow rate (mL/min) |
+|-------|---------------|---------------|-------------|-------------------|
+| 14G   | ORANGE/BROWN  | 2.0           | 45          | 250               |
+| 16G   | GREY          | 1.7           | 42          | 170               |
+| 18G   | GREEN         | 1.2           | 40          | 90                |
+| 20G   | PINK          | 1.0           | 32          | 55                |
+| 22G   | BLUE          | 0.28          | 25          | 25                |
+| 24G   | YELLOW        | 0.07          | 19          | 24                |
+
+Flow rate is given as maximum flow rate under gravity; faster rates may be achievable with rapid infusion devices.
+According to Poiseuille's law¹ the flow rate (Q) of a fluid through a tubular structure is inversely proportional
+to viscosity (η) and length (l) and proportional to the pressure difference across it (P₁ - P₀) and the radius
+to the power of 4(r⁴). Hence:
+
+$$ Q ∝ \frac{(P_1 - P_0)r^4}{\eta l} $$
+
+## A last throw of the dice
+
+Just once it may come down to you. For some, this is one of the challenges and
+thrills in medicine. There may be no one else available to help when there is an
+absolute and urgent indication for IV drugs/fluids/blood—and all of the previously
+discussed measures have been tried, and have failed. Think of lonesome night
+shifts, over-run emergency departments, a disaster scene, war, or medicine in
+the field. The following measures are not recommended for non-life-threatening
+scenarios:
+
+- Don't worry. Have a good look again. Feet (avoid in diabetics)? Inside of the
+forearm? Upper arm?
+- Have you really exhausted all of your options for help from a colleague? Maybe
+the anaesthetist or ICU registrar is approachable—they do have remarkable skills.
+- Is the patient familiar with his/her own veins (eg previous IV drug abuser)?
+- If there is only a small amount of IV medication required and a small, short vein,
+you may be able to gain access with a carefully placed butterfly needle that is
+taped down. Some drugs cannot be passed this way (eg amiodarone, K⁺).
+- The external jugular vein may become prominent when the patient is head down
+(Trendelenburg) by 5-10° (▶ not in situations of fluid overload, LVF, ↑ICP). Only attempt cannulation of this vein if you are not going to jeopardize future central
+line insertion, and if you can clearly determine the surrounding anatomy.
+- In an arrest situation, the 2015 Advanced Life Support Guidelines recommend
+the intraosseous route in both adults and children if venous access is not possible; access devices should be available within resuscitation settings (eg emergency department).
+
+Only do the following if you have had the appropriate training/experience:
+- In children, consider cannulating a scalp vein.
+- Central venous catheterization (p775). This may be just as hard in a profoundly
+hypovolaemic arrest patient, and a good knowledge of local anatomy and of the
+procedure (± ultrasound guidance) will be invaluable.
+
+If you don't have an intraosseous access device, a cut down to the long saphenous vein may be attempted, in extremis, even if you have no prior experience (at
+this site you won't kill by being ham-fisted). ▶ Make a transverse incision 1-2cm
+anterior and superior to the medial malleolus. ▶ Free vein with forceps. ▶ Cannulate
+it under direct vision. ▶ Here, 'first do no harm' is trumped by 'nothing ventured,
+nothing gained'.
+
+Hopefully, it shouldn't ever have to come to these measures, but one day...
+
+¹ Poiseuille's law is a neat piece of physiology and worth remembering—it is applicable in some form to
+almost every system in the body. Note that it is a 4th-power law: a small change in the radius makes a huge
+difference to flow.

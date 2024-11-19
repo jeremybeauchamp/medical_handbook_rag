@@ -1,0 +1,65 @@
+42 Stewart S, McMurray JJ. Palliative care for heart failure. Time to move beyond treating and curing to improving the end of life. BMJ 2002; 325(7370):915-16. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1124429/
+
+43 Addington-Hall J. Dying from heart failure: lessons from palliative care. BMJ 1998; 317(7164):961-2. http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=1114039
+
+44 NICE. Hypertension in adults: Diagnosis and management [CG127]. 2011, updated 2016. https://www.nice.org.uk/guidance/cg127
+
+45 MacMahon S, Alderman MH, Lindholm LH, et al. Blood-pressure-related disease is a global health priority. Lancet 2008; 371:1480-2. http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(08)60632-7/fulltext
+
+46 Lewington S, Clarke R, Qizilbash N, et al. Age-specific relevance of usual blood pressure to vascular mortality: a meta-analysis of individual data for one million adults in 61 prospective studies. Lancet 2003; 361(9362):1060-13. http://www.ncbi.nlm.nih.gov/pubmed/12493255
+
+47 Beckett NS, Peters R, Fletcher AE, et al. Treatment of hypertension in patients 80 years of age or older. N Engl J Med 2008; 58:1887-98. http://content.nejm.org/cgi/reprint/358/18/1887.pdf
+
+48 Law M, Wald N, Morris J. Lowering blood pressure to prevent myocardial infarction and stroke: a new preventive strategy. Health Technol Assess 2003; 7(31):1-94. https://www.ncbi.nlm.nih.gov/pubmedhealth/PMH0015113/
+
+49 SPRINT Research Group. A randomized trial of intensive versus standard blood-pressure control. N Engl J Med 2015; 373(22):2103-16
+
+50 ALLHAT Officers and Coordinators for the ALLHAT Collaborative Research Group. The Antihypertensive and Lipid-Lowering Treatment to Prevent Heart Attack Trial. Major outcomes in high-risk hypertensive patients randomized to angiotensin-converting enzyme inhibitor or calcium channel blocker vs diuretic. JAMA 2002; 288:2981-97. http://jama.ama-assn.org/content/288/23/2981.full
+
+51 van den Meiracker AH, Dees A. Hypertensive crisis: definition, pathophysiology and treatment. Ned Tijdschr Geneeskd 1999; 143(44):2185-90
+
+52 Stollerman GH. Rheumatic carditis. Lancet 1995; 346:390-2
+
+53 Albert D, Harel L, Karrison T. The treatment of rheumatic carditis: a review and meta-analysis. Medicine 1995; 74:1-12
+
+54 Koudy Williams J, Vita JA, Manuck SB, et al. Psychosocial factors impair vascular responses of coronary arteries. Circulation 1991; 84:2146-53
+
+55 Steptoe A, Molloy GJ. Personality and heart disease. Heart 2007; 93:783-4
+
+56 Huffman JC, Celano CM, Beach SR, et al. Depression and cardiac disease: epidemiology, mechanisms, and diagnosis. Cardiovasc Psychiatry Neurol 2013; 2013:695925. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3638710/
+
+57 Otto C. Aortic stenosis--listen to the patient, look at the valve. N Engl J Med 2000; 343:652-4. http://www.nejm.org/doi/full/10.1056/NEJM200008313430910
+
+58 Chopra HL, Nanda N. Textbook of Cardiology (A Clinical & Historical Perspective). New Delhi: Jaypee Brothers Medical Publishers, 2012; 667
+
+59 Soutter H. The repair of mitral stenosis. Br Med J 1925; 2(3379):603-6
+
+60 Ogur G. Variable clinical expression of Holt-Oram syndrome in three generations. Turk J Pediatr 1998; 40(4):613-18. https://www.ncbi.nlm.nih.gov/labs/articles/10028874/
+
+61 British Heart Foundation. Inflammation and your heart: Endocarditis, pericarditis and myocarditis. 2015. https://www.bhf.org.uk/publications/heart-conditions/medical-information-sheets/inflammation-and-your-heart
+
+62 Chambers J, Sandoe J, Ray S, et al. The infective endocarditis team: recommendations from an international working group. Heart 2014; 100(7):524-7. http://heart.bmj.com/content/100/7/524.long
+
+63 Durack D, Lukes AS, Bright DK. New criteria for diagnosis of infective endocarditis: utilization of specific echocardiographic findings. Duke Endocarditis Service. Am J Med 1994; 96: 200-9.
+
+64 Beeching N. Infectious Diseases. London: Wolfe, 1994; 136.
+
+65 NICE. Prophylaxis against infective endocarditis: antimicrobial prophylaxis against infective endocarditis in adults and children undergoing interventional procedures [CG64]. 2008, updated 2016. https://www.nice.org.uk/Search?q=CG64
+
+66 Habib G, Lancellotti P, Antunes MJ, et al. 2015 ESC Guidelines for the management of infective endocarditis. Eur Heart J 2015; 36(44):3075-128. http://eurheartj.oxfordjournals.org/content/36/44/3075.long
+
+67 Caforio AL, Pankuweit S, Arbustini E, et al. Current state of knowledge on aetiology, diagnosis, management, and therapy of myocarditis: a position statement of the European Society of Cardiology Working Group on Myocardial and Pericardial Diseases. Eur Heart J 2013; 34:2636-48. http://eurheartj.oxfordjournals.org/content/34/33/2636.long
+
+68 Adler Y, Charron P, Imazio M, et al. 2015 ESC Guidelines for the diagnosis and management of pericardial diseases. BMJ 2002; 325(7370):915-16. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1124429/
+
+69 Baumgartner H, Bonhoeffer P, De Groot NM, et al. ESC Guidelines for the management of grown-up congenital heart disease (new version 2010). Eur Heart J 2010; 31(23):2915-57. http://eurheartj.oxfordjournals.org/content/31/23/2915.long
+
+70 De Mozzi P, Longo UG, Galanti G, et al. Bicuspid aortic valve: a literature review and its impact on sport activity. Br Med Bull 2008; 85:63-85. http://bmb.oxfordjournals.org/content/85/1/63.long
+
+71 NICE. Transcatheter endovascular closure of perimembranous ventricular septal defect [IPG336]. 2010. https://www.nice.org.uk/guidance/IPG336
+
+72 Bashore TM. Adult congenital heart disease: right ventricular outflow tract lesions. Circulation 2007; 115(14):1933-47 http://circ.ahajournals.org/content/115/14/1933.long
+
+73 Wang XM, Wu LB, Sun C, et al. Clinical application of 64-slice spiral CT in the diagnosis of the Tetralogy of Fallot. Eur J Radiol 2007; 64(2):296-301. http://www.ejradiology.com/article/S0720-048X(07)00103-9/abstract
+
+74 Driver and Vehicle Licensing Agency. Assessing fitness to drive - a guide for medical professionals. 2016. https://www.gov.uk/government/publications/assessing-fitness-to-drive-a-guide-for-medical-professionals

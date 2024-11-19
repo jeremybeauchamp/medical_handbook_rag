@@ -1,0 +1,51 @@
+# 9 Infectious diseases
+
+## Contents
+What is life? 379
+Infectious disease: an overview 380
+
+### Bacterial infection:
+Bacterial infection: an overview 382
+Antibiotics 384
+Antibiotics: summary tables 386
+Gram-positive bacteria 388
+Gram-negative bacteria 390
+Tuberculosis (TB): presentation 392
+Tuberculosis (TB): diagnosis and treatment 394
+
+### Viral infection:
+Influenza 396
+Human immunodeficiency virus (HIV): diagnosis 398
+Complications of HIV infection 400
+HIV antiretroviral therapy (ART) 402
+Herpes viruses 404
+Other viruses 406
+
+### Other:
+Immunization 407
+Fungi 408
+Healthcare-associated (nosocomial) infection 410
+Sexually transmitted infection 412
+
+### Imported and unusual infection:
+Fever in the returning traveller 414
+Enteric fever 415
+Malaria: diagnosis 416
+Malaria: treatment 418
+Mosquito-borne disease 420
+Vector-borne disease 422
+Zoonoses 424
+Viral haemorrhagic fever (VHF) 426
+Gastroenteritis: an overview 428
+Gastroenteritis: specific infections 430
+Gastrointestinal parasites 432
+Schistosomiasis and liver disease 434
+Neurological disease 436
+Eye disease 438
+Skin disease 440
+Pyrexia of unknown origin 442
+Eliciting the weird and the wonderful 443
+
+**Fig 9.1 Leeuwenhoek's microscope.** Antoni van Leeuwenhoek (1632-1723) was an unlikely scholar: a draper with no academic education. He mixed uncomfortably in a scientific world made up of those better educated, wealthier, and with more refined manners. He felt unworthy of publication but submitted hundreds of letters to the Royal Society, always asking his readers to account for his humble origins. Despite his self-deprecation, his microscopy was sophisticated. His surviving lens magnified ≈266 and resolved down to 1.35μm, comparable to that of a modern compound microscope. With it he gained one of the first insights into the 'invisible' living creatures of the microscopic world. His microscopes were cheap and easy to produce—he made 500 for his personal use. He plated them in gold and silver to add a prestige that the scientific world felt they lacked. But that world failed to see beyond the end of its turned up nose. Bloodletting, purging, and emetics would continue to fail patients for a further 150 years.
+
+We thank Dr Chris Conlon, our Specialist Reader for this chapter.

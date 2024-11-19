@@ -1,0 +1,23 @@
+# 364 Pancytopenia and bone marrow failure
+
+Bone marrow is responsible for haematopoiesis. In adults, this normally takes place in the central skeleton (vertebrae, sternum, ribs, skull) and proximal long bones. In some anaemias (eg thalassaemia), increased demand induces haematopoiesis beyond the marrow (extramedullary haematopoiesis), in liver and spleen, causing organomegaly. All blood cells arise from an early pluripotent stem cell, which divides asymmetrically to produce another stem cell and a progenitor cell committed to a lineage (see fig 8.66). Committed progenitors further differentiate into myeloid or lymphocyte lineages, releasing their progeny into the blood.
+
+## Pancytopenia
+Reduction in all the major cell lines: red cells, white cells, and platelets. Causes are due to: 1 Marrow production: Aplastic anaemia (see BOX), infiltration (eg acute leukaemia, myelodysplasia, myeloma, lymphoma, solid tumours, TB), megaloblastic anaemia, myelofibrosis (p366). 2 Peripheral destruction: Hypersplenism.
+
+## Agranulocytosis
+Implies that granulocytes (WBCs with neutrophil, basophil, or eosinophil granules) have stopped being made, leaving the patient at risk of fatal infections. Many drugs can be the culprit: eg carbimazole, procainamide, sulfonamides, gold, clozapine, dapsone. ► When starting drugs known to cause agranulocytosis, warn patients to report any fever. Neutropenia (wcc ≤0.5×10⁹/L) may declare itself initially as a sore throat. Stop the drug, commence neutropenic regimen and consider G-CSF if indicated (p352).
+
+## Marrow support
+Red cells survive for ~120d, platelets for ~8d, and neutrophils for 1-2d, so early problems are mainly from neutropenia and thrombocytopenia.
+
+1. Red cell transfusion: Transfusing 1U should raise Hb by ~10-15g/L (p348). Transfusion may drop the platelet count (you may need to give platelets before or after).
+2. Platelets: Traumatic bleeds, purpura, and easy bruising occur if platelets <50×10⁹/L. Spontaneous bleeding may occur if platelets <20×10⁹/L, with intracranial haemorrhage rarely. Platelets are stored at room temperature (22°C; not in the fridge). In marrow transplant or if severely immunosuppressed, platelets may need irradiation before use to prevent transfusion-associated GVHD. Platelets must be ABO compatible. They are not used in ITP (p345). Indications: • Platelets <10×10⁹/L. • Haemorrhage (eg DIC, p352). • Before invasive procedures (eg biopsy, lumbar puncture) to increase count to >50×10⁹/L. 4U of platelets should raise the count to >40×10⁹/L in adults; check dose needed with lab.
+3. Neutrophils: Use neutropenic regimen if the count <0.5×10⁹/L (p352).
+
+## Bone marrow biopsy
+Gives diagnostic information where there are abnormalities in the peripheral blood; it is also an important staging test in the lymphoproliferative disorders. Ideally take an aspirate and trephine usually from the posterior iliac crest (aspirates can be taken from the anterior iliac crest or sternum). The aspirate provides a film which is examined by microscope. The trephine is a core of bone which allows assessment of bone marrow cellularity, architecture, and the presence of infiltrative disease (eg neoplasia). Coagulation disorders may need to be corrected pre-biopsy. Apply pressure afterwards (lie on that side for 1-2h if platelets are low).
+
+## Aplastic anaemia
+
+This is a rare (~5 cases per million/year) stem cell disorder in which bone marrow stops making cells, leading to pancytopenia. Presents with features of anaemia (↓Hb), infection (↓WCC), or bleeding (↓platelets). Causes: Most cases are autoimmune, triggered by drugs, viruses (eg parvovirus, hepatitis), or irradiation. May also be inherited, eg Fanconi anaemia (p698). Tests: Bone marrow biopsy is diagnostic. Treatment: Mainly supportive in asymptomatic patients. Transfuse blood products as required and initiate neutropenic regimen if count <0.5×10⁹/L (p352). The treatment of choice in young patients with severe disease is allogeneic marrow transplantation from an HLA-matched sibling, which can be curative. Otherwise, immunosuppression with ciclosporin and antithymocyte globulin may be effective, although it is not curative in most. There is no clear role for G-CSF.

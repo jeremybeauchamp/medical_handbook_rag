@@ -1,0 +1,41 @@
+## Chronic pancreatitis
+
+Epigastric pain 'bores' through to the back, eg relieved by sitting forward or hot water bottles on epigastrium/back (look for erythema ab igne's mottled dusky greyness); bloating; steatorrhoea; ↓weight; brittle diabetes. Symptoms relapse and worsen.
+
+**Causes** Alcohol; smoking; autoimmune; rarely: familial; cystic fibrosis; haemochromatosis; pancreatic duct obstruction (stones/tumour); congenital (pancreas divisum).
+
+**Tests** Ultrasound ± CT: pancreatic calcifications confirm the diagnosis, MRCP; AXR. Speckled calcification; faecal elastase.
+
+**Treatment**
+- Drugs: Give analgesia (coeliac-plexus block may give brief relief); lipase, eg Creon®; fat-soluble vitamins. Insulin needs may be high or variable (beware hypoglycaemia). 
+- Diet: No alcohol; low fat may help. Medium-chain triglycerides (MCT oil) may be tried (no lipase needed for absorption, but diarrhoea may be worsened).
+- Surgery: For unremitting pain; narcotic abuse (beware of this); ↓weight: eg pancreatectomy or pancreaticojejunostomy (a duct drainage procedure).
+
+**Complications** Pseudocyst; diabetes; biliary obstruction; local arterial aneurysm; splenic vein thrombosis; gastric varices; pancreatic carcinoma.
+
+## Carcinoma of the pancreas
+
+**Epidemiology** ≈3% of all malignancy; ~9000 deaths/yr (UK). UK incidence is rising.
+
+**Typical patient** ♂ >70yrs old. **Risk factors** Smoking, alcohol, carcinogens, DM, chronic pancreatitis, ↑waist circumference (ie adiposity), and possibly a high-fat and red or processed meat diet.
+
+**Pathology** Mostly ductal adenocarcinoma (metastasize early; present late). 60% arise in the pancreas head, 25% in the body, 15% tail. A few arise in the ampulla of Vater (ampullary tumour) or pancreatic islet cells (insulinoma, gastrinoma, glucagonomas, somatostatinomas (p223), VIPomas); both have a better prognosis. 
+
+**Genetics** ~95% have mutations in the KRAS2 gene.
+
+**The patient** Tumours in the head of the pancreas present with painless obstructive jaundice. 75% of tumours in the body and tail present with epigastric pain (radiates to back and relieved by sitting forward). Either may cause anorexia, weight loss, diabetes, or acute pancreatitis. Rarer features: Thrombophlebitis migrans (eg an arm vein becomes swollen and red, then a leg vein); ↑Ca2+; marantic endocarditis; portal hypertension (splenic vein thrombosis); nephrosis (renal vein metastases). Signs: Jaundice + palpable gallbladder (Courvoisier's 'law', p272); epigastric mass; hepatomegaly; splenomegaly; lymphadenopathy; ascites.
+
+**Tests**
+- Blood: Cholestatic jaundice. ↑CA19-9 (p531) is non-specific, but helps assess prognosis. 
+- Imaging: US or CT can show a pancreatic mass ± dilated biliary tree ± hepatic metastases. They can guide biopsy and help staging prior to surgery/stent insertion. ERCP/MRCP (p742) show biliary tree anatomy and may localize the site of obstruction. EUS (endoscopic sonography) is an emerging adjunct for diagnosis and staging. 
+- ♠: Most ductal cancers present with metastatic disease; <20% are suitable for radical surgery. 
+
+**Surgery:** Resection (pancreatoduodenectomy: Whipple's, p271, fig 6.23) is a major undertaking best considered only where no distant metastases and where vascular invasion is still at a minimum. Post-op morbidity is high (mortality <5%); non-curative resection confers no survival benefit. Laparoscopic excision: Tail lesions are easiest. 
+
+**Post-op chemotherapy:** Delays disease progression. 
+
+**Palliation of jaundice:** Endoscopic or percutaneous stent insertion may help jaundice and anorexia. Rarely, palliative bypass surgery is done for duodenal obstruction or unsuccessful ERCP. 
+
+**Pain:** Disabling pain may need big doses of opiates (p575), or radiotherapy. Coeliac plexus infiltration with alcohol may be done at the time of surgery, or percutaneously. Referral to a palliative care team is essential.
+
+**Prognosis** Often dismal. Mean survival <6 months. 5yr survival: 3%. Overall 5yr survival after Whipple's procedure 5-14%. Prognosis is better if: tumour <3cm; no nodes involved; –ve resection margins at surgery; ampullary or islet cell tumours.

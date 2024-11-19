@@ -1,0 +1,31 @@
+# Unexplained signs and symptoms: how to refer for an opinion
+
+> When you don't know: ask. If you are wondering if you should ask: ask.
+
+Frequently, the skills needed for diagnosis or treatment will lie beyond the team you are working for, so, during ward rounds, agree who should be asked for an opinion. You will be left with the job of making the arrangements, so check before your senior leaves exactly what their question is. Don't be intimidated, but follow these simple rules:
+
+- Know the history and examination findings (ideally your own), and have the patient's notes, observations, recent test results, and drug charts to hand (table 2.2).
+- At the outset, state if you are just looking for advice or if you are asking if the patient could be seen. Make it clear exactly what the question is that you want addressed, allowing the listener to focus their thoughts and ask relevant questions.
+- Give the patient's age and run through a brief history including relevant past medical history. If you would like the patient to be seen, give warning if they will be leaving the ward for a test at a particular time.
+- The visiting doctor may be unfamiliar with your ward. When he or she arrives introduce yourself, get the notes and charts, and give your contact details in case they have further questions.
+
+## Table 2.2 Referring for a specialist opinion
+
+| Team | Key questions |
+|------|---------------|
+| Anaesthetics | Previous anaesthetic? Reaction? Last ate/drank? |
+| Cardiology | Known IHD? BP? ECG findings? Echo findings? Murmurs? Troponin? Temperature/possibility of endocarditis? (ESR, microscopic haematuria, etc. p150) |
+| Dermatology | Site, onset, and appearance of rash? Drugs? Systemic disease? History of atopy? |
+| Endocrinology | Diabetes: blood glucose, usual insulin regimen, complications. Other: blood results? Stable/unstable—eg Addisonian crisis. Usual steroid dose? |
+| Gastroenterology/ Hepatology | Bleeding: Rockall score (p257)? Shock? Diarrhoea: blood? Foreign travel? Frequency per day? Liver disease: signs of decompensation (p274)? Ascites? Encephalopathy grade? |
+| Gynaecology/ Obstetrics | LMP? Possibility of pregnancy? Previous pregnancies? Vaginal discharge? Hormonal contraceptives? STIs? |
+| Haematology | Blood results? Splenomegaly? Fever? Lymphadenopathy? Bleeding: anticoagulants? Clotting results? |
+| Infectious diseases/ Microbiology | Possible source? Antibiotics (current/recent/previous)? Foreign travel? Risk factors for HIV? |
+| Nephrology | Creatinine (current, old)? Clotting? Urine output? Potassium? BP? Fluid status? Drugs? Known renal disease? |
+| Neurology/Stroke | Neurological examination?* CT/MRI scan findings? |
+| Radiology | See p720. Contrast or not? Creatinine? Clotting? Cannula in situ? Metallic implants? |
+| Respiratory | O₂ sats? Respiratory rate? ABG? CXR? Inhalers/nebs? Home O₂? Respiratory support, eg NIV/CPAP? |
+| Surgery (general) | Pain? Scan findings? Acutely unwell? Clotting? |
+| Urology | History of LUTS (lower urinary tract symptoms) p642? Catheter? Haematuria? History of stones? Scan findings (ultrasound, CT)? |
+
+*You would be amazed at how many people refer to neurology/stroke without having done a neurological examination! Don't be one of them...

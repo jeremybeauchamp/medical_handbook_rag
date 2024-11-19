@@ -1,0 +1,82 @@
+| Abbreviation | Full Form | Abbreviation | Full Form |
+|--------------|-----------|--------------|-----------|
+| LH | luteinizing hormone | PRL | prolactin |
+| LIF | left iliac fossa | PRN | pro re nata (Latin for as required) |
+| LKKS | liver, kidney (R), kidney (L), spleen | PRV | polycythaemia rubra vera |
+| LMN | lower motor neuron | PSA | prostate-specific antigen |
+| LMWH | low-molecular-weight heparin | PTH | parathyroid hormone |
+| LOC | loss of consciousness | PTT | prothrombin time |
+| LP | lumbar puncture | PUO | pyrexia of unknown origin |
+| LUQ | left upper quadrant | PV | per vaginam (by the vagina, eg pessary) |
+| LV | left ventricle of the heart | PVD | peripheral vascular disease |
+| LVF | left ventricular failure | QDS | quater die sumendus; take 4 times daily |
+| LVH | left ventricular hypertrophy | qqh | quarta quaque hora: take every 4h |
+| MAI | Mycobacterium avium intracellulare | R | right |
+| MALT | mucosa-associated lymphoid tissue | RA | rheumatoid arthritis |
+| mane | morning (from Latin) | RAD | right axis deviation on the ECG |
+| MAOI | monoamine oxidase inhibitor | RBBB | right bundle branch block |
+| MAP | mean arterial pressure | RBC | red blood cell |
+| MC&S | microscopy, culture, and sensitivity | RCT | randomized controlled trial |
+| mcg | microgram | RDW | red cell distribution width |
+| MCP | metacarpo-phalangeal | RFT | respiratory function tests |
+| MCV | mean cell volume | Rh | Rhesus status |
+| MDMA | 3,4-methylenedioxymethamphetamine | RIF | right iliac fossa |
+| ME | myalgic encephalomyelitis | RRT | renal replacement therapy |
+| mg | milligram | RUQ | right upper quadrant |
+| MI | myocardial infarction | RV | right ventricle of heart |
+| min(s) | minute(s) | RVF | right ventricular failure |
+| mL | millilitre | RVH | right ventricular hypertrophy |
+| mmHg | millimetres of mercury | R | recipe (Latin for treat with) |
+| MND | motor neuron disease | s/sec | second(s) |
+| MR | modified release or mitral regurgitation | S₁, S₂ | first and second heart sounds |
+| MRCP | magnetic resonance cholangiopancreatography | SBE | subacute bacterial endocarditis |
+| MRI | magnetic resonance imaging | SC | subcutaneous |
+| MRSA | meticillin-resistant Staph. aureus | SD | standard deviation |
+| MS | multiple sclerosis | SE | side-effect(s) |
+| MSM | men who have sex with men | SIADH | syndrome of inappropriate anti-diuretic hormone secretion |
+| MSU | midstream urine | SL | sublingual |
+| N&V | nausea and/or vomiting | SLE | systemic lupus erythematosus |
+| NAD | nothing abnormal detected | SOB | short of breath |
+| NBM | nil by mouth | SOBOE | short of breath on exertion |
+| ND | notifiable disease | SpO₂ | peripheral oxygen saturation (%) |
+| NEWS | National Early Warning Score | SR | slow-release |
+| ng | nanogram | Stat | statim (immediately; as initial dose) |
+| NG | nasogastric | STD/I | sexually transmitted disease/infection |
+| NHS | National Health Service (UK) | SVC | superior vena cava |
+| NICE | National Institute for Health and Care Excellence, http://www.nice.org.uk | SVT | supraventricular tachycardia |
+| NIDDM | non-insulin-dependent diabetes mellitus | T° | temperature |
+| NMDA | N-methyl-D-aspartate | t½ | biological half-life |
+| NNT | number needed to treat | T₃ | tri-iodothyronine |
+| nocte | at night | T₄ | thyroxine |
+| NR | normal range (=reference interval) | TB | tuberculosis |
+| NSAID | non-steroidal anti-inflammatory drug | TDS | ter die sumendus (take 3 times a day) |
+| OCP | oral contraceptive pill | TFT | thyroid function test (eg TSH) |
+| od | omni die (Latin for once daily) | TIA | transient ischaemic attack |
+| OGD | oesophagogastroduodenoscopy | TIBC | total iron-binding capacity |
+| OGTT | oral glucose tolerance test | TPN | total parenteral nutrition |
+| OHCS | Oxford Handbook of Clinical Specialties | TPR | temperature, pulse, and respirations count |
+| om | omni mane (in the morning) | TRH | thyrotropin-releasing hormone |
+| on | omni nocte (at night) | TSH | thyroid-stimulating hormone |
+| OPD | outpatients department | TTP | thrombotic thrombocytopenic purpura |
+| OT | occupational therapist | U | units |
+| P:CR | protein to creatinine ratio (mg/mmol) | UC | ulcerative colitis |
+| P₂ | pulmonary component of 2nd heart sound | U&E | urea and electrolytes and creatinine |
+| PaCO₂ | partial pressure of CO₂ in arterial blood | UMN | upper motor neuron |
+| PAN | polyarteritis nodosa | URT(I) | upper respiratory tract (infection) |
+| PaO₂ | partial pressure of O₂ in arterial blood | US(S) | ultrasound (scan) |
+| PBC | primary biliary cirrhosis | UTI | urinary tract infection |
+| PCR | polymerase chain reaction | VDRL | Venereal Diseases Research Laboratory |
+| PCV | packed cell volume | VE | ventricular extrasystole |
+| PE | pulmonary embolism | VF | ventricular fibrillation |
+| PEEP | positive end-expiratory pressure | VHF | viral haemorrhagic fever |
+| PEF(R) | peak expiratory flow (rate) | VMA | vanillylmandelic acid (HMMA) |
+| PERLA | pupils equal and reactive to light and accommodation | V/Q | ventilation/perfusion scan |
+| PET | positron emission tomography | VRE | vancomycin resistant enterococci |
+| PID | pelvic inflammatory disease | VSD | ventricular-septal defect |
+| PIP | proximal interphalangeal (joint) | VT | ventricular tachycardia |
+| PMH | past medical history | VTE | venous thromboembolism |
+| PND | paroxysmal nocturnal dyspnoea | WBC | white blood cell |
+| PO | per os (by mouth) | WCC | white blood cell count |
+| PPI | proton pump inhibitor, eg omeprazole | wk(s) | week(s) |
+| PR | per rectum (by the rectum) | yr(s) | year(s) |
+| | | ZN | Ziehl–Neelsen stain, eg for mycobacteria |

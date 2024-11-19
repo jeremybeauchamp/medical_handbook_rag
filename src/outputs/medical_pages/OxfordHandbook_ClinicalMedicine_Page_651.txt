@@ -1,0 +1,25 @@
+# Modified Glasgow criteria for predicting severity of pancreatitis
+
+Three or more positive factors detected within 48h of onset suggest severe pancreatitis, and should prompt transfer to ITU/HDU. Mnemonic: PANCREAS.
+
+## Table 13.17
+
+| Factor | Criteria |
+|--------|----------|
+| PaO2 | <8kPa |
+| Age | >55yrs |
+| Neutrophilia | WBC >15 x 10^9/L |
+| Calcium | <2mmol/L |
+| Renal function | Urea >16mmol/L |
+| Enzymes | LDH >600iu/L; AST >200iu/L |
+| Albumin | <32g/L (serum) |
+| Sugar | Blood glucose >10mmol/L |
+
+Republished with permission of Royal College of Surgeons of England, from Annals of the Royal College of Surgeons of England, Moore E M, 82, 16-17, 2002. Permission conveyed through Copyright Clearance Center, Inc.
+
+These criteria have been validated for pancreatitis caused by gallstones and alcohol; Ranson's criteria are valid for alcohol-induced pancreatitis, and can only be fully applied after 48h, which does have its disadvantages. Other criteria for assessing severity include the Acute Physiology and Chronic Health Examination (APACHE)-II, and the Bedside Index for Severity in Acute Pancreatitis (BISAP).
+
+## Fig 13.45 
+Axial CT of the abdomen (with IV and PO contrast media) showing a pancreatic pseudocyst occupying the lesser sac of the abdomen posterior to the stomach. It is called a 'pseudocyst' because it is not a true cyst, rather a collection of fluid in the lesser sac (ie not lined by epi/endothelium). It develops at ≥6wks. The cyst fluid is of low attenuation compared with the stomach contents because it has not been enhanced by the contrast media.
+
+Image courtesy of Dr Stephen Golding.

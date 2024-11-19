@@ -1,0 +1,16 @@
+# Enzyme inducers and inhibitors
+
+Hepatic drug metabolism is mainly by conjugation or oxidation. The oxidative pathways are catalysed by the family of cytochrome P450 isoenzymes, the most important of which is the CYP 3A4 isoenzyme. The cytochrome P450 pathway may be either induced or inhibited by a range of commonly used drugs and foods (table 14.7).
+
+This can lead to important interactions or side-effects. For example, phenytoin reduces the effectiveness of the contraceptive pill due to more rapid oestrogen metabolism, and ciprofloxacin retards the metabolism of methylxanthines (aminophylline) which leads to higher plasma levels and potentially more side-effects. The BNF contains a list of the major interactions between drugs.
+
+## Table 14.7 Common inhibitors and inducers of cytochrome P450 isoenzymes
+
+| Enzyme inducers | Enzyme inhibitors |
+|-----------------|-------------------|
+| Phenytoin       | SSRIs             | Amiodarone |
+| Rifampicin      | Ciprofloxacin     | Diltiazem |
+| Carbamazepine   | Isoniazid         | Verapamil |
+| Alcohol         | Macrolides        | Omeprazole |
+| St John's wort  | HIV protease inhibitors | Grapefruit juice |
+| Barbiturates    | Imidazole and triazole antifungal agents |

@@ -1,0 +1,48 @@
+## Acute respiratory distress syndrome (ARDS)
+
+ARDS, or acute lung injury, may be caused by direct lung injury or occur secondary to severe systemic illness. Lung damage and release of inflammatory mediators cause increased capillary permeability and non-cardiogenic pulmonary oedema, often accompanied by multiorgan failure.
+
+**Causes**
+- Pulmonary: Pneumonia; gastric aspiration; inhalation; injury; vasculitis (p556); contusion. 
+- Other: Shock; septicaemia; haemorrhage; multiple transfusions; DIC (p352); pancreatitis; acute liver failure; trauma; head injury; malaria; fat embolism; burns; obstetric events (eclampsia; amniotic fluid embolus); drugs/toxins (aspirin, heroin, paraquat).
+
+**Clinical features** Cyanosis; tachypnoea; tachycardia; peripheral vasodilation; bilateral fine inspiratory crackles. 
+
+**Investigations** FBC, U&E, LFT, amylase, clotting, CRP, blood cultures, ABG. CXR shows bilateral pulmonary infiltrates. Pulmonary artery catheter to measure pulmonary capillary wedge pressure (PCWP).
+
+**Diagnostic criteria** One consensus requires these four to exist:
+1. Acute onset.
+2. CXR: bilateral infiltrates (fig 4.15). 
+3. PCWP <19mmHg or a lack of clinical congestive heart failure. 
+4. Refractory hypoxaemia with PaO2: FiO2 <200 for ARDS. 
+
+Others include total thoracic compliance <30mL/cmH2O.
+
+**Management** Admit to ITU; give supportive therapy; treat the underlying cause.
+
+- **Respiratory support**: In early ARDS, continuous positive airway pressure (CPAP) with 40-60% oxygen may be adequate to maintain oxygenation. But most patients need mechanical ventilation. Indications for ventilation: PaO2: <8.3kPa despite 60% O2; PaCO2: >6kPa. The large tidal volumes (10-15mL/kg) produced by conventional ventilation plus reduced lung compliance in ARDS may lead to high peak airway pressures ± pneumothorax. A low-tidal-volume, pressure-limited approach, with either low or moderate high positive end-expiratory pressure (PEEP), improves outcome.
+
+- **Circulatory support**: Invasive haemodynamic monitoring with an arterial line and Swan-Ganz catheter aids the diagnosis and may be helpful in monitoring PCWP and cardiac output. A conservative fluid management approach improves outcome. Maintain cardiac output and O2 delivery with inotropes (eg dobutamine 2.5-10mcg/kg/min IVI), vasodilators, and blood transfusion. Consider treating pulmonary hypertension with low-dose (20-120 parts per million) nitric oxide, a pulmonary vasodilator. Haemofiltration may be needed in renal failure and to achieve a negative fluid balance.
+
+- **Sepsis**: Identify organism(s) and treat. If septic, but no organisms cultured, use empirical broad-spectrum antibiotics (p167). Avoid nephrotoxic antibiotics.
+
+- **Other**: Nutritional support: enteral is best: p584 & p586, with high-fat, antioxidant formulations. Steroids protect those at risk of fat embolization and with pneumocystosis and may improve outcome in subacute ARDS. Their role in established ARDS is controversial.
+
+**Prognosis** Overall mortality is 50-75%. Prognosis varies with age of patient, cause (pneumonia 86%, trauma 38%), and number of organs involved (three organs involved for >1wk is 'invariably' fatal).
+
+### Risk factors for ARDS
+
+| Column 1 | Column 2 |
+|----------|----------|
+| • Sepsis | • Massive transfusion |
+| • Hypovolaemic shock | • Burns (p846) |
+| • Trauma | • Smoke inhalation (p847) |
+| • Pneumonia | • Near drowning |
+| • Diabetic ketoacidosis | • Acute pancreatitis |
+| • Gastric aspiration | • DIC (p352) |
+| • Pregnancy | • Head injury |
+| • Eclampsia | • ICP |
+| • Amniotic fluid embolus | • Fat embolus |
+| • Drugs/toxins | • Heart/lung bypass |
+| • Paraquat, heroin, aspirin | • Tumour lysis syndrome (p529) |
+| • Pulmonary contusion | • Malaria |

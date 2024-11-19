@@ -1,0 +1,29 @@
+# Thalassaemia
+
+The thalassaemias are genetic diseases of unbalanced Hb synthesis, with underproduction (or no production) of one globin chain (see table 8.2 and BOX). Unmatched globins precipitate, damaging RBC membranes, causing their haemolysis while still in the marrow. They are common in areas from the Mediterranean to the Far East.
+
+## The β thalassaemias
+Usually caused by point mutations in β-globin genes on chromosome 11, leading to ↓β chain production (β+) or its absence (β0). Various combinations of mutations are possible (eg β0/β0, β+/β+, or β+/β0).
+
+**Tests:** FBC, MCV, film, iron, HbA2, HbF, Hb electrophoresis, MRI where myocardial siderosis suspected (from iron overload).
+
+### β thalassaemia minor or trait (eg β/β+; heterozygous state):
+This is a carrier state, and is usually asymptomatic. Mild, well-tolerated anaemia (Hb >90g/L) which may worsen in pregnancy. MCV <75fL, HbA2 >3.5%, slight HbF. Often confused with iron-deficiency anaemia.
+
+### β thalassaemia intermedia:
+Describes an intermediate state with moderate anaemia but not requiring transfusions. There may be splenomegaly. There are a variety of causes including mild homozygous β thalassaemia mutations, eg β+/β+, or co-inheritance of β thalassaemia trait with another haemoglobinopathy, eg HbC thalassaemia (one parent has the HbC trait, and the other has β+). Sickle-cell β+ thalassaemia produces a picture similar to sickle-cell anaemia.
+
+### β thalassaemia major:
+Denotes significant abnormalities in both β-globin genes, and presents in the 1st year, with severe anaemia and failure to thrive. Extramedullary haematopoiesis (RBCs made outside the marrow) occurs in response to anaemia, causing characteristic head shape, eg skull bossing (figs 8.39, 8.40) and hepatosplenomegaly (also due to haemolysis). There is osteopenia (may respond to zoledronic acid). Skull x-ray shows a 'hair on end' sign due to marrow activity. Life-long blood transfusions are needed, with resulting iron overload/deposition seen after ~10yrs as endocrine failure (pituitary, thyroid, pancreas→diabetes mellitus), liver disease, and cardiac toxicity. The film shows very hypochromic, microcytic cells + target cells + nucleated RBCs. ↑HbF, HbA2 variable, HbA absent.
+
+**Treatment:**
+- Promote fitness; healthy diet. Folate supplements help.
+- Regular (~2-4 weekly) life-long transfusions to keep Hb >90g/L, to suppress the ineffective extramedullary haematopoiesis and to allow normal growth. Iron overload is a big problem causing hypothyroidism, hypocalcaemia, and hypogonadism. Can be mitigated by iron-chelators (deferiprone PO + desferrioxamine sc twice weekly. SE: pain, deafness, cataracts, retinal damage, ↑risk of Yersinia). Large doses of ascorbic acid can also help by urinary excretion of iron.
+- Splenectomy if hypersplenism persists with increasing transfusion requirements (p373)—this is best avoided until >5yrs old due to risk of infections.
+- Hormonal replacement or treatment for endocrine complications, eg diabetes mellitus, hypothyroidism. Growth hormone treatment has had variable success.
+- A histocompatible marrow transplant can offer the chance of a cure.
+
+**Prevention:** Approaches include genetic counselling or antenatal diagnosis using fetal blood or DNA, then 'therapeutic' abortion.
+
+## The α thalassaemias (fig 8.41)
+There are two separate α-globin genes on each chromosome 16 ∴ there are four genes (termed αα/αα). The α thalassaemias are mainly caused by gene deletions. If all four α genes are deleted (--/--), death is in utero (Bart's hydrops). Here, HbBarts (γ4) is present, which is physiologically useless. HbH disease occurs if three genes are deleted (--/-α); there may be moderate anaemia and features of haemolysis: hepatosplenomegaly, leg ulcers, and jaundice. In the blood film, there is formation of β4 tetramers (=HbH) due to excess β chains, HbBarts, HbA, and HbA2. If two genes are deleted (--/αα or -α/-α), there is an asymptomatic carrier state, with ↓MCV. With one gene deleted, the clinical state is normal.

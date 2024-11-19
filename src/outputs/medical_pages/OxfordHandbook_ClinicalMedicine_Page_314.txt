@@ -1,0 +1,48 @@
+# 300 Acute kidney injury (AKI): management
+
+Management of AKI requires diagnosis and treatment of the underlying aetiology:
+- Pre-renal: correct volume depletion and/or renal perfusion via circulatory/cardiac support, treat any underlying sepsis.
+- Renal: refer for likely biopsy and specialist treatment of intrinsic renal disease.
+- Post-renal: catheter, nephrostomy, or urological intervention.
+Common to all aetiologies of AKI is the need to manage fluid balance, acidosis, hyperkalaemia, and the timely recognition of those who may require renal replacement.
+
+## Fluid balance
+
+### Volume status:
+- Hypovolaemia: ↓BP, ↓urine volume, non-visible JVP, poor tissue turgor, ↑pulse, daily weight loss.
+- Fluid overload: ↑BP, ↑JVP, lung crepitations, peripheral oedema, gallop rhythm.
+- Hypotension may be relative in old age, vascular stiffness, untreated ↑BP.
+- JVP does not reflect intravascular volume if right-sided heart disease/failure.
+- ↓BP, skin turgor, capillary refill changes may be late—do not wait for them.
+
+### Hypovolaemia, fluid resuscitation:
+- If hypovolaemic, renal perfusion will improve with volume replacement.
+- Care in cardiac disease (↓renal perfusion despite adequate circulating volume) and sepsis/third-spacing (↑extravascular volume).
+- Dynamic assessment is essential: examine before and after all fluid given to ensure an adequate response and to reduce the risk of fluid overload.
+1. Give 500mL crystalloid over 15 min.
+2. Reassess fluid state. Get expert help if unsure or if patient remains shocked.
+3. Further boluses of 250-500mL crystalloid with clinical review after each.
+4. Stop when euvolaemic or seek expert help when 2L given.
+
+### Which crystalloid? 
+Any crystalloid can be used (follow local guidelines). 0.9% ('normal') saline is non-buffered, contains ↑chloride, and may cause hyperchloraemic acidosis. 'Balanced' or buffered crystalloids include Hartmann's, Ringer's lactate, and Plasma-Lyte®. Because they are 'balanced' they are often used preferentially. However, they contain 4-5mmol/L of K+ so caution if ↑K+ and oligo/anuria.
+
+### What about colloid? 
+Blood components should be used in resuscitation due to haemorrhage. Human albumin solutions may be given only under specialist advice in hepatorenal syndrome and as second line to crystalloids in septic shock.
+
+### Hypervolaemia, fluid overload:
+Occurs due to aggressive fluid resuscitation, oliguria, and in sepsis due to ↑capillary permeability. Monitor weight daily in patients receiving IV fluids. Treat with:
+- Oxygen supplementation if required.
+- Fluid restriction. Consider oral and IV volumes. Give antibiotics in minimal fluid and consider concentrated nutritional support preparations.
+- Diuretics. Only in symptomatic fluid overload. They are ineffective and potentially harmful if used to treat oliguria without fluid overload.
+- Renal replacement therapy (p306). AKI with fluid overload and oligo/anuria needs urgent referral to renal/critical care.
+
+## Acidosis
+
+- Mild = pH 7.30-7.36 (~bicarbonate >20mmol/L).
+- Moderate = pH 7.20-7.29 (~bicarbonate 10-19mmol/L).
+- Severe = pH <7.2 (~bicarbonate <10mmol/L): refer to renal/critical care.
+
+Treatment is of the underlying disorder which will stop acid production. Where the effect of treatment may be delayed, acidosis will persist and renal replacement may be indicated (p306).
+
+Medical management of acidosis is controversial. Giving sodium bicarbonate will generate CO₂. Adequate ventilation is therefore needed to prevent respiratory acidosis worsening the clinical picture. Sodium bicarbonate also represents a sodium and a volume load which can precipitate fluid overload in the vulnerable patient.

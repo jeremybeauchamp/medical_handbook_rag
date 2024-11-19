@@ -1,0 +1,20 @@
+Screen for presenting symptoms (table 2.3) before proceeding to past history:
+
+## Past history
+Ask specifically about: angina, any previous heart attack or stroke, rheumatic fever, diabetes, hypertension, hypercholesterolaemia, previous tests/procedures (ECG, angiograms, angioplasty/stents, echocardiogram, cardiac scintigraphy, coronary artery bypass grafts (CABGs)).
+
+## Drug history
+Particularly note aspirin/GTN/β-blocker/diuretic/ACE-i/digoxin/statin/anticoagulant use.
+
+## Family history
+Enquire specifically if any 1st-degree relatives having cardiovascular events (especially if <60yrs).
+
+## Social history
+Smoking, impact of symptoms on daily life, alcohol (clarify number of units), hobbies, exercise.
+
+### Ischaemic heart disease risk factors
+- Hypertension.
+- Smoking.
+- Diabetes mellitus.
+- Family history (1st-degree relative <60yrs old with IHD).
+- Hyperlipidaemia.

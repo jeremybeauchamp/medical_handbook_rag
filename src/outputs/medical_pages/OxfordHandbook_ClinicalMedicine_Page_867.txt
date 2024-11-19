@@ -1,0 +1,78 @@
+18 Huxtable R. For and against the four principles of biomedical ethics. Clin Ethics 2013; 8(2/3):39–43
+19 NICE. Depression: The treatment and management of depression in adults [CG90]. 2009, updated 853
+2016. https://www.nice.org.uk/guidance/CG90
+20 NICE. Violence and aggression: Short-term management in mental health, health and community
+setting [NG10]. 2015. https://www.nice.org.uk/guidance/ng10
+21 O'Mahony D, O'Sullivan D, Byrne S, et al. STOPP/START criteria for potentially inappropriate prescribing
+in older people: version 2. Age Ageing 2015; 44(2):213–8. https://academic.oup.com/ageing/article-lookup/
+doi/10.1093/ageing/afu145
+22 Kurrle SE, Cameron ID, Geeves RB. A quick ward assessment of older patients by junior doctors. BMJ
+2014: 350:h607. http://www.bmj.com/content/350/bmj.h607
+23 NICE. Falls in older people: Assessing risk and prevention [CG161]. 2013. https://www.nice.org.uk/
+guidance/cg161
+24 Knight M, Tuffnell D, Kenyon S, et al. (eds) on behalf of MBRRACE-UK. Saving lives, improving mothers'
+care: surveillance of maternal deaths in the UK 2012–2014 and lessons learned to inform maternity care
+from the UK and Ireland. Confidential Enquiries into Maternal Deaths and Morbidity 2009–2014. Oxford:
+National Perinatal Epidemiology Unit, University of Oxford, 2016
+25 Greenhalgh T. How to read a paper (5th edn). Oxford: Blackwell Books, 2014
+26 Greenland S, Senn SJ, Rothman KJ, et al. Statistical tests, P values, confidence intervals, and power: a
+guide to misinterpretations. Eur J Epidemiol 2016; 31:337–50
+27 Greenhalgh T, Howick J, Maskrey N. Evidence based medicine: a movement in crisis? BMJ 2014;
+348:g3725. http://www.bmj.com/content/348/bmj.g3725
+
+## Chapter 2: History and examination
+
+1 Spence D. The world is round. BMJ 2008; 336:1134
+2 Magilner D. Localized cervical pruritus as the presenting symptom of a spinal cord tumor. Pediatr Emerg
+Care 2006; 22(10):746–7
+3 Mackowiak PA, Wasserman SS, Levine MM. A critical appraisal of 98.6 degrees F, the upper limit
+of the normal body temperature, and other legacies of Carl Reinhold August Wunderlich. JAMA 1992;
+268(12):1578–80. http://jamanetwork.com/journals/jama/article-abstract/400116
+4 Roghmann MC, Warner J, Mackowiak PA. The relationship between age and fever magnitude. Am J Med
+Sci 2001; 322(2):68–90. http://www.sciencedirect.com/science/article/pii/S0002962915346103
+5 Diskin CJ. Towards an understanding of oedema. BMJ 1999; 318:1610. http://bmj.com/cgi/content/
+full/318/7198/1610
+6 Cheung W, Yu PX, Little BM, et al. Anorexia and cachexia in renal failure—is leptin the culprit? Role of
+leptin and melanocortin signaling in uremia-associated cachexia. J Am Soc Nephrol 2005; 16:2245–50. http://
+www.jci.org/articles/view/22521
+7 Rastogi V, Purohit P, Peters BP, et al. Pulmonary infection with Serratia marcescens. Indian J Med
+Microbiol 2002; 20:167–8. http://www.ijmm.org/text.asp?2002/20/3/167/6946
+8 Koumbourlis AC. Pectus excavatum: pathophysiology and clinical characteristics. Paediatr Respir Rev
+2009; 10(1):3–6. http://www.prrjournal.com/article/S1526-0542(08)00083-3/abstract
+9 Anglin R, Yuan Y, Moayyedi P, et al. Risk of upper gastrointestinal bleeding with selective serotonin
+reuptake inhibitors with or without concurrent nonsteroidal anti-inflammatory use: a systematic review
+and meta-analysis. Am J Gastroenterol 2014; 109:811–19. http://www.nature.com/ajg/journal/v109/n6/full/
+ajg201482a.html
+10 NICE. Depression: The treatment and management of depression in adults [CG90]. 2009, updated
+2016. http://www.nice.org.uk/CG90
+11 Ford AC, Marwaha A, Lim A, et al. What is the prevalence of clinically significant endoscopic find-
+ings in subjects with dyspepsia? Systematic review and meta-analysis. Clin Gastroenterol Hepatol 2010;
+8(10):830–7. http://www.ncbi.nlm.nih.gov/pubmed?term=20541625
+12 Hodkinson HM. Evaluation of a mental test score for assessment of mental impairment in the elderly.
+1972. Age and Ageing 2012; 41 Suppl 3:iii35–40. http://ageing.oxfordjournals.org/content/41/suppl_3/iii35.long
+13 NICE guidelines: Chest pain of recent onset: assessment and diagnosis. Updated Nov 2016. https://www.
+nice.org.uk/guidance/cg95/chapter/Recommendations#people-presenting-with-stable-chest-pain
+14 Moore C. A functional neuroimaging study of the variables that generate category-specific object pro-
+cessing differences. Brain 1999; 122 (Pt 5):943–62. http://brain.oxfordjournals.org/content/122/5/943.long
+15 Assié G, Bahurel H, Bertherat J, et al. The Nelson's syndrome... revisited. Pituitary 2004; 7:209–15. http://
+link.springer.com/article/10.1007/s11102-005-1403-y
+16 Dickinson CJ, Martin JF. Megakaryocytes and platelet clumps as the cause of finger clubbing. Lancet
+1987; 2(8573):1434–5. http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(87)91132-9/abstract
+
+## Chapter 3: Cardiovascular medicine
+
+1 Britton J. Bupropion: a new treatment for smokers. BMJ 2000; 321:65. http://www.bmj.com/cgi/content/
+full/321/7253/65
+2 Hippisley-Cox J. Predicting cardiovascular risk in England and Wales. BMJ 2008; 336:1475. http://www.
+bmj.com/content/336/7659/1475
+3 Josan K, Majumdar SR, McAlister FA. The efficacy and safety of intensive statin therapy: a meta-analysis
+of randomized trials. CMAJ 2008; 178(5):576–84. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2244680/
+4 Capewell S. "Chest pain—please admit": is there an alternative? BMJ 2000; 320:951. http://www.bmj.com/
+cgi/content/full/320/7240/951
+5 Berk W. Clinical implications of low QRS complex voltage. J Emerg Med 1987; 5:305–10
+6 Herzog C, Zwerner PL, Doll JR, et al. Significant coronary artery stenosis: comparison on per-patient
+and per-vessel or per-segment basis at 64-section CT angiography. Radiology 2007; 244(1):112–20. http://
+radiology.rsna.org/con-tent/244/1/112.short
+7 Aspirin for primary prevention of disease. http://www.nyrdtc.nhs.uk/docs/dud/DU_65_Aspirin.pdf
+8 NICE. Unstable angina and NSTEMI: Early management [CG94]. 2010, updated 2013. https://www.
+nice.org.uk/guidance/cg94

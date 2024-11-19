@@ -1,0 +1,40 @@
+# Haemorrhoids (piles)
+
+## Definition
+Haemorrhoids (≈running blood in Greek) are disrupted and dilated anal cushions. The anus is lined mainly by discontinuous masses of spongy vascular tissue—the anal cushions, which contribute to anal closure. Viewed from the lithotomy position, the three anal cushions are at 3, 7, and 11 o'clock (where the three major arteries that feed the vascular plexuses enter the anal canal). They are attached by smooth muscle and elastic tissue, but are prone to displacement and disruption, either singly or together. The effects of gravity (standing), increased anal tone (?stress), and the effects of straining at stool may make them become both bulky and loose, and so to protrude to form piles (Latin pila, meaning a ball). They are vulnerable to trauma (eg from hard stools) and bleed readily from the capillaries (bright red blood) of the underlying lamina propria. NB: piles are not varicose veins.
+
+As there are no sensory fibres above the dentate line (squamomucosal junction), piles are not painful unless they thrombose when they protrude and are gripped by the anal sphincter, blocking venous return. See fig 13.44.
+
+## Differential diagnosis
+Perianal haematoma; anal fissure; abscess; tumour; proctalgia fugax. ▶Never ascribe rectal bleeding to piles without examination or investigation.
+
+## Causes
+Constipation with prolonged straining is a key factor. In many the bowel habit may be normal. Congestion from a pelvic tumour, pregnancy, CCF, or portal hypertension are important in only a minority of cases. ▶Elicit red flags in history.
+
+## Pathogenesis
+There is a vicious circle: vascular cushions protrude through a tight anus, become more congested, and hypertrophy to protrude again more readily. These protrusions may then strangulate. See table 13.15 for classification.
+
+## Symptoms
+Bright red rectal bleeding, often coating stools, on the tissue, or dripping into the pan after defecation. There may be mucous discharge and pruritus ani. Severe anaemia may occur. Symptoms such as weight loss, tenesmus, and change in bowel habit should prompt thoughts of other pathology. ▶In all rectal bleeding do:
+- An abdominal examination to rule out other diseases.
+- PR exam: prolapsing piles are obvious. Internal haemorrhoids are not palpable.
+- Colonoscopy/flexible sigmoidoscopy to exclude proximal pathology if ≥50 years old.
+
+## Treatment
+### 1 Medical: (1st-degree.) 
+Fluid and fibre is key ± topical analgesics & stool softener (bulk forming). Topical steroids for short periods only.
+
+### 2 Non-operative: (2nd & 3rd degree, or 1st degree if medical therapy failed.) 
+- **Rubber band ligation.** Cheap, but needs skill. Banding produces an ulcer to anchor the mucosa (SE: bleeding, infection; pain). It has the lowest recurrence rate. 
+- **Sclerosants.** (1st- or 2nd-degree.) 2mL of 5% phenol in oil is injected into the pile above the dentate line, inducing fibrotic reaction. Recurrence higher (SE: impotence; prostatitis).
+- **Infra-red coagulation.** Applied to localized areas of piles, it works by coagulating vessels and tethering mucosa to subcutaneous tissue. It is as successful as banding and may be less painful. 
+- **Bipolar diathermy and direct current electrotherapy.** Causes coagulation and fibrosis after local application of heat. Success rates are similar to those of infrared coagulation, and complication rates are low.
+
+### 3 Surgery: 
+- **Excisional haemorrhoidectomy** is the most effective treatment (excision of piles ± ligation of vascular pedicles, as day-case surgery, needing ~2wks off work). Scalpel, electrocautery, or laser may be used. 
+- **Stapled haemorrhoidopexy** (procedure for prolapsing haemorrhoids) may result in less pain, a shorter hospital stay, and quicker return to normal activity than conventional surgery. It is used when there is a large internal component, but has a higher recurrence and prolapse rate than excisional.
+
+**Surgical complications** include constipation; infection; stricture; bleeding.
+
+## Prolapsed, thrombosed piles
+Analgesia, ice packs, and stool softeners. Pain usually resolves in 2-3wks. Some advocate early surgery.

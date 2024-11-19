@@ -1,0 +1,29 @@
+## Cardiac murmurs
+
+- Always consider other symptoms and signs before auscultation and think: 'What do I expect to hear?' But don't let your expectations determine what you hear.
+- Use the stethoscope correctly: remember that the bell is good for low-pitched sounds (eg mitral stenosis) and should be applied gently. The diaphragm filters out low pitches, making higher-pitched murmurs easier to detect (eg aortic regurgitation). NB: a bell applied tightly to the skin becomes a diaphragm.
+- Consider any murmur in terms of character, timing, loudness, area where loudest, radiation, and accentuating manoeuvres.
+- When in doubt, rely on echocardiography rather than disputed sounds. (But still enjoy trying to figure out the clinical conundrum!)
+
+### Character and timing (See fig 2.14.)
+- An ejection-systolic murmur (ESM, crescendo-decrescendo) usually originates from the outflow tract and waxes and wanes with the intraventricular pressures. ESMs may be innocent and are common in children and high-output states (eg tachycardia, pregnancy). Organic causes include aortic stenosis and sclerosis, pulmonary stenosis, and H(O)CM.
+- A pansystolic murmur (PSM) is of uniform intensity and merges with S2. It is usually organic and occurs in mitral or tricuspid regurgitation (S1 may also be soft in these), or a ventricular septal defect (p156). Mitral valve prolapse may produce a late systolic murmur ± midsystolic click.
+- Early diastolic murmurs (EDMs) are high pitched and easily missed: listen for the 'absence of silence' in early diastole. An EDM occurs in aortic and, though rare, pulmonary regurgitation. If the pulmonary regurgitation is secondary to pulmonary hypertension resulting from mitral stenosis, then the EDM is called a Graham Steell murmur.
+- Mid-diastolic murmurs (MDMs) are low pitched and rumbling. They occur in mitral stenosis (accentuated presystolically if heart still in sinus rhythm), rheumatic fever (Carey Coombs' murmur: due to thickening of the mitral valve leaflets), and aortic regurgitation (Austin Flint murmur: due to the fluttering of the anterior mitral valve cusp caused by the regurgitant stream).
+
+### Intensity
+All murmurs are graded on a scale of 1-6 (see table 2.4); though in practice diastolic murmurs, being less loud, are only graded 1-4. Intensity is a poor guide to the severity of a lesion—an ESM may be inaudible in severe aortic stenosis.
+
+### Area where loudest
+Though an unreliable sign, mitral murmurs tend to be loudest over the apex, in contrast to the area of greatest intensity from lesions of the aortic (right 2nd intercostal space), pulmonary (left 2nd intercostal space), and tricuspid (lower left sternal edge) valves.
+
+### Radiation
+The ESM of aortic stenosis classically radiates to the carotids, in contrast to the PSM of mitral regurgitation, which radiates to the axilla.
+
+### Accentuating manoeuvres
+- Movements that bring the relevant part of the heart closer to the stethoscope accentuate murmurs (eg leaning forward for aortic regurgitation, left lateral position for mitral stenosis).
+- Expiration increases blood flow to the left side of the heart and therefore accentuates left-sided murmurs. Inspiration has the opposite effect.
+- Valsalva manoeuvre (forced expiration against a closed glottis) decreases systemic venous return, accentuating mitral valve prolapse and H(O)CM, but softening mitral regurgitation and aortic stenosis. Squatting has exactly the opposite effect. Exercise accentuates the murmur of mitral stenosis.
+
+### Non-valvular murmurs
+A pericardial friction rub may be heard in pericarditis. It is a superficial scratching sound, not confined to systole or diastole. Continuous murmurs are present throughout the cardiac cycle and may occur with a patent ductus arteriosus, arteriovenous fistula, or ruptured sinus of Valsalva.

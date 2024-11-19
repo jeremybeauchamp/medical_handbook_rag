@@ -1,0 +1,29 @@
+## Self-catheterization
+
+This is a good, safe way of managing chronic retention from a neuropathic bladder (eg in multiple sclerosis, diabetic neuropathy, spinal tumour, or trauma). Never consider a patient in difficulties from a big residual volume to be too old, young, or disabled to learn. 5-yr-old children can learn the technique, and can have their lives transformed—so motivation may be excellent. There may be fewer UTIs as there is no residual urine—and less reflux obstructive uropathy. Assessing suitability entails testing sacral dermatomes: a 'numb bum' implies sensation of a full bladder; higher sensory loss may mean catheterization will be painless. Get help from your continence adviser who will be in a position to teach the patient or carer that catheterizations must be gentle (the catheter is of a much smaller calibre), particularly if sensation is lacking, and must number >4/d ('always keep your catheter with you; don't wait for an urge before catheterizing'). See fig 18.4.
+
+| Fig 18.2 A size 14F latex Foley catheter with the balloon inflated via the topmost port of the outer end (green). | Fig 18.3 The external end of a size 20F 3-way catheter. The lowest port is for the bladder irrigation fluid and the uppermost port (yellow) is for balloon inflation. | Fig 18.4 A size 10F catheter for self-catheterization. They are usually smaller than indwelling catheters, eg 10F compared to 14F. Note that this catheter also has no balloon. |
+|---|---|---|
+| © Dr Tom Turmezei (not to scale). | © Dr Tom Turmezei (not to scale). | © Dr Tom Turmezei (not to scale). |
+
+## 'The catheter is not draining...'
+
+You will be asked to check catheters that are not draining. Check the fluid chart and the patient:
+
+- Previously good output, now anuric: Blocked catheter until proven otherwise. Was the urine clear previously or bloodstained? Consider flushing the catheter: with aseptic technique flush and withdraw 20mL of sterile 0.9% saline with a bladder syringe. This may get the flow going again. A 3-way catheter may be needed if there is clot or debris retention. If it blocks again, replace it. Repeated flushes lead to infection.
+
+- Slow decline in urine output over several hours: In a dehydrated/post-op patient a fluid challenge of 500mL STAT (250mL if cardiac comorbidity) may help, come back and check the response in 30min. Check all other parameters (eg pulse, BP, CVP) and increase rate of background IV fluids if appropriate.
+
+- Acute kidney injury (p298): if urine output has tailed off and now stopped, the cause is often renal hypoperfusion (ie pre-renal failure), but consider other factors, eg nephrotoxic drugs.
+
+- Catheter is bypassing: A condom catheter may be more appropriate.
+
+- Catheter has dislodged into the proximal (prostatic) urethra: Possible even if the balloon is fully inflated. Consider this if a flush enters but cannot be withdrawn. If the patient still needs a catheter then replace it, consider a larger size.
+
+- The catheter has perforated the lower urinary tract on insertion and is not lying in the bladder or urethra: If suspected, call the urologists immediately.
+
+Remember: urine output should be >400mL in 24h or >0.5mL/kg/h (see p576).
+
+## Trial without catheter (TWOC)
+
+When it is time to remove a catheter, the possibility of urinary retention must be considered. Remove the catheter first thing one morning. If retention does occur, insert a long-term catheter (eg silicone), consider an α-blocker (p642), and arrange urology TWOC clinic follow-up.

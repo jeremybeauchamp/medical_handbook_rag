@@ -1,0 +1,47 @@
+# Obstructive sleep apnoea syndrome
+
+This disorder is characterized by intermittent closure/collapse of the pharyngeal airway causing apnoeic episodes during sleep. These are terminated by partial arousal.
+
+## Clinical features
+The typical patient is an obese, middle-aged man who presents because of snoring or daytime somnolence. His partner often describes apnoeic episodes during sleep.
+
+- Loud snoring.
+- Daytime somnolence.
+- Poor sleep quality.
+- Morning headache.
+- Decreased libido.
+- Nocturia.
+- ↓Cognitive performance.
+
+## Complications
+Pulmonary hypertension; type II respiratory failure (p188). Sleep apnoea is also reported as an independent risk factor for hypertension.51
+
+## Investigations
+Simple studies (eg pulse oximetry, video recordings) may be all that are required for diagnosis. Polysomnography (which monitors oxygen saturation, airflow at the nose and mouth, ECG, EMG chest, and abdominal wall movement during sleep) is diagnostic. The occurrence of 15 or more episodes of apnoea or hypopnoea during 1h of sleep, on average, indicates significant sleep apnoea.
+
+## Management
+- Weight reduction.
+- Avoidance of tobacco and alcohol.
+- Mandibular advancement device.
+- CPAP via a nasal mask during sleep is effective and recommended by NICE for those with moderate to severe disease.52
+- Surgery to relieve pharyngeal or nasal obstruction, eg tonsillectomy or polypectomy, is occasionally needed.
+
+# Cor pulmonale
+
+Cor pulmonale is right heart failure caused by chronic pulmonary arterial hypertension. Causes include chronic lung disease, pulmonary vascular disorders, and neuromuscular and skeletal diseases (see BOX).
+
+## Clinical features
+Symptoms include dyspnoea, fatigue, and syncope. Signs: cyanosis; tachycardia; raised JVP with prominent a and v waves; RV heave; loud P2, pansystolic murmur (tricuspid regurgitation); early diastolic Graham Steell murmur; hepatomegaly and oedema.
+
+## Investigations
+FBC: Hb and haematocrit ↑ (secondary polycythaemia). ABG: hypoxia, with or without hypercapnia. CXR: enlarged right atrium and ventricle, prominent pulmonary arteries (see fig 4.17). ECG: P pulmonale; right axis deviation; right ventricular hypertrophy/strain.
+
+## Management
+- Treat underlying cause—eg COPD and pulmonary infections.
+- Treat respiratory failure—in the acute situation give 24% oxygen if PaO2 <8kPa. Monitor ABG and gradually increase oxygen concentration if PCO2 is stable (p188). In COPD patients, long-term oxygen therapy (LTOT) for 16h/d increases survival (p184). Patients with chronic hypoxia when clinically stable should be assessed for LTOT.
+- Treat cardiac failure with diuretics such as furosemide, eg 40–160mg/24h PO. Monitor U&E and give amiloride or potassium supplements if necessary. Alternative: spironolactone.
+- Consider venesection if haematocrit >55%.
+- Consider heart–lung transplantation in young patients.
+
+## Prognosis
+Poor. 50% die within 5yrs.

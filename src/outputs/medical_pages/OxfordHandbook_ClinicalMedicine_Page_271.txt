@@ -1,0 +1,41 @@
+# Rockall risk-scoring for upper GI bleeds
+
+## Table 6.6 Rockall score calculation
+
+| Pre-endoscopy | 0 pts | 1 pt | 2 pts | 3 pts |
+|---------------|-------|------|-------|-------|
+| Age | <60yrs | 60-79yrs | ≥80yrs | |
+| Shock: systolic BP & pulse rate | BP >100mmHg Pulse <100/min | BP >100mmHg Pulse >100/min | BP <100mmHg | |
+| Comorbidity | Nil major | Heart failure; ischaemic heart disease | Renal failure Liver failure | Metastases |
+| Post-endoscopy Diagnosis | Mallory-Weiss tear; no lesion; no sign of recent bleeding | All other diagnoses | Upper GI malignancy | |
+| Signs of recent haemorrhage on endoscopy | None, or dark red spot | | Blood in upper GI tract; adherent clot; visible vessel | |
+
+Initial Rockall score is based on pre-endoscopy criteria; these are added to post-endoscopy criteria for final score which predicts risk of rebleeding and death (table 6.7). The Glasgow Blatchford score (GBS) is used pre-endoscopy to identify patients at low risk of requiring intervention. If GBS=0, admission can be avoided—ie Hb ≥130g/L (or ≥120g/L if ♀); systolic BP ≥110mmHg; pulse <100/min; urea <6.5mmol/L; no melaena or syncope + no past/present liver disease or heart failure.
+
+## Table 6.7 GI bleed mortality by Rockall score
+
+| Score | Mortality with initial scoring | Mortality after endoscopy |
+|-------|--------------------------------|---------------------------|
+| 0 | 0.2% | 0% |
+| 1 | 2.4% | 0% |
+| 2 | 5.6% | 0.2% |
+| 3 | 11.0% | 2.9% |
+| 4 | 24.6% | 5.3% |
+| 5 | 39.6% | 10.8% |
+| 6 | 48.9% | 17.3% |
+| 7 | 50.0% | 27.0% |
+| 8+ | - | 41.1% |
+
+## Management of peptic ulcer bleeds based on endoscopic findings
+
+**High-risk** Active bleeding, adherent clot, or non-bleeding visible vessel. Achieve endoscopic haemostasis (2 of: clips, cautery, adrenaline). Admit to monitored bed; start PPI (eg omeprazole 40mg/12h IV/PO; meta-analyses show 72h IVI eg omeprazole 80mg bolus then 8mg/h not superior). If haemodynamically stable start oral intake of clear liquids 6h after endoscopy. Treat if positive for H.pylori (p253).
+
+**Low-risk** Flat, pigmented spot or clean base. No need for endoscopic haemostasis. Consider early discharge if patient otherwise low risk. Give oral PPI (p252). Regular diet 6h after endoscopy if stable. Treat if positive for H.pylori (p253).
+
+## Gastro-oesophageal varices
+
+Submucosal venous dilatation 2° to ↑portal pressures (▸may not have documented liver disease—suspect varices if alcohol history); bleeding can be brisk, particularly if underlying coagulopathy 2° to loss of hepatic synthesis of clotting factors.
+
+**Causes of portal hypertension** Pre-hepatic: Thrombosis (portal or splenic vein). Intra-hepatic: Cirrhosis (80% in UK); schistosomiasis (commonest worldwide); sarcoid; myeloproliferative diseases; congenital hepatic fibrosis. Post-hepatic: Budd-Chiari syndrome (p696); right heart failure; constrictive pericarditis; veno-occlusive disease. Risk factors for variceal bleeds: ↑Portal pressure, variceal size, endoscopic features of the variceal wall and advanced liver disease.
+
+**Management** Endoscopic banding (oesophageal) or sclerotherapy (gastric). Prophylaxis: 1°: ~30% of cirrhotics with varices bleed vs ~15% with non-selective β-blockade (propranolol 20-40mg/12h PO) or repeat endoscopic banding. 2°: after a 1st variceal bleed, 60% rebleed within 1yr. Use banding and non-selective β-blockade; transjugular intrahepatic porto-systemic shunt (TIPS) for resistant varices.

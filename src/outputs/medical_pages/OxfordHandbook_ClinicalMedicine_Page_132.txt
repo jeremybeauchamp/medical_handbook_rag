@@ -1,0 +1,31 @@
+## Acute coronary syndromes (ACS)
+
+### Definitions
+ACS includes unstable angina and myocardial infarctions (MIs). These share a common underlying pathology—plaque rupture, thrombosis, and inflammation. However, ACS may rarely be due to emboli, coronary spasm, or vasculitis (p556) in normal coronary arteries. Myocardial infarction means there is myocardial cell death, releasing troponin. Ischaemia means a lack of blood supply, ±cell death. MIs have troponin rises, unstable angina does not. An MI may be a STEMI—ACS with ST-segment elevation (may only be present in V7–V9 if posterior STEMI) or new-onset LBBB; or an NSTEMI—trop-positive ACS without ST-segment elevation—the ECG may show ST depression, T-wave inversion, non-specific changes, or be normal. The degree of irreversible myocyte death varies, and significant necrosis can occur without ST elevation.
+
+### Risk factors
+Non-modifiable: age, ♂ gender, family history of IHD (MI in 1st-degree relative <55yrs). Modifiable: smoking, hypertension, DM, hyperlipidaemia, obesity, sedentary lifestyle, cocaine use. Controversial risk factors include: stress, type A personality, LVH, fibrinogen, hyperinsulinaemia, homocysteine levels, ACE genotype.
+
+### Incidence
+5/1000 per annum (UK) for ST-segment elevation (declining in UK & USA).
+
+### Diagnosis
+An increase in cardiac biomarkers (eg troponin) and either: symptoms of ischaemia, ECG changes of new ischaemia, development of pathological Q waves, new loss of myocardium, or regional wall motion abnormalities on imaging.
+
+### Symptoms
+Acute central chest pain, lasting >20min, often associated with nausea, sweatiness, dyspnoea, palpitations. ACS without chest pain is called 'silent'; mostly seen in elderly and diabetic patients. Silent MIs may present with: syncope, pulmonary oedema, epigastric pain and vomiting, post-operative hypotension or oliguria, acute confusional state, stroke, and diabetic hyperglycaemic states.
+
+### Signs
+Distress, anxiety, pallor, sweatiness, pulse ↑ or ↓, BP ↑ or ↓, 4th heart sound. There may be signs of heart failure (↑JVP, 3rd heart sound, basal crepitations) or a pansystolic murmur (papillary muscle dysfunction/rupture, VSD). Low-grade fever may be present. Later, a pericardial friction rub or peripheral oedema may develop.
+
+### Tests
+ECG: (See fig 3.21.) STEMI: classically, hyperacute (tall) T waves, ST elevation, or new LBBB occur within hours. T-wave inversion and pathological Q waves follow over hours to days (p98). NSTEMI/unstable angina: ST depression, T wave inversion, non-specific changes, or normal. In 20% of MI, the ECG may be normal initially. Paced ECGs and ECGs with chronic bundle branch block are unhelpful for diagnosing NSTEMIs and may hinder STEMI diagnosis; in these cases, clinical assessment and troponin levels are especially important. CXR: Look for cardiomegaly, pulmonary oedema, or a widened mediastinum. Don't routinely delay treatment whilst waiting for a CXR. Blood: FBC, U&E, glucose, lipids, cardiac enzymes. Cardiac enzymes: (See BOX 'Troponin'.) Cardiac troponin levels (T and I) are the most sensitive and specific markers of myocardial necrosis. Different hospitals use different assays: check the required timing of troponin blood samples where you work (eg two samples 3h apart). Other cardiac enzymes (see fig 3.22) are sensitive but less specific; their role in ACS diagnosis is decreasing as troponin testing improves. Echo: Regional wall abnormalities.
+
+### Differential diagnosis
+(p94.) Stable angina, pericarditis, myocarditis, Takotsubo cardiomyopathy (p145), aortic dissection (p655), PE, oesophageal reflux/spasm, pneumothorax, musculoskeletal pain, pancreatitis.
+
+### Management
+See p120, pp798-801.
+
+### Mortality
+50% of deaths occur within 2h of onset of symptoms. Up to 7% die before discharge. Worse prognosis if: elderly, LV failure, and ST changes.

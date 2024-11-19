@@ -1,0 +1,41 @@
+# 268 Nutritional disorders
+
+> Always consider that more than one nutritional disorder is likely to be present (table 6.9).
+
+**Scurvy** is due to lack of vitamin C.² Is the patient poor, pregnant, or on an odd diet? Signs: 1 Listlessness, anorexia, cachexia (p35). 2 Gingivitis, loose teeth, and foul breath (halitosis). 3 Bleeding from gums, nose, hair follicles, or into joints, bladder, gut. 4 Muscle pain/weakness. 5 Oedema. Diagnosis: No test is completely satisfactory. WBC ascorbic acid. ℞: Dietary education; ascorbic acid ≥250mg/24h PO.
+
+**Beriberi** There is heart failure with general oedema (wet beriberi) or neuropathy (dry beriberi) due to lack of vitamin B₁ (thiamine). For treatment and diagnostic tests, see Wernicke's encephalopathy (p714).
+
+**Pellagra** = lack of nicotinic acid. Classical triad: diarrhoea, dementia, dermatitis (Casal's necklace) ± neuropathy, depression, insomnia, tremor, rigidity, ataxia, fits. It may occur in carcinoid syndrome and anti-TB drugs (isoniazid). It is endemic in China and Africa. ℞: Education, electrolyte replacement, nicotinamide 100mg/4h.
+
+**Xerophthalmia** This vitamin A deficiency syndrome is a big cause of blindness in the Tropics. Conjunctivae become dry and develop oval/triangular spots (Bitôt's spots). Corneas become cloudy and soft. Give vitamin A (OHCS p460). > Get special help if pregnant: vitamin A embryopathy must be avoided. Re-educate and monitor diet.
+
+## Table 6.9 Deficiency syndromes and the sites of nutrient absorption
+
+| Vitamin/nutrient | Site of absorption | Deficiency syndrome |
+|------------------|---------------------|---------------------|
+| A^F | Small intestine | Xerophthalmia |
+| B₁ (thiamine) | Small intestine | Beriberi; Wernicke's encephalopathy (p714) |
+| B₂ (riboflavin) | Proximal small intestine | Angular stomatis; cheilitis (p246) |
+| B₆ (pyridoxine) | Small intestine | Polyneuropathy |
+| B₁₂ | Terminal ileum | Macrocytic anaemia (p332); neuropathy; glossitis |
+| C | Proximal ileum | Scurvy |
+| D^F | Jejunum as free vitamin | Rickets (p684); osteomalacia (p684) |
+| E^F | Small intestine | Haemolysis; neurological deficit |
+| K^F | Small intestine | Bleeding disorders (p344) |
+| Folic acid | Jejunum | Macrocytic anaemia (p332) |
+| Nicotinamide | Jejunum | Pellagra |
+| **Mineral** |  |  |
+| Calcium | Duodenum + jejunum | p676 |
+| Copper | Stomach + jejunum | Menkes' kinky hair syndrome |
+| Fluoride | Stomach | Dental caries |
+| Iodide | Small intestine | Goitre; cretinism |
+| Iron | Duodenum + jejunum | Microcytic anaemia (p326) |
+| Magnesium | Small intestine | p679 |
+| Phosphate | Small intestine | Osteoporosis; anorexia; weakness |
+| Selenium | Small intestine | Cardiomyopathy (p679) |
+| Zinc | Jejunum | Acrodermatitis enteropathica; poor wound healing (p679) |
+
+^F = fat-soluble vitamin, thus deficiency is likely if there is fat malabsorption
+
+21 That oranges and lemons prevent 'the scurvy' was noted by the naval surgeon James Lind in 1753. In what may rank as the first ever clinical trial, he randomly divided 12 sailors with scurvy into 6 groups, given the same basic diet but each group received a unique dietary intervention. The 2 sailors receiving oranges and lemons both made a good recovery, unlike the other 10.

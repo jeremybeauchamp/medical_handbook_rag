@@ -1,0 +1,19 @@
+627
+
+| Fig 13.40 Adjustable gastric band | Fig 13.41 Vertical sleeve gastrectomy | Fig 13.42 Gastric bypass |
+|-----------------------------------|--------------------------------------|--------------------------|
+| Oesophagus                        | Gastric "sleeve"                     | Oesophagus               |
+| Pouch                             | Pylorus                              | Proximal pouch of stomach|
+| Adjustable band                   | Excised stomach                      | Distal stomach (bypassed)|
+| Duodenum                          |                                      | Roux limb (jejunum)      |
+| Subcutaneous access port          |                                      | Duodenum (transports bile and pancreatic fluids) |
+
+The image shows three diagrams illustrating different surgical procedures for the stomach:
+
+1. Adjustable gastric band: This procedure involves placing an adjustable band around the upper part of the stomach, creating a small pouch. The band is connected to a subcutaneous access port.
+
+2. Vertical sleeve gastrectomy: This procedure involves removing a large portion of the stomach, leaving a narrow "sleeve" or tube-shaped stomach.
+
+3. Gastric bypass: This more complex procedure creates a small proximal pouch of the stomach, bypasses the distal stomach, and connects the pouch directly to a part of the small intestine (Roux limb). The duodenum is preserved to transport bile and pancreatic fluids.
+
+These diagrams are labeled to show the relevant anatomical structures and surgical modifications for each procedure.

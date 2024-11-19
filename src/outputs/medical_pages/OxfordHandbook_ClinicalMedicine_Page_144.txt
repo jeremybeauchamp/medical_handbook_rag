@@ -1,0 +1,36 @@
+# Atrial fibrillation (AF) and flutter
+
+AF25 is a chaotic, irregular atrial rhythm at 300-600bpm (fig 3.35); the AV node responds intermittently, hence an irregular ventricular rhythm. Cardiac output drops by 10-20% as the ventricles aren't primed reliably by the atria. AF is common in the elderly (≤9%). The main risk is embolic stroke. Warfarin reduces this to 1%/yr from 4%. So, do an ECG on everyone with an irregular pulse (±24h ECG if dizzy, faints, palpitations, etc.). If AF started more than 48h ago, intracardiac clots may have formed, necessitating anticoagulation prior to cardioversion. see BOX 'Anticoagulation and AF'.
+
+## Causes
+Heart failure; hypertension; IHD (seen in 22% MI patients);26 PE; mitral valve disease; pneumonia; hyperthyroidism; caffeine; alcohol; post-op; ↓K+; ↓Mg2+. Rare causes: Cardiomyopathy; constrictive pericarditis; sick sinus syndrome; lung cancer; endocarditis; haemochromatosis; sarcoid. 'Lone' AF means no cause found.
+
+## Symptoms
+May be asymptomatic or cause chest pain, palpitations, dyspnoea, or faintness. 
+
+## Signs
+Irregularly irregular pulse, the apical pulse rate is greater than the radial rate, and the 1st heart sound is of variable intensity; signs of LVF (p800). Examine the whole patient: AF is often associated with non-cardiac disease.
+
+## Tests
+ECG shows absent P waves, irregular QRS complexes, fig 3.35. Blood tests: U&E, cardiac enzymes, thyroid function tests. Echo to look for left atrial enlargement, mitral valve disease, poor LV function, and other structural abnormalities.
+
+## Managing acute AF
+- If the patient has adverse signs (shock, myocardial ischaemia (chest pain or ECG changes), syncope, heart failure): ABCDE, get senior input DC cardioversion (synchronized shock, start at 120-150J) ± amiodarone if unsuccessful (p807); do not delay treatment in order to start anticoagulation.
+- If the patient is stable & AF started <48h ago: rate or rhythm control may be tried. For rhythm control, DC cardiovert or give flecainide (CI: structural heart disease, IHD) or amiodarone. Start heparin in case cardioversion is delayed (see BOX 'Anticoagulation and AF').
+- If the patient is stable & AF started >48h ago or unclear time of onset: rate control (eg with bisoprolol or diltiazem). If rhythm control is chosen, the patient must be anticoagulated for >3wks first.
+- Correct electrolyte imbalances (K+, Mg2+, Ca2+); ℞ associated illnesses (eg MI, pneumonia); and consider anticoagulation (see BOX 'Anticoagulation and AF').
+
+## Managing chronic AF
+The main goals are rate control and anticoagulation. Rate control is at least as good as rhythm control,27 but rhythm control may be appropriate if • symptomatic or CCF • younger • presenting for 1st time with lone AF • AF from a corrected precipitant (eg ↓U&E). Anticoagulation: See BOX 'Anticoagulation and AF'.
+
+### Rate control
+β-blocker or rate-limiting Ca2+ blocker are 1st choice. If this fails, add digoxin (p115), then consider amiodarone. Digoxin as monotherapy in chronic AF is only acceptable in sedentary patients. Do not give β-blockers with verapamil. Aim for heart rate <90bpm at rest and 200 minus age (yrs) bpm on exertion. Avoid getting fixated on a target heart rate.
+
+### Rhythm control
+Elective DC cardioversion: do echo first to check for intracardiac thrombi. If there is risk of cardioversion failure (past failure, or past recurrence) give amiodarone for 4wks before the procedure and 12 months after. Elective pharmacological cardioversion: flecainide is 1st choice (CI if structural heart disease, eg scar tissue from MI: use IV amiodarone instead). In refractory cases, AVN ablation with pacing, pulmonary vein ablation, or the maze procedure may be considered.28
+
+### Paroxysmal AF
+'Pill in the pocket' (eg sotalol or flecainide PRN) may be tried if: infrequent AF, BP >100mmHg systolic, no past LV dysfunction. Anticoagulate (See BOX 'Anticoagulation and AF'). Consider ablation if symptomatic or frequent episodes.
+
+## Atrial flutter
+See pp130-1, fig 3.35. Treatment: Similar to AF regarding rate and rhythm control and the need for anticoagulation.29 DC cardioversion is preferred to pharmacological cardioversion; start with 70-120J. IV amiodarone may be needed if rate control is proving difficult. Recurrence rates are high so radiofrequency ablation is often recommended for long-term management.

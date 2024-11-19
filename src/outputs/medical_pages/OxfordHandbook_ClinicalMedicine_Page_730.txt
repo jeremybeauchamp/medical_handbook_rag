@@ -1,0 +1,33 @@
+## Whipple's disease
+A rare disease[^68] featuring GI malabsorption which usually occurs in middle-aged white males, most commonly in Europe. It is fatal if untreated and is caused by Tropheryma whippelii, which, combined with defective cell-mediated immunity, produces a systemic disease. 
+
+**Features:** Often starts insidiously with arthralgia (chronic, migratory, seronegative arthropathy affecting mainly peripheral joints). GI symptoms commonly include colicky abdominal pain, weight loss, steatorrhea/diarrhoea, which leads to malabsorption (p266). Systemic symptoms such as chronic cough, fever, sweats, lymphadenopathy, and skin hyperpigmentation also occur. Cardiac involvement may lead to endocarditis, which is typically blood culture negative. CNS features include a reversible dementia, ophthalmoplegia, and facial myoclonus (if all together, they are highly suggestive)—also hypothalamic syndrome (hyperphagia, polydipsia, insomnia). NB: CNS involvement may occur without GI involvement. 
+
+**Tests:** Diagnosis requires a high level of clinical suspicion. Jejunal biopsy shows stunted villi. There is deposition of macrophages in the lamina propria-containing granules which stain positive for periodic acid-Schiff (PAS). Similar cells may be found in affected samples, eg CSF, cardiac valve tissue, lymph nodes, synovial fluid. The bacteria may be seen within macrophages on electron microscopy. PCR of bacterial RNA can be performed on serum or tissue. MRI may demonstrate CNS involvement. 
+
+**Rx:** Should include antibiotics which cross the blood-brain barrier. Current recommendations: IV ceftriaxone (or penicillin+streptomycin) for 2wks then oral co-trimoxazole for 1 year. Shorter courses risk relapse. A rapid improvement in symptoms usually occurs.
+
+*George Hoyt Whipple, 1878-1976 (US pathologist)*
+
+## Zellweger syndrome 
+(Cerebrohepatorenal syndrome.) A rare recessive disorder characterized by absent peroxisomes (intracellular organelles required for many cellular activities including lipid metabolism). The syndrome has a similar molecular basis to infantile Refsum's syndrome, and although more severe, exhibits comparable biochemical abnormalities (p710). Clinical features include craniofacial abnormalities, severe hypotonia and mental retardation, glaucoma, cataracts, hepatomegaly, and renal cysts. A number of causative PEX gene mutations have been identified. Life expectancy is usually a few months only.
+
+*Hans Zellweger, 1909-1990 (US paediatrician)*
+
+## Zollinger-Ellison syndrome
+This is the association of peptic ulcers with a gastrin-secreting adenoma (gastrinoma). Gastrin excites excessive gastric acid production, which may produce multiple ulcers in the duodenum and stomach. The adenoma is usually found in the pancreas, although it may arise in the stomach or duodenum. Most cases are sporadic; 20% are associated with multiple endocrine neoplasia, type 1 (MEN1, p223). 60% are malignant; metastases are found in local lymph nodes and the liver. 
+
+**Symptoms:** Include abdominal pain and dyspepsia, from the ulcer(s), and chronic diarrhoea due to inactivation of pancreatic enzymes (also causes steatorrhoea) and damage to intestinal mucosa. 
+
+**Incidence:** ~0.1% of patients with peptic ulcer disease. Suspect in those with multiple peptic ulcers, ulcers distal to the duodenum, or a family history of peptic ulcers (or of islet cell, pituitary, or parathyroid adenomas). 
+
+**Tests:** (fig 15.23) Fasting serum gastrin level (>1000pg/mL). Measure three fasting levels on different days. Hypochlorhydria (reduced acid production, eg in chronic atrophic gastritis) should be excluded as this also causes a raised gastrin level: gastric pH should be <2. The secretin stimulation test is useful in suspected cases with only mildly raised gastrin levels (100-1000pg/mL). The adenoma is often small and difficult to image; a combination of somatostatin receptor scintigraphy, endoscopic ultrasound, and CT is used to localize and stage the adenoma. OGD evaluates gastric/duodenal ulceration. 
+
+**Rx:** High-dose proton pump inhibitors, eg omeprazole: start with 60mg/d and adjust according to response. Measuring intragastric pH helps determine the best dose (aim to keep pH at 2-7). All gastrinomas have malignant potential—and surgery is better sooner than later (with lymph node clearance generally recommended if >2cm in size). Surgery may be avoided in MEN1, as adenomas are often multiple, and metastatic disease is rare. If well-differentiated (G1 and G2) somatostatin analogues may be 1st-line and chemotherapy with streptozotocin (if available) + doxorubicin/5-FU is 2nd-line. In G3, etoposide + cisplatin is possible.[^69] Selective embolization may be done for hepatic metastases. 
+
+**Prognosis:** 5yr survival: 80% if single resectable lesion, ~20% with hepatic metastases. Screen all patients for MEN1.
+
+*Robert M Zollinger, 1903-1992; Edwin H Ellison, 1918-1970 (US surgeons)*
+
+[^68]: Footnote 68 content not provided in the image.
+[^69]: Footnote 69 content not provided in the image.

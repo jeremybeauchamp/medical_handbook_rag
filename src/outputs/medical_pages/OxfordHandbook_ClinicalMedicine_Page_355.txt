@@ -1,0 +1,29 @@
+# Managing sickle-cell crises
+
+- Give prompt, generous analgesia, eg IV opiates (see p574). Most sickle patients will have a personalized analgesia plan—ask them! Seek expert help early.
+- Crossmatch blood, check FBC and reticulocyte count.
+- Do a septic screen: blood cultures, MSU ± CXR if T° or chest signs.
+- Rehydrate with IVI and keep warm. Give O2 by mask if PO2 or O2 sats <95%.
+- Consider starting antibiotics empirically if T° >38°, unwell, or chest signs.
+- Measure PCV, reticulocytes, liver, and spleen size twice daily.
+- Give blood transfusion if Hb or reticulocytes fall sharply. This helps oxygenation, and is as good as exchange transfusion. Match blood for the blood group antigens Rh(C, D, E) and Kell, to prevent alloantibody formation.
+- Exchange transfusion is reserved for those who are rapidly worsening: it is a process where blood is removed and donor blood is given in stages. Indications: severe chest crisis, suspected CNS event, or multiorgan failure—when the proportion of HbS should be reduced to <30%.
+- Inform their haematologist of admission early.
+
+## The acute chest syndrome
+Entails pulmonary infiltrates involving complete lung segments, causing pain, fever, tachypnoea, wheeze, and cough. It is serious. Incidence: ~0.1 episodes/patient/yr. 13% in the landmark Vichinsky study needed ventilation, 11% had CNS symptoms, and 9% of those over 20 years old died. Prodromal painful crisis occur ~2.5 days before any abnormalities on CXR in 50% of patients. The chief causes of the infiltrates are fat embolism from bone marrow or infection with Chlamydia, Mycoplasma, or viruses. : O2, analgesia, empirical antibiotics (cephalosporin + macrolide) until culture results known. Bronchodilators (eg salbutamol, p182) have proved to be effective in those with wheezing or obstructive pulmonary function at presentation. Blood transfusion (exchange if severe). Take to ITU if PO2 cannot be kept above 9.2kPa (70mmHg) when breathing air.
+
+## Patient-controlled analgesia
+Is a good option if supportive measures and oral analgesia do not control pain. Start with morphine 1mg/kg in 50mL 5% glucose (paediatric dose) and try a rate of 1mL/h, allowing the patient to deliver extra boluses of 1mL when needed. Check respiratory rate and GCS every ¼h + O2 sats if chest/abdominal pain. Liaise with the local pain service.
+
+| Fig 8.37 Sickle-cell film: there are sickle cells, target cells, and a nucleated red cell. | Fig 8.38 Leg ulcers in sickle-cell disease. |
+|-------------------------------------------------------------------------------------------|---------------------------------------------|
+| ©Prof. C Lawrence.                                                                         | ©Prof. C Lawrence.                          |
+
+## A 7-year-old tells us what it's like to have sickle-cell disease
+
+'I have been hospitalized over 50 times for complications from this disease. To keep it controlled I started having monthly transfusions. After repeated transfusions my body began to get too much iron so I had to start getting infusions. I was taking the medication desferal⁵ which my mummy had to insert a needle in my belly hooked up to a pump which I had to carry on my back in my neat Spiderman backpack. I was hooked up to the machine for 10 hours a day 5 days a week but it was okay I still got to play!!! I suffered from pain crisis which makes my legs and back hurt like someone is hitting me with a hammer.
+
+You may notice that I may move slow or look tired when it is time for my blood transfusion. That is because the transfusions are like a heartbeat for my body, without it I can't survive. When I'm in pain the only thing that helps is morphine... I tell my mummy when she's crying I WILL BE OK!!'
+
+⁵ This was necessary until a once-daily oral iron chelator came along: deferasirox.

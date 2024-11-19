@@ -1,0 +1,34 @@
+# Pulmonary embolism (PE)
+
+**Causes** PEs usually arise from a venous thrombosis in the pelvis or legs. Clots break off and pass through the veins and the right side of the heart before lodging in the pulmonary circulation. Rare causes: RV thrombus (post-MI); septic emboli (right-sided endocarditis); fat, air, or amniotic fluid embolism; neoplastic cells; parasites.
+
+**Risk factors**
+- Recent surgery, especially abdominal/pelvic or hip/knee replacement.
+- Thrombophilia, eg antiphospholipid syndrome (p374).
+- Leg fracture.
+- Prolonged bed rest/reduced mobility.
+- Malignancy.
+- Pregnancy/postpartum; combined contraceptive pill; HRT (lower risk).
+- Previous PE.
+
+**Clinical features** Small emboli may be asymptomatic, whereas large emboli are often fatal. *Symptoms:* Acute breathlessness, pleuritic chest pain, haemoptysis; dizziness; syncope. Ask about risk factors, past history or family history of thromboembolism. *Signs:* Pyrexia; cyanosis; tachypnoea; tachycardia; hypotension; raised JVP; pleural rub; pleural effusion. Look for signs of a cause, eg deep vein thrombosis.
+
+**Tests**
+- FBC, U&E, baseline clotting, D-dimers (BOX).
+- ABG may show ↓PO₂ and ↓PCO₂.
+- Imaging: CXR may be normal, or show oligaemia of affected segment, dilated pulmonary artery, linear atelectasis, small pleural effusion, wedge-shaped opacities or cavitation (rare). CTPA—see fig 4.16.
+- ECG may be normal, or show tachycardia, right bundle branch block, right ventricular strain (inverted T in V₁ to V₄). The classical SI QIII TIII pattern (p98) is rare.
+
+▶Further investigations are shown on p818.
+
+**Treatment** ▶▶See p818. If haemodynamically unstable, thrombolyse for massive PE (alteplase 10mg IV over 1min, then 90mg IVI over 2h; max 1.5mg/kg if <65kg). Haemodynamically stable: start LMWH or unfractionated heparin if underlying renal impairment and treat for 5 days. Then, start DOAC (direct oral anticoagulant) or warfarin (p350). For warfarin, stop heparin when INR is 2-3, due to intial prothrombotic effect of warfarin (target INR of 2-3). Consider placement of a vena caval filter if contra-indication to anticoagulation.
+
+**Unprovoked PE** In patients with no known provoking risk factors, consider investigation for possible underlying malignany. Undertake full history, examination (including breast), CXR, FBC, calcium, LFTs, urinalysis. Patients >40yrs consider abdo-pelvic CT and mammography in women. Consider antiphospholipid and thrombophilia testing if family history positive (p374).
+
+**Prevention** Give heparin to all immobile patients. Stop HRT and the combined contraceptive pill pre-op (if reliable with another form of contraception).
+
+# Pneumothorax
+
+**Causes** Often spontaneous (especially in young, thin men) due to rupture of a subpleural bulla. Other causes: asthma; COPD; TB; pneumonia; lung abscess; carcinoma; cystic fibrosis; lung fibrosis; sarcoidosis; connective tissue disorders (Marfan's syn., Ehlers-Danlos syn.), trauma; iatrogenic (subclavian CVP line insertion, pleural aspiration/biopsy, transbronchial biopsy, liver biopsy, +ve pressure ventilation).
+
+**Clinical features** *Symptoms:* May be asymptomatic (fit, young, and small pneumothorax) or there may be sudden onset of dyspnoea and/or pleuritic chest pain. Patients with asthma or COPD may present with a sudden deterioration. Mechanically ventilated patients may present with hypoxia or an increase in ventilation pressures. *Signs:* Reduced expansion, hyper-resonance to percussion, and diminished breath sounds on the affected side. With a tension pneumothorax, the trachea will be deviated away from the affected side, p749, p815. *Management:* See p815.

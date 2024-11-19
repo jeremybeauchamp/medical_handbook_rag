@@ -1,0 +1,30 @@
+## Gastrointestinal malabsorption
+
+**Causes** See BOX 'Causes of gastrointestinal malabsorption'.
+
+**Symptoms** Diarrhoea; ↓weight; lethargy; steatorrhoea; bloating.
+
+**Deficiency signs** Anaemia (↓Fe, ↓B12, folate); bleeding disorders (↓vit K); oedema (↓protein); metabolic bone disease (↓vit D); neurological features, eg neuropathy.
+
+**Tests** FBC (↓ or ↑MCV); ↓Ca2+; ↓Fe; ↓B12 + folate; ↑INR; lipid profile; coeliac tests (see 'Coeliac disease'). Stool: Sudan stain for fat globules; stool microscopy (infestation); elastase. Breath hydrogen analysis: For bacterial overgrowth.20 Take samples of end-expired air; give glucose; take more samples at ½h intervals; early ↑exhaled hydrogen = overgrowth. Endoscopy + small bowel biopsy.
+
+**Infectious malabsorption** Giardia, Cryptosporidium, Isospora belli, Cyclospora cayetanensis, microsporidia. Tropical sprue: Villous atrophy + malabsorption occurring in the Far and Middle East and Caribbean—the cause is unknown. Tetracycline 250mg/6h PO + folic acid 5mg/d PO for 3–6mnths may help.
+
+## Coeliac disease
+
+▶Suspect this if diarrhoea + weight loss or anaemia (esp. if iron or B12 ↓). T-cell-responses to gluten (alcohol-soluble proteins in wheat, barley, rye ± oats) in the small bowel causes villous atrophy and malabsorption. **Associations** HLA DQ2 in 95%; the rest are DQ8; autoimmune disease; dermatitis herpetiformis. **Prevalence** 1 in 100–300 (commoner if Irish). Any age (peaks in childhood and 50–60yrs). ♀:♂ >1:1. Relative risk in 1st-degree relatives is 6×.
+
+**Presentation** Stinking stools/steatorrhoea; diarrhoea; abdominal pain; bloating; nausea + vomiting; aphthous ulcers; angular stomatitis (p327, fig 8.5); ↓weight; fatigue; weakness; osteomalacia; failure to thrive (children). ~30% less severe: may mimic IBS.
+
+**Diagnosis** ↓Hb; ↑RCDW (p325); ↓B12, ↓ferritin. Antibodies: anti-transglutaminase is single preferred test (but is an IgA antibody—check IgA levels to exclude subclass deficiency). Where serology positive or high index of suspicion proceed to duodenal biopsy while on a gluten-containing diet: expect subtotal villous atrophy, ↑intra-epithelial WBCs + crypt hyperplasia. Where doubt persists, HLA DQ2 and DQ8 genotyping may help.
+
+**Treatment** Lifelong gluten-free diet—patients become experts. Rice, maize, soya, potatoes, and sugar are OK. Limited consumption of oats (≤50g/d) may be tolerated in patients with mild disease. Gluten-free biscuits, flour, bread, and pasta are prescribable. Monitor response by symptoms and repeat serology.9
+
+**Complications** Anaemia; dermatitis herpetiformis (OHCS p588); osteopenia/osteoporosis; hyposplenism (offer 'flu and pneumococcal vaccinations); GI T-cell lymphoma (rare; suspect if refractory symptoms or ↓weight); ↑risk of malignancy (lymphoma, gastric, oesophageal, colorectal); neuropathies.
+
+## Irritable bowel syndrome (IBS)
+
+IBS denotes a mixed group of abdominal symptoms for which no organic cause can be found. Most are probably due to disorders of intestinal motility, enhanced visceral perception (the 'brain–gut' axis: see BOX 'Managing IBS'), or microbial dysbiosis. Several diagnostic criteria exist (see BOX 'Defining gastrointestinal dysfunction' p261).
+**Prevalence** 10–20%; age at onset: ≤40yrs; ♀:♂ ≥2:1.
+
+**Diagnosis** Only diagnose IBS if recurrent abdominal pain (or discomfort) associated with at least 2 of: • relief by defecation • altered stool form • altered bowel frequency (constipation and diarrhoea may alternate). Other features: urgency; incomplete evacuation; abdominal bloating/distension; mucus PR; worsening of symptoms after food. Symptoms are chronic (>6 months), and often exacerbated by stress, menstruation, or gastroenteritis (post-infectious IBS). Signs: Examination may be normal, but general abdominal tenderness is common. Insufflation of air during lower GI endoscopy (not usually needed) may reproduce the pain. Think of other diagnoses if: Age >60yrs; history <6 months; anorexia; ↓weight; waking at night with pain/diarrhoea; mouth ulcers; abnormal CRP, ESR.

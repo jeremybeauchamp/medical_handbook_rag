@@ -1,0 +1,31 @@
+## Cardiovascular symptoms
+
+### Chest pain
+Cardiac-sounding chest pain may have no serious cause, but always think 'Could this be a myocardial infarction (MI), dissecting aortic aneurysm, pericarditis, or pulmonary embolism?'.
+
+**Character:** Constricting suggests angina, oesophageal spasm, or anxiety; a sharp pain may be from the pleura, pericardium, or chest wall. A prolonged (>½h), dull, central crushing pain or pressure suggests MI.
+
+**Radiation:** To shoulder, either or both arms, or neck/jaw suggests cardiac ischaemia. The pain of aortic dissection (p654) is classically instantaneous, tearing, and interscapular, but may be retrosternal. Epigastric pain may be cardiac.
+
+**Precipitants:** Pain associated with cold, exercise, palpitations, or emotion suggests cardiac pain or anxiety; if brought on by food, lying flat, hot drinks, or alcohol, consider oesophageal spasm/disease (but meals can also cause angina).
+
+**Relieving factors:** If pain is relieved within minutes by rest or glyceryl trinitrate (GTN), suspect angina (GTN relieves oesophageal spasm more slowly). If antacids help, suspect GI causes. Pericarditic pain improves on leaning forward.
+
+**Associations:** Dyspnoea occurs with cardiac pain, pulmonary emboli, pleurisy, or anxiety. MI may cause nausea, vomiting, or sweating. Angina is caused by coronary artery disease—and also by aortic stenosis, hypertrophic cardiomyopathy (HCM), paroxysmal supraventricular tachycardia (SVT)—and can be exacerbated by anaemia. Chest pain with tenderness suggests self-limiting Tietze's syndrome.¹ Odd neurological symptoms and atypical chest pain—think aortic dissection.
+
+**Pleuritic pain:** Pain exacerbated by inspiration. Implies inflammation of the pleura from pulmonary infection, inflammation, or infarction. It causes us to 'catch our breath'. ∆∆ musculoskeletal pain;¹ fractured rib (pain on respiration, exacerbated by gentle pressure on the sternum); subdiaphragmatic pathology (eg gallstones).
+
+**Chest pain & acutely unwell** (see p784) • Admit • Check pulse, BP in both arms (unequal in aortic dissection p654), JVP, heart sounds; examine legs for DVT • Give O₂ • IV line • Relieve pain (eg 5-10mg IV morphine) • Cardiac monitor • 12-lead ECG • CXR • Arterial blood gas (ABG) Famous traps: Aortic dissection; zoster (p404); ruptured oesophagus; cardiac tamponade (p154); opiate addiction.
+
+### Dyspnoea
+May be from LVF, PE, any respiratory cause, anaemia, pain, or anxiety.
+
+**Severity:** Emergency presentations: p782. Ask about shortness of breath at rest, on exertion, and on lying flat; has their exercise tolerance changed? **Associations:** Specific symptoms associated with heart failure are orthopnoea (ask about number of pillows used at night), paroxysmal nocturnal dyspnoea (waking up at night gasping for breath, p49), and peripheral oedema. Pulmonary embolism is associated with acute onset of dyspnoea and pleuritic chest pain; ask about risk factors for DVT.
+
+### Palpitation(s)
+May be due to ectopics, sinus tachycardia, AF, SVT, VT, thyrotoxicosis, anxiety, and rarely phaeochromocytoma. See p36. **History:** Characterize: do they mean their heart was beating fast, hard, or irregularly? Ask about previous episodes, precipitating/relieving factors, duration of symptoms, associated chest pain, dyspnoea, dizziness, or collapse. Did the patient check their pulse?
+
+### Syncope
+May reflect cardiac or CNS events. Vasovagal 'faints' are common (pulse↓, pupils dilated). The history from an observer is invaluable in diagnosis. **Prodromal symptoms:** Chest pain, palpitations, or dyspnoea point to a cardiac cause, eg arrhythmia. Aura, headache, dysarthria, and limb weakness indicate CNS causes. **During the episode:** Was there a pulse? Limb jerking, tongue biting, or urinary incontinence? NB: hypoxia from lack of cerebral perfusion may cause seizures. **Recovery:** Was this rapid (arrhythmia) or prolonged, with drowsiness (seizure)?
+
+1. 25% of non-cardiac chest pain is musculoskeletal: look for pain on specific postures or activity. Aim to reproduce the pain by movement and, sometimes, palpation over the structure causing it. Focal injection of local anaesthetic helps diagnostically and is therapeutic. Tietze's syndrome: self-limiting costochondritis ± costosternal joint swelling. Causes: idiopathic; microtrauma; infection; psoriatic/rheumatoid arthritis. ℞: NSAIDs or steroid injections. Tenderness is also caused by: fibrositis, lymphoma, chondrosarcoma, myeloma, metastases, rib TB. Imaging: bone scintigraphy; CT.

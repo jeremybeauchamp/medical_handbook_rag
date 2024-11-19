@@ -1,0 +1,49 @@
+# Interstitial lung disease (ILD)
+
+This is the generic term used to describe a number of conditions that primarily affect the lung parenchyma in a diffuse manner. They are characterized by chronic inflammation and/or progressive interstitial fibrosis (table 4.11), and share a number of clinical and pathological features. See table 4.11 and fig 4.19.
+
+## Clinical features
+Dyspnoea on exertion; non-productive paroxysmal cough; abnormal breath sounds; abnormal CXR or high-resolution CT; restrictive pulmonary spirometry with DLCO (p164).
+
+## Pathological features
+Fibrosis and remodelling of the interstitium; chronic inflammation; hyperplasia of type II epithelial cells or type II pneumocytes.
+
+## Classification
+The ILDs can be broadly grouped into three categories:
+
+### Those with known cause, eg:
+- Occupational/environmental, eg asbestosis, berylliosis, silicosis, cotton worker's lung (byssinosis).
+- Drugs, eg nitrofurantoin, bleomycin, amiodarone, sulfasalazine, busulfan.
+- Hypersensitivity reactions, eg hypersensitivity pneumonitis.
+- Infections, eg TB, fungi, viral.
+- Gastro-oesophageal reflux.
+
+### Those associated with systemic disorders, eg:
+- Sarcoidosis.
+- Rheumatoid arthritis.
+- SLE, systemic sclerosis, mixed connective tissue disease, Sjögren's syndrome.
+- Ulcerative colitis, renal tubular acidosis, autoimmune thyroid disease.
+
+### Idiopathic, eg:
+- Idiopathic pulmonary fibrosis (IPF, p200).
+- Cryptogenic organizing pneumonia.
+- Non-specific interstitial pneumonitis.
+
+# Extrinsic allergic alveolitis (EAA)
+
+In sensitized individuals, repetitive inhalation of allergens (fungal spores or avian proteins) provokes a hypersensitivity reaction which varies in intensity and clinical course depending on the antigen. In the acute phase, the alveoli are infiltrated with acute inflammatory cells. Early diagnosis and prompt allergen removal can halt and reverse disease progression, so prognosis can be good. With chronic exposure, granuloma formation and obliterative bronchiolitis occur.
+
+## Causes
+- Bird-fancier's and pigeon-fancier's lung (proteins in bird droppings).
+- Farmer's and mushroom worker's lung (Micropolyspora faeni, Thermoactinomyces vulgaris).
+- Malt worker's lung (Aspergillus clavatus).
+- Bagassosis or sugar worker's lung (Thermoactinomyces sacchari).
+
+## Clinical features
+4-6h post-exposure: Fever, rigors, myalgia, dry cough, dyspnoea, fine bibasal crackles. Chronic: Finger clubbing (50%), increasing dyspnoea, weight, exertional dyspnoea, type I respiratory failure, cor pulmonale.
+
+## Tests
+Acute: Blood: FBC (neutrophilia); ESR; ABGS; serum antibodies (may indicate exposure/previous sensitization rather than disease). CXR: upper-zone mottling/consolidation; hilar lymphadenopathy (rare). Lung function tests: Reversible restrictive defect; reduced gas transfer during acute attacks. Chronic: Blood tests: serum antibodies. CXR: upper-zone fibrosis; honeycomb lung. CT chest: nodules, ground glass appearance, extensive fibrosis. Lung function tests: restrictive defect. Bronchoalveolar lavage (BAL) fluid shows lymphocytes and mast cells.
+
+## Management
+Acute: Remove allergen and give O2 (35-60%), PO prednisolone (40mg/24h PO), reducing course. Chronic: Allergen avoidance, or wear a facemask or +ve pressure helmet. Long-term steroids often achieve CXR and physiological improvement. Compensation (UK Industrial Injuries Act) may be payable.

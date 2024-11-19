@@ -1,0 +1,55 @@
+# Lung tumours: staging and treatment
+
+Assessing the extent of tumour spread (staging) is vital to determining the best course of treatment and also prognosis. All patients who may be suitable for surgery with curative intent should be offered PET-CT before treatment. Some patients may undergo endobronchial ultrasound-guided transbronchial needle aspirations for mediastinal masses. TNM staging classification for non-small cell lung cancer is shown in table 4.4. You do not need to memorize this!
+
+## Table 4.4 TNM staging for non-small cell lung cancer
+
+### Primary tumour (T)
+
+| Stage | Description |
+|-------|-------------|
+| TX | Malignant cells in bronchial secretions, no other evidence of tumour |
+| TIS | Carcinoma in situ |
+| T0 | None evident |
+| T1 | ≤3cm, in lobar or more distal airway |
+| T2 | >3cm and >2cm distal to carina or any size if pleural involvement or obstructive pneumonitis extending to hilum, but not all the lung |
+| T3 | Involves the chest wall, diaphragm, mediastinal pleura, pericardium, or <2cm from, but not at, carina. T >7cm diameter and nodules in same lobe |
+| T4 | Involves mediastinum, heart, great vessels, trachea, oesophagus, vertebral body, carina, malignant effusion, or nodules in another lobe |
+
+### Regional nodes (N)
+
+| Stage | Description |
+|-------|-------------|
+| N0 | None involved (after mediastinoscopy) |
+| N1 | Peribronchial and/or ipsilateral hilum |
+| N2 | Ipsilateral mediastinum or subcarinal |
+| N3 | Contralateral mediastinum or hilum, scalene, or supraclavicular |
+
+### Distant metastasis (M)
+
+| Stage | Description |
+|-------|-------------|
+| M0 | None |
+| M1 | a) Nodule in other lung, pleural lesions, or malignant effusion; b) distant metastases present |
+
+### Stages
+
+| Stage | Description |
+|-------|-------------|
+| Occult | TX N0 M0 |
+| I | TIS/T1/T2 N0 M0 |
+| II | T1/T2 N1 M0 or T3 N0 M0 |
+| IIIa | T3 N1 M0 or T1-3 N2 M0 |
+| IIIb | T1-4 N3 M0 or T4 N0-2 M0 |
+| IV | T1-4 N0-3 M1 |
+
+Reproduced with permission from Edge, SB et al. (Eds.), AJCC Cancer Staging Manual, 7th Edition. New York: Springer; 2010.
+
+### Treatment 
+NSCLC: Lobectomy (open or thoracoscopic) is the treatment of choice if medically fit and aim is curative intent or parenchymal sparing operation for patients with borderline fitness and smaller tumours (T1a-b, N0, M0). Radical radiotherapy for patient with stage I, II, III NSCLC. Chemotherapy ± radiotherapy for more advanced disease. Regimens may be platinum based, eg with monoclonal antibodies targeting the epidermal growth factor receptor (cetuximab). SCLC: consider surgery with limited stage disease. Chemotherapy ± radiotherapy if well enough. Palliation: Radiotherapy is used for bronchial obstruction, SVC obstruction, haemoptysis, bone pain, and cerebral metastases. SVC stent + radiotherapy and dexamethasone for SVC obstruction. Endobronchial therapy: tracheal stenting, cryotherapy, laser, brachytherapy (radioactive source is placed close to the tumour). Pleural drainage/pleurodesis for symptomatic pleural effusions. Drugs: analgesia; steroids; anti-emetics; cough linctus; bronchodilators; antidepressants.
+
+### Prognosis 
+Non-small cell: 50% 2yr survival without spread; 10% with spread. Small cell: median survival is 3 months if untreated; 1-1½yrs if treated.
+
+### Prevention 
+Stop smoking (p93). Prevent occupational exposure to carcinogens.

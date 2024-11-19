@@ -1,0 +1,19 @@
+Cardiovascular medicine
+
+| I | aVR | V1 | V4 |
+|---|-----|----|----|
+| [ECG trace showing regular broad complex tachycardia] | [ECG trace showing regular broad complex tachycardia] | [ECG trace showing regular broad complex tachycardia] | [ECG trace showing regular broad complex tachycardia] |
+
+| II | aVL | V2 | V5 |
+|---|-----|----|----|
+| [ECG trace showing regular broad complex tachycardia] | [ECG trace showing regular broad complex tachycardia] | [ECG trace showing regular broad complex tachycardia] | [ECG trace showing regular broad complex tachycardia] |
+
+| III | aVF | V3 | V6 |
+|----|-----|----|----|
+| [ECG trace showing regular broad complex tachycardia] | [ECG trace showing regular broad complex tachycardia] | [ECG trace showing regular broad complex tachycardia] | [ECG trace showing regular broad complex tachycardia] |
+
+| II |
+|----|
+| [ECG trace showing regular broad complex tachycardia] |
+
+Fig 3.12 Ventricular tachycardia—regular broad complex tachycardiac indicating a likely ventricular origin for the rhythm.

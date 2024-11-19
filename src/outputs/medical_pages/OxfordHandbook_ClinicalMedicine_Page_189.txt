@@ -1,0 +1,24 @@
+# Differential diagnosis of nodule in the lung on a CXR
+
+| • Malignancy (1° or 2°)         | • Arterio-venous malformation       |
+|---------------------------------|-------------------------------------|
+| • Abscesses (p170)              | • Encysted effusion (fluid, blood, pus) |
+| • Granuloma                     | • Cyst                              |
+| • Carcinoid tumour              | • Foreign body                      |
+| • Pulmonary hamartoma           | • Skin tumour (eg seborrhoeic wart) |
+
+A chest X-ray image is shown, displaying a frontal view of the lungs and ribcage.
+
+**Fig 4.8** A wedge-shaped density in the right middle lobe. Also note a coin lesion at the right costophrenic angle. Right hilar lymphadenopathy.
+
+Courtesy of Janet E. Jeddry, Yale Medical School.
+
+## Table 4.3 Non-metastatic extrapulmonary manifestations of bronchial cancer
+
+| System      | Manifestations |
+|-------------|----------------|
+| Endocrine   | Ectopic secretion; ACTH (Cushing's), ADH (dilutional hyponatraemia), PTH (hypercalcaemia), HCG (gynaecomastia) |
+| Neurological| Cerebellar degeneration, myopathy, polyneuropathy, myasthenic syndrome |
+| Vascular    | Thrombophlebitis migrans (p562), anaemia, DIC |
+| Cutaneous   | Dermatomyositis, herpes zoster, acanthosis nigricans |
+| Skeletal    | Clubbing, HPOA |

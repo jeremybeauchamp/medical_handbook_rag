@@ -1,0 +1,41 @@
+# Intracranial venous thrombosis (IVT)
+
+Thrombosis of the cerebral sinuses or veins causes cerebral infarction, though much less commonly than arterial disease. Seizures are common and focal; they can complicate diagnosis and post-ictal drowsiness may impair GCS assessment. Although ~80% will make a good functional recovery, death is mainly due to transtentorial herniation from mass effect or oedema.^9
+
+## Dural venous sinus thrombosis
+Most commonly sagittal sinus thrombosis (figs 10.19, 10.20; 47% of all IVT) or transverse sinus thrombosis (35%). Sagittal sinus thrombosis often coexists if other sinuses are thrombosed. Symptom onset is gradual (over days or weeks). Features are dependent on the sinus affected:
+
+- **Sagittal sinus:** Headache, vomiting, seizures, vision, papilloedema.
+- **Transverse sinus:** Headache ± mastoid pain, focal CNS signs, seizures, papilloedema.
+- **Sigmoid sinus:** Cerebellar signs, lower cranial nerve palsies.
+- **Inferior petrosal sinus:** Vth and VIth cranial nerve palsies, with temporal and retro-orbital pain (Gradenigo's syndrome, suggesting otitis media is the cause).
+- **Cavernous sinus:** Often due to spread from facial pustules or folliculitis, causing headache, chemosis, oedematous eyelids, proptosis, painful ophthalmoplegia, fever.
+
+## Cortical vein thrombosis (CVT)
+Usually occurs with a sinus thrombus as it extends into the cortical veins, causing infarction in a venous territory (fig 10.21). These infarcts give rise to stroke-like focal symptoms that develop over days. There are often seizures, and an associated headache which may come on suddenly (thunderclap headache).
+
+## Causes
+Numerous, including anything that promotes a hypercoagulable state (p374).
+
+**Common causes:** Pregnancy/puerperium, combined OCP, head injury, dehydration, blood dyscrasias, tumours (local invasion/pressure), extracranial malignancy (hypercoagulability), recent LP. 
+
+**Other causes:** Infection (meningitis, abscesses, otitis media, cerebral malaria, TB), Drugs (eg antifibrinolytics, androgens), SLE, vasculitis, Crohn's or UC.
+
+## Differential diagnosis
+Subarachnoid haemorrhage, meningitis, encephalitis, intracranial abscess, arterial infarction.
+
+## Investigations
+Exclude subarachnoid haemorrhage (if thunderclap headache, p478) and meningitis (p822). 
+
+**Bloods:** Thrombophilia screen. 
+
+**Imaging:** CT/MRI venography may show the absence of a sinus (fig 10.19), though an absent transverse sinus can be a normal variant. MRI T2-weighted gradient echo sequences can visualize thrombus directly (fig 10.20), and also identify haemorrhagic infarction. CT may be normal early, but show a filling defect at ~1wk (delta sign). 
+
+**LP** (if no CI): raised opening pressure. CSF may be normal, or show RBCs and xanthochromia.
+
+## Management
+Seek expert help. Anticoagulation with heparin or LMWH and then warfarin (INR 2-3) may benefit even if there is secondary cerebral haemorrhage (unless otherwise CI). If there is deterioration despite adequate anticoagulation, endovascular thrombolysis or mechanical thrombectomy may provide limited benefit (but not in those with large infarcts and impending herniation). ICP requires prompt attention (p830); decompressive hemicraniectomy may prevent impending herniation.
+
+----
+
+^9 Predictors of poor prognosis include: GCS score on admission <9, deep CVT location, CNS infection, malignancy, intracranial haemorrhage, mental status abnormality, age >37 years, and ♂.

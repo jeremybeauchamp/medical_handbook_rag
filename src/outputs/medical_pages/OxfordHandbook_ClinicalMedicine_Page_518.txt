@@ -1,0 +1,24 @@
+# 504 Polyneuropathies
+
+Motor and/or sensory disorder of multiple peripheral or cranial nerves: usually symmetrical, widespread, and often worse distally ('glove and stocking' distribution). They can be classified by: chronicity, function (sensory, motor, autonomic, mixed), or pathology (demyelination, axonal degeneration, or both). For example, Guillain-Barré syndrome (p702) is an acute, predominantly motor, demyelinating neuropathy, whereas chronic alcohol abuse leads to a chronic, initially sensory then mixed, axonal neuropathy.
+
+## Diagnosis
+The history is vital: be clear about the time course, the precise nature of the symptoms, and any preceding or associated events (eg D&V before Guillain-Barré syndrome; weight in cancer; arthralgia from a connective tissue disease). Ask about travel, alcohol and drug use, sexual infections, and family history. If there is palpable nerve thickening think of leprosy or Charcot-Marie-Tooth. Examine other systems for clues to the cause, eg alcoholic liver disease.
+
+## Tests
+FBC, ESR, glucose, U&E, LFT, TSH, B12, electrophoresis, ANA, ANCA, CXR, urinalysis, consider LP ± specific genetic tests for inherited neuropathies, lead level, antiganglioside antibodies. Nerve conduction studies distinguish demyelinating from axonal causes.
+
+## Sensory neuropathy
+(Eg DM, CKD, leprosy.) Numbness; pins and needles, paraesthesiae; affects 'glove and stocking' distribution. Difficulty handling small objects such as buttons. Signs of trauma (eg finger burns) or joint deformation may indicate sensory loss. Diabetic and alcoholic neuropathies are typically painful.
+
+## Motor neuropathy
+(Eg Guillain-Barré syndrome, lead poisoning, Charcot-Marie-Tooth syndrome.) Often progressive (may be rapid); weak or clumsy hands; difficulty in walking (falls, stumbling); difficulty in breathing (vital capacity). Signs: LMN lesion: wasting and weakness most marked in the distal muscles of hands and feet (foot or wrist drop). Reflexes are reduced or absent.
+
+## Cranial nerves
+Swallowing/speaking difficulty; diplopia.
+
+## Autonomic system
+See BOX.
+
+## Management
+Treat the cause (table 10.10). Involve physio and OT. Foot care and shoe choice are important in sensory neuropathies to minimize trauma. Splinting joints helps prevent contractures in prolonged paralysis. In Guillain-Barré and chronic inflammatory demyelinating polyradiculoneuropathy (CIDP: autoimmune demyelination of peripheral nerves), IV immunoglobulin helps. For vasculitic causes, steroids/immunosuppressants may help. Treat neuropathic pain with amitriptyline, duloxetine, gabapentin or pregabalin.

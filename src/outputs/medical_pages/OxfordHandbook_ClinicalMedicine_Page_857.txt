@@ -1,0 +1,24 @@
+## Phenothiazine poisoning
+(Eg chlorpromazine.) No specific antidote. Dystonia (torticollis, retrocollis, glossopharyngeal dystonia, opisthotonus): try procyclidine, eg 5-10mg IM or IV. Treat shock by raising the legs (± plasma expander IVI, or inotropes if desperate). Restore body temperature. Monitor ECG. Use lorazepam IV for prolonged fits in the usual way (p826). Neuroleptic malignant syndrome consists of: hyperthermia, rigidity, extrapyramidal signs, autonomic dysfunction (labile BP, HR, sweating, urinary incontinence), mutism, confusion, coma, ↑WCC, ↑CK; it may be treated with cooling. Dantrolene 1-2.5mg/kg IV (p572) (max 10mg/kg/day) can help, bromocriptine and amantadine are alternatives.
+
+## Carbon tetrachloride poisoning
+This solvent, used in many industrial processes, causes vomiting, abdominal pain, diarrhoea, seizures, coma, renal failure, and tender hepatomegaly with jaundice and liver failure. IV acetylcysteine may improve prognosis. Seek expert help.
+
+## Organophosphate insecticides
+Inactivate cholinesterase—the resulting increase in acetylcholine causes the SLUD response: salivation, lacrimation, urination, and diarrhoea. Also look for sweating, small pupils, muscle fasciculation, coma, respiratory distress, and bradycardia. Treatment: Wear gloves; remove soiled clothes. Wash skin. Take blood (FBC and serum cholinesterase activity). Give atropine IV 2mg every 10min till full atropinization (skin dry, pulse >70, pupils dilated). Up to 3d treatment may be needed. Also give pralidoxime 30mg/kg IVI over 20min, then 8mg/kg/h, max 12g in 24h. Even if fits are not occurring, diazepam 5-10mg IV slowly seems to help.
+
+## Paraquat poisoning
+(Found in weed-killers.) This causes D&V, painful oral ulcers, alveolitis, and renal failure. Diagnose by urine test. Give activated charcoal at once (100g followed by a laxative, then 50g/3-4h). ►Get expert help. Avoid O₂ early on (promotes lung damage).
+
+## Ecstasy poisoning
+Ecstasy is a semi-synthetic, hallucinogenic substance (MDMA, 3,4-methylenedioxymethamphetamine). Its effects range from nausea, muscle pain, blurred vision, amnesia, fever, confusion, and ataxia to tachyarrhythmias, hyperthermia, hyper/hypotension, water intoxication, DIC, ↑K⁺, acute kidney injury (AKI), hepatocellular and muscle necrosis, cardiovascular collapse, and ARDS. There is no antidote and treatment is supportive. Management depends on clinical and lab findings, but may include:
+
+- Administration of activated charcoal and monitoring of BP, ECG, and temperature for at least 12h (rapid cooling may be needed).
+- Monitor urine output and U&E (AKI pp298-9), LFT, CK, FBC, and coagulation (DIC p352). Metabolic acidosis may benefit from treatment with bicarbonate.
+- Anxiety: lorazepam 1-2mg IV as a slow bolus into a large vein. Repeat doses may be administered until agitation is controlled (see p826).
+- Narrow complex tachycardias (p806) in adults: consider metoprolol 5mg IV.
+- Hypertension can be treated with nifedipine 5-10mg PO or phentolamine 2-5mg IV. Treat hypotension conventionally (p790).
+- Hyperthermia: attempt to cool, if rectal T° >39°C consider dantrolene 1mg/kg IV (may need repeating: discuss with your senior and a poisons unit). Hyperthermia with ecstasy is akin to serotonin syndrome, and propranolol, muscle relaxation, and ventilation may be needed.
+
+## Snakes (adders)
+Anaphylaxis: p794. Signs of envenoming: ↓BP (vasodilation, viper cardiotoxicity); D&V; swelling spreading proximally within 4h of bite; bleeding gums or venepuncture sites; anaphylaxis; ptosis; trismus; rhabdomyolysis; pulmonary oedema. Tests: ↑WCC; abnormal clotting; ↓platelets; U&E; ↑urine RBC; ↑CK; ↓PaO₂, ECG. Management: Avoid active movement of affected limb (so use splints/slings). Avoid incisions and tourniquets. ►Get help from local/national poisons service. Is antivenom indicated (IgG from venom-immunized sheep)?—eg 10mL IV over 15min (adults and children) of European Viper Antiserum (from Monviato) for adder bites (see BNF);—20mL if severe envenoming have adrenaline to hand—p794. Monitor ECG. For non-UK endemic snakes, see BNF.

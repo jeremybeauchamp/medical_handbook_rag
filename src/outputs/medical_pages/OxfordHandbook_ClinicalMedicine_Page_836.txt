@@ -1,0 +1,47 @@
+# Meningitis
+
+## Primary care
+Prompt actions save lives. **If suspect meningitis arrange urgent transfer to secondary care. If a non-blanching rash is present,** give benzylpenicillin 1.2g IM/IV before admitting.
+
+### Organisms
+Meningococcus or pneumococcus. Less commonly Haemophilus influenzae; Listeria monocytogenes. HSV, VZV, enteroviruses. CMV, cryptococcus (p400), or TB (p393) if immunocompromised, eg HIV +ve, organ transplant, malignancy.
+
+### Differential
+Malaria, encephalitis, septicaemia, subarachnoid, dengue, tetanus.
+
+### Features
+**Early:** Headache, fever, leg pains, cold hands and feet, abnormal skin colour.
+
+**Later:**
+- Meningism: neck stiffness, photophobia, Kernig's sign (pain + resistance on passive knee extension with hip fully flexed).
+- ↓GCS, coma.
+- Seizures (~20%) ± focal CNS signs (~20%) ± opisthotonus (p436, fig 9.46).
+- Petechial rash (non-blanching—fig 19.18; may only be 1 or 2 spots, or none).
+- Shock: prolonged capillary refill time; DIC; ↓BP.
+
+**Signs of disease causing meningitis:** Zoster; cold sore/genital vesicles (HSV); HIV signs (lymphadenopathy, dermatitis, candidiasis, uveitis); bleeding ± red eye (leptospirosis); parotid swelling (mumps); sore throat ± jaundice ± nodes (glandular fever, p405); splenectomy scar (∴ immunodeficient).
+
+### Management
+▶See fig 19.19; investigations and treatment proceed in parallel.¹³
+- If ↑ICP, summon help immediately and inform ICU.
+- Initiate early antibiotics. Take blood cultures first. Then perform LP prior to antibiotics only in patients where no evidence of shock, petechial rash or ↑ICP and where able to obtain LP within 1h (table 19.4). Consult local policies and seek advice. Empirical options include ceftriaxone 2g/12h IV; add eg amoxicillin 2g/4h IV if >60yrs age or immunocompromised. If suspect viral encephalitis see p824.
+- If features of meningism give dexamethasone 10mg/6h IV
+- Other investigations, U&E, FBC (↓WBC ≈ immunocompromise: get help), LFT, glucose, coagulation. Throat swabs (1 for bacteria, 1 for virology). CXR. Consider HIV, TB tests.
+- Prophylaxis (discuss with public health/ID): •Household contacts in droplet range. •Those who have kissed the patient's mouth. Give ciprofloxacin (500mg PO, 1 dose; child 5-12yrs: 250mg; child <5yrs: 30mg/kg to max 125mg).
+
+### Lumbar puncture in meningitis
+
+| CSF in meningitis | Bacterial | Tuberculous (p393) | Viral ('aseptic') |
+|-------------------|-----------|--------------------|--------------------|
+| Appearance | Often turbid | Often fibrin web | Usually clear |
+| Predominant cell | Polymorphs* | Mononuclear* | Mononuclear |
+| Cell count/mm³ | Eg 90-1000 or more | 10-1000 | 50-1000 |
+| Glucose | <½ plasma | <½ plasma | >½ plasma |
+| Protein (g/L) | >1.5 | 1-5 | <1 |
+| Bacteria | In smear & culture | Often none in smear | None seen or cultured |
+
+*Predominant cell type may also be lymphocytes in TB, listerial, and cryptococcal meningitis.
+
+Perform LP (p768) without waiting for CT (not if GCS ≤12 or focal neurology). Wait for clotting screen only if suspect coagulopathy. Record opening pressure—7-18cm CSF normal but ↑ in meningitis. Send CSF for MC&S, protein, lactate, glucose, virology/PCR.
+
+Normal values: ≤5 lymphocytes/mm³ with no neutrophils is normal. Protein: 0.15-0.45g/L. CSF glucose: 2.8-4.2mmol/L.

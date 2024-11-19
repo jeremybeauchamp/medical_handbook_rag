@@ -1,0 +1,38 @@
+# Cardiac causes of stroke
+
+Cardioembolic causes are the source of stroke in >30% of patients, and may be hinted at if there are bilateral infarcts on imaging.
+
+**Non-valvular atrial fibrillation:** (p130) Associated with an overall risk of stroke of 4.5%/yr, and ischaemic strokes in AF carry a worse prognosis.
+
+- CHA2DS2VASC score (p131) can be used to calculate risk of stroke in patients with AF. Offer anticoagulation in patients with a score of 2 or above. Take bleeding risk into account: calculate the risk of major bleeding using the HAS-BLED score. Caution and regular review of oral anticoagulants are required if the HAS-BLED score >3. Do not offer stroke prevention therapy in patients with AF if <65y and CHA2DS2VASC score is 0 for men or 1 for women.
+- Anticoagulation (see p350) can be commenced 2wks after a stroke (or from 7-10d if clinically and radiologically small). Offer a direct oral anticoagulant (DOAC) or warfarin (p350), following a discussion of risks and benefits.
+
+**Other cardiac sources of emboli:** 
+- Cardioversion
+- Prosthetic valves
+- Acute myocardial infarct with large left ventricular wall motion abnormalities on echocardiography
+- Patent foramen ovale/septal defects
+- Cardiac surgery
+- Infective endocarditis (gives rise to septic emboli; 20% of those with endocarditis present with CNS signs).
+
+## Antiplatelets: mechanism of action
+
+**Aspirin:** Inhibits COX-1, suppressing prostaglandin and thromboxane synthesis.
+
+**Clopidogrel:** A thienopyridine that inhibits platelet aggregation by modifying platelet ADP receptors, preventing further strokes and MIs.
+
+**Dipyridamole:** cAMP and thromboxane A2.
+
+## Categorization of pressure ulcers
+
+**Fig 10.16 Categorization of pressure ulcers.**
+
+(a) Stage 1: non-blanchable redness of intact skin, typically over a bony prominence.
+
+(b) Stage 2: partial thickness loss of dermis presenting as a shallow open ulcer with a red/pink wound bed, without slough. May also present as an intact or open/ruptured sero-sanguinous blister.
+
+(c) Stage 3: full thickness skin loss with visible subcutaneous fat. Bone, tendon, or muscle are not exposed.
+
+(d) Stage 4: full thickness tissue loss with exposed bone, tendon, or muscle.
+
+Images (a) to (d) reproduced from Gosney et al., Oxford Desk Reference: Geriatric Medicine, 2012, with permission from Oxford University Press.

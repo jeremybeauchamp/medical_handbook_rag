@@ -1,0 +1,40 @@
+# Other diabetic emergencies
+
+## Hypoglycaemia
+Usually rapid onset; may be accompanied by odd behaviour (eg aggression), sweating, ↑pulse, seizures. Management: ▶If conscious, orientated, and able to swallow, give 15-20g of quick-acting carbohydrate snack (eg 200mL orange juice) and recheck blood glucose after 10-15mins (repeat snack up to 3 times). If conscious but uncooperative, squirt glucose gel between teeth and gums. In unconscious patients, or those not responding to these measures, start glucose IVI (eg 10% at 200mL/h if conscious; 10% at 200mL/15mins if unconscious), or give glucagon 1mg IV/IM (will not work in malnourished patients). Expect prompt recovery. Once blood glucose >4.0mmol/L and patient has recovered, give long-acting carbohydrate (eg slice of toast).
+
+## Hyperglycaemic hyperosmolar state (HHS)
+Seen in unwell patients with type 2 DM. The history is longer (eg 1wk), with marked dehydration and glucose >30mmol/L. There is no switch to ketone metabolism, so ketonaemia stays <3mmol/L and pH >7.3. Osmolality is typically >320mosmol/kg. ▶Occlusive events are a danger (focal CNS signs, chorea, DIC, leg ischaemia/rhabdomyolysis)—give LMWH prophylaxis to all unless contraindication (p350). Rehydrate slowly with 0.9% saline IVI over 48h, typical deficits are 110-220mL/kg, ie 8-15L for a 70kg adult. Replace K+ when urine starts to flow (see DKA BOX, p833). ▶Only use insulin if blood glucose not falling by 5mmol/L/h with rehydration or if ketonaemia—start slowly 0.05u/kg/h. Keep blood glucose at least 10-15mmol/L for first 24 hours to avoid cerebral oedema. Look for the cause, eg MI, drugs, sepsis, or bowel infarct.
+
+## Lactic acidosis
+A rare but serious complication of DM with metformin use or septicaemia. Blood lactate: >5mmol/L. Seek expert help. Treat sepsis vigorously, maintain blood pressure and hence tissue perfusion. Stop metformin.
+
+# Thyroid emergencies
+
+## Myxoedema coma
+The ultimate hypothyroid state before death.
+
+Signs and symptoms: Looks hypothyroid (p220, p221, fig 5.16); often >65yrs; hypothermia; hyporeflexia; ↓glucose; bradycardia; coma; seizures. May have had radioiodine, thyroidectomy, or pituitary surgery (signs of hypopituitarism, p232). Psychosis (myxoedema madness) may precede coma. Precipitants: infection, MI, stroke, or trauma.
+
+Examination: Goitre; cyanosis; ↓BP (cardiogenic); heart failure; signs of precipitants.
+
+Treatment: Preferably on ICU.
+- Blood for: T3, T4, TSH, FBC, U&E (often ↓Na+), cultures, cortisol, glucose.
+- ABG for PaO2. High-flow O2 if cyanosed. Ventilation may be needed.
+- Correct any hypoglycaemia.
+- Give T3 (liothyronine) 5-20mcg/12h IV slowly. Be cautious: you may precipitate manifestations of ischaemic heart disease. Alternative regimens involve levothyroxine.
+- Give hydrocortisone 100mg/8h IV—vital if pituitary hypothyroidism is suspected (ie no goitre, no previous radioiodine, and no previous thyroid surgery).
+- If infection suspected, give antibiotic, eg co-amoxiclav 1.2g/8h IV.
+- Caution with fluid, rehydrate as needed but watch for cardiac dysfunction; BP may not respond to fluid and inotropes may be needed.
+- Active warming (blankets, fluids) may be needed for hypothermia. Beware complications (hypoglycaemia, pancreatitis, arrhythmias). See p848.
+
+Further Rx: T3 5-20mcg/4-12h IV until sustained improvement (~2-3d) then levothyroxine 50mcg/24h PO. Hydrocortisone + IV fluids as needed (hyponatraemia is dilutional).
+
+## Hyperthyroid crisis (thyrotoxic storm)
+Signs and symptoms: ♀:♂≈4:1. Severe hyperthyroidism (see p218): ↑T°, agitation, confusion, coma, tachycardia, AF, D&V, goitre, thyroid bruit, acute abdomen (exclude surgical causes), heart failure.
+
+Precipitants: Recent thyroid surgery or radioiodine; infection; MI; trauma.
+
+Diagnosis: Do not wait for test results if urgent treatment is needed. Do TSH, free T4, and free T3. Confirm with technetium uptake if possible.
+
+Treatment: ▶See fig 19.24. Seek endocrinology advice and aim to: 1 Counteract peripheral effects of thyroid hormones. 2 Inhibit thyroid hormone synthesis. 3 Treat systemic complications. If you are not making headway in 24h, thyroidectomy may be an option.

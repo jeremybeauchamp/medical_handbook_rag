@@ -1,0 +1,40 @@
+# The respiratory system: history
+
+## Table 2.5 Presenting symptoms and questions to ask
+
+| Presenting symptoms | Direct questions |
+|---------------------|-------------------|
+| Cough (see BOX 'Characteristic coughs') | Duration? Character (eg barking/hollow/dry)? Nocturnal (≈asthma, ask about other atopic symptoms, ie eczema, hay fever)? Exacerbating factors? Sputum (colour? How much?). Any blood/haemoptysis? |
+| Haemoptysis (see table 2.6 and BOX 'Haemoptysis') | Always think about TB (recent foreign travel?) and malignancy (weight loss?). Mixed with sputum? (Blood not mixed with sputum suggests pulmonary embolism, trauma, or bleeding into a lung cavity.) Melaena? (Occurs if enough coughed-up blood is swallowed.) |
+| Dyspnoea (see table 2.7 and BOX 'Dyspnoea' and p782) | Duration? Steps climbed/distance walked before onset? NYHA classification (p135)? Diurnal variation (≈asthma)? Ask specifically about circumstances in which dyspnoea occurs (eg occupational allergen exposure). |
+| Hoarseness (OHCS p568) | Eg due to laryngitis, recurrent laryngeal nerve palsy, Singer's nodules, or laryngeal tumour. |
+| Wheeze (p52) | |
+| Fever/night sweats (p29) | |
+| Chest pain (p94 & p784) | SOCRATES (see p36), usually 'pleuritic' if respiratory (ie worse on inspiration?). |
+| Stridor (see BOX 'Stridor') | |
+
+**History** Ask about current symptoms (table 2.5) and past history: pneumonia/bronchitis; TB; atopy³ (asthma/eczema/hay fever); previous CXR abnormalities; lung surgery; myopathy; neurological disorders. Connective tissue disorders, eg rheumatoid, SLE.
+
+**Drug history** Respiratory drugs (eg steroids, bronchodilators)? Any other drugs, especially with respiratory SE (eg ACE inhibitors, cytotoxics, β-blockers, amiodarone)?
+
+**Family history** Atopy?³ Emphysema? TB?
+
+**Social history** Quantify smoking in 'pack-years' (20 cigarettes/day for 1 year = 1 pack-year). Occupational exposure (farming, mining, asbestos) has possible compensatory implications. Pets at home (eg birds)? Recent travel/TB contacts?
+
+## Stridor
+
+Inspiratory sound due to partial obstruction of upper airways. Obstruction may be due to something within the lumen (eg foreign body, tumour, bilateral vocal cord palsy), within the wall (eg oedema from anaphylaxis, laryngospasm, tumour, croup, acute epiglottitis, amyloidosis), or extrinsic (eg goitre, oesophagus, lymphadenopathy, post-op stridor, after neck surgery). It's an emergency (p772) if gas exchange is compromised. NB: wheeze is an expiratory sound.
+
+## Characteristic coughs
+
+Coughing is relatively non-specific, resulting from irritation anywhere from the pharynx to the lungs. The character of a cough may, however, give clues as to the underlying cause:
+
+- Loud, brassy coughing suggests pressure on the trachea, eg by a tumour.
+- Hollow, 'bovine' coughing is associated with recurrent laryngeal nerve palsy.
+- Barking coughs occur in croup.
+- Chronic cough Think of pertussis, TB, foreign body, asthma (eg nocturnal).
+- Dry, chronic coughing may occur following acid irritation of the lungs in oesophageal reflux, and as a side-effect of ACE inhibitors.
+
+> Do not ignore a change in character of a chronic cough; it may signify a new problem, eg infection, malignancy.
+
+³ Atopy implies predisposition to, or concurrence of, asthma, hay fever and eczema with production of specific IgE on exposure to common allergens (eg house dust mite, grass, cats).

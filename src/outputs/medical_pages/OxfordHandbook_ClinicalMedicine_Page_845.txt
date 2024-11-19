@@ -1,0 +1,33 @@
+# Immediate management plan for raised intracranial pressure
+
+```mermaid
+graph TD
+    A[ABC]
+    B[Correct hypotension, maintain MAP >90mmHg and treat seizures]
+    C[Brief examination; history if available:<br>Any clues, eg meningococcal rash, previous carcinoma]
+    D[Elevate the head of the bed to 30-40°]
+    E[If intubated, hyperventilate to ↓PaCO2 (aim 3.5-4kPa):<br>This causes cerebral vasoconstriction and reduces ICP almost<br>immediately. Maintain PaO2 >12kPa]
+    F[Osmotic agents (eg mannitol) can be useful but<br>may lead to rebound ICP after prolonged use (~12-24h):<br>Give 20% solution 0.25-0.5g/kg IV over 10-20min (eg 5mL/kg).<br>Effect is seen after ~20min and lasts for 2-6h. Follow serum<br>osmolality—aim for about 300mosmol/kg but don't exceed 310]
+    G[Corticosteroids are not effective in reducing ICP<br>except for oedema surrounding tumours:<br>Eg dexamethasone 10mg IV and follow with 4mg/6h IV/PO]
+    H[Consider other measures,<br>eg sedation, anti-epileptics, therapeutic hypothermia]
+    I[Restrict fluid to <1.5L/d]
+    J[Monitor the patient closely; consider monitoring ICP]
+    K[Aim to make a diagnosis]
+    L[Treat cause or exacerbating factors,<br>eg hyperglycaemia, hyponatraemia]
+    M[Definitive treatment if possible]
+
+    A --> B
+    B --> C
+    C --> D
+    D --> E
+    E --> F
+    F --> G
+    G --> H
+    H --> I
+    I --> J
+    J --> K
+    K --> L
+    L --> M
+```
+
+Fig 19.22 Immediate management plan for raised intracranial pressure.
