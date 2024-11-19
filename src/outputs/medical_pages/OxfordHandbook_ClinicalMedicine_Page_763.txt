@@ -1,0 +1,26 @@
+# Imaging the acutely unwell patient
+
+Asking yourself 'Does this investigation need to be done right now?' will often yield the answer 'No!', yet there are a few occasions when early imaging can provide vital diagnostic information and influence the prognosis for a patient:
+
+- Acute cauda equina syndrome (p466): ▶MRI lumbar spine.
+- Suspected thoracic aorta dissection (p655): ▶CT thorax + IV contrast, MRI or transoesophageal echo (TOE). The mediastinum is rarely widened on CXR.
+- Suspected leaking abdominal aortic aneurysm (p654): ▶CT aorta.
+- Acute kidney injury (p298): ▶US of renal tract to exclude obstruction.
+- Acute pulmonary oedema: ▶portable CXR: don't delay to get an ideal film.
+- Acute abdomen with signs of peritonism: ▶erect CXR to find intraperitoneal free gas (fig 13.26, p607; ≈ GI perforation). Remember: post-op there will be detectable gas (air/CO₂) in the abdomen for ~10 days. ▶CT if suspicion of intra-abdominal source for sepsis or pathology requiring prompt surgery (eg appendicitis). US for ectopic pregnancy.
+- Any patient with post-traumatic midline cervical spine tenderness—not just for the emergency department! ▶Collar and backboard immobilization followed by a CT. All the vertebrae down to the top of T1 must be visualized and cleared before it is safe to take the collar off.
+- Sudden-onset focal neurology, worst-ever headache, deteriorating GCS: ▶CT head, then LP if no evidence of ↑ICP.
+
+Remember that imaging—or re-imaging for a poor quality film—should never delay the definitive treatment of an emergency condition, eg:
+
+- Tension pneumothorax (p814 and fig 16.43): ▶decompression not CXR.
+- Intra-abdominal haemorrhage or viscus rupture (p606): ▶laparotomy.
+- High clinical suspicion of torsion of testis (p652): ▶surgery not Doppler US.
+
+Prior to the advent of interventional radiology, a collapsed, shocked patient with an acute abdomen would have skipped CT and gone straight for a laparotomy. However, you should bear in mind that ruptured aneurysms are increasingly being managed by endovascular repair under fluoroscopic guidance (p654) so this is one area where rapid imaging may be preferable to immediate intervention.
+
+## Fig 16.43
+
+This is a great educational image from ICU. The inexperienced doctor could be distracted by the poor quality image, missing the lung bases: technicians do their best under difficult conditions. To ask for a new CXR here would be a mistake ▶note the large right-sided tension pneumothorax needing immediate decompression! Lungs: The right lung field is too black compared to the left, the right hemidiaphragm is depressed, and the right lung is seen collapsed against the mediastinum. Mediastinum: Left-shifted, obstructing venous return—so cardiac output, and a threat to life. Is it being pushed or pulled? Check hila, bones, and soft tissues. Since the right lung is collapsed and mediastinum shifted to left this suggests ▶right tension pneumothorax. Needle thoracocentesis decompression and a chest drain are needed now.
+
+Courtesy of Dr Edmund Godfrey.

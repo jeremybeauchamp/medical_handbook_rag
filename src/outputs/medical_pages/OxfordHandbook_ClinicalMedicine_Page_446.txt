@@ -1,0 +1,39 @@
+## Gastrointestinal parasites
+
+### Giardiasis
+
+Giardia lamblia (fig 9.38) is a flagellate protozoan. Faecal-oral spread from infected drinking water/food/fomites. Presentation: Asymptomatic in the majority. Incubation 1-3wks. Diarrhoea, flatulence, bloating, pain, malabsorption. Duration of symptoms typically ~2-6wks. Most common diagnosis if persistent traveller's diarrhoea (p429). Diagnosis: Stool microscopy for cysts and trophozoites. Intermittent shedding so multiple samples (≥3) may ↑ sensitivity. Faecal immunoassay. PCR for diagnosis/subtype. Duodenal fluid aspirate analysis. Treatment: Hygiene to prevent transmission. Metronidazole (treatment failure in up to 20%), tinidazole (single dose), albendazole (↓ side-effects, simultaneous treatment of other parasites). Lactose-intolerance develops in 20-40%. No treatment for asymptomatic disease in endemic areas due to likelihood of re-infection.
+
+Fig 9.38 Giardia: the only diplomonadid to trouble us.
+
+### Cryptosporidium
+
+Apicomplexan protozoan (fig 9.39). Ingestion of oocytes in infected water. Asymptomatic or self-limiting diarrhoea in immunocompetent hosts. Chronic/severe diarrhoea with immunosuppression: HIV (p400), transplantation, hypogammaglobulinaemia, immunosuppressive therapy.
+
+Fig 9.39 Cryptosporidium immunofluorescence.
+© Prof. S Upton; Kansas Univ.
+
+### Amoebiasis
+
+Protozoan Entamoeba histolytica (fig 9.40) ~10% world's population, mortality ~100 000/yr. Faecal-oral spread. Boil water to destroy cysts.
+
+Presentation:
+- Asymptomatic passage of cysts in ~90% ('luminal amoebiasis').
+- Intestinal amoebiasis: dysentery (often insidious onset/relapsing), pain, colitis, appendicitis, toxic megacolon. Amoeboma = inflammatory abdominal mass, usually caecal/RIF ± obstruction.
+- Extra-intestinal (invasive) disease. Amoebic liver abscess in ~1%. Single mass containing 'anchovy-sauce' pus. High swinging fever, RUQ pain/tenderness. LFT normal or ↑ (cholestatic). 50% have no history of amoebic dysentery. Also peritonitis (rupture of colonic abscess), pleuropulmonary abscess, cutaneous/genital lesions.
+
+```mermaid
+graph TD
+    A[Cyst] -->|Ingestion by human of contaminated food and water| B[Excystation in small intestine]
+    B --> C[Trophozoites]
+    C --> D[Amoebic colitis]
+    C --> E[Liver abscess]
+    C --> F[Asymptomatic colonization]
+    F --> G[Encystation in colon]
+    G --> H[Excretion in the faeces]
+    H --> A
+```
+
+Fig 9.40 The lifecycle of Entamoeba histolytica is in two stages: cysts and trophozoites. Cysts (10-15μm across) typically contain four nuclei (upper right image). During excystation in the gut lumen, nuclear division is followed by cytoplasmic division, giving rise to eight trophozoites. Trophozoites (10-50μm across) contain one nucleus with a central karyosome (lower right image). Trophozoites inhabit the caecum and colon. Re-encystation of the trophozoites occurs in the colon, and excretion of cysts in faeces perpetuates the lifecycle.
+
+Left hand image from Hutson C et al., 'Molecular-based diagnosis of Entamoeba histolytica infection', Expert Reviews in Molecular Medicine, 1(9): 1-11, 1999, reproduced with permission from Cambridge University Press. Upper and lower right images courtesy of Prof. S Upton, Kansas University.

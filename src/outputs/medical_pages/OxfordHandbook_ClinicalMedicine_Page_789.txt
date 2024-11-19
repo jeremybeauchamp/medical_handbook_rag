@@ -1,0 +1,33 @@
+# Internal jugular catheterization
+
+Internal jugular Should be the approach of choice in a non-emergency situation. Ideally the right side as it offers a direct route to the heart and there is less chance of misplacement of the line compared to the left. The subclavian approach is trickier and best taught by an expert. Use US guidance if at all possible, ideally to insert the line under direct vision, but at least to define the anatomy. If possible, have the patient attached to a cardiac monitor in case of arrhythmias.
+
+- Position the patient slightly head down to avoid air embolism and fill the veins to improve your chances of success. ►This can compromise cardiac function and precipitate acute LVF so check if your patient has a cardiac history. Minimize the time the patient is head down; if they are unable to lie flat, consider a femoral approach. Turn their head slightly to the left.
+
+- This should be a sterile procedure so use full aseptic technique (hat, mask, gloves, gown) and clean with 2% chlorhexidine in 70% isopropyl alcohol before draping. Ensure your equipment is prepared, flush the catheter lumens with saline.
+
+- If US is unavailable, the *landmark procedure* can be used to identify insertion point—approximately at the junction of the two heads of sternocleidomastoid at about the level of the thyroid cartilage (fig 18.17). Feel gently for the carotid pulse, then infiltrate with 1% lidocaine just lateral to this. The vein is usually superficial (fig 18.18).
+
+- Insert the introducer needle with a 5mL syringe attached, advance gently at a 45° angle, aiming for the ipsilateral nipple and aspirating continuously. If you are using US, watch the needle tip enter the vein, if the landmark approach keep your fingers on the carotid pulse.
+
+- As soon as blood is aspirated, lay down the US probe and hold the introducer needle in position, remove the syringe and thread the guidewire through the needle. It should pass easily, if there is resistance try lowering the angle of the needle and gently advancing the wire. If the wire will not pass do not remove it alone, the tip can shear off and embolize; remove the needle with the wire, apply pressure and attempt a second puncture.
+
+- If the wire threads easily, insert to 30cm (see markings on the wire), remove the needle keeping hold of the wire at all times. Make a nick in the skin with a scalpel at the insertion point, and gently thread the dilator over the wire. You do not need to insert the dilator far, only as far as the vein (you often feel a loss of resistance as the dilator enters the vein, so insert gently: a pneumothorax can result from enthusiastic dilating).
+
+- Remove the dilator, keeping hold of the wire, thread the flushed catheter over the wire, then remove the wire. The line should sit at about 13cm on the right side (17cm on the left). Check you can aspirate blood from each lumen, then flush them.
+
+- Suture the catheter in place (many have little 'wings' for suturing) and dress. Request a CXR to confirm position and exclude pneumothorax. The tip of the catheter should sit vertically in the SVC.
+
+| Fig 18.17 Position of internal jugular and subclavian veins (red) compared to the clavicle (yellow). |
+|---------------------------------------------------------------------------------------------------|
+| [Image showing neck anatomy with veins and clavicle highlighted]                                   |
+
+| Fig 18.18 Vessels seen on ultrasound. The compressible vein is above the artery. |
+|---------------------------------------------------------------------------------|
+| [Ultrasound image showing vein (V) above artery (A)]                             |
+
+## Femoral vein
+In an emergency situation where ultrasound is not easily accessible, if the patient is unable to lie flat, or where speed is of the essence, the femoral approach is often the safest, as there is no risk of pneumothorax or haemothorax and a much reduced risk of arrhythmia. The technique is similar to internal jugular, except the insertion point is just medial to the femoral artery at the groin crease.
+
+## Subclavian vein
+Should be taught by an expert and should ideally be carried out under US guidance. Some physicians prefer this approach, but even in experienced hands there is a risk of complications compared to US-guided internal jugular lines.

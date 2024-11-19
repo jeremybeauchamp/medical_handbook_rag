@@ -1,0 +1,52 @@
+# AKI
+
+## NEWS (see p892, fig A1)
+Consider critical care referral
+
+### Is there a life-threatening complication?
+
+- Pulmonary oedema? Early referral to renal as may need dialysis (see below)
+- Urgent K+ (venous blood gas)
+  Treat if >6.5mmol/L or any ECG changes (p301)
+
+### Examine
+Heart rate, BP, JVP, capillary refill, palpate for bladder
+
+#### Treat hypovolaemia
+Bolus fluid 250-500mL (p300) until volume replete
+If 2L given without response, seek expert help (renal/HDU/ITU)
+
+### Monitor
+- Fluid balance—consider urinary catheter and hourly urine output
+- K+—check response to treatment and at least daily until creatinine falls
+- Observations—minimum every 4 hours
+- Lactate if signs of sepsis
+- Daily creatinine until ↓ (lags ~24 hours behind clinical response)
+
+### Investigate
+- Urine dipstick (pre-catheter) and quantification of any proteinuria. Haematuria/proteinuria may suggest intrinsic renal disease
+- USS within 24 hours (unless cause obvious or AKI improving). Small kidneys (<9cm) suggest CKD. Asymmetry may suggest renal vascular disease
+- Check liver function (hepatorenal)
+- Check platelets—if low need blood film to check for haemolysis (HUS/TTP)
+- Investigate for intrinsic renal disease if indicated: immunoglobulins, paraprotein, complement, autoantibodies (ANA, ANCA, anti-GBM)
+
+### Support
+- Treat sepsis (p792)
+- Stop nephrotoxic medication—NSAIDs, ACE-i, ARB, aminoglycosides
+- Stop drugs that may ↑complications: diuretics (especially K+-sparing), metformin, antihypertensives
+- Check all drug dosages are appropriate for renal impairment
+- Consider gastroprotection (H2 antagonist, PPI) and nutritional support
+- Avoid radiological contrast (or ↓risk: p319).
+
+Fig 7.3 The clinical approach to AKI.3
+
+## Referring to the renal team
+Request that advice/review is necessary due to:
+- AKI not responding to treatment
+- AKI with complications: ↑K+, acidosis, fluid overload
+- stage 3 AKI (table 7.3)
+- AKI with difficult fluid balance (eg hypoalbuminaemia, heart failure, pregnancy)
+- AKI due to possible intrinsic renal disease (table 7.4)
+- AKI with hypertension.
+
+Know: Creatinine trend and pre-morbid result if available, K+, bicarbonate/lactate, Hb, platelet count (+film), urine dipstick (before catheter), clinical observations (NEWS) since admission, fluid input/output, examination findings (hypo/hypervolaemia), USS result, comorbidity (eg DM), drugs given (what? when? nephrotoxic?).

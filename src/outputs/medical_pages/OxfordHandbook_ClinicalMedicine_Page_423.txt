@@ -1,0 +1,47 @@
+# Invasive fungal infection
+
+Invasion: fungus in normally sterile tissues.
+Dissemination: infection of remote organs via haematogenous spread.
+
+Suspect an invasive fungal infection in:
+1. Any patient with risk factors (see table 9.15).
+2. Any systemically unwell patient who fails to respond to antibiotic therapy.
+3. Any persistently febrile patient with no microbiological evidence of infection.
+
+## Table 9.15 Risk factors associated with invasive fungal infection.
+
+| Risk factor | Includes |
+|-------------|----------|
+| Infection | HIV, CMV, TB, colonization/inadequate treatment of superficial fungal disease, broad-spectrum antibiotics, prior fungal infection. |
+| Malignancy | Neutropenia, mucositis, haematological malignancy. |
+| Critical illness | ↑Mortality prediction score (eg APACHE), prolonged ITU admission, prolonged ventilation, severe trauma/pancreatitis. |
+| Catheter | Central venous catheter, urinary catheter, dialysis access, TPN. |
+| Transplantation | Immunosuppressant medication, recent rejection, graft-versus-host disease. |
+| Genetic | Hereditary chronic granulomatous disease, abnormalities in tumour necrosis factor/interleukins/cytokines. |
+| Surgical | Major surgery, GI perforation, anastomotic leak, length of transplant operation, delayed closure. |
+| Other comorbidity | Any disease managed with immunosuppressive therapy, burns. |
+
+Data source: Ramana KV et al. Invasive fungal infections. Am J Infectious Diseases and Microbiology 2013, 1(4):64-69.
+
+Investigations:
+- Blood culture: three samples, different sites, same sitting, aim total 40-60mL blood.
+- Microscopy+immunohistochemistry/fluorescence depending on site/risk.
+- Other: antigen/antibody testing for general (eg mannan, galactomannan) and specific (eg cryptococcal) fungi; fungal metabolites; PCR: for typing/confirmation.
+
+Seek expert advice on empirical treatment, agent depends on local epidemiology.
+
+## Facts of life for 'budding' mycologists
+
+To the uninitiated, fungi are like bacteria, but their chitin cell walls and their knack of mitosis puts them in their own kingdom. They are larger than bacteria (eg 8μm across), and mostly reproduce by budding of germ tubes (fig 9.21), not by fission. Yeasts occur as single cells or as clusters. Hyphae often occur in a mass of cells (called moulds). A hyphal cell with cross-walls is called a mycelium. Some yeasts are dimorphic: single cells at 37°C but forming structures called mycelia, containing fruiting bodies (hyphae), at room temperature.
+
+Fig 9.18 Candida of the glans.
+Courtesy of P-Y Guillaume.
+
+Fig 9.19 Web-space candida.
+Courtesy of A Huntley.
+
+Fig 9.20 Pityriasis versicolor.
+Reproduced from Lewis-Jones (ed), Paediatric Dermatology 2010, with permission from Oxford University Press.
+
+Fig 9.21 Germ tubes emerging from dimorphic Candida albicans blastospores.
+Courtesy of P-Y Guillaume.

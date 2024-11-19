@@ -1,0 +1,39 @@
+## Syringomyelia
+
+A syrinx is a tubular cavity in or close to the central canal of the cervical cord. Mean age of onset: 30yrs. Incidence: 8/100 000/yr. Symptoms may be static for years, but then worsen fast—eg on coughing or sneezing, as pressure causes extension, eg into the brainstem (syringobulbia, see later in topic).
+
+### Causes
+Typically, blocked CSF circulation (without 4th ventricular communication), with flow from basal posterior fossa to caudal space, eg Arnold–Chiari malformation (cerebellum herniates through foramen magnum); basal arachnoiditis (after infection, irradiation, subarachnoid haemorrhage); basilar invagination (in which the top of the odontoid process of C2 migrates upwards, causing foramen magnum stenosis ± medulla oblongata compression); masses (cysts, rheumatoid pannus, encephalocoele, tumours). Less commonly, a syrinx may develop after myelitis, cord trauma, or rupture of an AV malformation, or within spinal tumours (ependymoma or haemangioblastoma) due to fluid secreted from neoplastic cells or haemorrhage.
+
+### Signs
+Dissociated sensory loss (absent pain and T° sensation, with preserved light touch, vibration, and joint-position sense) due to pressure from the syrinx on the decussating anterolateral pathway (fig 10.35) in a root distribution reflecting the location of the syrinx (eg for typical cervical syrinx then sensory loss is over trunk and arms); wasting/weakness of hands ± claw-hand (then arms→shoulders→respiratory muscles). Anterior horn cells are also vulnerable. Other signs: Horner's syndrome (can be bilateral and therefore more difficult to spot); UMN leg signs; body asymmetry, limb hemi-hypertrophy, or unilateral odo- or chiromegaly (enlarged hand or foot), perhaps from release of trophic factors via anterior horn cells; Charcot's joints in the shoulder/wrist due to lost joint proprioception (see fig 5.11, p213).
+
+### Syringobulbia
+(Brainstem involvement.) Nystagmus, tongue atrophy, dysphagia, pharyngeal/palatal weakness, Vth nerve sensory loss.
+
+### MRI imaging
+How big is the syrinx? Any base-of-brain (Chiari) malformation?
+
+### Surgery
+Don't wait for gross deterioration to occur. Decompression at the foramen magnum may be tried in Chiari malformations to promote free flow of CSF, and so prevent syrinx dilatation. Surgery may reduce pain and progression.
+
+| The anterolateral system |
+|--------------------------|
+| Somatic sensory cortex |
+| Cerebrum |
+| Tertiary neuron |
+| Thalamus |
+| Midbrain |
+| Secondary neuron |
+| Pons |
+| Medulla |
+| Collateral fibres to reticular formation |
+| Lateral spinothalamic tract |
+| Dorsal root ganglion |
+| Primary neuron |
+| Free nerve ending |
+| Association neuron |
+| Spinal cord |
+| Grey commissure |
+
+Fig 10.35 The anterolateral system.

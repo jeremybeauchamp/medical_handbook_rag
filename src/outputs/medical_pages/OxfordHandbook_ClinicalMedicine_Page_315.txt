@@ -1,0 +1,37 @@
+# Hyperkalaemia
+
+ECG showing severe hyperkalaemia; note broadening of QRS complexes.
+
+**Fig 7.4** ECG showing severe hyperkalaemia; note broadening of QRS complexes.
+
+**ECG changes:** In order: tall 'tented' T waves; increased PR interval; small or absent P wave; widened QRS complex (fig 7.4); 'sine wave' pattern; asystole. There is considerable inter-individual susceptibility.
+
+> Don't wait for a lab result: use the blood gas analyser.
+
+> Treat K+ >6.5mmol/L or any with ECG changes (ECG for all K+ >6.0mmol/L):
+
+1. 10mL of 10% calcium chloride² (or 30mL of 10% calcium gluconate) IV via a big vein over 5-10min, repeated if necessary and if ECG changes persist. This is cardioprotective (for 30-60min) but does not treat K+ level.
+
+2. Intravenous insulin (10u soluble insulin) in 25g glucose (50mL of 50% or 125mL of 20% glucose). Insulin stimulates intracellular uptake of K+, lowering serum K+ by 0.65-1.0mmol/L over 30-60min. Monitor hourly for hypoglycaemia (in 11-75% of treated patients) which may be delayed in renal impairment (up to 6 hours after infusion).
+
+3. Salbutamol also causes an intracellular K+ shift but high doses are required (10-20mg via nebulizer) and tachycardia can limit use (10mg dose in IHD, avoid in tachyarrhythmias).
+
+4. Definitive treatment requires K+ removal. If the underlying pathology cannot be corrected renal replacement may be indicated. Safe transfer to an offsite renal unit requires K+ <6.5mmol/L—discuss with renal team and critical care.
+
+Use of intravenous sodium bicarbonate is controversial with insufficient evidence that it has any additional benefit over the treatment steps listed here. There is a risk of both sodium and fluid overload. Bolus doses of 8.4% sodium bicarbonate should not be used.
+
+## Renal replacement therapy (RRT) in AKI
+
+RRT options in AKI include haemodialysis and haemofiltration (p306). Peritoneal dialysis is rare for AKI in adults and in high-income countries but can be used.
+
+**Possible indications for renal replacement therapy:**
+- Fluid overload unresponsive to medical treatment.
+- Severe/prolonged acidosis.
+- Recurrent/persistent hyperkalaemia despite medical treatment.
+- Uraemia eg pericarditis, encephalopathy (more common in CKD).
+
+The decision to start RRT should be individualized, aiming to provide organ support and prevent complications, rather than waiting for them to occur. The complexity of AKI and variation in thresholds for starting RRT prevent robust meta-analysis. Fluid overload is likely to be an important predictor of worse outcome.
+
+**Possible complications of RRT:** Risks of dialysis catheter insertion and maintenance, procedural hypotension, bleeding due to the requirement for anticoagulation, altered nutrition and drug clearance.
+
+² Calcium chloride contains 3x calcium than the same volume of gluconate. Concern exists about the bioavailability of calcium gluconate. Both salts carry a risk of tissue necrosis with extravasation.

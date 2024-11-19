@@ -1,0 +1,33 @@
+# 344 Bleeding disorders
+
+After injury, three processes halt bleeding: vasoconstriction, gap-plugging by platelets, and the coagulation cascade (fig 8.42). Disorders of haemostasis fall into these three groups. The pattern of bleeding is important—vascular and platelet disorders lead to prolonged bleeding from cuts, bleeding into the skin (eg easy bruising and purpura), and bleeding from mucous membranes (eg epistaxis, bleeding from gums, menorrhagia). Coagulation disorders cause delayed bleeding into joints and muscle.
+
+## 1 Vascular defects
+**Congenital:** Osler-Weber-Rendu syndrome (p708), connective tissue disease (eg Ehlers-Danlos syndrome, OHCS p642, pseudoxanthoma elasticum).
+**Acquired:** Senile purpura, infection (eg meningococcal, measles, dengue fever), steroids, scurvy (perifollicular haemorrhages), Henoch-Schönlein purpura (p702).
+
+## 2 Platelet disorders
+**Decreased marrow production:** Aplastic anaemia (p364), megaloblastic anaemia, marrow infiltration (eg leukaemia, myeloma), marrow suppression (cytotoxic drugs, radiotherapy).
+**Excess destruction:** 
+- *Immune:* immune thrombocytopenia (ITP, see BOX 'Immune thrombocytopenia'), other auto-immune causes, eg SLE, CLL, drugs, eg heparin, viruses; 
+- *Non-immune:* DIC (p352), thrombotic thrombocytopenic purpura (TTP), or HUS (p315), sequestration (in hypersplenism).
+**Poorly functioning platelets:** Seen in myeloproliferative disease, NSAIDs, and ↑urea.
+
+## 3 Coagulation disorders
+**Congenital:** Haemophilia, von Willebrand's disease (p712).
+**Acquired:** Anticoagulants, liver disease, DIC (p352), vitamin K deficiency.
+
+### Haemophilia A
+Factor VIII deficiency; inherited in an X-linked recessive pattern in 1:10 000 male births—usually due to a 'flip tip' inversion in the factor VIII gene in the X chromosome. There is a high rate of new mutations (30% have no family history). Presentation depends on severity and is often early in life or after surgery/trauma—with bleeds into joints leading to crippling arthropathy, and into muscles causing haematomas (↑pressure can lead to nerve palsies and compartment syndrome). Diagnose by ↑APTT and factor VIII assay. Management: Seek expert advice. Avoid NSAIDs and IM injections (fig 8.43). Minor bleeding: pressure and elevation of the part. Desmopressin (0.3mcg/kg/12h IVI over 20min) raises factor VIII levels, and may be sufficient. Major bleeds (eg haemarthrosis): factor VIII levels to 50% of normal, eg with recombinant factor VIII. Life-threatening bleeds (eg obstructing airway) need levels of 100%. Genetic counselling: OHCS p154.
+
+### Haemophilia B (Christmas disease)
+Factor IX deficiency (inherited, X-linked recessive); behaves clinically like haemophilia A. Treat with recombinant factor IX.
+
+### Acquired haemophilia
+Is a bleeding diathesis causing big mucosal bleeds in males and females caused by suddenly appearing autoantibodies that interfere with factor VIII. Tests: ↑APPT; ↑VIII autoantibody; factor VIII activity <50%. ℞: Steroids.
+
+### Liver disease
+Produces a complicated bleeding disorder with ↓synthesis of clotting factors, ↓absorption of vitamin K, and abnormalities of platelet function.
+
+### Malabsorption
+Leads to less uptake of vitamin K (needed for synthesis of factors II, VII, IX, and X). Treat with IV vitamin K (10mg). In acute haemorrhage, use human prothrombin complex or FFP.

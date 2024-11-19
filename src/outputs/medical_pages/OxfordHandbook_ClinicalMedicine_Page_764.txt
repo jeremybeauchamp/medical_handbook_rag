@@ -1,0 +1,13 @@
+# 17 Reference intervals, etc.
+
+## Contents
+
+| Topic | Page |
+|-------|------|
+| Statistics in medicine | 751 |
+| Biochemistry reference intervals | 752 |
+| Haematology reference intervals | 754 |
+| Drug therapeutic ranges in plasma | 756 |
+| Some important drug interactions | 757 |
+
+Fig 17.1 Carl Friedrich Gauss (1777-1855) was a German astronomer and mathematician who made many contributions to science, not least of which was establishing the normal (Gaussian) distribution (see p751). After his death, Gauss's brain was examined by anatomist Rudolph Wagner, to test the popular theory that intellectual ability correlated with physical properties of the brain such as weight and surface markings. While his brain was noted to display an unusually intricate pattern of sulci, lack of similarly patterned sulci among the brains of other intellectuals cast doubts on the theory. Further lack of evidence to support Wagner's hypothesis came when Gauss' brain was weighed: it would perhaps have amused Gauss to learn that the weight of his brain, whilst slightly above average, lay very much within the central region of a Gaussian distribution. After some rather sloppy housekeeping, Gauss' brain was stored in a mislabelled pot at the University in Göttingen, accidentally switched with that of his contemporary, the physician Conrad Fuchs. Over 150 years later, some careful searching of the archives and a MRI scanner revealed the switch.

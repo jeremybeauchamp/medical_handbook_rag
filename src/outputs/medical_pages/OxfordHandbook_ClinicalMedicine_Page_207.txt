@@ -1,0 +1,37 @@
+Table 4.9 Pleural fluid analysis
+
+| Gross appearance | Cause |
+|-------------------|-------|
+| Clear, straw-coloured | Transudate, exudate |
+| Turbid, yellow | Empyema, parapneumonic effusion⁵ |
+| Haemorrhagic | Trauma, malignancy, pulmonary infarction |
+
+| Cytology | Cause |
+|----------|-------|
+| Neutrophils ++ | Parapneumonic effusion, PE |
+| Lymphocytes ++ | Malignancy, TB, RA, SLE, sarcoidosis |
+| Mesothelial cells ++ | Pulmonary infarction |
+| Abnormal mesothelial cells | Mesothelioma |
+| Multinucleated giant cells | RA |
+| Lupus erythematosus cells | SLE |
+| Malignant cells | Malignancy |
+
+| Clinical chemistry | Cause |
+|--------------------|-------|
+| *Protein <25g/L | Transudate |
+| >35g/L | Exudate |
+| 25-35g/L | If pleural fluid protein/serum protein >0.5, effusion is an exudate (85% specific and sensitive) |
+| Glucose <3.3mmol/L | Empyema, malignancy, TB, RA, SLE |
+| pH <7.2 | Empyema, malignancy, TB, RA, SLE |
+| *LDH (pleural:serum >0.6) | Empyema, malignancy, TB, RA, SLE |
+| †Amylase | Pancreatitis, carcinoma, bacterial pneumonia, oesophageal rupture |
+
+| Immunology | Cause |
+|------------|-------|
+| Rheumatoid factor | RA |
+| Antinuclear antibody | SLE |
+| †Complement levels | RA, SLE, malignancy, infection |
+
+* Light's criteria for defining an exudate: effusion protein/serum protein >0.5; effusion LDH/serum LDH >0.6; effusion LDH > ⅔ upper reference range. 98% sensitive and 83% specific.
+
+⁵ Inflammation of the pleura caused by pneumonia may lead to infected pleural fluid (empyema); if it is not infected, the term parapneumonic effusion is used.

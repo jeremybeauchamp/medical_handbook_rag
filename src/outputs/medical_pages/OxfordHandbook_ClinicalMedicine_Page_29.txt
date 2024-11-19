@@ -1,0 +1,48 @@
+# Psychiatry on medical and surgical wards
+
+> 'Body and soul cannot be separated for purposes of treatment, for they are one and indivisible. Sick minds must be healed as well as sick bodies.' C Jeff Miller, 1931.
+
+## Mental state examination: ASEPTIC
+
+- **A**ppearance and behaviour: dress, hygiene, eye contact, rapport.
+- **S**peech: volume, rate, tone.
+- **E**motion: mood (subjective and objective), affect (how mood is expressed with behaviour—appropriate or incongruent?).
+- **P**erception: hallucinations—auditory (in the second or third person)?, visual?
+- **T**hought:
+  - Form: block, insertion, broadcast, flight of ideas, knight's move.
+  - Content: delusions, obsessions, phobias, preoccupations, self-harm, suicide.
+- **I**nsight: ask the patient why they have presented today.
+- **C**ognition: orientation, registration, recall, concentration, knowledge.
+
+Do not be afraid to ask about suicidal thoughts and plans. Remove yourself from the situation if you feel threatened.
+
+## Depression
+
+Two questions can be used to identify depression:
+
+1. During the last month, have you been bothered by feeling down, depressed, or hopeless?
+2. During the last month, have you often been bothered by having little interest or pleasure in doing things?
+
+If a person answers 'yes' to either question they should undergo mental health assessment including a risk assessment of self-harm and suicide. Appropriate treatments include psychosocial intervention (guided self-help, cognitive behavioural therapy, structured physical activity) and medication. Treatment choice depends on disease severity, previous psychiatric history, response to treatment, and patient preference. If medication is indicated, a generic SSRI should be considered first line after consideration of GI bleeding risk, drug interactions, toxicity, overdose, and discontinuation symptoms. The full effect of medication is gradual, over 4-6 weeks.
+
+## Capacity
+
+The Mental Capacity Act (MCA) 2005 has a two-stage test for lack of capacity:
+
+1. There is an impairment or disturbed functioning of the mind.
+2. The patient is unable to make a decision.
+
+Decision-making is impaired if the patient is unable to: understand the relevant information, retain it for long enough to make a decision, weigh up the information, communicate their decision. Capacity is decision-specific not patient-specific. When treatment is proposed to those who lack capacity, a capacity advocate should be provided. Even patients without capacity should be as involved as possible in decision-making.
+
+## Mental Health Act (MHA) and common law
+
+A patient can be detained under common law (subject to a test of reasonableness) or under the MHA, only if they lack capacity to remain informally and are a danger to themselves or others. You will have more experience in verbal and non-verbal communication, than in detention under the MHA, so use these skills first to try and de-escalate the situation. If rapid tranquillization is needed, be familiar with dosage, side-effects, and the need for ongoing observation. If there is no history to guide choice of medication, intramuscular lorazepam can be used.
+
+## Doctors and mental health
+
+Suicide rates are three times higher in doctors compared to the general population. Up to 7% of doctors will have a substance abuse problem within their lifetime. Do not ignore feeling low, poor concentration, and reduced energy levels. Do not self-diagnose and manage. Avoid 'corridor consultations'. Trust your GP. Seek support:
+
+- British Medical Association: www.bma.org.uk/doctorsfordoctors.
+- Doctors' Support Network: www.dsn.org.uk.
+- Doctors' Support Line: 0844 395 3010.
+- Sick Doctors Trust: www.sick-doctors-trust.co.uk.

@@ -1,0 +1,32 @@
+# Cancer treatment: radiotherapy
+
+Radiotherapy[^10] is used in >50% of all cancer and forms part of treatment in 40% of those considered cured. It uses ionizing radiation to cause damage to DNA. This prevents cell division and leads to cell death. The aim of radiotherapy treatment is to inactivate cancer cells without causing a severe reaction in normal tissue.
+
+## Radical treatment
+Given with curative intent. Total dose ranges from 40-70 gray (Gy) in up to 40 fractions. Some regimens involve several smaller fractions a day with a gap of 6-8h. Combined chemoradiation is used in some sites, eg anus and oesophagus, to increase response rate.
+
+## Palliative radiotherapy
+Aims to relieve symptoms, may not impact on survival. Doses are smaller and given in fewer fractions to offer short-term tumour control with minimal side-effects. Palliation is used for brain metastases, spinal cord compression, visceral compression, and bleeding, eg haemoptysis, haematuria. Bone pain from metastases can be reduced or eliminated in 60% of cases.
+
+## Early reactions
+Occur ~2 weeks into treatment, peak ~2-4 weeks after treatment.
+- Tiredness: ~80%. Improves ~4 weeks after treatment completed but chronic in ~30%. Advise patients to stay as active as possible.
+- Skin reactions: Include erythema, dry desquamation, moist desquamation, and ulceration. Aqueous cream can be used on unbroken areas.
+- Mucositis: All patients receiving head and neck treatment should have a dental check-up before therapy. Avoid smoking. Antiseptic mouthwashes may help. Aspirin gargle and other soluble analgesics can be tried. Treat oral thrush with fluconazole 50mg/24h PO, nystatin may exacerbate nausea.
+- Nausea and vomiting: Occur when stomach, liver, or brain treated. Try metoclopramide 10mg/8h PO (dopamine antagonist), domperidone 10mg/8h PO (blocks the central chemoreceptor trigger zone), or ondansetron 4-8mg/8h PO/IV (serotonin 5HT3 antagonist) (see p251).
+- Diarrhoea: Usually after abdominal or pelvic treatments. Maintain good hydration. Avoid high-fibre agents. Try loperamide 2mg PO after loose stools (max 16mg/24h).
+- Dysphagia: Following thoracic treatments. Speech and language input, nutrition.
+- Cystitis: After pelvic treatments. Drink plenty of fluid.
+
+## Late reactions
+Months-years after treatment.
+- CNS/PNS: Somnolence: 4-6wks after brain radiotherapy. Consider ↑steroid dose. Spinal cord myelopathy: progressive weakness. MRI to exclude cord compression. Brachial plexopathy: numb, weak, or painful arm after axillary radiotherapy.
+- Lung: Pneumonitis can occur 6-12wks after thoracic treatment causing dry cough ± dyspnoea. Bronchodilators and tapered steroids may help.
+- GI: Xerostomia = reduced saliva. Dental care and nutrition important. Treat with water, saliva substitutes, salivary stimulants. Benign strictures of oesophagus or bowel. Treat with dilatation. Seek a specialist surgical opinion regarding fistulae. Radiation proctitis may be a problem after prostate irradiation.
+- GU: Urinary frequency: small fibrosed bladder after pelvic treatment. Vaginal stenosis, dyspareunia, erectile dysfunction can occur after pelvic radiotherapy. ↓fertility: due to pelvic radiotherapy (see p525).
+- Endocrine: Panhypopituitarism following radical treatment involving pituitary fossa. Check hormone profile in children: growth hormone replacement may be required. Hypothyroidism in ~50% after neck treatment: check TFTs annually.
+- Secondary cancers: Risk (2-4 per 10,000 person-years) is usually insignificant compared to recurrence/death from primary lesion. More important for younger patients after curative treatment. Women <35yrs receiving radiotherapy for Hodgkin's lymphoma should be offered breast screening from 8yrs after treatment.
+
+↑Cancer survival means ↑numbers living with poor health or disability after treatment (~625,000 in UK). Remember the emotional and physical impact of cancer extends beyond the prescribed course of radiotherapy/chemotherapy.
+
+[^10]: Footnote not provided in the image.

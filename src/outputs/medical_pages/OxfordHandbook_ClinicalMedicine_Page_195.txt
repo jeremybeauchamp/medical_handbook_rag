@@ -1,0 +1,50 @@
+Fig 4.12 Normal peak expiratory flow (PEF).
+
+| Height (Men) | Height (Women) |
+|--------------|----------------|
+| Ht. (ins) | Ht. (cm) | Ht. (ins) | Ht. (cm) |
+| 75 | 190 | 69 | 175 |
+| 72 | 183 | 66 | 167 |
+| 69 | 175 | 63 | 160 |
+| 66 | 167 | 60 | 152 |
+| 63 | 160 | 57 | 145 |
+
+Standard deviation men 48 litres/min
+Standard deviation women 42 litres/min
+
+```mermaid
+graph LR
+    A[Age in years] --> B[PEF L/min]
+    B --> C[MEN]
+    B --> D[WOMEN]
+    A --> |15 to 70| B
+    B --> |380 to 660| C
+    B --> |380 to 500| D
+```
+
+Data from Nunn, AJ, Gregg I. New regression equations for predicting peak expiratory flow in adults. BMJ 1989;298:1068-70.
+
+Fig 4.13 Examples of serial peak flow charts.
+
+| Time of day (h) |
+|-----------------|
+| 1800 1000 1800 1000 1800 1000 1800 1000 1800 |
+| 1400 0600 1400 0600 1400 0600 1400 0600 1400 0600 |
+
+```mermaid
+graph TD
+    A[Peak expiratory flow L/min] --> B[250]
+    A --> C[200]
+    A --> D[150]
+    A --> E[100]
+    A --> F[50]
+    G[Day 1] --> H[Day 2]
+    H --> I[Day 3]
+    I --> J[Day 4]
+    J --> K[Day 5]
+    K --> L[Day 6]
+```
+
+Recovery from severe attack of asthma
+Predicted PEF was 320 L/min
+Arrows point to early morning 'dips'

@@ -1,0 +1,45 @@
+## Surgery
+
+- **Prevention**: Risk-reducing surgery, eg thyroidectomy in MEN (p223), colectomy in FAP (p521).
+- **Screening**: Endoscopy, colposcopy.
+- **Diagnosis and staging**: Fine needle aspiration, core needle biopsy, vacuum-assisted biopsy, excisional/incisional biopsy, sentinel lymph node biopsy, endoscopy, diagnostic/staging laparoscopy, laparascopic ultrasound.
+- **Treatment**: Resection of solid tumour (may be combined with chemo/radio-therapy).
+- **Reconstruction**: Eg following treatment for breast, head and neck cancers.
+- **Palliation**: Bypass, stoma, stenting, pathological fractures.
+
+## Clinical trials
+
+- **Advantages**: Possibility of more effective treatment than currently available, close monitoring with direct access to a research team, reassurance from increased number of clinical encounters, gain from altruism.
+- **Disadvantages**: Possibility of receiving therapy that is no better or worse than standard therapy, unknown toxicity from new agents, time-consuming, anxiety from increased number of clinical encounters.
+
+You may look after patients who are participating in clinical trials. For many of these, you will not be familiar with the trial therapy or even know which therapy the patient is receiving: a new therapy, an old therapy, or placebo. Contact the research team to discuss any clinical concerns or change in treatment. Contact details should be recorded in the patient's notes. Look in the notes for, or ask the patient if they have a copy of the 'Participant Information Sheet' which is mandatory for all UK research studies.
+
+Information on relevant trials for your patient is available:
+- Cancer Research UK (www.cancerresearchuk.org/about-cancer/find-a-clinical-trial).
+- UK Clinical Trials Gateway (www.ukctg.nihr.ac.uk).
+
+## Fertility and cancer
+
+Chemotherapy and radiotherapy may:
+- damage spermatogonia causing impaired spermatogenesis or male sterility
+- hasten oocyte depletion leading to premature ovarian failure.
+
+If cancer treatment carries a risk of infertility, fertility preservation techniques should be discussed prior to treatment being given.
+
+- **Men**: Semen cryopreservation should be offered before treatment due to the risk of genetic damage in sperm after initiation of chemotherapy. Intracytoplasmic sperm injection means that even a small amount of banked sperm can be used successfully in the future.
+- **Women**: Cryopreservation of:
+  1. Embryos
+  2. Oocytes: if ethical objections to embryo preservation or no partner
+  3. Ovarian tissue: no ovarian stimulation required, experimental technique.
+
+Ovarian transposition (oophoropexy) may be possible prior to pelvic radiotherapy but protection is not guaranteed due to radiation scatter.
+
+## Beau's lines
+
+Beau's lines (fig 11.4) are horizontal depressions in the nail plate that run parallel to the moon-shaped portion of the nail bed. They result from a sudden interruption of nail keratin synthesis and may be due to local infection/trauma, systemic illness, or from medication (p76). Each line in this photo coincided with a round of chemotherapy for breast cancer.
+
+| Image Description |
+|-------------------|
+| The image shows a fingernail with visible horizontal lines across its surface. These lines are Beau's lines, demonstrating the effect of chemotherapy on nail growth. |
+
+Fig 11.4 Beau's lines.

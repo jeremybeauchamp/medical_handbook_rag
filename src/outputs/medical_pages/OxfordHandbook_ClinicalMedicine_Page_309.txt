@@ -1,0 +1,41 @@
+# Urine microscopy
+
+## Cells:
+
+### Red blood cells:
+- >2 red cells/mm³ is abnormal.
+- Can come from anywhere in the urinary tract. Isomorphic red cells are similar to circulating red cells and may suggest bleeding from a genitourinary or external source. Dysmorphic red cells are abnormal in size/shape. Although they may indicate bleeding from the glomerulus (especially in exam questions!), assessment is subjective and dysmorphism also occurs due to changes in pH, osmolality, protein, and due to tubular passage.
+
+### White blood cells: (fig 7.2a)
+- >10 white cells/mm³ in an unspun specimen is abnormal.
+- Causes include UTI, glomerulonephritis, tubulointerstitial nephritis, renal transplant rejection, and malignancy.
+
+### Squamous epithelial cells:
+- Often seen, not pathological.
+
+## Casts:
+Casts are cylindrical bodies formed in the lumen of distal tubules. They are formed of Tamm-Horsfall protein combined with cells.
+
+- Hyaline cast (fig 7.2b)—seen in normal urine.
+- Red cell cast (fig 7.2c)—signify an inflammatory process in the glomerulus, eg glomerulonephritis (p311).
+- White cell cast (fig 7.2d)—pyelonephritis, interstitial nephritis (p318), glomerulonephritis (p311).
+- Granular cast (fig 7.2e)—formed from degenerated tubular cells, seen in any chronic kidney disease.
+
+## Crystals:
+Crystals are common in old or cold urine and may not signify pathology. They are important in stone formers.
+
+- Uric acid (fig 7.2f)(p680)—uric acid stones, tumour lysis syndrome.
+- Calcium oxalate (fig 7.2g)—stones (p638), high oxalate diet, ethylene glycol poisoning.
+- Cystine (fig 7.2h)—seen in cystinuria (p321).
+
+| (a) | (b) | (c) | (d) |
+|-----|-----|-----|-----|
+| White cells | Hyaline cast | Red cell cast | White cell cast |
+
+| (e) | (f) | (g) | (h) |
+|-----|-----|-----|-----|
+| Granular cast | Uric acid crystals | Calcium oxalate crystals | Cystine crystal |
+
+Fig 7.2 (a) White cells; (b) hyaline cast; (c) red cell cast; (d) white cell cast; (e) granular cast; (f) uric acid crystals; (g) calcium oxalate crystals; (h) cystine crystal.
+
+Images (a) to (h) reproduced from Turner et al., Oxford Textbook of Clinical Nephrology, 2005, with permission from Oxford University Press.

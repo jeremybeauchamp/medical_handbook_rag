@@ -1,0 +1,22 @@
+# Preventing loss of limbs: primary or secondary prevention?
+
+Traditionally prevention involves foot care advice in diabetic clinics (eg 'Don't go bare-foot'), promoting euglycaemia and normotension. But despite this, the sight of a diabetic patient minus one limb is not rare, and must prompt us to redouble our commitment to primary prevention, ie stopping those at risk from ever getting diabetes. The sequelae of diabetic neuropathy can lead to gangrene, amputation, and the impact on quality of life can be profound. As one patient post amputation said, 'I begin again to walk, on crutches. What nuisance, what fatigue, what sadness, when I think about all my ancient travels, and how active I was just 5 months ago! Where are the runnings across mountains, the walks, the deserts, the rivers, and the seas? And now, the life of a legless cripple. For I begin to understand that crutches, wooden and articulated legs, are a pack of jokes...Goodbye to family, goodbye to future! My life is gone, I'm no more than an immobile trunk' (Arthur Rimbaud. Letter to his sister Isabelle, 10 July 1891).
+
+| Fig 5.10 Gangrene (toes 2, 4, and 5). | Fig 5.11 Charcot (neuropathic) joint. |
+|--------------------------------------|--------------------------------------|
+| Reproduced from Warrell et al, Oxford Textbook of Medicine, 2010, with permission from Oxford University Press. | Reproduced from Warrell et al, Oxford Textbook of Medicine, 2010, with permission from Oxford University Press. |
+
+## Special situations in diabetes
+
+**Pregnancy:** (OHCS p23) 4% are complicated by DM: either pre-existing (<0.5%), or new-onset gestational diabetes (GDM) (>3.5%).
+- All forms carry an increased risk to mother and fetus: miscarriage, pre-term labour, pre-eclampsia, congenital malformations, macrosomia, and a worsening of diabetic complications, eg retinopathy, nephropathy.
+- Risk of GDM ↑ if: aged over 25; family history; +ve; weight; non-Caucasian; HIV+ve; previous gestational DM.
+- Pre-conception: offer general advice, and discuss risks. Control/reduce weight, aim for good glucose control, offer folic acid 5mg/d until 12 weeks.
+- Screen for GDM with OGTT if risk factors at booking (16-18 weeks if previous GDM).
+- Oral hypoglycaemics other than metformin should be discontinued. Metformin may be used as an adjunct or alternative to insulin in type 2 DM or GDM.
+
+6wks postpartum, do a fasting glucose. Even if −ve, 50% go on to develop DM.
+
+**Surgery:** Optimal blood sugar control pre, peri, and post operatively is important to minimize risk of infection and balance catabolic response to surgery. Type 1 diabetics should ideally be first on the list and BMs should have been stabilized 1-2 days pre major surgery. Consult local policy for how to manage insulin-treated/ non-insulin-treated patients on morning of surgery (eg setting up glucose/insulin infusion).
+
+**Acute illness:** Diabetics are prone to hyperglycaemia during periods of illness, in spite of reduced oral intake. Avoid stopping insulin in periods of acute illness.

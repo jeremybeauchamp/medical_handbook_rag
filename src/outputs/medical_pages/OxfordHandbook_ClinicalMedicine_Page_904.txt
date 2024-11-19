@@ -1,0 +1,207 @@
+890
+Toxins
+    kidney 318
+    vertigo 462
+Toxoplasmosis 400, 425, 439, 517
+TP53 521
+Trachea 722
+Tracheostomy 580
+Trachoma 438
+Training 758
+Tramadol 533
+Transcatheter aortic valve implants 147F
+Transcutaneous cardiac pacing 777
+Transfusion reactions 349
+Transient ischaemic attack 159, 476, 477
+Transitional cell carcinoma 644, 646
+Transoesophageal echocardiography 108, 110
+Transplantation
+    bone marrow 356
+    cardiac 148
+    liver 276, 277
+    organ donation 13
+    renal 308-9
+    stem cell 358
+Transthoracic echocardiography 108, 110, 111F
+Transudates 192
+Transurethral incision of prostate (TUIP) 642
+Transurethral resection of prostate (TURP) 642
+Traube's sign 47, 146
+Travel
+    diarrhoea 428, 429
+    DVT 579
+    fever in returning travellers 414-15
+    malaria prophylaxis 419
+    vaccinations 407
+Tremor 64, 65, 468, 494
+Trench fever 424
+Trendelenburg's test 78
+Treponema
+    pallidum 412
+    pertenue 441
+Trial without catheter 763
+Trichinella 428, 433
+Trichomonas vaginalis 413
+Trichuriasis 428, 433
+Tricuspid
+    regurgitation 148
+    stenosis 148
+Trifascicular block 100
+Trigeminal neuralgia 457
+Trigeminy 128
+Trimethoprim 387
+Triple phosphate stones 638
+Triple rhythms 44
+Triplet 128
+Troisier's sign 619
+Tropical
+    liver dis 435
+    spastic paraplegia 517
+STIs 412
+Troponin 119, 688
+Trousseau's sign 529, 678F
+True negative 20
+True positive 20
+
+Trypanosomiasis 423
+TSH receptor antibody 216
+Tube
+    feeding 584
+    inserting nasogastric 759
+Tuberculin skin test 394
+Tuberculosis 392-5
+    antibiotic therapy 160F, 394
+    cardiac 393
+    CNS 393
+    colliquativa cutis 661
+    cutaneous 393
+    diagnostic tests 394
+    drug-resistant 395
+    genitourinary 393
+    GI 393
+    HIV 401
+    latent 392
+    lymphadenitis 393
+    miliary 393
+    pulmonary 393, 394
+    spinal 393, 708, 709F
+    urinary tract 297
+Tuberous sclerosis complex 320
+Tubular disorders 316-17
+Tubulointerstitial nephropathy 318
+Tumour; see also Cancer
+    bladder 646-7
+    carcinoid 271
+    carotid body 598
+    HIV 517
+    liver 286-7
+    lung 174-6
+    lysis syn 319, 352, 529
+    malignant connective tissue 594
+    malignant skin 596
+    markers 530, 531
+    osteomalacia 684
+    pituitary 234, 235F
+    pre-malignant skin 596
+    salivary gland 599
+    space-occupying lesions 498, 499
+    suppressor genes 520
+    testicular 650, 651F
+    Wilms' 644
+Tungiasis 441
+Tuning fork tests 464
+Turner's syn 149
+Type V hyperlipoproteinaemia 691
+Typhoid 415
+Typhus 422
+
+## U
+
+Uhthoff's phenomenon 497
+Ulcer 565
+    anal 630
+    aphthous 246, 247F
+    Chiclero's 440
+    duodenal 252, 253F
+    foot 212
+    gastric 252
+    genital 412
+    pressure 473F
+    skin 660-1
+    venous 660, 661
+Ulcerative colitis 262-3
+Ulnar nerve 453, 502, 503
+Ultrasound 736, 737F
+    cardiac (echo) 108, 110, 111F, 153F, 740
+
+Ultrasound... continued
+    endoscopic 742
+    genitourinary 744, 745F
+    GI 742
+    kidney 737F, 744, 745F
+    kidney obstruction 641F
+    liver 737F
+    urinary tract 744
+    vascular 740
+Umbilical hernia 612
+Uncal herniation 830
+Unconjugated hyperbilirubinaemia 272
+Undescended testes 652
+Unfractionated heparin 350
+Unstable (crescendo) angina 116, 118
+Upper GI
+    bleeding 57, 256-7, 820, 821F
+    cancer 522
+    endoscopy 248, 249
+Upper limb
+    neurological examination 66-7
+    peripheral nerve tests 453
+Upper motor neuron 446
+Uralgia 80
+Urate 680
+    nephropathy 319
+    stones 638, 639, 680
+Ureteric stent 641
+Ureterograms 744
+Urethral
+    caruncle 80
+    stricture 649
+Urethritis, non-gonococcal 413
+Urge incontinence 648
+Uric acid crystals 295
+Urinary
+    calculi 638-9, 680
+    catheterization 297, 762-3
+    changes 81
+    frequency 80
+    incontinence 648-9
+    infection 296-7, 410
+    malignancies 522, 644
+    obstruction 640-1
+    plain X-ray 728
+    proteins 293, 294, 686
+    symptoms 293
+    TB 297
+    US 744
+Urine
+    albuminuria 686
+    bacteriuria 296
+    casts 295
+    cloudy 81
+    crystals 295
+    dipstick 294
+    fluids for poor output 300, 667
+    haematuria 81, 293, 294, 647
+    haemoglobinuria 336, 686
+    haemosiderinuria 336
+    microalbuminuria 294, 686
+    microscopy 295
+    myoglobinuria 686
+    oliguria 81, 293, 576
+    pneumaturia 81
+    post-operative 576
+    proteins 686
+    proteinuria 293, 294
+    reference intervals 753
+Urostomy 582
+US, see Ultrasound

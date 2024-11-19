@@ -1,0 +1,44 @@
+## Myeloma diagnosis
+
+Have a high index of suspicion, eg in bone pain or back pain which is not improving. Check blood film and electrophoresis. Diagnostic criteria:
+
+1. Monoclonal protein band in serum or urine electrophoresis.
+2. Plasma cells on marrow biopsy.
+3. Evidence of end-organ damage from myeloma:
+   - Hypercalcaemia.
+   - Renal insufficiency.
+   - Anaemia.
+4. Bone lesions: a skeletal survey after diagnosis detects bone disease: x-rays of chest; all of spine; skull; pelvis ± Tc-99m MIBI and PET (p739).
+
+## Causes of bone pain/tenderness
+
+- Trauma/fracture (steroids risk)
+- Myeloma and other primary malignancy, eg plasmacytoma or sarcoma
+- Secondaries (eg from breast, lung etc)
+- Osteonecrosis, eg from microemboli
+- Osteomyelitis/periostitis (eg syphilis)
+- Hydatid cyst (bone is a rare site)
+- Osteosclerosis, eg from hepatitis C
+- Paget's disease of bone
+- Sickle cell anaemia
+- Renal osteodystrophy
+- CREST syndrome/Sjögren's syndrome
+- Hyperparathyroidism.
+
+Tests: PSA, ESR, Ca²⁺, LFT, electrophoresis.
+Treatment: Treat the cause; bisphosphonates & NSAIDs may control symptoms.
+
+## Complications of myeloma
+
+- Hypercalcaemia (p676). This occurs with active disease, eg at presentation or relapse. Rehydrate vigorously with IV saline 0.9% 4-6L/d (careful fluid balance). IV bisphosphonates, eg zolendronate or pamidronate, are useful for treating hypercalcaemia acutely.
+- Spinal cord compression (p466). Occurs in 5% of those with myeloma. Urgent MRI if suspected. Treatment is with dexamethasone 8-16mg/24h PO and local radiotherapy.
+- Hyperviscosity (p372) causes reduced cognition, disturbed vision, and bleeding. It is treated with plasmapheresis to remove light chains.
+- Acute renal injury is treated with rehydration. Urgent dialysis may be needed.
+
+| Fig 8.70 Myeloma bone marrow: many plasma cells with abnormal forms. | Fig 8.71 Marrow section in myeloma, stained with IGG kappa monoclonal antibody. |
+|----------------------------------------------------------------------|-------------------------------------------------------------------------------|
+| [Image of many purple-stained cells with irregular shapes]           | [Image of green fluorescent staining showing a network-like pattern]         |
+
+| Fig 8.72 An IGG kappa paraprotein monoclonal band (immunofixation electrophoresis; a control sample has run on the left). | Fig 8.73 Plasma cells in myeloma. (a) marrow smear, (b) peripheral smear. Note rouleaux formation of red cells (p328 & p368). |
+|-----------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|
+| [Image showing electrophoresis bands with a prominent band in the IGG and K columns]                                   | [Two images side by side showing (a) marrow smear with large purple cells and (b) peripheral smear with clustered red blood cells] |

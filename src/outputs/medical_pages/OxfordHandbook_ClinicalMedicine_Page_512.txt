@@ -1,0 +1,41 @@
+# Space-occupying lesions (SOL)
+
+## Signs
+- **↑ICP:** (See p830.) Headache worse on waking, lying down, bending forward, or with coughing (p456); vomiting; papilloedema (only in 50% of tumours); ↓GCS.
+- **Seizures:** Seen in ≤50%. Exclude SOL in all adult-onset seizures, especially if focal, or with a localizing aura or post-ictal weakness (Todd's palsy, p712).
+- **Evolving focal neurology:** See BOX for localizing signs. ↑ICP causes false localizing signs: VIth nerve palsy is commonest (p70) due to its long intracranial course.
+- **Subtle personality change:** Irritability, lack of application to tasks, lack of initiative, socially inappropriate behaviour.
+
+## Causes
+Tumour (primary or metastatic, later in topic), aneurysm, abscess (25% multiple); chronic subdural haematoma, granuloma (p197, eg tuberculoma), cyst (eg cysticercosis). Tumours: 30% are metastatic (eg breast, lung, melanoma). Primaries: astrocytoma, glioblastoma multiforme, oligodendroglioma, ependymoma. Also meningioma, primary CNS lymphoma (eg as non-infectious manifestation of HIV), and cerebellar haemangioblastoma.
+
+## Differentials
+Stroke, head injury, venous sinus thrombosis, vasculitis, MS, encephalitis, post-ictal, metabolic, or idiopathic intracranial hypertension.
+
+## Tests
+CT ± MRI (good for posterior fossa masses). Consider biopsy. Avoid LP before imaging (risks coning, ie cerebellar tonsils herniate through the foramen magnum).
+
+## Tumour management
+- **Benign:** Remove if possible but some may be inaccessible.
+- **Malignant:** Excision of gliomas is hard as resection margins are rarely clear, but surgery does give a tissue diagnosis, it debulks pre-radiotherapy, and makes a cavity for inserting carmustine wafers (delivers local chemotherapy). If a tumour is inaccessible but causing hydrocephalus, a ventriculo-peritoneal shunt can help. Chemo-radiotherapy is used post-op for gliomas or metastases, and as sole therapy if surgery is impossible. Oligodendroglioma with 1p/19q deletions is especially sensitive. In glioblastoma, temozolomide (alkylating agent) ↑survival. Seizure prophylaxis (eg phenytoin) is important, but often fails. Treat headache (eg codeine 60mg/4h PO).
+- **Cerebral oedema:** Dexamethasone 4mg/8h PO; mannitol if ↑ICP acutely (p831). Plan meticulous palliative treatment (p534).
+
+## Prognosis
+Poor but improving (<50% survival at 5yrs) for CNS primaries; 40% 20yr survival for cerebellar haemangioblastoma; benign tumours are curable by excision.
+
+## Third-ventricle colloid cysts
+These congenital cysts declare themselves in adult life with amnesia, headache (often positional), obtundation (blunted consciousness), incontinence, dim vision, bilateral paraesthesiae, weak legs, and drop attacks.
+℞: Excision or ventriculo-peritoneal shunting.
+
+# Idiopathic intracranial hypertension
+
+Think of this in those presenting as if with a mass (headache, ↑ICP, and papilloedema)—when none is found. Most commonly seen in obese females in 3rd decade, who present with narrowed visual fields, blurred vision ± diplopia, VIth nerve palsy, and an enlarged blind spot, if papilloedema is present (it usually is). Consciousness and cognition are preserved.
+
+## Associations
+Endocrine abnormalities (Cushing's syndrome, hypoparathyroidism, ↑TSH), SLE, CKD, IDA, PRV, drugs (tetracycline, steroids, nitrofurantoin, and oral contraceptives).
+
+## Management
+Weight loss, acetazolamide or topiramate, loop diuretics, and prednisolone (start at ~40mg/24h PO; more SE than diuretics). Consider optic nerve sheath fenestration or lumbar–peritoneal shunt if drugs fail and visual loss worsens.
+
+## Prognosis
+Often self-limiting. Permanent significant visual loss in 10%.

@@ -1,0 +1,25 @@
+# Phosphate
+
+**Hypophosphataemia** Common and of little significance unless severe (<0.4mmol/L).
+**Causes:** Vitamin D deficiency, alcohol withdrawal, refeeding syndrome (p587), inadequate oral intake, severe diabetic ketoacidosis, renal tubular dysfunction and 1° hyperparathyroidism. **Signs and symptoms:** Muscle weakness or rhabdomyolysis, red cell, white cell and platelet dysfunction, and cardiac arrest or arrhythmias.
+**Treatment:** Oral or parenteral phosphate supplementation, eg Phosphate Polyfusor® IVI (100mmol PO₄³⁻ in 500mL). Never give IV phosphate to a patient who is hypercalcaemic or oliguric.
+
+**Hyperphosphataemia** Most commonly due to chronic kidney disease, when it is treated with phosphate binders, eg sevelamer 800mg/8h PO during meals. Also catabolic states such as tumour lysis syndrome (p529).
+
+# Magnesium
+
+Magnesium is distributed 65% in bone and 35% in cells; plasma concentration tends to follow that of Ca²⁺ and K⁺.
+
+**Hypomagnesaemia** Causes paraesthesiae, ataxia, seizures, tetany, arrhythmias. Digitalis toxicity may be exacerbated. **Causes:** Diuretics, severe diarrhoea, ketoacidosis, alcohol abuse, total parenteral nutrition (monitor weekly), ↓Ca²⁺, ↓K⁺, and ↓PO₄³⁻. **Treatment:** If needed, give magnesium salts, PO or IV (eg 8mmol MgSO₄ IV over 3min to 2h, depending on severity, with frequent Mg²⁺ levels).
+
+**Hypermagnesaemia** Rarely requires treatment unless severe (>7.5mmol/L).
+**Causes:** Renal failure or iatrogenic (eg excessive antacids). **Signs:** If severe: neuromuscular depression, ↓BP, ↓pulse, hyporeflexia, CNS & respiratory depression, coma.
+
+# Zinc
+
+**Zinc deficiency** This may occur in parenteral nutrition or, rarely, from a poor diet (too few cereals and dairy products; anorexia nervosa; alcoholism). Rarely it is due to a genetic defect. **Symptoms:** Alopecia, dermatitis (look for red, crusted skin lesions especially around nostrils and corners of mouth), night blindness, diarrhoea.
+**Diagnosis:** Therapeutic trial of zinc (plasma levels are unreliable as they may be low, eg in infection or trauma, without deficiency).
+
+# Selenium
+
+An essential element present in cereals, nuts, and meat. Low soil levels in some parts of Europe and China cause deficiency states. Required for the antioxidant glutathione peroxidase, which ↓ harmful free radicals. Selenium is also antithrombogenic, and is required for sperm motility proteins. Deficiency may increase risk of neoplasia and atheroma, and may lead to a cardiomyopathy or arthritis. Serum levels are a poor guide. Toxic symptoms may also be found with over-energetic replacement.

@@ -1,0 +1,42 @@
+# Epidemiology
+
+'The work of epidemiology is related to unanswered questions, but also to un-questioned answers.' Patricia Buffler, North American Congress of Epidemiology, 2011.
+
+## Who, what, when, where, why, and how?
+
+Epidemiology is the study of the distribution of clinical phenomena in populations. It analyses disease in terms of host, agent, and environment (the 'epidemiologist's triad'). It elucidates risks and mechanisms for the development of disease, and reveals potential targets for disease prevention and treatment. Epidemiology does not look at the individual patient, but examines a defined population. How applicable its findings are depend upon how well the sample population mirrors the study population, which must, in turn, mirror the target population. Does your patient fit in this 'target'? If 'yes', then the epidemiological findings may be applicable.
+
+## Measures of disease frequency
+
+**Incidence proportion** is the number of new cases of disease as a proportion of the population. Synonyms include probability of disease, cumulative incidence, risk.
+
+**Incidence rate** is the number of new cases per unit of person-time, ie one person observed for 5 years contributes 5 person-years of follow-up.
+
+**Prevalence** is the number of cases that exist at a given time (point prevalence) or time-frame (period prevalence), divided by the total population being studied. For example, the lifetime prevalence of hiccups is ~100% and incidence is millions/year. However, the point prevalence at 3am may be 0 if no one is actually having hiccups.
+
+## Comparisons of outcome frequency
+
+Differences in outcome rates between populations point to an association between the outcome and factors distinguishing the populations (eg a smoking population compared to a non-smoking population). Challenges arise as populations tend to differ from each other in many ways, so it may not be clear which factor(s) affect outcome frequency. This leads to confounding. For example, we might find that heart disease is more common in those who use walking sticks. But we cannot conclude that walking sticks cause heart disease as age is a confounding factor: age is causal, not walking sticks.
+
+**Ways of accounting for associations:** A may cause B (antacids cause cancer), B may cause A (cancer causes antacid use), a 3rd unknown agent X (eg age) may cause A and B, or the association may be a chance finding. When considering the options, it is useful to bear in mind the Bradford Hill 'criteria' for causation (NB he did not claim any were essential):
+
+1. Consistency of findings: among different populations, studies, time periods.
+2. Temporality: the effect must occur after the cause.
+3. Biological gradient: a dose response whereby more exposure = more effect.
+4. Specificity: exposure causes a single outcome (smoking does not conform!).
+5. Strength of association: strong associations are more likely to be causal.
+6. Biological plausibility: there is a mechanism linking cause and effect.
+7. Coherence: the relationship is supported by current disease knowledge.
+8. Experiment: does removal of exposure reduce outcome frequency?
+
+## Epidemiological studies
+
+Studies should be designed to give an adequate answer to a specific research question. Samples need to be representative and of sufficient size to answer the question.
+
+**Ecological studies:** Outcome rates are examined in different populations, eg trend over time, geographically distinct groups, social class. Populations rather than individuals are the unit of study.
+
+**Longitudinal (cohort) studies:** Subjects are followed over time with measurement of exposure and outcome.
+
+**Case-control studies:** Patients with the outcome of interest are identified and past exposure is assessed in comparison to 'controls' who did not develop the outcome. Cases and controls should be adequately matched for other factors that may affect outcome, or these differences should be corrected for (mathematical assumption).
+
+**Experimental studies:** Exposure is allocated to a study group and compared to those who are not exposed, eg randomized controlled trials.

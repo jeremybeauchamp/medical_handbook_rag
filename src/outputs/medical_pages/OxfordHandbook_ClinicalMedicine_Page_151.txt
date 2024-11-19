@@ -1,0 +1,23 @@
+## Pulseless patients
+
+Left ventricular assist devices (LVADs) are increasingly used as bridging therapies for patients awaiting heart transplantation (fig 3.39). An internalized pump forces blood through tubing from the left ventricle to the aorta. To power the pump, the patient attaches the device to the mains electricity, and uses batteries when out and about. Patients with continuous (rather than pulsatile) flow LVADs have no pulse (fig 3.39c) and ascultation will reveal a loud, continuous, mechanical hum. If the patient collapses and there is no hum, resuscitation should include checking the LVAD power supply!
+
+| (a) | (b) | (c) |
+|-----|-----|-----|
+| CXR of a patient with a continuous flow LVAD | Retinal flow velocity trace from a normal subject | Retinal flow velocity trace from a patient with an LVAD |
+
+Fig 3.39 (a) CXR of a patient with a continuous flow LVAD. Blood is taken from the LV apex and pumped into the aorta. (b) Retinal flow velocity trace from a normal subject—large peaks in flow rate during systole. (c) Retinal flow velocity trace from a patient with an LVAD. The flow rate only slightly rises during systole as the flow from the LVAD is continuous.
+
+Image in a) reproduced from Gardener et al., Heart Failure, 2014, with permission from Oxford University Press. (b) and (c) courtesy of Barry McDonnell.
+
+## Natriuretic peptides
+
+Secretory granules have long been known to exist in the atria, and if homogenized atrial tissue is injected into rats, their urine volume (and Na+ excretion) rises; this is because of atrial natriuretic peptide (ANP). BNP is a similar hormone originally identified from pig brain (hence the B), but most BNP is secreted from ventricular myocardium. Plasma BNP is closely related to LV pressure and in MI and LV dysfunction, these hormones can be released in large quantities. Secretion is also increased by tachycardia, glucocorticoids, and thyroid hormones.
+
+**Role:** ANP and BNP assist the stretched atria and ventricles by increasing GFR and decreasing renal Na+ resorption, thereby reducing fluid load; and by relaxing smooth muscle, thereby decreasing preload.
+
+**BNP as a biomarker of heart failure:** BNP distinguishes heart failure from other causes of dyspnoea more accurately than other biomarkers and LV ejection fraction (sensitivity: >90%; specificity: 80-90%). The rises are greater with left than right heart failure and with systolic than diastolic dysfunction.
+
+**What BNP threshold for diagnosing heart failure:** If BNP >100ng/L, this 'diagnoses' heart failure better than other clinical variables or clinical judgement (history, examination, and CXR). BNP can be used to 'rule out' heart failure if <50ng/L. A BNP >50ng/L does not exclude other coexisting diseases; conditions that can cause BNP rises include tachycardia, cardiac ischaemia, COPD, PE, renal disease, sepsis, hepatic cirrhosis, diabetes, and old age. Also, assays vary, so liaise with your lab.
+
+**Prognosis in heart failure:** The higher the BNP, the higher the cardiovascular and all-cause mortality (independent of age, NYHA class, previous MI, and LV ejection fraction) and the greater the risk of sudden death. So, a patient whose symptoms are currently well controlled may benefit from more aggressive treatment if their BNP if persistently raised.

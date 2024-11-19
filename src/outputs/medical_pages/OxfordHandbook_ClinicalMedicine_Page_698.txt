@@ -1,0 +1,44 @@
+# 684 Metabolic bone diseases: osteomalacia
+
+In osteomalacia, there is a normal amount of bone but its mineral content is low (there is excess uncalcified osteoid and cartilage). This is the reverse of osteoporosis in which mineralization is unchanged, but there is overall bone loss. Rickets is the result if this process occurs during the period of bone growth; osteomalacia is the result if it occurs after fusion of the epiphyses.
+
+## Signs and symptoms
+
+**Rickets:** Growth retardation, hypotonia, apathy in infants. Once walking: knock-kneed, bow-legged, and deformities of the metaphyseal-epiphyseal junction (eg the rachitic rosary). Features of ↓Ca²⁺—often mild (p678). Children with rickets are ill.
+
+**Osteomalacia:** Bone pain and tenderness; fractures (esp. femoral neck); proximal myopathy (waddling gait), due to ↓PO₄³⁻ and vitamin D deficiency per se.
+
+## Causes
+
+**Vitamin D deficiency:** Due to malabsorption (p266), poor diet, or lack of sunlight.
+
+**Renal osteodystrophy:** Renal failure leads to 1,25-dihydroxy-cholecalciferol deficiency [1,25(OH)₂-vitamin D deficiency]. See also renal bone disease (p312).
+
+**Drug-induced:** Anticonvulsants may induce liver enzymes, leading to an increased breakdown of 25-hydroxy-vitamin D.
+
+**Vitamin D resistance:** A number of mainly inherited conditions in which the osteomalacia responds to high doses of vitamin D (see 'Treatment' later in this topic).
+
+**Liver disease:** Due to reduced hydroxylation of vitamin D to 25-hydroxy-cholecalciferol and malabsorption of vitamin D, eg in cirrhosis (p276).
+
+**Tumour-induced osteomalacia:** (Oncogenic hypophosphataemia.) Mediated by raised tumour production of phosphatonin fibroblast growth factor 23 (FGF 23) which causes hyperphosphaturia. ↓serum PO₄³⁻ often causes myalgia and weakness.¹⁸
+
+## Investigations
+
+**Plasma:** Mildly ↓Ca²⁺ (but may be severe); ↓PO₄³⁻; ↑ALP; PTH high; ↓25(OH)-vitamin D, except in vitamin D resistance. In renal failure, ↓1,25(OH)₂-vitamin D (p312).
+
+**Biopsy:** Bone biopsy shows incomplete mineralization. Muscle biopsy (if proximal myopathy) is normal.
+
+**X-ray:** In osteomalacia, there is a loss of cortical bone; also, apparent partial fractures without displacement may be seen especially on the lateral border of the scapula, inferior femoral neck, and medial femoral shaft (Looser's zones; see fig 14.9). Cupped, ragged metaphyseal surfaces are seen in rickets (fig 14.10).
+
+## Treatment
+
+- In dietary insufficiency, give vitamin D, eg as one calcium D₃ forte tablet/12h PO.
+- In malabsorption or hepatic disease, give vitamin D₂ (ergocalciferol), up to 40 000U (=1mg) daily, or parenteral calcitriol, eg 7.5mg monthly.
+- If due to renal disease or vitamin D resistance, give alfacalcidol (1α-hydroxyvitamin D₃) 250ng-1mcg daily, or calcitriol (1,25-dihydroxy-vitamin D₃) 250ng-1mcg daily, and adjust dose according to plasma Ca²⁺. **Alfacalcidol and calcitriol can cause dangerous hypercalcaemia.**
+- Monitor plasma Ca²⁺, initially weekly, and if nausea/vomiting.
+
+## Vitamin D-resistant rickets
+Exists in two forms. Type I has low renal 1α-hydroxylase activity, and type II has end-organ resistance to 1,25-dihydroxy-vitamin D₃, due to a point mutation in the receptor. Both are treated with large doses of calcitriol.
+
+## X-linked hypophosphataemic rickets
+Dominantly inherited—due to a defect in renal phosphate handling (due to mutations in the PEX or PHEX genes which encode an endopeptidase). Rickets develops in early childhood and is associated with poor growth. Plasma PO₄³⁻ is low, ALP is high, and there is phosphaturia. Treatment is with high doses of oral phosphate, and calcitriol.

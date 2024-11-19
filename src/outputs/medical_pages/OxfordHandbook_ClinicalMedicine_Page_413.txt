@@ -1,0 +1,41 @@
+# Presentation
+
+## With symptoms of early HIV infection:
+- **Primary HIV infection** is symptomatic in ~80%, typically 2-4 weeks after infection (= seroconversion illness, acute retroviral syndrome). Maintain a high index of suspicion. Offer HIV testing to anyone (regardless of risk) presenting with flu-like symptoms and an erythematous/maculopapular rash. Consider primary HIV as a differential in any combination of fever, rash, myalgia, pharyngitis, mucosal ulceration, lymphadenopathy, and headache/aseptic meningitis. Diagnosis of primary HIV is a unique opportunity to prevent transmission (viral load and genital shedding). HIV antibody testing may be negative but HIV RNA levels are high—seek expert help regarding viral load testing (see HIV testing later in topic).
+
+- **Persistant generalized lymphadenopathy** = swollen/enlarged lymph nodes >1cm in two or more non-contiguous sites (not inguinal) persisting for >3 months. Due to follicular hyperplasia caused by HIV infection. Exclude TB, infection, and malignancy.
+
+## In the asymptomatic, latent phase of chronic HIV infection:
+In the UK there is universal testing in sexual health clinics, antenatal services, drug dependency programmes, and in patients with TB/hepatitis B/hepatitis C/lymphoma. Where HIV prevalence is >2/1000 universal testing by GPs and medical admissions units should be considered. Any request for a HIV test should be met.
+
+## With complications of immune system dysfunction: 
+See pp400-1.
+
+## HIV testing
+The prognosis for patients with HIV in the UK is much better than for many other serious illness for which doctors routinely test. HIV testing should not be viewed differently. Any doctor can consent for a HIV test: explain the benefits of testing and detail how results will be given. Written consent is unnecessary. Arrange follow-up with a local HIV/GUM service within 2 weeks (preferably <48h) for patients testing positive for the first time.
+
+- **ELISA for HIV antibody and antigen (p24)**: 4th-generation assays test for HIV antibody and p24 antigen. This reduces the 'window period' (time of false-negative testing between infection and the production of measurable antigen/antibody) to average ~10 days. Diagnosis in UK is confirmed by a confirmatory assay.
+
+- **Rapid point-of-care testing**: Immunoassay kit which gives a rapid result from a finger-prick or mouth swab. Only CE-marked kits should be used. Needs serological confirmation.
+
+- **Viral load**: Quantification of HIV RNA. Used to monitor response to ART. Not diagnostic due to possibility of a false-positive result ∴ care if used to test for symptomatic primary HIV in the 'window period'—confirmation of seroconversion is still required.
+
+- **Nucleic acid testing/viral PCR**: Qualitative test for the presence of viral RNA. Used to test for vertical transmission in neonates as placental transfer of maternal antibodies can affect ELISA antibody testing up to 18 months of age.
+
+- **CD4 count**: Cannot diagnose HIV. Used to monitor immune system function and disease progression in patients with HIV. <200 cells/microlitre is one of the defining criteria for AIDS.
+
+See www.aidsmap.com for available HIV testing and country-specific resources.
+
+## Needle-stick injury
+
+Risk of HIV transmission from a single needle-stick exposure from a person with HIV not on ART is ~1 in 300 (lower than risks of hepatitis B and C transmission).
+
+### Prevent:
+- Use 'safer sharps' (incorporates a mechanism to minimize accidental injury).
+- Do not recap unprotected medical sharps.
+- When using sharps, ensure there is a disposal container nearby.
+
+### Manage:
+- Encourage the wound to bleed, ideally under running water (do not suck).
+- Wash with soap and running water, do not scrub.
+- Seek advice from occupational health/infection control (or A&E outside of working hours) regarding source testing and post-exposure prophylaxis (p398).

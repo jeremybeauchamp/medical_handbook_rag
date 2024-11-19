@@ -1,0 +1,36 @@
+# Hodgkin's lymphoma (HL)
+
+Lymphomas are disorders caused by malignant proliferations of lymphocytes. These accumulate in the lymph nodes causing lymphadenopathy, but may also be found in peripheral blood or infiltrate organs. Lymphomas are histologically divided into Hodgkin's and non-Hodgkin's types. In Hodgkin's lymphoma,⁷ characteristic cells with mirror-image nuclei are found, called Reed-Sternberg cells (figs 8.58-8.60).
+
+**Incidence** Two peaks: young adults (HL is the commonest malignancy in 15-24yr olds) and elderly. ♂:♀≈2:1. Risk factors: An affected sibling; EBV (p405); SLE; post-transplantation.
+
+**Symptoms** Often presents with enlarged, non-tender, 'rubbery' superficial lymph nodes (60-70% cervical, fig 8.61, also axillary or inguinal). Node size may fluctuate, and they can become matted. 25% have constitutional upset, eg fever, weight loss, night sweats, pruritus, and lethargy. There may be alcohol-induced lymph node pain. Mediastinal lymph node involvement can cause mass effect, eg bronchial or SVC obstruction (p528), or direct extension, eg causing pleural effusions.
+
+**Signs** Lymphadenopathy. Also, cachexia, anaemia, spleno- or hepatomegaly.
+
+**Tests** Tissue diagnosis: Lymph node excision biopsy if possible. Image-guided needle biopsy, laparotomy, or mediastinoscopy may be needed. Bloods: FBC, film, ESR, LFT, LDH, urate, Ca²⁺. ↑ESR or ↓Hb indicate a worse prognosis. LDH ↑ as it is released during cell turnover. Imaging: CXR, CT/PET of thorax, abdo, and pelvis.
+
+**Staging** (Ann Arbor system.) Influences treatment and prognosis. Done by imaging ±marrow biopsy if B symptoms, or stage III-IV disease.
+
+| Stage | Description |
+|-------|-------------|
+| I     | Confined to single lymph node region. |
+| II    | Involvement of two or more nodal areas on the same side of the diaphragm. |
+| III   | Involvement of nodes on both sides of the diaphragm. |
+| IV    | Spread beyond the lymph nodes, eg liver or bone marrow. |
+
+Each stage is either 'A'—no systemic symptoms other than pruritus; or 'B'—presence of B symptoms: weight loss >10% in last 6 months, unexplained fever >38°C, or night sweats (needing change of clothes). 'B' indicates worse disease. Localized extra-nodal extension does not advance the stage, but is indicated by subscripted 'E', eg I-AE.
+
+**Chemoradiotherapy** Radiotherapy + short courses of chemotherapy for stages I-A and II-A (eg with ≤3 areas involved). Longer courses of chemotherapy for II-A with >3 areas involved through to IV-B. 'ABVD': Adriamycin (doxorubicin), Bleomycin, Vinblastine, Dacarbazine cures ~80% of patients. More intensive regimens are used if poor prognosis or advanced disease.⁸ In relapsed disease: high-dose chemotherapy followed by autologous stem cell transplantation.
+
+**Complications of treatment:** See pp524-7. Radiotherapy may ↑ risk of second malignancies—solid tumours (especially lung and breast, also melanoma, sarcoma, stomach and thyroid cancers), ischaemic heart disease, hypothyroidism, and lung fibrosis due to the radiation field. Chemotherapy SE include myelosuppression, nausea, alopecia, infection. AML (p356), non-Hodgkin's lymphoma, and infertility may be due to both chemo- and radiotherapy—see p525.
+
+**5-year survival** Depends on stage and grade (table 8.9): >95% in I-A lymphocyte-predominant disease; <40% with IV-B lymphocyte-depleted.
+
+**Emergency presentations** Infection; SVC obstruction—↑JVP, sensation of fullness in the head, dyspnoea, blackouts, facial oedema (seek expert help; see p528).
+
+----
+
+⁷ Thomas Hodgkin (1798-1866); rediscovered by Samuel Wilks (1824-1911) who magnanimously gave the disease Hodgkin's name.
+
+⁸ Eg BEACOPP (bleomycin/etoposide/doxorubicin/cyclophosphamide/vincristine/procarbazine/prednisone). In IIB, III, or IV, BEACOPP gives better initial control, but 7yr event-free survival is similar: 78% vs 71%.

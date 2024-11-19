@@ -1,0 +1,193 @@
+# Index
+
+> For drugs, consult the disease you want to treat, not the drug.
+
+Abbreviations: F indexes a notable figure or image; dis = disease; syn = syndrome.
+
+## A
+
+AA amyloid 370
+Abbreviated Mental Test Score 64
+ABCD2 score 477
+ABCDE preliminary assessment 779
+Abdomen
+- acute 606
+- areas 565
+- auscultation 61, 63
+- burst 580
+- distension 57, 604
+- examination 40, 60-1, 62-3
+- hernias 612, 613F, 614
+- mass 604
+- pain 30, 57, 607F, 609, 732F, 733F
+- palpation 61, 62
+- percussion 61, 63
+- X-ray 728, 729F, 744
+Abdominal aortic aneurysm 732F
+- ruptured 654
+Abetalipoproteinaemia 691
+Abscess 565
+- anorectal 630
+- appendix 608
+- breast 603
+- cerebral 824
+- cutaneous 594
+- lung 170, 171F
+Absence seizures 491, 492
+Absolute risk difference 20
+Acanthocytosis 328, 329F
+Acanthosis nigricans 529, 562, 563F
+Accelerated phase hypertension 138
+Accommodation 72
+ACE inhibitors 114
+- drug interactions 757
+Acenocoumarol 757
+Acetylcholine 449
+- receptor antibody 553
+Acetylcholinesterase inhibitors 489
+Achalasia 250
+Acid-base balance 670-1
+Acid-fast stain 382
+Acidaemia 671
+Acidosis 300, 670-1
+- lactic 834
+- metabolic 670
+- respiratory 670
+Acoustic neuroma 462, 463F, 514
+Acromegaly 149, 203, 238-9
+Actinic keratoses 596
+Actinomycosis 389
+Activated
+- charcoal 840
+- partial thromboplastin time 346
+- protein C resistance 374
+Active immunity 407
+Acuity 70
+- driving 159
+Acute
+- abdomen 606
+
+Acute... continued
+- appendicitis 608
+- asthma 810, 811F
+- chest syn 341
+- cholecystitis 634, 635
+- colonic pseudo-obstruction 706
+- confusional state 484
+- coronary syn 118-21, 796-9
+- demyelinating encephalitis 406
+- dystonia 469
+- exacerbations of COPD 812, 813F
+- glaucoma 456, 561
+- heart failure 134, 136
+- inflammatory demyelinating polyneuropathy (GBS) 447, 702, 703
+- intermittent porphyria 692, 693
+- kidney injury 298-301
+- labyrinthitis 462
+- limb ischaemia 657
+- lung injury 186, 187F
+- lymphoblastic leukaemia 354, 355F
+- mesenteric ischaemia 620
+- myeloid leukaemia 356-7
+- myocarditis 152
+- pancreatitis 636-7, 667
+- pericarditis 154, 155F
+- phase response 686
+- porphyrias 692
+- prostatitis 645
+- pyelonephritis 296
+- respiratory distress syn 186, 187F
+- tubulointerstitial nephritis 318
+
+Adder bites 843
+Addisonian crisis 836
+Addison's dis 203, 226-7, 664
+Adenocarcinoma, colon 249F
+Adenoma
+- adrenal 224
+- bronchial 174
+- liver 286
+- pleomorphic 599
+- toxic 218
+Adenosine, drug interactions 757
+Adenovirus 428
+Adhesions/adhesiolysis 581
+Adjuvant analgesia 574
+Admirand's triangle 634
+ADP receptor antagonists 114
+Adrenal
+- adenoma 224
+- carcinoma 224
+- cortex 224
+- insufficiency 226-7
+- nodular hyperplasia 224
+- vein sampling 229
+Adrenaline 449
+Adult congenital heart dis 156-7
+Advanced life support 761, 894
+Aerobes 382
+Afferent loop syn 622
+
+African
+- eye worm 439
+- trypanosomiasis 423
+Ageing 16
+Agitation 537
+Agranulocytosis 364
+AIDS 517, 560
+Air travel, DVT 579
+Airway 772
+Akinetic seizures 491, 492
+AL amyloid 370
+Alanine aminotransferase (ALT) 291, 688
+Albumin 686
+Albumin:creatinine ratio 294, 686
+Albuminuria 686
+Alcohol
+- alcoholism 280
+- biochemistry 664
+- CNS 705
+- hepatitis 280, 281
+- liver dis 280, 291
+- screening 281
+- withdrawal 280
+Aldosterone 668
+Alfentanil 533
+Alice in Wonderland syn 694
+Alkaline phosphatase 291, 688
+Alkalosis 670-1
+Allergic bronchopulmonary aspergillosis 177
+Allergies 8, 26
+Allocation of resources 3
+Allodynia 559
+α amylase 688
+α1-antitrypsin deficiency 290
+Alpha-fetoprotein 531
+α-gliadin antibody 553
+α thalassaemia 342, 343F
+Alport syn 320
+Alveolar opacification 724
+Alzheimer's dis 488, 489
+Amanita phalloides 273F
+Amaurosis fugax 476, 560
+American Society of Anesthesiologists (ASA) classification 567
+American trypanosomiasis 423
+Amfebutamone 93
+Amikacin 387
+- therapeutic range 756
+Amino acids 449
+Aminoglycosides 387
+- drug interactions 757
+- nephrotoxicity 319
+Aminophylline 810
+Aminotransferases
+- ALT 291, 688
+- AST 291, 688
+Amiodarone 115, 220
+Amoebiasis 432-3
+Amoxicillin 386
+- +clavulanic acid 386
+Ampicillin 386
+Amputation 656
+Amyloidosis 149, 315, 370, 371F
+Amyotrophic lateral sclerosis 506, 507

@@ -1,0 +1,37 @@
+## 4 Reflexes
+
+For each reflex, test right, then left and compare. If absent, attempt to elicit with 'reinforcement' by asking patient to clench their teeth on a count of three, at which time you strike (Jendrassik manoeuvre). Are reflexes absent/present (with reinforcement)/normal/brisk/exaggerated? •Biceps (C5,6) •Triceps (C7) •Supinator (C6).
+
+## 5 Coordination
+
+Holding your finger in front of the patient instruct 'touch my finger then your nose...as fast as you can'. Look for intention tremor, and 'past pointing'.
+
+• Test for dysdiadokokinesis: ask patient to repeatedly pronate and supinate forearm, tapping hands each time. Test both limbs. You may have to demonstrate. Failure to perform rapidly alternating movements is dysdiadokokinesis.
+• Test for pronator drift: with patient's eyes closed and arms outstretched, tap down on their up-facing palms and look for a failure to maintain supination.
+
+## 6 Sensation
+
+• Light touch: Use cotton wool, touch (not rub) it to sternum first—'this is what it should feel like, tell me where you feel it and if it feels different'. Proceed to test with cotton wool in all dermatomes (see p454), comparing left and right.
+• Pin prick: Repeat as above using a neurological pin, asking patient to tell you if it feels sharp or dull.
+• Temperature: Repeat as above, alternating hot and cold probes. Can the patient tell hot from cold?
+• Vibration: Using a 128Hz tuning fork (128 vibrate!) confirm with patient that they 'can feel a buzzing' when you place the tuning fork on their sternum. Proceed to test at the most distal bony prominence and move proximally by placing the buzzing fork on the bony prominence, then stopping it with your fingers. Ask the patient to tell you when the buzzing stops.
+• Proprioception: With the patient's eyes closed grasp distal phalanx of the index finger at the sides, not on top. Stabilize the rest of the finger. Flex and extend the joint, stopping at intervals to ask whether the finger tip is up or down.
+
+### Top tips
+
+• Use the tendon hammer like a pendulum, let it drop, don't grip it too tightly.
+• Ensure you are testing light touch, not stroke sensation.
+
+| Dorsal Aspect |
+|---------------|
+| C4            |
+| T3            |
+| T2            |
+| C5            |
+| T1            |
+| C6            |
+| C8            |
+| C7            |
+
+Fig 2.31 Sensory dermatomes.
+Reproduced from Harrison (ed) Revision Notes for MCEM Part A (2011), with permission from Oxford University Press.

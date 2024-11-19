@@ -1,0 +1,42 @@
+# 500 Bell's palsy (idiopathic facial nerve palsy)
+
+Affects 15-40/100 000/yr, ♂≈♀. Risk ↑ in pregnancy (×3) and in diabetes (×5).
+
+## Clinical features
+Abrupt onset (eg overnight or after a nap) with complete unilateral facial weakness at 24-72h; ipsilateral numbness or pain around the ear; ↑taste (ageusia); hypersensitivity to sounds (from stapedius palsy). On examination the patients will be unable to wrinkle their forehead, confirming LMN pathology (see p70), or whistle (tests buccinator). Other symptoms of VIIth palsy (from any cause):
+- Unilateral sagging of the mouth.
+- Drooling of saliva.
+- Food trapped between gum and cheek.
+- Speech difficulty.
+- Failure of eye closure may cause a watery or dry eye, ectropion (sagging and turning-out of the lower lid), injury from foreign bodies, or conjunctivitis.
+
+## Other causes of VIIth palsy
+Account for ~30% of facial palsies. Think of these if: rashes, bilateral symptoms, UMN signs, other cranial nerve involvement, or limb weakness. 
+- Infective: Ramsay Hunt syndrome (BOX), Lyme disease, meningitis, TB, viruses (HIV, polio).
+- Brainstem lesions: Stroke, tumour, MS.
+- Cerebellopontine angle tumours: Acoustic neuroma, meningioma.
+- Systemic disease: DM, sarcoidosis, Guillain-Barré.
+- Local disease: Orofacial granulomatosis, parotid tumours, otitis media or cholesteatoma, skull base trauma.
+
+> Lyme disease, Guillain-Barré, sarcoid, and trauma often cause bilateral weakness.
+
+## Tests
+Rule out the other causes:
+- Blood: ESR; glucose; ↑Borrelia antibodies in Lyme disease, ↑VZV antibodies in Ramsay Hunt syndrome (BOX).
+- CT/MRI: Space-occupying lesions; stroke; MS.
+- CSF: (Rarely done) for infections.
+
+## Prognosis
+Incomplete paralysis without axonal degeneration usually recovers completely within a few weeks. Of those with complete paralysis ~80% make a full spontaneous recovery, but ~15% have axonal degeneration (~50% in pregnancy) in which case recovery is delayed, starting after ~3 months, and may be complicated by aberrant reconnections: synkinesis, eg eye blinking causes synchronous upturning of the mouth; misconnection of parasympathetic fibres (red in fig 10.26) can produce crocodile tears (gusto-lacrimal reflex) when eating stimulates unilateral lacrimation, not salivation.
+
+## Management
+### Drugs:
+If given within 72h of onset, prednisolone (eg 60mg/d PO for 5d, tailing by 10mg/d) speeds recovery, with 95% making a full recovery. Antivirals (eg aciclovir) don't help; although some cases are thought to be associated with HSV-1, no one has shown actively replicating virus. There are little data to guide treatment if presenting after 72h of onset, but corticosteroids are widely used (though SE, p377). No advice on the use of steroids is universally agreed in pregnancy.
+
+### Protect the eye:
+- Dark glasses and artificial tears (eg hypromellose) if evidence of drying.
+- Encourage regular eyelid closure by pulling down the lid by hand.
+- Use tape to close the eyes at night.
+
+### Surgery:
+Consider if eye closure remains a long-term problem (lagophthalmos) or ectropion is severe.

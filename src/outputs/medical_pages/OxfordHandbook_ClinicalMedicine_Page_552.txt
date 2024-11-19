@@ -1,0 +1,54 @@
+# 12 Rheumatology
+
+## Contents
+- The rheumatological history 539
+- Assessing the locomotor system 540
+- Rheumatological investigations 541
+- Back pain 542
+- Osteoarthritis (OA) 544
+- Septic arthritis 544
+- Rheumatoid arthritis (RA) 546
+
+### Crystal arthropathies:
+- Gout 548
+- CPPD arthropathy 548
+
+### Spondyloarthritides:
+- Ankylosing spondylitis (AS) 550
+- Enteropathic, psoriatic and reactive arthritis 550
+
+### Autoimmune connective tissue diseases:
+- Systemic sclerosis 552
+- Mixed connective tissue disease 552
+- Relapsing polychondritis 552
+- Polymyositis & dermatomyositis 552
+- Systemic lupus erythematosus (SLE) 554
+
+### Vasculitides:
+- Giant cell arteritis 556
+- Polyarteritis nodosa 556
+- Microscopic polyangiitis 556
+- Polymyalgia rheumatica 557
+- Fibromyalgia 558
+
+### Systemic disease with:
+- Ocular manifestations 560
+- Dermatological manifestations 562
+
+### Rheumatological emergencies:
+- Acute SLE 554
+- Acute systemic vasculitis 314 & 556
+- Acute cord compression 466 & 543
+- GCA 556
+- Methotrexate-induced pneumonitis 547
+- Neutropenic sepsis 352
+- Scleroderma: pulmonary hypertensive or renal crisis 315 & 552
+- Septic arthritis 544
+
+Fig 12.1 When William Pitt the Elder, British statesman, was struck by yet another attack of gout he was absent from Parliament in 1773 when its members were persuaded to levy a substantial tax on tea imports to the American colonies. The resulting Tea Act of 1773 was born. Colonists boarded ships of the East India Company in Boston Harbour and crates of tea were thrown overboard. In response, the British government sent troops to occupy Boston to control the colonists. The armed response to these occupying forces led to the American War of Independence. Thirteen colonies from the United Kingdom became independent. And so it is told that gout had a part to play in the beginning of the American Revolution!
+
+## A rapidly advancing speciality
+
+Rheumatology originates from the Greek word 'rheuma' meaning that which 'flows as a river or stream'. The British Society of Rheumatology defines rheumatology as a 'multidisciplinary branch of medicine that deals with the investigation, diagnosis and management of patients with arthritis and other musculoskeletal conditions...incorporating over 200 disorders affecting joints, bones, muscles and soft tissues, including inflammatory arthritis and other systemic autoimmune disorders, vasculitis, soft tissue conditions, spinal pain and metabolic bone disease'. Rheumatological diseases affect over 10 million UK adults and 12000 children. Recent advances owe largely to new discoveries about the immunology of these disorders and the discovery of biologic DMARDS.
+
+We thank Professor Kevin Davies, our Specialist Reader, for his contribution to this chapter. We also thank Dr Susie Higgins for her contribution to this chapter.

@@ -1,0 +1,44 @@
+# Tubulointerstitial nephropathy and nephrotoxins
+
+The renal tubules and the interstitium make up ~80% of the kidney. Damage to one is usually associated with damage to the other = tubulointerstitial nephropathy. Can be acute or chronic.
+
+## Acute tubulointerstitial nephritis (ATIN)
+
+Presents with AKI. Eosinophilia in ~30%. An 'allergic triad' of fever, rash, and arthralgia occurs in ~10%. Should be considered in all cases of AKI for which there is no obvious pre-renal or post-renal precipitant (p298). Biopsy shows an inflammatory cell infiltrate in the interstitium ± tubule ('tubulitis'). Prognosis improves with early recognition although residual CKD in up to 40%. Aetiology:
+
+- Drugs: antibiotics, NSAIDs, PPIs, diuretics, ranitidine, anticonvulsants, warfarin.
+  > Take a full drug history including over-the-counter and herbal preparations.
+- Infection: Streptococcus, Pneumococcus, Staphylococcus, Campylobacter, E. coli, Mycoplasma, CMV, EBV, HSV, hepatitis A-C.
+- Autoimmune disease: SLE, sarcoid, Sjögren's syndrome, ANCA.
+
+Treatment: Stop causative agent or treat underlying cause. Steroids are used despite a paucity of RCT evidence.
+
+## Chronic tubulointerstitial nephritis (CTIN)
+
+Insidious onset and slowly progressive renal impairment. Biopsy shows interstitial fibrosis and tubular atrophy. Most commonly due to drugs (>70%) or infection. Possible causes include:
+
+- drugs: NSAIDs (p319), lithium, calcineurin inhibitors, aminosalicylates (eg mesalazine, sulfasalazine), chemotherapy (eg cisplatin)
+- infection: TB, pyelonephritis, leptospirosis, HIV
+- immune disease: sarcoid, Sjögren's syndrome
+- specific nephrotoxins: lead, cadmium, mercury, aristolochic acid (p319)
+- haematological disorders: myeloma
+- genetic interstitial disease.
+
+Treatment: Stop causative agent or treat underlying cause. Reduce risk of progression as per CKD management: ACE-i/ARB, BP control, glucose, lipids (pp304-5). Future: antifibrotic agents?
+
+## Nephrotoxins
+
+Many agents may be toxic to the kidneys either by direct damage to the tubules, or by causing an interstitial nephritis (see earlier in topic). Examples (not an exhaustive list and idiosyncratic reactions are possible):
+
+- Analgesics: NSAIDs (p319).
+- Antimicrobials: Aminoglycosides (p319), sulfamethoxazole (in co-trimoxazole), penicillins, rifampicin, amphotericin, aciclovir.
+- Anticonvulsants: Lamotrigine, valproate, phenytoin.
+- Other drugs: PPIs, cimetidine, furosemide, thiazides, ACE-i /ARB, lithium, iron, calcineurin inhibitors, cisplatin.
+- Anaesthetic agents: Methoxyflurane, enflurane.
+- Radiocontrast material: (p319.)
+- Proteins: Igs in myeloma, light chain disease, Hb in haemolysis, myoglobin in rhabdomyolysis (p319).
+- Crystals: Urate (p319).
+- Bacteria: Streptococci, Legionella, Brucella, Mycoplasma, Chlamydia, TB, Salmonella, Campylobacter, leptospirosis, syphilis.
+- Viruses: EBV, CMV, HIV, polyomavirus, adenovirus, measles.
+- Parasites: Toxoplasma, Leishmania.
+- Other: Ethylene glycol, radiation (p319), aristolochic acid (p319).

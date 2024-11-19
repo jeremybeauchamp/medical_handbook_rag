@@ -1,0 +1,44 @@
+## Pacemakers
+
+In normal circumstances the SAN plays the role of pacemaker. On occasion, other areas of myocardium will set the pace (see earlier in chapter). If the heart is not pacing itself fast enough, artificial pacing may be required. Options include 'percussion pacing'—fist strikes to the precordium, used only in periarrest situations; transcutaneous pacing—electrical stimulation via defibrillator pads (p770); temporary transvenous pacing (p776); and a subcutaneously implanted permanent pacemaker.
+
+### Indications for temporary cardiac pacing include
+- Symptomatic bradycardia, unresponsive to atropine.
+- After acute anterior MI, prophylactic pacing is required in:
+  - complete AV block
+  - Mobitz type I AV block (Wenckebach)
+  - Mobitz type II AV block
+  - non-adjacent bifascicular, or trifascicular block (p100).
+- After inferior MI, pacing may not be needed in complete AV block if reasonably stable, rate is >40-50, and QRS complexes are narrow.
+- Suppression of drug-resistant tachyarrhythmias by overdrive pacing, eg SVT, VT.
+- Special situations: during general anaesthesia; during cardiac surgery; during electrophysiological studies; drug overdose (eg digoxin, β-blockers, verapamil).
+
+See p776 for further details and insertion technique.
+
+### Indications for a permanent pacemaker (PPM) include
+- Complete AV block (Stokes-Adams attacks, asymptomatic, congenital).
+- Mobitz type II AV block (p99).
+- Persistent AV block after anterior MI.
+- Symptomatic bradycardias (eg sick sinus syndrome, p125).
+- Heart failure (cardiac resynchronization therapy).
+- Drug-resistant tachyarrhythmias.
+
+### Pre-operative assessment 
+Bloods (FBC, clotting screen, renal function), IV cannula, consent, antibiotics as per local protocol.
+
+### Post-operative management 
+Prior to discharge, check wound for bleeding or haematoma; check lead positions and for pneumothorax on CXR; check pacemaker function. During 1st week, inspect for wound haematoma or dehiscence. Other problems: lead fracture or dislodgement; pacemaker interference (eg from patient's muscles); infected device. The battery needs changing every 5-10 years. For driving rules see p158.
+
+### Pacemaker letter codes 
+These enable pacemaker identification (min is 3 letters):
+- 1st letter the chamber paced (A=atria, V=ventricles, D=dual chamber).
+- 2nd letter the chamber sensed (A=atria, V=ventricles, D=dual chamber, O=none).
+- 3rd letter the pacemaker response (T=triggered, I=inhibited, D=dual).
+- 4th letter (R=rate modulation, P=programmable, M=multiprogrammable).
+- 5th letter (P means that in tachycardia the pacemaker will pace the patient. S means that in tachycardia the pacemaker shocks the patient. D=dual ability to pace and shock. O=neither of these).
+
+### Cardiac resynchronization therapy (CRT) 
+Improves the synchronization of cardiac contraction and reduces mortality³¹ in people with symptomatic heart failure who have an ejection fraction <35% and a QRS duration >120ms.³² It involves biventricular pacing (both septal and lateral walls of the LV) and, if required, also an atrial lead. It may be combined with a defibrillator (CRT-D).
+
+### ECG of paced rhythms 
+(fig 3.13 and fig 3.36). Pacemaker input appears as a vertical 'spike' on the ECG. This spike can be very small with modern bipolar pacing systems. Ventricular pacing usually has a broad QRS morphology (similar to LBBB). Systems are usually programmed 'on demand' so will only pace when necessary. Modern systems are generally very reliable but pacing spikes with no capture afterwards suggests a problem. Programming of devices is complicated so seek help early if concerned. Many pacemakers store intracardiac electrograms which can be accessed to correlate rhythm with any symptoms.

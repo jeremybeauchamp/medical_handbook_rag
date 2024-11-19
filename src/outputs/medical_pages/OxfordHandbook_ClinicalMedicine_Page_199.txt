@@ -1,0 +1,44 @@
+# British Thoracic Society (BTS)/NICE COPD guidelines
+
+## More advanced COPD
+
+### Management of COPD
+
+```mermaid
+graph TD
+    A[Initiate short-acting β2-antagonist (SABA)/short-acting muscarinic antagonist (SAMA)]
+    A --> B[FEV1 >50%]
+    A --> C[FEV1 <50%]
+    B --> D[Long-acting β2-antagonist (LABA)]
+    B --> E[Long-acting muscarinic antagonist (LAMA)*,4]
+    C --> E
+    C --> F[LABA plus inhaled corticosteroid (ICS) in combined inhaler]
+    D --> G[LABA plus inhaled corticosteroid (ICS)]
+    E --> H[LAMA plus LABA/ICS combination inhaler]
+    G --> H
+```
+
+Fig 4.14 Management of COPD in primary and secondary care.
+
+*Tiotropium (LAMA) is more effective than salmeterol in preventing exacerbations for patients with moderate-to-very-severe COPD.4
+
+© National Institute for Health and Clinical Excellence 2010. CG101 Chronic obstructive pulmonary disease in over 16s: diagnosis and management. Available from https://www.nice.org.uk/guidance/cg101. NICE guidance is prepared for the National Health Service in England. All NICE guidance is subject to regular review and may be updated or withdrawn.
+
+- Pulmonary rehabilitation is greatly valued by patients.
+- Consider LTOT if PaO2 <7.3kPa (see 'Long-term O2 therapy', earlier in topic OPPOSITE).
+- Surgery may be appropriate in selected patients, eg recurrent pneumothoraces; isolated bullous disease. Lung volume reduction/endobronchial valve/transplant.
+- NIV may be appropriate if hypercapnic on LTOT.
+- NB: air travel is risky if FEV1 <50% or PaO2 <6.7kPa on air.
+- Consider palliative care input.
+
+### Indications for specialist referral
+
+- Uncertain diagnosis, or suspected severe COPD, or a rapid decline in FEV1.
+- Onset of cor pulmonale.
+- Bullous lung disease (to assess for surgery).
+- Assessment for oral corticosteroids, nebulizer therapy, or LTOT.
+- <10 pack-years smoking (= the number of packs/day × years of smoking) or COPD in patient <40yrs (eg is the cause α1-antitrypsin deficiency? p290).
+- Symptoms disproportionate to lung function tests.
+- Frequent infections (to exclude bronchiectasis).
+
+4 Cochrane meta-analyses (2007) of trials (including TORCH) favour steroids + LABA (long-acting β-agonist) vs either alone. LABA alone may ↑ exacerbation rates, but no excess hospitalizations or mortality; steroid inhalers alone are associated with ↑ mortality (by 33%) compared with steroids + LABA.4 Steroid inhalers may ↑ risk of pneumonia, but when combined with LABA, advantages outweigh disadvantages.

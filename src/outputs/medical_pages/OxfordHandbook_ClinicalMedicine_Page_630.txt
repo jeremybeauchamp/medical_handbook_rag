@@ -1,0 +1,40 @@
+# Colorectal carcinoma
+
+This is the 3rd most common cancer and 2nd most common cause of UK cancer deaths (16,000 deaths/yr). Usually adenocarcinoma. 86% of presentations are in those >60yrs old. Lifetime UK incidence: ♂ = 1:15; ♀ = 1:19.
+
+## Predisposing factors
+Neoplastic polyps (see BOX & p520); IBD (UC and Crohn's); genetic predisposition (<8%), eg FAP and HNPCC (see p521); diet (low-fibre; red and processed meat); alcohol; smoking; previous cancer. Prevention: While routine chemoprevention is not currently recommended due to gastrointestinal SEs, aspirin ≥75mg/d reduces incidence and mortality.
+
+## Presentation
+depends on site:
+- Left-sided: Bleeding/mucus PR; altered bowel habit or obstruction (25%); tenesmus; mass PR (60%).
+- Right: ↓Weight; ↓Hb; abdominal pain; obstruction less likely.
+- Either: Abdominal mass; perforation; haemorrhage; fistula.
+See p522 for a guide to urgent referral criteria. See fig 13.34 for distribution.
+
+## Tests
+FBC (microcytic anaemia); faecal occult blood (FOB, see BOX); sigmoidoscopy or colonoscopy (figs 6.7 & 6.8, p249), which can be done 'virtually' by CT (fig 16.31, p743); LFT; liver MRI/US. CEA (p531) may be used to monitor disease and effectiveness of treatment. If family history of FAP, refer for DNA test once >15yrs old.
+
+## Spread
+Local, lymphatic, by blood (liver, lung, bone) or transcoelomic. The TNM system (Tumour, Node, Metastases see table 13.13 and p523) is used to stage disease and is preferred to the older Dukes' classification (Dukes A: limited to muscularis mucosae; Dukes B: extension through muscularis mucosae; Dukes C: involvement of regional lymph nodes).
+
+## Surgery
+aims to cure and may ↑ survival times by up to 50%. In elective surgery, anastomosis is typically achieved at the 1st operation. Laparoscopic surgery has revolutionized surgery for colon cancer. It is as safe as open surgery and there is no difference in overall survival or disease recurrence.
+- Right hemicolectomy for caecal, ascending, or proximal transverse colon tumours.
+- Left hemicolectomy for tumours in distal transverse or descending colon.
+- Sigmoid colectomy for sigmoid tumours.
+- Anterior resection for low sigmoid or high rectal tumours.
+- Abdomino-perineal (AP) resection for tumours low in the rectum (≤8cm from anus): permanent colostomy and removal of rectum and anus.
+- Hartmann's procedure in emergency bowel obstruction, perforation, or palliation (p582).
+- Transanal endoscopic microsurgery allows local excision through a wide proctoscope for localized rectal disease.
+
+Endoscopic stenting should be considered for palliation in malignant obstruction and as a bridge to surgery in acute obstruction. Stenting ↓ need for colostomy, has less complications than emergency surgery, shortens intensive care and total hospital stays, and prevents unnecessary operations. Surgery with liver resection may be curative if single-lobe hepatic metastases and no extrahepatic spread.
+
+## Radiotherapy
+is mostly used in palliation for colonic cancer. It is occasionally used pre-op in rectal cancer to allow resection. Post-op radiotherapy is only used in patients with rectal tumours at high risk of local recurrence.
+
+## Chemotherapy
+Adjuvant chemotherapy for stage 3 disease has been shown to reduce disease recurrence by 30% and mortality by 25%. Benefits for stage 2 disease are more marginal and warrant an individualized approach. The FOLFOX regimen has become standard (fluorouracil, folinic acid and oxaliplatin). Chemotherapy is also used in palliation of metastatic disease. Biological therapies: Bevacizumab (anti-VEGF antibody) improves survival when added to combination therapy in advanced disease. Cetuximab and panitumumab (anti-EGFR agents) improve response rate and survival in KRAS wild-type metastatic colorectal cancer.
+
+## Prognosis
+Survival is dependent on age and stage; for stage 1 disease, 5yr survival is ~75% but this drops to just 5% with diagnosis at stage 4, hence the imperative for effective screening (BOX).

@@ -1,0 +1,16 @@
+# Emergency needle pericardiocentesis
+
+Fig 18.15 Emergency needle pericardiocentesis.
+
+- Get your senior's help (for whom this page may serve as an aide-memoire).
+- Equipment: 20mL syringe, long 18G cannula, 3-way tap, ECG monitor, skin cleanser. Use ECHO guidance if there is time.
+- If time allows, use full aseptic technique, at a minimum clean skin with 2% chlorhexidine in 70% alcohol and wear sterile gloves, and, if conscious, use local anaesthesia and sedation, eg with slow IV midazolam: titrate up to 3.5–5mg—start with 2mg over 1min, 0.5–1mg in elderly (in whom the maximum dose is 3.5mg; inject at the rate of 2mg/min)—antidote: flumazenil 0.2mg IV over 15s, then 0.1mg every 60s, up to 1mg in total.
+- Ensure you have IV access and full resuscitation equipment to hand.
+- Introduce needle at 45° to skin just below and to left of xiphisternum, aiming for tip of left scapula (fig 18.15). Aspirate continuously and watch ECG. Frequent ventricular ectopics or an injury pattern (ST segment) on ECG imply that the myocardium has been breached—withdraw slightly. As soon as fluid is obtained through the needle, slide the cannula into place.
+- Evacuate pericardial contents through the syringe and 3-way tap. Removal of only a small amount of fluid (eg 20mL) can produce marked clinical improvement. If you are not sure whether the fluid you are aspirating is pure blood (eg on entering a ventricle), see if it clots (heavily bloodstained pericardial fluid does not clot), or measure its PCV (though this may be difficult in the acute setting but some blood gas analysers may give this).
+- You can leave the cannula in situ temporarily, for repeated aspiration. If there is reaccumulation, insert a drain but pericardiectomy may be needed.
+- Send fluid for microscopy and culture, as needed, including tests for TB.
+
+Complications: Laceration of ventricle or coronary artery (± subsequent haemopericardium); aspiration of ventricular blood; arrhythmias (ventricular fibrillation); pneumothorax; puncture of aorta, oesophagus (± mediastinitis), or peritoneum (± peritonitis).
+
+Fig 18.16 Methods of providing oxygen.

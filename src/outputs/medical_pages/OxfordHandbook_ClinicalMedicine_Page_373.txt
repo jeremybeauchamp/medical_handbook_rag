@@ -1,0 +1,29 @@
+# Chronic lymphocytic leukaemia (CLL)
+
+CLL is the commonest leukaemia (>25%; incidence: ~5/100000/yr). ♂:♀≈2:1. The hallmark is progressive accumulation of a malignant clone of functionally incompetent B cells. Mutations, trisomies, and deletions (eg del17p13) influence risk (table 8.8).
+
+## Table 8.8 Staging and survival in CLL
+
+| Rai stage: | Description | Median survival |
+|------------|-------------|-----------------|
+| 0 | Lymphocytosis alone | >13yrs |
+| I | Lymphocytosis + lymphadenopathy | 8yrs |
+| II | Lymphocytosis + spleno- or hepatomegaly | 5yrs |
+| III | Lymphocytosis + anaemia (Hb <110g/L) | 2yrs |
+| IV | Lymphocytosis + platelets <100 × 10⁹/L | 1yr |
+
+**Symptoms** Often none, presenting as a surprise finding on a routine FBC. Patients may be anaemic or infection-prone, or have weight, sweats, anorexia if severe.
+
+**Signs** Enlarged, rubbery, non-tender nodes (fig 8.56). Splenomegaly, hepatomegaly.
+
+**Tests** ↑Lymphocytes—may be marked (fig 8.57). Later: autoimmune haemolysis (p338), marrow infiltration: ↓Hb, neutrophils, platelets.
+
+**Complications** 1 Autoimmune haemolysis. 2 ↑Infection due to hypogammaglobulinaemia (=↓IgG), bacterial, viral especially herpes zoster. 3 Marrow failure.
+
+**Treatment** Consider drugs if symptomatic. Fludarabine + rituximab ± cyclophosphamide is 1st line (there is synergism). Ibrutinib, chlorambucil, bendamustine, and ofatumumab all have a role. Steroids help autoimmune haemolysis. Radiotherapy helps lymphadenopathy and splenomegaly. Stem-cell transplantation may have a role in carefully selected patients. Supportive care: Transfusions, IV human immunoglobulin if recurrent infection.
+
+**Natural history** ⅓ never progress (or even regress), ⅓ progress slowly, and ⅓ progress actively. CD23 and β2 microglobulin correlate with bulk of disease and rates of progression. Death is often due to infection or transformation to aggressive lymphoma (Richter's syndrome).
+
+The image on the left shows bilateral cervical lymphadenopathy in CLL.
+
+The image on the right shows CLL: many lymphocytes and a 'smear' cell: a fragile cell damaged in preparation. Courtesy of Prof. Christine Lawrence.

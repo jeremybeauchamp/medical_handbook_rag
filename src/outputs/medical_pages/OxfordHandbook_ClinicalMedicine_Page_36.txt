@@ -1,0 +1,48 @@
+## Evidence-based medicine (EBM)
+
+EBM is the conscientious and judicious use of current, best research evidence to optimize management plans and integrate them with patients' values by:
+
+1. Asking answerable questions.
+2. Finding the best information.
+3. Appraising the information for quality, validity, and relevance.
+4. Dialogue to find out what the patient wants.
+5. Applying data to patient care.
+6. Evaluation.
+
+### The amount of evidence
+
+More than 2 million new biomedical papers are published each year including >20 000 new randomized trials. Patients benefit directly from a tiny fraction of these papers. How do we find them?
+
+- A hierarchy of evidence (fig 1.3) is used to identify the best research available to answer our question.
+- Specialist EBM journals, eg Evidence-based Medicine, appraise published information for quality, relevance, and interest on our behalf.
+- The Cochrane Collaboration gathers and summarizes best evidence, free from commercial sponsorship and conflicts of interest. >37 000 researchers from 130 countries contribute.
+
+| Hierarchy of evidence |
+|------------------------|
+| Systematic Reviews |
+| Critically-Appraised Topics [Evidence Syntheses] |
+| Critically-Appraised Individual Articles [Article Synopses] |
+| Randomized Controlled Trials (RCTs) |
+| Cohort Studies |
+| Case-Controlled Studies |
+| Case Series / Reports |
+| Background Information / Expert Opinion |
+
+Fig 1.3 Hierarchy of evidence.
+EBM Pyramid and EBM Page Generator, copyright 2006 Trustees of Dartmouth College and Yale University.
+
+### Problems:
+
+- The concept of scientific rigour is opaque. What do we want? The science, the rigour, the truth, or what will be most useful to patients? These may overlap, but they are not the same. Can average cohort results inform clinical decisions on an individual level (especially in the context of comorbidity)?
+- Can we really appraise ALL the evidence? We are hindered by publication bias. Around half of all clinical trials remain unpublished. See www.alltrials.net for the campaign to register all trials, and ensure methods and summary results are available.
+- Evidence can be expensive. Who paid the bill and what is their vested interest?
+- Is the result clinically significant? What is the level of benefit to the individual, as opposed to the population? Is the EBM tail wagging the clinical dog?
+- How is our innate hierarchy of evidence constructed? Do we maintain the same standard of the evidence for all changes to our practice?
+- Have you checked the correspondence columns in journals from which winning papers are extracted? It may take years for unforeseen flaws to surface.
+- There is a danger that by always asking, 'What is the evidence?', we will divert resources from hard-to-prove areas (eg psychosocial interventions).
+- EBM is never 100% up to date and reworking meta-analyses takes time and money. Specialists may ostensibly reject a new trial due to a tiny flaw, when the real dread is that it might flip their once-perfect formulation.
+- EBM lies uncomfortably in a world of clinical intuition and instinctual premonition. Yet these instincts may be vital.
+- If EBM is prescriptive, patient choice declines. Does our zeal for EBM make us arrogant, mechanical, and defensive? Where is the shared decision-making (p7)?
+- By focusing on answerable questions, EBM can distract us from our patients' unanswerable questions; questions that still require time and acknowledgement.
+
+The practice of EBM must be informed by clinical judgement and compassion.

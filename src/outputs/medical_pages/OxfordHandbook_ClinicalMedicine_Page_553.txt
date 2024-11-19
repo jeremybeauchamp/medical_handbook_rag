@@ -1,0 +1,51 @@
+# The rheumatological history
+
+In the assessment of an arthritic presentation, pay particular attention to the distribution of joint involvement (including spine) and the presence of symmetry. Also look for disruption of joint anatomy, limitation of movement (by pain or contracture), joint effusions and peri-articular involvement (see p540 for a fuller assessment). Ask about, and examine for, extra-articular features: skin and nail (see p76) involvement (include scalp, hairline, umbilicus, genitalia, and natal cleft—psoriasis can easily be missed); eye signs (see p560); lungs (eg fibrosis) (see p198); kidneys (see p314); heart; GI (eg mouth ulcers, diarrhoea); GU (eg urethritis, genital ulcers); and CNS.
+
+## Three screening questions for musculoskeletal disease
+1. Are you free of any pain or stiffness in your joints, muscles, or back?
+2. Can you dress yourself without too much difficulty?
+3. Can you manage walking up and down stairs?
+
+If yes to all three, serious inflammatory muscle/joint disease is unlikely.
+
+| Presenting symptoms: | Related diseases: |
+|----------------------|-------------------|
+| • Pattern of involved joints. | • Crohn's/UC (in ankylosing spondylitis), |
+| • Symmetry (or not). | preceding infections, psoriasis. |
+| • Morning stiffness >30min (eg RA). | Current and past drugs: |
+| • Pain, swelling, loss of function, | • NSAIDs, DMARDs (p547). |
+| erythema, warmth. | • Biological agents (eg TNFα inhibitors). |
+| Extra-articular features: | Family history: |
+| • Rashes, photosensitivity (eg SLE). | • Arthritis, psoriasis, autoimmune disease. |
+| • Raynaud's (SLE; systemic sclerosis; | Social history: |
+| polymyositis and dermatomyositis). | • Age. |
+| • Dry eyes or mouth (Sjögren's). | • Occupation. |
+| • Red eyes, iritis (eg AS). | • Sexual history. |
+| • Diarrhoea/urethritis (reactive arthri- | • Ethnicity (eg SLE is commoner in African- |
+| tis). | Caribbeans and Asians). |
+| • Nodules or nodes (eg RA; TB; gout). | • Ability to function (eg dressing, groom- |
+| • Mouth/genital ulcers (eg Behçet's, | ing, writing, walking). |
+| SLE). | • Domestic situation, social support, home |
+| • Weight loss (eg malignancy, any sys- | adaptations. |
+| temic inflammatory disease). | • Smoking (may worsen RA). |
+| | • IBD. |
+
+## Arthritides
+
+The pattern of joint involvement can provide clues to the underlying cause (table 12.1).
+
+Table 12.1 Patterns of presentation of arthritis
+
+| Monoarthritis | Oligoarthritis (≤5 joints) | Polyarthritis (>5 joints involved) |
+|---------------|---------------------------|-----------------------------------|
+| | | Symmetrical | Asymmetrical |
+| Septic arthritis | Crystal arthritis | Rheumatoid arthritis | Reactive arthritis |
+| Crystal arthritis (gout, CPPD) | Psoriatic arthritis | Osteoarthritis | Psoriatic arthritis |
+| Osteoarthritis | Reactive arthritis, eg Yersinia, Salmonella, Campylobacter | Viruses (eg hepatitis A, B, & C; mumps) | |
+| Trauma (haemarthrosis) | Ankylosing spondylitis | | |
+| | Osteoarthritis | Systemic conditions* (can be either) | |
+
+*Connective tissue disease (eg SLE and relapsing polychondritis), sarcoidosis, malignancy (eg leukaemia), endocarditis, haemochromatosis, sickle-cell anaemia, familial Mediterranean fever, Behçet's.
+
+Exclude septic arthritis in any acutely inflamed joint, as it can destroy a joint in under 24h (p544). Inflammation may be less overt if immunocompromised (eg from the many immunosuppressive drugs used in rheumatological conditions) or if there is underlying joint disease. Joint aspiration (p541) is the key investigation, and if you are unable to do it, find someone who can.

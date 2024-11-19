@@ -1,0 +1,42 @@
+# 536 Palliative care: care in the last days of life
+
+Once it is recognized that a patient is entering the final days of their illness (see 'Diagnosing dying', p12), the focus of care should be the relief of distressing symptoms.
+
+An individualized care plan should be made and discussed with your patient, their family, and relevant medical staff.
+
+Continue to treat reversible problems as appropriate (eg urinary retention). Stop observations and blood tests (unless you are going to act on them). Rationalize medications but keep any that provide ongoing symptom benefit.
+
+*Prescribe as required subcutaneous end of life drugs.* Prescribe PRN SC medications before they are needed, in anticipation of symptoms (see table 11.6).
+
+*Start a syringe driver* when symptom control drugs are needed regularly (see table 11.7). Practice is variable, some drugs may be used outside of licensed indications. Always defer to local guidelines first. If pain relief is insufficient, review regular dose and recalculate the PRN requirement (1/10th-1/6th of 24h dose).
+
+## Anticipatory end of life medication
+
+Table 11.6 Typical anticipatory medications.
+
+| Indication | Drug | Subcutaneous dose |
+|------------|------|-------------------|
+| Pain | Morphine | 2.5mg SC or 5mg PO (maximum every 1h) If established on opioids use 1/10th-1/6th of daily dose (see p533 and table 11.5) |
+| Agitation + N&V | Haloperidol | 2.5mg SC (maximum every 1h) |
+| Agitation + anxiety | Midazolam | 2.5mg SC (maximum every 1h) |
+| N&V | Levomepromazine | 6.25mg SC TDS |
+| Troublesome respiratory secretions | Glycopyrronium | 200mcg SC every 4-8h |
+
+## Syringe drivers
+
+Syringe drivers (table 11.7) allow a continuous SC infusion of drugs, avoiding repeated cannulation and injection when the oral route is no longer feasible. Some medications should not be put in the same syringe—check interactions. Take into account regular doses when calculating requirements. If in doubt, seek expert help. Do not forget anticipatory prescribing in addition (table 11.6).
+
+Table 11.7 Symptom control medication by SC infusion. Practice is variable, defer to local guidelines first.
+
+| Indication | Drug | Subcutaneous dose |
+|------------|------|-------------------|
+| Pain | Morphine | If opioid naive: 10-15mg/24h If on opioids calculate daily opioid dose (consider reducing by 25-30%) then convert (table 11.5) to SC morphine over 24h |
+| Anxiety, agitation, delirium | Midazolam | 5-20mg/24h |
+| | Levomepromazine | 25-75mg/24h |
+| | Haloperidol | 2-10mg/24h |
+| N&V | Cyclizine | 150mg/24h |
+| | Haloperidol | 1-3mg/24h |
+| | Levomepromazine | 6.25-12.5mg/24h (sedation at higher doses) |
+| Respiratory secretions | Hyoscine butylbromide | 60-120mg/24h. Also used for bowel colic |
+| | Glycopyrronium | 600-1200mcg/24h |
+| Seizures | Seizure prophylaxis: midazolam 20-30mg/24h (may sedate). Dexa-methasone, midazolam and levetiracetam can be given by SC infusion. |

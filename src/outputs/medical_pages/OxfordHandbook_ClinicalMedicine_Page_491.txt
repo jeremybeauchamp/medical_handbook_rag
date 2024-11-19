@@ -1,0 +1,26 @@
+# When should TIA lead to emergency referral?
+
+The ABCD² score is a helpful tool to stratify which patients are at higher risk of having a stroke following a suspected TIA (table 10.6).
+
+## Table 10.6 The ABCD² score
+
+| Factor | Points |
+|--------|--------|
+| Age ≥60 yrs old | 1 point |
+| Blood pressure ≥140/90 | 1 point |
+| Clinical features |  |
+| - Unilateral weakness | 2 points |
+| - Speech disturbance without weakness | 1 point |
+| Duration of symptoms |  |
+| - Symptoms lasting ≥1h | 2 points |
+| - Symptoms lasting 10-59min | 1 point |
+| Diabetes | 1 point |
+
+A score of ≥4 indicates that the patient is at high risk of an early stroke, and must be assessed by a specialist within 24h. A score of ≥6 strongly predicts a stroke (8.1% within 2 days, 35.5% in the next week). Other factors that suggest increased risk are:
+- AF
+- >1 TIA in a week
+- TIA while anticoagulated.
+
+Crucially, risk is lowest if the patient is treated in a specialized stroke unit (p474).
+
+ABCD² score reprinted from The Lancet, 366, Rothwell et al., 'A simple score (ABCD) to identify individuals at high early risk of stroke after transient ischaemic attack', 29-36, 2003, with permission from Elsevier.

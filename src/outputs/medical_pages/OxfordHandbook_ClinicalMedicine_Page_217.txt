@@ -1,0 +1,35 @@
+# The essence of endocrinology
+
+## For scientists
+- Define a syndrome, and match it to a gland malfunction.
+- Measure the gland's output in the peripheral blood. Define clinical syndromes associated with too much or too little secretion (hyper- and hypo-syndromes, respectively; eu- means normal, neither ↑ nor ↓, as in euthyroid). Note factors that may make measurement variable, eg diurnal release of cortisol.
+- If suspecting hormone deficiency, test by stimulating the gland that produces it (eg short ACTH stimulation test or Synacthen® test in Addison's). If the gland is not functioning normally, there will be a blunted response to stimulation.
+- If suspecting hormone excess, test by inhibiting the gland that produces it (eg dexamethasone suppression test in Cushing's). If there is a hormone-secreting tumour then this will fail to suppress via normal feedback mechanisms.
+- Find a way to image the gland. NB: non-functioning tumours or 'incidentalomas' may be found in health, see p224. Imaging alone does not make the diagnosis.
+- Aim to halt disease progression; diet and exercise can stop progression of impaired fasting glucose to frank diabetes.¹,² For other glands, halting progression will depend on understanding autoimmunity, and the interaction of genes and environment. In thyroid autoimmunity (an archetypal autoimmune disease), it is possible to track interactions between genes and environment (eg smoking and stress) via expression of immunologically active molecules (HLA class I and II, adhesion molecules, cytokines, CD40, and complement regulatory proteins).³
+
+Endocrinologists love this reductionist approach, but have been less successful at understanding *emergent phenomena*—those properties and performances of ours that cannot be predicted from full knowledge of our perturbed parts. We understand the diurnal nature of cortisol secretion, for example, but the science of relating this to dreams, the consolidation of memory, and the psychopathology of families and other groups (such as the endocrinology ward round you may be about to join) is in its infancy. But as doctors we are steeped in the hormonal lives of patients (as they are in ours)—and we may as well start by recognizing this now.
+
+## For those doing exams
+
+'What's wrong with him?' your examiner asks, boldly. While you apologize to the patient for this rudeness by asking, 'Is it alright if we speak about you as if you weren't here?', think to yourself that if you were a betting man or woman you would wager that the diagnosis will be endocrinological. In no other discipline are gestalt impressions so characteristic. To get good at recognizing these conditions, spend time in endocrinology outpatients and looking at collections of clinical photographs. Also, specific cutaneous signs are important, as follows.
+
+**Thyrotoxicosis:** Hair loss; pretibial myxoedema (confusing term, p218); onycholysis (nail separation from the nailbed); bulging eyes (exophthalmos/proptosis).
+
+**Hypothyroidism:** Hair loss; eyebrow loss; cold, pale skin; characteristic face. You might, perhaps should, fail your exam if you blurt out 'Toad-like face'.
+
+**Cushing's syndrome:** Central obesity and wasted limbs (='lemon on sticks' see fig 5.2); moon face; buffalo hump; supraclavicular fat pads; striae.
+
+**Addison's disease:** Hyperpigmentation (face, neck, palmar creases).
+
+**Acromegaly:** Acral (distal) + soft tissue overgrowth; big jaws (macrognathia), hands and feet; the skin is thick; facial features are coarse.
+
+**Hyperandrogenism (♀):** Hirsutism; temporal balding; acne.
+
+**Hypopituitarism:** Pale or yellow tinged thinned skin, resulting in fine wrinkling around the eyes and mouth, making the patient look older.
+
+**Hypoparathyroidism:** Dry, scaly, puffy skin; brittle nails; coarse hair.
+
+**Pseudohypoparathyroidism:** Short stature, short neck, and short 4th and 5th metacarpals.
+
+Fig 5.2 'Lemon on sticks'

@@ -1,0 +1,29 @@
+# Stroke: investigation and prevention
+
+## Primary prevention (ie before any stroke.)
+Control risk factors (p470): look for and treat hypertension, DM, lipids (p690), cardiac disease (see BOX 'Cardiac causes of stroke') and help quit smoking (see p93). Exercise helps (HDL, glucose tolerance). Use lifelong anticoagulation in AF (see BOX 'Cardiac causes of stroke') and prosthetic heart valves. • For prevention post-TIA see p476.
+
+## Secondary prevention (ie preventing further strokes.)
+Control risk factors (as Primary prevention mentioned above): there is a considerable advantage from lowering blood pressure and cholesterol (even if not particularly raised).
+
+Antiplatelet agents after stroke: (See BOX 'Antiplatelets'.) If no primary haemorrhage on CT, give 2 weeks of aspirin 300mg, then switch to long-term clopidogrel monotherapy. If this is CI or not tolerated then give low dose aspirin plus slow-release dipyridamole. Anticoagulation after stroke from AF: See BOX 'Cardiac causes of stroke'.
+
+## Tests 
+(See p470 for imaging.) Investigate promptly to identify risk factors for further strokes, but consider whether results will affect management. Look for:
+
+- Hypertension. Look for retinopathy (p560), nephropathy, or cardiomegaly on CXR.
+- Cardiac source of emboli. (See BOX 'Cardiac causes of stroke'.) 24h ECG to look for AF (p130). CXR may show an enlarged left atrium. Echocardiogram may reveal mural thrombus due to AF or a hypokinetic segment of cardiac muscle post-MI. It may also show valvular lesions in infective endocarditis or rheumatic heart disease. Transoesophageal echo is more sensitive than transthoracic.
+- Carotid artery stenosis. Do carotid Doppler US ± CT/MRI angiography. Benefits and risks of revascularization should be individualized by an expert but generally most with ≥70% stenosis and life expectancy ≥5yrs will benefit while some (especially ♂) will benefit with 50–69% stenosis⁷ (see p476). Carotid endarterectomy is the procedure of choice; endovascular carotid artery angioplasty with stenting is an alternative for those unfit for surgery and achieves similar long-term outcomes but has higher peri-procedure stroke and mortality rates.
+- Hypoglycaemia, hyperglycaemia, dyslipidaemia, and hyperhomocysteinaemia.
+- Vasculitis. ESR, ANCA (p556). VDRL to look for active, untreated syphilis (p412).
+- Prothrombotic states, eg thrombophilia (p374), antiphospholipid syndrome (p554).
+- Hyperviscosity, eg polycythaemia (p366), sickle-cell disease (p340).
+- Thrombocytopenia and other bleeding disorders.
+- Genetic tests. CADASIL (p470); Fabry disease (p698).
+
+## Prognosis 
+Overall mortality: 60 000/yr; UK 20% at 1 month, then ≤10%/yr. Full recovery: ≤40%. Drowsiness ≈ poor prognosis. Avoid pressure ulcers (fig 10.16).
+
+----
+
+⁷ Interventions for 50–69% stenoses can be justifiable; individualize risk and check local guidelines. In particular, check which criteria used to estimate degree of stenosis since NASCET (North American Symptomatic Carotid Endarterectomy Trial) criteria tend to include some more severe lesions in 50-69% range as compared to the ECST (European Carotid Surgery Trialists' Collaborative Group) criteria.

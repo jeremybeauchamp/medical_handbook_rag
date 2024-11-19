@@ -1,0 +1,27 @@
+# Abdominal pain
+
+Character depends on underlying cause. Examples: irritation of the mucosa (acute gastritis), smooth muscle spasm (acute enterocolitis), capsular stretching (liver congestion in CCF), peritoneal inflammation (acute appendicitis), and direct splanchnic nerve stimulation (retroperitoneal extension of tumour). The *character* (constant or colicky, sharp or dull), *duration*, and *frequency* depend on the mechanism of production. The *location* and *distribution* of referred pain depend on the anatomical site. *Time of occurrence* and *aggravating or relieving factors* such as meals, defecation, and sleep also have special significance related to the underlying disease process. The site of the pain may provide a clue:
+
+- **Epigastric**: Pancreatitis, gastritis/duodenitis, peptic ulcer, gallbladder disease, aortic aneurysm.
+- **Left upper quadrant**: Peptic ulcer, gastric or colonic (splenic flexure) cancer, splenic rupture, subphrenic or perinephric abscess, renal (colic, pyelonephritis).
+- **Right upper quadrant**: Cholecystitis, biliary colic, hepatitis, peptic ulcer, colonic cancer (hepatic flexure), renal (colic, pyelonephritis), subphrenic/perinephric abscess.
+- **Loin**: (lateral ⅓ of back between thorax and pelvis—merges with the flank, p565) Renal colic, pyelonephritis, renal tumour, perinephric abscess, pain referred from vertebral column. Causes of *flank pain* are similar (see index for fuller list).
+- **Left iliac fossa**: Diverticulitis, volvulus, colon cancer, pelvic abscess, inflammatory bowel disease, hip pathology, renal colic, urinary tract infection (UTI), cancer in undescended testis; zoster —wait for the rash! (p454). *Gynae*: torsion of ovarian cyst, salpingitis, ectopic pregnancy.
+- **Right iliac fossa pain**: All causes of left iliac fossa pain plus appendicitis and Crohn's ileitis, but usually excluding diverticulitis.
+- **Pelvic**: *Urological*: UTI, retention, stones. *Gynae*: menstruation, pregnancy, endometriosis (OHCS p288), salpingitis, endometritis (OHCS p274), ovarian cyst torsion.
+- **Generalized**: Gastroenteritis, irritable bowel syndrome, peritonitis, constipation.
+- **Central**: Mesenteric ischaemia, abdominal aneurysm, pancreatitis.
+
+Remember referred pain: Myocardial infarct → epigastrium; pleural pathology.
+
+## Abdominal distension (masses and the 'famous five' Fs)
+
+Enid Blyton's Famous Five characters can generally solve any crime or diagnostic problem using 1950s methodologies steeped in endless school holidays, copious confection-laden midnight feasts, and lashings of homemade ginger beer.
+
+Let's give them the problem of abdominal distension. The sweets and drinks used by the Famous Five actually contribute to the distension itself: fat, fluid, faeces, flatus, and fetus. If you think it far-fetched to implicate ginger beer in the genesis of fetuses, note that because it was homemade, like the fun, there was no limit to its intoxicating powers in those long-gone vintage summers. The point is to think to ask 'When was your last period?' whenever confronted by a distended abdomen.
+
+Flatus will be resonant on percussion. Fluid will be dull, and can be from ascites (eg from malignancy or cirrhosis: look for shifting dullness), distended bladder (cannot get below it) or an aortic aneurysm (expansile). Masses can be pelvic (think of uterine fibroids or ovarian pathology) or tumours from colon, stomach, pancreas, liver, or kidney. Also see causes of *ascites with portal hypertension* (p604), *hepatomegaly* (p61), *splenomegaly*, and *other abdominal masses* (p604).
+
+## SSRIs and upper GI bleeding risk
+
+SSRIs have been associated with an increased risk of bleeding.⁹ SSRIs are thought to increase gastric acidity and serotonin is thought to play a role in platelet aggregation. This may lead to an increased risk of ulcers and bleeding, particularly when co-prescribed with anticoagulants and drugs affecting intestinal lining (eg NSAIDs). NICE¹⁰ recommends cautious concomitant use of SSRIs with anticoagulants or NSAIDs and recommends gastroprotection (eg PPI) for older patients taking NSAIDs or aspirin.

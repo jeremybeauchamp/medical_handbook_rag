@@ -1,0 +1,26 @@
+# How synapses work—the neuromuscular junction
+
+1. Before transmission can occur, neurotransmitter must be packed into synaptic vesicles. At the neuromuscular junction (NMJ) this is acetylcholine (ACh). Each vesicle contains ~8000 ACh molecules.
+
+2. When an action potential arrives at the pre-synaptic terminal, depolarization opens voltage-gated Ca²⁺ channels (VGCCs). In Lambert-Eaton syndrome, anti-P/Q type VGCC antibodies disrupt this stage of synaptic transmission.¹⁵
+
+3. Influx of Ca²⁺ through the VGCCs triggers fusion of synaptic vesicles with the pre-synaptic membrane (a process that botulinum toxin interferes with), and neurotransmitter is released from the vesicles into the synaptic cleft.
+
+4. Transmitter molecules cross the synaptic cleft by diffusion and bind to receptors on the post-synaptic membrane, causing depolarization of the post-synaptic membrane (the end-plate potential). This change in the post-synaptic membrane triggers muscle contraction at the NMJ, or onward transmission of the action potential in neurons. In myasthenia gravis, antibodies block the post-synaptic ACh receptors, preventing the end-plate potential from becoming large enough to trigger muscle contraction—and muscle weakness ensues.
+
+5. Transmitter action is terminated by enzyme-induced degradation of transmitter (eg acetylcholinesterase), uptake into the pre-synaptic terminal or glial cells, or by diffusion away from synapse. Anticholinesterase treatments for myasthenia gravis, such as pyridostigmine, reduce the rate of degradation of ACh, increasing the chance that it will trigger an end-plate potential.
+
+| Component | Description |
+|-----------|-------------|
+| Nerve terminal | |
+| Acetylcholine vesicle | |
+| Antibody | |
+| Acetylcholine receptor | |
+| Muscle | |
+| Calcium channel (VGCC) | |
+
+**Fig 10.32 Myasthenia gravis features post-synaptic AChR antibodies.** Tendon reflexes are normal because the synapses do not have time to become fatigued with such a brief muscle contraction. Ocular palsies are common (it's not exactly clear why).
+
+**Fig 10.33 Lambert-Eaton syndrome features pre-synaptic Ca²⁺-channel antibodies.** Depressed tendon reflexes are common, because less transmitter is released, but reflexes may ↑ after maximum voluntary contraction due to a build of transmitter in the synaptic cleft (post-tetanic potentiation).
+
+¹⁵ Disruption of pre-synaptic transmission affects release of ACh in autonomic nervous system as well as at neuromuscular junction, explaining the prominence of dysautonomia in LEMS unlike in MG.

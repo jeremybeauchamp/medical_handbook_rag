@@ -1,0 +1,21 @@
+# Cardiovascular health
+
+Ischaemic heart disease (IHD) is the most common cause of death worldwide. Encouraging cardiovascular health is not only about preventing IHD: health entails the ability to exercise, and enjoying vigorous activity (within reason!) is one of the best ways of achieving health, not just because the heart likes it (↓BP, ↑'good' high-density lipoprotein (HDL))—it can prevent osteoporosis, improve glucose tolerance, and augment immune function (eg in cancer and if HIV+ve). People who improve and maintain their fitness live longer: ►age-adjusted mortality from all causes is reduced by >40%. Avoiding obesity helps too, but weight loss per se is only useful in reducing cardiovascular risk and the risk of developing diabetes when combined with regular exercise. Moderate alcohol drinking may also promote cardiovascular health.
+
+Hypertension is the chief risk factor for cardiovascular mortality, followed by smoking. Giving up smoking, even after many years, does bring benefit. Simple advice works. Most smokers want to give up. Just because smoking advice does not always work, do not stop giving it. Ask about smoking in consultations—especially those regarding smoking-related diseases.
+
+- Ensure advice is congruent with the patient's beliefs about smoking.
+- Getting patients to enumerate the advantages of giving up ↑ motivation.
+- Invite the patient to choose a date (when there will be few stresses) on which he or she will become a non-smoker.
+- Suggest throwing away all accessories (cigarettes, pipes, ash trays, lighters, matches) in advance; inform friends of the new change; practise saying 'no' to their offers of 'just one little cigarette'.
+- Nicotine gum, chewed intermittently to limit nicotine release: ≥ ten 2mg sticks may be needed/day. Transdermal nicotine patches may be easier. A dose increase at 1wk can help. Written advice offers no added benefit to advice from nurses. Always offer follow-up.
+- Varenicline is an oral selective nicotine receptor partial agonist. Start 1wk before target stop date and gradually increase the dose. SEs: appetite change; dry mouth; taste disturbance; headache; drowsiness; dizziness; sleep disorders; abnormal dreams; depression; suicidal thoughts; panic; dysarthria.
+- Bupropion (=amfebutamone) is said to ↑ quit rate to 30% at 1yr vs 16% with patches and 15.6% for placebo (patches + bupropion: 35.5%):¹ consider if the above fails. Warn of SEs: seizures (risk <1:1000), insomnia, headache.
+
+Lipids and diabetes (pp690, 206) are the other major modifiable risk factors. The QRISK2 score (www.qrisk.org) is used in the UK to integrate a patient's different cardiovascular risk factors in order to predict future cardiovascular health.² It can be used as part of a consultation on lifestyle factors to show patients that addressing certain risk factors (eg smoking, BP) will reduce their risk of MIs and strokes.
+
+►Apply preventive measures such as healthy eating (p244) early in life to maximize impact, when there are most years to save, and before bad habits get ingrained.
+
+## The randomized trial
+
+Cardiovascular medicine has an unrivalled treasure house of randomized trials. One of the chief pleasures of cardiovascular medicine lies in integrating these with clinical reasoning in a humane way. After a cardiac event, a protocol may 'mandate' statins, aspirin, β-blockers, ACE-i (p114), and a target BP and LDL cholesterol that makes your patient feel dreadful. What to do? Inform, negotiate, and compromise. Never reject your patient because of lack of compliance with your over-exacting regimens. Keep smiling, keep communicating, and keep up to date: the latest data may show that your patient was right all along.³

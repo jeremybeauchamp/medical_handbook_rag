@@ -1,0 +1,36 @@
+# Fungi
+
+Worldwide ↑ in fungal infection with new pathogenicity, ↑virulence, and new infective mechanisms. Incidence data limited by failures in recognition and diagnosis. Divided into superficial/cutaneous and systemic/invasive.
+
+## Superficial/cutaneous mycoses
+
+### Dermatophytosis
+Dermatophyte fungi digest keratin. Cause infection of skin and keratinized structures, eg hair, nails. Presentation: Scale and pruritus. Skin lesion may be annular with central healing, eg ring worm, tinea corporis. Tinea pedis affects up to 15% of healthy population: skin erosions and blisters in toe web spaces, dry scale on soles. Fungal nail disease = onychomycosis/tinea unguium: discolouration, nail thickening. Tinea capitis: scalp scaling, alopecia.
+
+### Superficial candidiasis
+Usually Candida albicans (fig 9.17), a commensal in mouth, vagina, and GI tract. Risk factors: immunosuppression, antibiotic treatment. Presentation: Oropharyngeal: white patches on erythematous background (plaque type); sore, inflamed areas (erythematous type). GU: soreness, white patches/discharge (fig 9.18). Skin: usually in folds/interdigital (fig 9.19).
+
+| Fig 9.17 Candida albicans. |
+|----------------------------|
+| Courtesy of P-Y Guillaume. |
+
+### Malassezia
+Commensals of greasy skin. Presentation: Pityriasis versicolor: scaly hypo/hyperpigmented rash with scaling (fig 9.20). Seborrhoeic dermatitis: scaling of face, scalp (dandruff), anterior chest. Malassezia folliculitis: itchy, follicular rash on back and shoulders (∆∆ acne).
+
+Diagnosis: Clinical, microscopy of skin scrapings. Treatment: All superficial mycoses: topical '-azole' antifungal or terbinafine 1–4wk. Also topical nystatin and amphotericin in superficial candidiasis. Tinea capitis: griseofulvin, terbinafine, itraconazole. Nail infection requires systemic treatment (terbinafine, itraconazole): confirm diagnosis, and caution re side-effects including hepatotoxicity.
+
+## Systemic/invasive mycoses
+
+### Invasive candidiasis
+Typically occurs in immunocompromised, comorbidity, or ITU settings. Genetic susceptibility likely contributes. Estimated 250 000/yr with 50 000 deaths. Candidaemia in ~7/1000 ICU patients. Presentation: Risk factors for invasive fungal disease (see p409), febrile with no microbiological evidence of infection, new murmur, muscle tenderness, skin nodules. Diagnosis: (Repeated) blood/tissue culture. PCR. Candida in respiratory secretions alone is insufficient. Treatment: Remove all possible catheters. Echinocandins (caspofungin, anidulafungin, micafungin), fluconazole, amphotericin (liposomal for renal toxicity). Consider fluconazole prophylaxis if risk factors for invasive disease (p403). Consider empirical treatment if persistent fever, unresponsive to other therapy (discuss with microbiologist, choice depends on local epidemiology, comorbidity).
+
+### Cryptococcus
+See HIV p400. Causes meningitis, pneumonia. Presentation: Usually immunosuppression, eg HIV, sarcoid, Hodgkin's, haematological malignancy, post-transplant. History may be long, non-specific. Headache, confusion, ataxia, focal neurological signs, fever, cough, pleuritic pain, SOB. Diagnosis: Indian ink CSF stain, culture blood/CSF/BAL, antigen testing in blood/CSF. Treatment: Amphotericin + flucytosine, fluconazole.
+
+### Histoplasmosis
+Worldwide distribution of Histoplasma, ↑ in soil contaminated with bird/bat faeces. Illness depends on host immunity, estimated ~1%. Presentation: Flu-like symptoms, fever, malaise, cough, headache, myalgia, pneumonia, lung nodules/cavitation, pericarditis, mediastinal fibrosis/granuloma (∆∆ sarcoid, TB). Diagnosis: Serology, antigen testing. Treatment: Moderate-severe lung disease or any CNS involvement: amphotericin, itraconazole.
+
+### Blastomycosis
+Blastomyces in decomposing matter, mainly USA/Canada. Presentation: Fever, cough, night sweats, ARDS. ↑risk of extra-pulmonary disease with immunosuppression: skin, bone, GU, CNS. Diagnosis: Culture, antigen detection (cross-reacts with histoplasmosis). Treatment: Amphotericin, itraconazole.
+
+See also: Fungi and the lung p177, Pneumocystis jirovecii p400.

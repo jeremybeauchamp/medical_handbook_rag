@@ -1,0 +1,31 @@
+# Cardiac arrest: advanced life support algorithm 2015
+
+```mermaid
+graph TD
+    A[Unresponsive and not breathing normally] --> B[Call resuscitation team]
+    A --> C[CPR 30:2<br>Attach defibrillator/monitor<br>Minimise interruptions]
+    C --> D[Assess rhythm]
+    D --> E[Shockable<br>VF/Pulseless VT]
+    D --> F[Return of spontaneous circulation]
+    D --> G[Non-shockable<br>PEA/Asystole]
+    E --> H[1 Shock<br>Minimise interruptions]
+    H --> I[Immediately resume<br>CPR for 2 min<br>Minimise interruptions]
+    I --> D
+    F --> J[Immediate post cardiac<br>arrest treatment<br>• Use ABCDE approach<br>• Aim for SpO2 of 94-98%<br>• Aim for normal PaCO2<br>• 12-lead ECG<br>• Treat precipitating cause<br>• Targeted temperature<br>management]
+    G --> K[Immediately resume<br>CPR for 2 min<br>Minimise interruptions]
+    K --> D
+```
+
+| During CPR | Treat Reversible Causes | Consider |
+|------------|-------------------------|----------|
+| • Ensure high quality chest compressions | • Hypoxia | • Ultrasound imaging |
+| • Minimise interruptions to compressions | • Hypovolaemia | • Mechanical chest compressions to facilitate transfer/treatment |
+| • Give oxygen | • Hypo-/hyperkalaemia/metabolic | • Coronary angiography and percutaneous coronary intervention |
+| • Use waveform capnography | • Hypothermia | • Extracorporeal CPR |
+| • Continuous compressions when advanced airway in place | • Thrombosis - coronary or pulmonary | |
+| • Vascular access (intravenous or intraosseous) | • Tension pneumothorax | |
+| • Give adrenaline every 3-5 min | • Tamponade - cardiac | |
+| • Give amiodarone after 3 shocks | • Toxins | |
+
+Fig A3 Cardiac arrest: advanced life support algorithm 2015.
+Reproduced with the kind permission of the Resuscitation Council (UK), © 2014-6.

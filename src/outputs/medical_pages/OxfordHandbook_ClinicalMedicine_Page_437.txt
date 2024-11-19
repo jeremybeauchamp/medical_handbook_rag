@@ -1,0 +1,31 @@
+# Leishmaniasis
+
+Caused by protozoan parasites of *Leishmania* species, transmitted by infected female phlebotomine sandflies. 556 million at risk. Risk factors: poverty, malnutrition, displacement, deforestation, dam building/irrigation. Presentation:
+
+- Cutaneous, most common form, ulceration (fig 9.56, p440).
+- Mucocutaneous (fig 9.32): leads to tissue destruction of nose, mouth, throat. 90% occurs in Bolivia, Brazil, Peru.
+- Visceral leishmaniasis (VL, kala-azar, 'black sickness') (fig 9.33): fever, weight loss, hepatosplenomegaly, anaemia. >95% mortality without treatment. Endemic in Indian subcontinent, East Africa. 90% of new cases occur in Bangladesh, Brazil, Ethiopia, India, South Sudan, Sudan. 300,000 cases/yr, 20,000 deaths/yr. Post kala-azar is a complication of Leishmania donovani = a hypopigmented macular/nodular rash (≠Δ leprosy), 6 months-1yr after apparent cure, can heal but is a reservoir for parasites and maintains transmission.
+
+Diagnosis: Clinical. Microscopy of tissue samples (skin, bone marrow) for parasite. Antibody detection in VL (indirect fluorescence, ELISA, western blot, direct agglutination test, or immunochromatographic test) is limited due to: 1 Ab levels detectable for years after cure, cannot distinguish VL relapse/active infection. 2 Tests are +ve in many with no history of VL. 3 Serology may be -ve if HIV+ve. Treatment: Liposomal amphoterin (single dose), oral miltefosine, pentavalent antimonials (resistance in India). The WHO Kala-azar Elimination Programme (including donated liposomal amphotericin) has achieved a 75% reduction in new cases of VL.
+
+## Human African trypanosomiasis (HAT, sleeping sickness)
+
+Infection with *Trypanosoma* protozoan parasites, transmitted by the tsetse fly in sub-Saharan Africa. Divided into:
+
+- Rhodesiense HAT, incubation <21d, high fever, GI disturbance, lymphadenopathy, headache. Chancre at bite site in ~84%, maculopapular rash. Progresses to myopericarditis, arrhythmias, and neurological symptoms.
+- Gambiense HAT, chronic disease in African population, presents years after infection (can present with acute febrile illness in travellers). Low-grade fever. Sleep disorder: reversal of sleep-wake cycle, uncontrollable sleep episodes. Weakness, abnormal gait, psychiatric symptoms.
+
+Diagnosis: ↓Hb, ↓plt, AKI, ↑LFTs, polyclonal ↑IgM. Microscopy of parasite (blood, lymph node, chancre, CSF). Serology and PCR if available. Treatment: According to disease type and stage. Available from WHO. Includes suramin, melarsoprol, pentamidine, nifurtimox-eflornithine. Seek specialist advice—side-effects from all.
+
+## Chagas' disease (American trypanosomiasis)
+
+Life-threatening illness due to protozoan Trypanosoma cruzi transmitted by triatomine bugs. Endemic in Latin America: ~6-7 million infected. Presentation: Acute phase (~2 months): skin lesion (chagoma), fever, headache, myalgia, lymphadenopathy, unilateral conjunctivitis, periorbital oedema (Romaña's sign), myocarditis, meningoencephalitis. Chronic phase (yrs): cardiac: dilated cardiomyopathy; GI: mega-oesophagus (dysphagia, aspiration), mega-colon (abdominal distension, constipation); CNS symptoms. Diagnosis: Acute: trypomastigotes in blood, CSF, node aspirate. Chronic: serology (Chagas' IgG ELISA). Treatment: Benznidazole, nifurtimox. ↓effective in chronic disease.
+
+## Relapsing fever
+
+Caused by spirochaete Borrelia recurrentis (louse-borne, sub-Saharan Africa, refugee camps) or other Borrelia (tick-borne, world-wide). Presentation: Intermittent fever 'crisis' due to antigenic variation (~3d fever, then afebrile ~7d), headache, myalgia, ↓BP. Diagnosis: Spirochaetes on blood smear, false +ve serology for Lyme disease. Treatment: Doxycyline/macrolides (single dose if louse-borne). Neuroborreliosis treatment if CNS disease (p422). Jarisch-Herxheimer reaction due to endotoxins (?TNFα) can mimic fever 'crisis': observe 1st ~4h treatment, use cooling/antipyretics.
+
+| Figure | Description |
+|--------|-------------|
+| Fig 9.32 | Mucocutaneous leishmaniasis. Reproduced with permission from World Health Organization. © World Health Organization. http://www.who.int/leishmaniasis/mucocutaneous_leishmaniasis/en/ |
+| Fig 9.33 | Visceral leishmaniasis. Reproduced with permission from World Health Organization. © World Health Organization. http://www.who.int/leishmaniasis/visceral_leishmaniasis/en/ |

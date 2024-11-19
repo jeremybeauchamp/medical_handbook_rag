@@ -1,0 +1,65 @@
+# Some important drug interactions
+
+See BNF.
+
+See p689 for a list of cytochrome P450 inducers and inhibitors. Note: '↑' = effect of drug increased; '↓' = effect decreased.
+
+## Drugs
+
+**Adenosine:** ↓ by: aminophylline. ↑ by: dipyridamole.
+
+**Aminoglycosides:** ↑ by: loop diuretics.
+
+**Antidiabetic drugs:** (All) ↑ by: alcohol, β-blockers, bezafibrate, monoamine oxidase inhibitors. ↓ by: contraceptive steroids, corticosteroids, diazoxide, diuretics, (possibly also lithium).
+- Metformin ↑ by: cimetidine. With alcohol: lactic acidosis risk.
+- Sulfonylureas ↑ by: azapropazone, chloramphenicol, bezafibrate, co-trimoxazole, miconazole, sulfinpyrazone. ↓ by: rifampicin (nifedipine occasionally).
+
+**Antiretroviral agents (HIV):** See p402.
+
+**Angiotensin-converting enzyme (ACE) inhibitors:** ↓ by: NSAIDs, oestrogens.
+
+**Antihistamines:** Avoid anything that ↑concentrations and risk of arrhythmias, eg anti-arrhythmics, antifungals, antipsychotics, β-blockers, diuretics, halofantrine, macrolide antibiotics (erythromycin, azithromycin, etc), protease inhibitors (p402), SSRIs (p448), tricyclics.
+
+**Azathioprine:** ↑ by: allopurinol.
+
+**β-blockers:** Avoid verapamil. ↓ by: NSAIDs. Lipophilic β-blockers (eg propranolol) are metabolized by the liver, and concentrations are ↑ by cimetidine. This does not happen with hydrophilic β-blockers (eg atenolol).
+
+**Carbamazepine:** ↑ by: erythromycin, isoniazid, verapamil.
+
+**Ciclosporin:** ↑ by: erythromycin, grapefruit juice, nifedipine. ↓ by: phenytoin.
+
+**Cimetidine:** ↑ the effect of: amitriptyline, lidocaine, metronidazole, pethidine, phenytoin, propranolol, quinine, theophylline, warfarin.
+
+**Contraceptive steroids:** ↓ by: antibiotics, barbiturates, carbamazepine, phenytoin, rifampicin.
+
+**Digoxin:** ↑ by: amiodarone, carbenoxolone and diuretics (due to ↓K+), quinine, verapamil.
+
+**Diuretics:** ↓ by: NSAIDs—particularly indometacin.
+
+**Ergotamine:** ↑ by: erythromycin (ergotism may occur).
+
+**Fluconazole:** Avoid concurrent astemizole.
+
+**Lithium:** ↑ by: thiazide diuretics.
+
+**Methotrexate:** ↑ by: aspirin, NSAIDs. Many antibiotics (check BNF).
+
+**Phenytoin:** ↑ by: chloramphenicol, cimetidine, disulfiram, isoniazid, sulfonamides. ↓ by: carbamazepine.
+
+**Potassium-sparing diuretics with ACE-inhibitors:** Hyperkalaemia.
+
+**Theophyllines:** ↑ by: cimetidine, ciprofloxacin, erythromycin, contraceptive steroids, propranolol. ↓ by: barbiturates, carbamazepine, phenytoin, rifampicin. See p810.
+
+**Valproate:** ↓ by: carbamazepine, phenobarbital, phenytoin.
+
+**Warfarin and nicoumalone:** (Nicoumalone=acenocoumarol) ↑ by: alcohol, allopurinol, amiodarone, aspirin, chloramphenicol, cimetidine, ciprofloxacin, co-trimoxazole, danazol, dipyridamole, disulfiram, erythromycin (and broad-spectrum antibiotics), gemfibrozil, glucagon, ketoconazole, metronidazole, miconazole, nalidixic acid, neomycin, NSAIDs, phenytoin, quinidine, simvastatin (but not pravastatin), sulfinpyrazone, sulfonamides, tetracyclines, levothyroxine.
+
+**Warfarin and nicoumalone:** ↓ by: aminoglutethimide, barbiturates, carbamazepine, contraceptive steroids, dichloralphenazone, griseofulvin, rifampicin, phenytoin, vitamin K.
+
+**Zidovudine (AZT):** ↑ by: paracetamol (marrow toxicity).
+
+## IVI solutions to avoid
+
+**Glucose:** Avoid furosemide, ampicillin, hydralazine, insulin, melphalan, phenytoin, and quinine.
+
+**0.9% saline:** Avoid amphotericin, lidocaine, nitroprusside.

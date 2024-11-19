@@ -1,0 +1,45 @@
+| Table 10.8 Clinical features of MS | 497 |
+|-----------------------------------|-----|
+| Sensory: | GI: Swallowing disorders; constipation. |
+| • Dysaesthesia | Eye: Diplopia; hemianopia; optic neuritis; visual |
+| • Pins and needles | phenomena (eg on exercise); bilateral internuclear |
+| • Vibration sense | ophthalmoplegia (p73); pupil defects. |
+| • Trigeminal neuralgia | |
+| Motor: | Cerebellum: Trunk and limb ataxia; intention |
+| • Spastic weakness | tremor; scanning (ie monotonous) speech; falls. |
+| • Myelitis | |
+| Sexual/GU: | Cognitive/visuospatial decline: ▶A big cause |
+| • Erectile dysfunction | of unemployment, accidents, amnesia, mood, |
+| • Anorgasmia; urine | executive functioning. |
+| retention; inconti- | |
+| nence | |
+
+NB T°, malaise, nausea, vomiting, positional vertigo, seizures, aphasia, meningism, bilateral optic neuritis, CSF leucocytosis and CSF protein are rare in MS, and may suggest non-MS recurrent demyelinating disease, eg vasculitis or sarcoidosis.
+
+## Diagnostic criteria for MS
+
+| Table 10.9 McDonald criteria for diagnosing MS (2010) |
+|------------------------------------------------------|
+| Clinical presentation | Additional evidence needed for diagnosis |
+| ≥2 attacks (relapses) with ≥2 objective clinical lesions | None |
+| ≥2 attacks with 1 objective clinical lesion | • MRI: spatially disseminated lesions, or • +ve CSF and ≥2 MRI lesions, or • 2nd attack at a new site |
+| 1 attack with ≥2 objective clinical lesions | Dissemination in time: • new lesion on repeat MRI after >3 months or • 2nd attack |
+| 1 attack with 1 objective clinical lesion (monosymptomatic presentation) | Dissemination in space: • MRI or +ve CSF if ≥2 MRI lesions consistent with MS • and dissemination in time (by MRI or a 2nd clinical attack) |
+| Insidious neurological progression suggestive of primary progressive MS | +ve CSF and dissemination in space on MRI/VEP or continued progression for ≥1yr |
+
+▶A careful history may reveal past episodes, eg brief unexplained visual loss, and detailed examination may show more than 1 lesion.
+Attacks must last >1h, with >30d between attacks.
+
+## Six MS eponyms
+
+Devic's syndrome: (=Neuromyelitis optica, NMO.) MS variant with transverse myelitis, (loss of motor, sensory, autonomic, reflex, and sphincter function below the level of a lesion), optic atrophy, and anti-aquaporin 4 antibodies (p698).
+
+Lhermitte's sign: Neck flexion causes 'electric shocks' in trunk/limbs. (Also +ve in cervical spondylosis, cord tumours and B12.)
+
+Uhthoff's phenomenon: Worsening of symptoms with heat, eg in bath.
+
+Charles Bonnet syndrome: (Rare.) Acuity/temporary blindness ± complex visual hallucinations of faces, as well as animals, plants, and trees.
+
+Pulfrich effect: Unequal eye latencies, causing disorientation in traffic as straight trajectories seem curved and distances are misjudged on looking sideways.
+
+Argyll Robertson pupil: See p72.

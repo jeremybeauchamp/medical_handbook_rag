@@ -1,0 +1,49 @@
+# Liver failure
+
+## Definitions
+Liver failure may be recognized by the development of coagulopathy (INR>1.5) and encephalopathy. This may occur suddenly in the previously healthy liver = acute liver failure (hyperacute = onset ≤7d; acute = 8-21d; subacute = 4-26wks.) More often it occurs on a background of cirrhosis = chronic liver failure. Fulminant hepatic failure is a clinical syndrome resulting from massive necrosis of liver cells leading to severe impairment of liver function.
+
+## Causes
+- **Infections**: Viral hepatitis (esp. B, C, CMV), yellow fever, leptospirosis.
+- **Drugs**: Paracetamol overdose, halothane, isoniazid.
+- **Toxins**: Amanita phalloides mushroom (fig 6.26), carbon tetrachloride.
+- **Vascular**: Budd-Chiari syn. (p696), veno-occlusive disease.
+- **Others**: Alcohol, fatty liver disease, primary biliary cholangitis, primary sclerosing cholangitis, haemochromatosis, autoimmune hepatitis, α1-antitrypsin deficiency, Wilson's disease, fatty liver of pregnancy (OHCS p25), malignancy.
+
+## Signs
+Jaundice, hepatic encephalopathy (see BOX 'Hepatic encephalopathy'), fetor hepaticus (smells like pear drops), asterixis/flap (p50), constructional apraxia (cannot copy a 5-pointed star?). Signs of chronic liver disease (p276) suggest acute-on-chronic hepatic failure.
+
+## Tests
+- **Blood**: FBC (?infection,26 ?GI bleed), U&E,27 LFT, clotting (PT/INR), glucose, paracetamol level, hepatitis, CMV and EBV serology, ferritin, α1-antitrypsin, caeruloplasmin, autoantibodies (p284).
+- **Microbiology**: Blood culture; urine culture; ascitic tap for MC&S of ascites—neutrophils >250/mm3 indicates spontaneous bacterial peritonitis (p276).
+- **Radiology**: CXR; abdominal ultrasound; Doppler flow studies of the portal vein (and hepatic vein in suspected Budd-Chiari syndrome, p696).
+- **Neurophysiology**: EEG, evoked potentials (and neuroimaging) have a limited role.
+
+## Management
+Beware sepsis, hypoglycaemia, GI bleeds/varices, & encephalopathy:
+- Nurse with a 20° head-up tilt in ITU. Protect the airway with intubation and insert an NG tube to avoid aspiration and remove any blood from stomach.
+- Insert urinary and central venous catheters to help assess fluid status.
+- Monitor T°, respirations, pulse, BP, pupils, urine output hourly. Daily weights.
+- Check FBC, U&E, LFT, and INR daily.
+- 10% glucose IV, 1L/12h to avoid hypoglycaemia. Do blood glucose every 1-4h.
+- Treat the cause, if known (eg GI bleeds, sepsis, paracetamol poisoning, p844).
+- If malnourished, get dietary help: good nutrition can decrease mortality. Give thiamine and folate supplements (p714).
+- Treat seizures with phenytoin (p826).11
+- Haemofiltration or haemodialysis, if renal failure develops (BOX 'What is hepatorenal syndrome?').
+- Try to avoid sedatives and other drugs with hepatic metabolism (BOX 'Prescribing in liver failure' and BNF).
+- Consider PPI as prophylaxis against stress ulceration, eg omeprazole 40mg/d IV/PO.
+- Liaise early with nearest transplant centre regarding appropriateness.
+
+## Treat complications
+- **Cerebral oedema**: On ITU: 20% mannitol IV; hyperventilate.
+- **Ascites**: Restrict fluid, low-salt diet, weigh daily, diuretics (p276).
+- **Bleeding**: Vitamin K 10mg/d IV for 3d, platelets, FFP + blood as needed ± endoscopy.
+- **Blind Rx of infection**: Ceftriaxone 1-2g/24h IV, not gentamicin (risk of renal failure).
+- **Blood glucose**: If ≤2mmol/L or symptomatic, 50mL of 50% glucose IV; check often.
+- **Encephalopathy**: Avoid sedatives; 20° head-up tilt in ITU; correct electrolytes; lactulose 30-50mL/8h (aim for 2-4 soft stools/d) is catabolized by bacterial flora to short-chain fatty acids which ↓colonic pH and trap NH3 in the colon as NH4+; Rifaximin 550mg/12h is a non-absorbable oral antibiotic that ↓numbers of nitrogen-forming gut bacteria.
+
+## Worse prognosis
+If Grade III-IV encephalopathy, age >40yrs, albumin <30g/L, ↑INR, drug-induced liver failure, late-onset hepatic failure worse than fulminant failure.
+
+26 Neutrophilic leucocytosis need not mean a secondary infection: alcoholic hepatitis may be the cause.
+27 Urea is synthesized in the liver, so is a poor test of renal function in liver failure; use creatinine instead.

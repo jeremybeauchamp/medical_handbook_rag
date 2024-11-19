@@ -1,0 +1,45 @@
+# Sarcoidosis
+
+A multisystem granulomatous disorder of unknown cause. Prevalence highest in Northern Europe, eg UK: 10-20/10⁵ population. Usually affects adults aged 20-40yrs, more common in women. African-Caribbeans are affected more frequently and more severely than Caucasians, particularly by extra-thoracic disease. Associated with HLA-DRB1 and DQB1 alleles. For other causes of granuloma see table 4.10.
+
+## Clinical features
+In 20-40%, the disease is discovered incidentally, after a routine CXR, and is thus asymptomatic. Acute sarcoidosis often presents with fever, erythema nodosum (fig 12.21, p563),⁶ polyarthralgia, and bilateral hilar lymphodenopathy (BHL), also called Löfgren syndrome, which usually resolves spontaneously.
+
+**Pulmonary disease:** 90% have abnormal CXRs with BHL (fig 4.18) ± pulmonary infiltrates or fibrosis; see later in topic for staging. Symptoms: Dry cough, progressive dyspnoea, ↓exercise tolerance, and chest pain. In 10-20%, symptoms progress, with concurrent deterioration in lung function.
+
+**Non-pulmonary signs:** These are legion: lymphadenopathy; hepatomegaly; splenomegaly; uveitis; conjunctivitis; keratoconjunctivitis sicca; glaucoma; terminal phalangeal bone cysts; enlargement of lacrimal & parotid glands (fig 8.49, p355); Bell's palsy; neuropathy; meningitis; brainstem and spinal syndromes; space-occupying lesion; erythema nodosum (fig 12.21, p563); lupus pernio; subcutaneous nodules; cardiomyopathy; arrhythmias; hypercalcaemia; hypercalciuria; renal stones; pituitary dysfunction.
+
+## Tests
+**Blood:** ↑ESR, lymphopenia, ↑LFT, ↑serum ACE in ~60% (non-specific), ↑Ca²⁺, ↑immunoglobulins. **24h urine:** ↑Ca²⁺. **CXR** is abnormal in 90%: Stage 0: normal. Stage 1: BHL. Stage 2: BHL + peripheral pulmonary infiltrates. Stage 3: peripheral pulmonary infiltrates alone. Stage 4: progressive pulmonary fibrosis; bulla formation (honeycombing); pleural involvement. **ECG** may show arrhythmias or bundle branch block.
+
+**Lung function tests** may be normal or show reduced lung volumes, impaired gas transfer, and a restrictive ventilatory defect. **Tissue biopsy** (lung, liver, lymph nodes, skin nodules, or lacrimal glands) is diagnostic and shows non-caseating granulomata.
+
+**Bronchoalveolar lavage (BAL):** Shows ↑lymphocytes in active disease; ↑neutrophils with pulmonary fibrosis. **Transbronchial biopsy:** May be diagnostic.
+
+**Ultrasound:** May show nephrocalcinosis or hepatosplenomegaly.
+
+**Bone x-rays:** Show 'punched out' lesions in terminal phalanges.
+
+**CT/MRI:** May be useful in assessing severity of pulmonary disease or diagnosing neurosarcoidosis. **Ophthalmology assessment** (slit lamp examination, fluorescein angiography) is indicated in ocular disease.
+
+## Management
+Patients with BHL alone don't need treatment as most recover spontaneously.⁵³,⁵⁴ Acute sarcoidosis: bed rest, NSAIDs.
+
+### Indications for corticosteroids:
+- Parenchymal lung disease (symptomatic, static, or progressive).
+- Uveitis.
+- Hypercalcaemia.
+- Neurological or cardiac involvement.
+
+Prednisolone (40mg/24h) PO for 4-6 wks, then ↓dose over 1yr according to clinical status. A few patients relapse and may need a further course or long-term therapy.
+
+**Other therapy:** In severe illness, IV methylprednisolone or immunosuppressants (methotrexate, hydroxychloroquine, ciclosporin, cyclophosphamide) may be needed. Anti-TNFα therapy may be tried in refractory cases, or lung transplantation.
+
+## Prognosis
+60% of patients with thoracic sarcoidosis resolve over 2yrs. 20% respond to steroid therapy; in the rest, improvement is unlikely despite therapy.⁷
+
+----
+
+⁶ A detailed history and exam (including for synovitis) + CXR, 2 ASO (antistreptolysin-O) titres and a tuberculin skin test are usually enough to diagnose erythema nodosum.
+
+⁷ ACE is also ↑ in: hyperthyroidism, Gaucher's, silicosis, TB, hypersensitivity pneumonitis, asbestosis, pneumocystosis.⁵⁵ ↑ACE levels in CSF help diagnose CNS sarcoidosis (when serum ACE may be normal).⁵⁶ ACE is lower in: Caucasians; and anorexia.⁵⁷

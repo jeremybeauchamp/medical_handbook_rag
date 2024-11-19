@@ -1,0 +1,34 @@
+# Speech and higher mental function
+
+Have mercy on those with dysphasia: it is one of the most debilitating neurological conditions, and the more frustrating when cognitive function is intact.
+
+**Dysphasia** Impairment of language caused by brain damage.
+
+**Assessment:**
+1. If speech is fluent, grammatical, and meaningful, dysphasia is unlikely.
+2. Comprehension: can the patient follow one-, two-, and several-step commands (touch your ear, stand up, then close the door)?
+3. Repetition: can the patient repeat a sentence? Eg British Constitution.
+4. Naming: can they name common and uncommon things (eg parts of a watch)?
+5. Reading and writing: normal? They are usually affected like speech in dysphasia. If normal, the patient is unlikely to be aphasic—could they be mute?
+
+**Classification:**
+- **Broca's (expressive) anterior dysphasia**—non-fluent speech produced with effort and frustration with malformed words, eg 'spoot' for 'spoon' (or 'that thing'). Reading and writing are impaired but comprehension is relatively intact. Patients understand questions and attempt to convey meaningful answers. Site of lesion: infero-lateral dominant frontal lobe (see BOX 'Problems with classifying dysphasias').
+- **Wernicke's (receptive) posterior dysphasia**—empty, fluent speech, like talking ragtime with phonemic ('flush' for 'brush') and semantic ('comb' for 'brush') paraphasias/neologisms (may be mistaken for psychotic speech). The patient is oblivious of errors. Reading, writing, and comprehension are impaired (replies are inappropriate). Site of lesion: posterior superior dominant temporal lobe.
+- **Conduction aphasia**—(traffic between Broca's and Wernicke's area is interrupted.) Repetition is impaired; comprehension and fluency less so.
+- **Nominal dysphasia**—naming is affected in all dysphasias, but in nominal dysphasia, objects cannot be named but other aspects of speech are normal. This occurs with posterior dominant temporoparietal lesions.
+
+Mixed dysphasias are common. Discriminating features take time to emerge after an acute brain injury. Speech therapy is important, but may not help.
+
+**Dysarthria** Difficulty with articulation due to incoordination or weakness of the musculature of speech. Language is normal (see earlier in topic).
+- **Assessment:** Ask to repeat 'British Constitution' or 'baby hippopotamus'.
+- **Cerebellar disease:** Ataxia speech muscles cause slurring (as if drunk) and speech irregular in volume and staccato in quality.
+- **Extrapyramidal disease:** Soft, indistinct, and monotonous speech.
+- **Pseudobulbar palsy:** (p507) Spastic dysarthria (upper motor neuron). Speech is slow, indistinct, nasal and effortful ('hot potato' voice from bilateral hemispheric lesions, MND (p506), or severe MS).
+- **Bulbar palsy:** Lower motor neuron (eg facial nerve palsy, Guillain-Barré, MND, p506)—any associated palatal paralysis gives speech a nasal character.
+
+**Dysphonia** Difficulty with speech volume due to weakness of respiratory muscles or vocal cords (myasthenia, p512; Guillain-Barré syndrome, p702). It may be precipitated in myasthenia by asking the patient to count to 100. Parkinson's gives a mixed picture of dysarthria and dysphonia.
+
+**Dyspraxia** Poor performance of complex movements despite ability to do each individual component. Test by asking the patient to copy unfamiliar hand positions, or mime an object's use, eg a comb. The term 'dyspraxia' is used in three other ways:
+- **Dressing dyspraxia:** The patient is unsure of the orientation of clothes on his body. Test by pulling one sleeve of a sweater inside out before asking the patient to put it back on (mostly non-dominant hemisphere lesions).
+- **Constructional dyspraxia:** Difficulty in assembling objects or drawing, eg a five-pointed star (non-dominant hemisphere lesions, hepatic encephalopathy).
+- **Gait dyspraxia:** More common in the elderly; seen with bilateral frontal lesions, lesions in the posterior temporal region, and hydrocephalus.

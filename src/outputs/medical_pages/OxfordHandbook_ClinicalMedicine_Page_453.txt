@@ -1,0 +1,31 @@
+may be asymptomatic. Routine examination for those at risk (CD4<100 cells/microlitre). Diagnosis: clinical. Fundoscopy: granular white dots, haemorrhage (fig 9.49). Can progress to an arcuate/triangular zone of infection, or can be linear following vessels/nerve fibres. Treatment: systemic valganciclovir (oral, IV). Also ganciclovir, foscarnet, cidofovir. ART if underlying HIV (see p402).
+
+• Ocular toxoplasmosis:
+Causes posterior uveitis. Presentation: blurred vision/floaters. Diagnosis: clinical. Fundoscopy (fig 9.50): focus of choroiditis, chorioretinal scar from previous infection, overlying vitreal haze due to inflammatory response. Multiple/bilateral/extensive lesions if ↑ immunosuppression. Serology. Ocular fluid PCR. Treatment: atovaquone (↓toxicity), sulfadiazine, and pyrimethamine.
+
+| Fig 9.50 Retinal toxoplasmosis. ©Prof Trobe. |
+|------------------------------------------------|
+| [Image of retinal toxoplasmosis]               |
+
+## Filarial infection
+
+### Onchocerciasis ('river blindness')
+
+Caused by filarial worm, Onchocerca volvulus. Transmitted by the bite of infected black flies which breed in fast-flowing rivers and streams. Second most common infectious cause of blindness worldwide: predominantly sub-Saharan Africa, Brazil, Venezuela, Yemen. Presentation: A nodule forms at the site of the bite where larvae mature to adult worms. The female adult can release up to 1000 microfilariae/day causing:
+
+• skin disease: altered pigmentation, lichenification, loss of elasticity, poor healing
+• eye disease: keratitis, uveitis, cataract, fixed pupil, fundal degeneration, optic neuritis/atrophy, visual impairment/loss (fig 9.51)
+• impaired lymphatic function: lymphadenopathy, elephantiasis.
+
+Diagnosis: Visualization of microfilaria in eye or on skin snip biopsy: a fine shaving of clean skin is incubated in 0.9% saline to allow microfilariae to emerge for microscopic identification. Serology. Treatment: Ivermectin 150mcg/kg, one dose every 3-12 months (depending on likely re-exposure). CI if coexisting Loa-Loa due to risk of fatal encephalitic reaction. Or 6wk doxycycline. No vaccine available.
+
+| Fig 9.51 Bilateral sclerosing keratitis in onchocerciasis causing blindness. | Fig 9.52 Migrating Loa loa in the skin. | Fig 9.53 Loa loa crossing the conjunctiva. |
+|-----------------------------------------------------------------------------|----------------------------------------|-------------------------------------------|
+| [Image of bilateral sclerosing keratitis]                                    | [Image of Loa loa in skin]             | [Image of Loa loa in eye]                 |
+| Reproduced from Warrell et al. Oxford Textbook of Medicine, 2010, with permission from Oxford University Press. | Reproduced from Warrell et al. Oxford Textbook of Medicine, 2010, with permission from Oxford University Press. | Reproduced from Warrell et al. Oxford Textbook of Medicine, 2010, with permission from Oxford University Press. |
+
+### Loiasis (African eye-worm)
+
+Caused by parasitic worm Loa loa. Transmitted via bite of deerflies (=mangrove/mango flies) which breed in rainforests of west and central Africa. Presentation: Recurrent pruritic lesions due to angioedema ('Calabar swellings'), myalgia, arthralgia. The adult worm can migrate through subcutaneous (fig 9.52) and subconjunctival (fig 9.53) tissue: 'Something's wiggling in my eye, doctor'. This eerie eye trip causes intense conjunctivitis, which heals if left alone. (Don't treat until transmigration in the eye is over: on detecting your therapy the worm tends to panic.) Also causes glomerulonephritis, and encephalitis. Diagnosis: Microfilariae on blood smear, serology, PCR. Eosinophilia. Treatment: Diethylcarbamazine (DEC) kills both microfilariae and adult worms. Risk of encephalopathy is related to microfilarial load: albendazole can be used to ↓ microfilarial load prior to DEC (response may be slow).
+
+See also lymphatic filariasis p421.

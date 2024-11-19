@@ -1,0 +1,24 @@
+## Post-operative bleeding
+
+| Type | Description |
+|------|-------------|
+| Primary haemorrhage | Continuous bleeding, starting during surgery. Replace blood loss. If severe, return to theatre for adequate haemostasis. Treat shock vigorously (p790-804). |
+| Reactive haemorrhage | Haemostasis appears secure until BP rises and bleeding starts. Replace blood and re-explore wound. |
+| Secondary haemorrhage | (caused by infection) occurs 1-2wks post-op. |
+
+## Talking about post-op complications...
+
+When asked to give your thoughts on the complications of an operation—maybe with an examiner or a patient—a good starting point is to divide them up accordingly (and for each of the following stratify as immediate, early, and late):
+
+- From the anaesthetic: (p572.) Eg respiratory depression from induction agents.
+- From surgery in general: (p576.) Eg wound infection, haemorrhage, neurovascular damage, DVT/PE.
+- From the specific procedure: Eg saphenous nerve damage in stripping of the long varicose vein.
+
+Tailor the discussion towards the individual who, eg if an arteriopath, may have a significant risk of cardiac ischaemia during hypotensive episodes while under the anaesthetic. For some other post-op complications, see:
+
+- Pain (p574)
+- DVT (p578)
+- Pulmonary embolus (p190; massive, p818)
+- Wound dehiscence (p580)
+- Complications in post-gastric surgery (p622)
+- Other complications of specific operations (p580).

@@ -1,0 +1,38 @@
+# Leptospirosis (Weil's disease)
+
+Pathogenic leptospire spirochaetes belonging to the subgroup Leptospira interrogans. >250 pathogenic serovars. Chronic renal infection of carrier animals: rodent, cattle, pigs. Spread by water/soil/food contaminated by infected animal urine. Presentation: Incubation ~7d (2-30d). 1st (acute/septicaemic) phase: fever, non-specific flu-like symptoms. Mild/subclinical in ~90%. Followed by recovery or 2nd (immune/leptospiruric) phase: conjunctival suffusion, myalgia (CK), jaundice, meningitis, uveitis, AKI, pulmonary haemorrhage, ARDS, myo/pericarditis. (Weil's disease described in 1886: fever, jaundice splenomegaly, renal failure, CNS symptoms. Term now applied to all severe disease.) Diagnosis: In UK18 via National Leptospirosis Service (https://www.gov.uk/guidance/leptospira-reference-unit-services). Culture (blood/CSF) +ve during 1st phase. Serology. PCR. Treatment: Doxycycline, penicillin. Conflicting evidence of benefit for steroids in severe disease.
+
+# Yersinia pestis (plague)
+
+Gram -ve, obligate intracellular pathogen transmitted by small animals and their fleas by bite, direct contact, inhalation or ingestion (rare). ~300 cases/yr worldwide. Presentation: Incubation: 3-7d. Flu-like symptoms, then one of three disease forms:
+
+1. Bubonic: most common form. Yersinia pestis enters at bite and travels via lymphatics. Inflamed, painful lymph node is termed 'bubo' and can suppurate.
+2. Septicaemic: direct spread without 'bubo', or advanced stage after 'bubo'.
+3. Pneumonic: lung disease. Most virulent, least common. Usually from advanced bubonic form but can then transmit via droplets to other humans without fleas/animals.
+
+Diagnosis: Culture bubo fluid, blood, sputum. Rapid antigen testing available.
+Treatment: Reduces mortality from 60% to <15%: streptomycin, tetracycline.12
+
+# Toxoplasmosis
+
+| Definitive host (Cat) |
+|------------------------|
+| Cysts ingested by cat → Unsporulated oocytes passed in faeces |
+| ↑ |
+| Cysts in tissues of intermediate host |
+| ↑ |
+| Ingested cysts in infective meat (raw or undercooked) ← Oocytes in food, water or soil ingested by intermediate host |
+| ↓ |
+| Infected fetus ← Tachyzoites transmitted through placenta |
+| ↓ |
+| Intermediate hosts → Sporulated oocysts |
+| ↓ |
+| Contaminated food/water |
+
+Fig 9.34 Oocysts in cat faeces can stay in the soil for months, where rats eat them. The rats get infected, and, under the direction of Toxoplasma in the amygdala, the rats lose their fear of cats, and so get eaten in turn. So the parasite ensure success by facilitating a jump from intermediate to definitive host. How does the parasite overwhelm the innate fear of cats? By causing a sexual attraction to normally aversive cat odour through limbic activity.
+
+From Fernando Monroy: www2.nau.edu/~fpm/research/res.html
+
+Caused by protozoan Toxoplasma gondii. Found worldwide. Life cycle (fig 9.34). Infection is lifelong (~⅓ of population). HIV may cause reactivation (p400). Presentation: Asymptomatic in ~90%. Self-limiting cervical lymphadenopathy, low-grade fever if normal immune system. Disseminated disease if immunosuppressed: cerebral abscess, encephalitis, choroidoretinitis, myocarditis, myositis, pneumonitis, hepatitis. Congenital infection: pregnancy loss, neurocognitive deficit, retinal damage. Diagnosis: In UK via Toxoplasma Reference Laboratory (0179 228 5058). Serology: IgG=previous exposure (high avidity IgG suggests infection >3-5 months ago, used in pregnancy); IgM=acute infection, false +ve or chronic infection with persistent IgM; IgA in cord serum=congenital infection. PCR: blood/CSF/urine/amniotic fluid/aqueous/vitreous humour. Treatment: If eye disease, immunosuppressed or neonate: pyrimethamine + sulfadiazine + folinic acid. Corticosteroids for eye inflammation. Spiramycin reduces vertical transmission. Prophylaxis: co-trimoxazole (see HIV, p400).
+
+Echinococcosis (hydatid disease) p435. Rabies p437. Hanta virus p426.

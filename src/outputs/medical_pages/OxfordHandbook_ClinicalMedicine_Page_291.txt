@@ -1,0 +1,27 @@
+Fig 6.27 Spider naevi: a central arteriole, from which numerous vessels radiate (like the legs of a spider). These fill from the centre unlike telangiectasias that fill from the edge. They occur most commonly in skin drained by the superior vena cava. ≤5 are normal (especially in ♀). Causes include liver disease, OCP, and pregnancy (ie changes in oestrogen metabolism).
+
+Fig 6.28 Gross ascites. Note the umbilical hernia (p613), gynaecomastia, and veins visible on the anterior abdominal wall.
+
+## Causes of cirrhosis
+
+- Chronic alcohol use
+- Chronic HBV or HCV infection²⁸
+- Genetic disorders: haemochromatosis (p288); α₁-antitrypsin deficiency (p290); Wilson's disease (p285)
+- Hepatic vein events (Budd-Chiari, p696)
+- Non-alcoholic steatohepatitis (NASH)
+- Autoimmunity: primary biliary cholangitis (p282); primary sclerosing cholangitis (p282); autoimmune hepatitis (p284)
+- Drugs: eg amiodarone, methyldopa, methotrexate.
+
+## Is cirrhosis becoming decompensated? ▶Prepare to make an arrest...
+
+Cirrhosis may lie in wait for years before committing one of its three great crimes against the person: jaundice, ascites, or encephalopathy. There are almost always accomplices who, if arrested now, may stop a killing from unfolding. These usual suspects are: ▶dehydration ▶constipation ▶covert alcohol use ▶infection (eg spontaneous peritonitis, see earlier in topic) ▶opiate over-use—or ▶an occult GI bleed. If all have alibis, think of portal vein thrombosis, and call in the Chief Inspector.
+
+## Liver transplantation
+
+The first liver transplant was in Denver, USA, in 1963. Now 800-1000 are performed each year in the UK (indications see p284). The limiting step for the procedure is often the waiting-list for a donor organ, which may be cadaveric (heart-beating or non-heart-beating) or from live donors (right lobe). Contraindications include extrahepatic malignancy; severe cardiorespiratory disease; systemic sepsis; expected non-compliance with drug therapy; ongoing alcohol consumption (in those with alcohol-related liver disease). Refer earlier rather than later, eg when ascites is refractory or after a 1st episode of bacterial peritonitis. Prioritization in the UK is based upon the UKELD (UK end-stage liver disease) score, calculated from serum Na⁺, creatinine, bilirubin, and INR.²⁹
+
+Post-op: 12-48h on ITU, with enteral feeding starting as soon as possible and close monitoring of LFT. Immunosuppression examples: tacrolimus ± mycophenolate mofetil (or azathioprine) + prednisolone. Hyperacute rejection is a result of ABO incompatibility. Acute rejection (T-cell mediated, at 5-10d): the patient feels unwell with pyrexia and tender hepatomegaly—often managed by altering the immunosuppressives. Other complications: sepsis (esp. Gram –ve and CMV), hepatic artery thrombosis, chronic rejection (at 6-9 months), disease recurrence, and, rarely, graft-versus-host disease. Average patient survival at 1yr is ~80% (5yr survival 60-90%; depends on the pre-op disease).
+
+²⁸ Clues as to which patients with chronic HCV will get cirrhosis: platelet count ≤140 x 10⁹/L, globulin/albumin ratio ≥1, and AST/ALT ratio ≥1—100% +ve predictive value but lower sensitivity (~30%).
+
+²⁹ Online calculators available, eg at www.odt.nhs.uk

@@ -1,0 +1,29 @@
+ECG showing changes in pulmonary hypertension
+
+Fig 3.11   Changes seen in pulmonary hypertension (eg after a PE).
+
+• Right axis deviation (QRS more negative than positive in lead I);
+• Positive QRS complexes ('dominant R waves') in V1 and V2 suggesting right ventricular hypertrophy;
+• ST depression and T-wave inversion in the right precordial leads (V1-3) suggesting right ventricular strain;
+• Peaked P waves (P pulmonale) suggesting right atrial hypertrophy.
+
+Reproduced from Handler et al., Pulmonary Hypertension, 2012, with permission from Oxford University Press.
+
+| Lead | ECG Tracing Description |
+|------|--------------------------|
+| I    | QRS complexes more negative than positive, indicating right axis deviation |
+| II   | Normal sinus rhythm with some ST changes |
+| III  | Prominent R waves |
+| aVR  | Inverted P, QRS, and T waves as expected |
+| aVL  | Small complexes |
+| aVF  | Similar to lead III |
+| V1   | Dominant R wave, suggesting right ventricular hypertrophy |
+| V2   | Dominant R wave, suggesting right ventricular hypertrophy |
+| V3   | Transition zone with R/S ratio near 1 |
+| V4   | Predominant S wave |
+| V5   | Predominant S wave |
+| V6   | Predominant S wave |
+
+The ECG shows characteristic changes of pulmonary hypertension, including right axis deviation, right ventricular hypertrophy, and signs of right ventricular strain.
+
+Cardiovascular medicine

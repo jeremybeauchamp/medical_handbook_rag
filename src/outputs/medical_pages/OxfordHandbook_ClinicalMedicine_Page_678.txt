@@ -1,0 +1,74 @@
+# Biochemistry—some major disease patterns
+
+## Dehydration
+↑Urea (disproportionate relative to smaller ↑ in creatinine),¹ ↑albumin (also useful to plot change in a patient's condition), ↑haematocrit (PCV); also ↓urine volume and ↓skin turgor.
+
+## Abnormal kidney function
+There are two major biochemical pictures (table 14.1):
+
+**Low GFR:** Usually oliguric. Causes: early acute oliguric renal failure (p298), chronic kidney disease (p302). In chronic kidney disease also ↓Hb, ↑PTH, and renal bone disease.
+
+**Tubular dysfunction:** Results from damage to tubules. Diagnosis is made by testing renal concentrating ability (p241). May be polyuric with ↑urinary glucose, amino acids, proteins (lysozyme, β₂-microglobulin), or phosphate. Causes: recovery from acute kidney injury, hypercalcaemia, hyperuricaemia, myeloma, pyelonephritis, hypokalaemia, Wilson's disease, galactosaemia, and heavy metal poisoning.
+
+| Table 14.1 Biochemical profile in abnormal kidney function |                |
+|-----------------------------------------------------------|----------------|
+|                                | Low GFR                  | Tubular dysfunction |
+| Urea & creatinine              | ↑                        | Normal         |
+| K⁺ & urate                     | ↑                        | ↓              |
+| H⁺                             | ↑                        | ↑              |
+| HCO₃⁻                          | ↓                        | ↓              |
+| PO₄³⁻                          | ↑                        | ↓              |
+| Ca²⁺                           | ↓                        | Normal         |
+
+## Thiazide and loop diuretics
+↓Na⁺, ↓K⁺, ↑HCO₃⁻, ↑urea.
+
+## Bone disease
+See table 14.2 for typical biochemical patterns.
+
+| Table 14.2 Serum biomarkers in common diseases of bone |         |         |         |
+|-------------------------------------------------------|---------|---------|---------|
+|                                | Ca²⁺                 | PO₄³⁻   | ALP     |
+| Osteoporosis (p682)            | Normal               | Normal  | Normal  |
+| Osteomalacia (p684)            | ↓                    | ↓       | ↑       |
+| Paget's                        | Normal               | Normal  | ↑↑      |
+| Myeloma                        | ↑                    | ↑, normal | Normal  |
+| Bone metastases                | ↑                    | ↑, normal | ↑       |
+| 1° Hyperparathyroidism         | ↑                    | ↓, normal | Normal, ↑ |
+| Hypoparathyroidism             | ↓                    | ↑       | Normal  |
+| Renal failure (low GFR)        | ↓                    | ↑       | Normal, ↑ |
+
+## Hepatocellular disease
+↑Bilirubin, ↑↑AST, ALP ↑ slightly, ↓albumin. Also ↑clotting times. For details of the differences between AST and ALT, see p291.
+
+## Cholestasis
+↑Bilirubin, ↑↑γGT, ↑↑ALP, ↑AST.
+
+## Excess alcohol intake
+Evidence of hepatocellular disease. Early evidence if ↑γGT, ↑MCV, and ethanol in blood before lunch.
+
+## Myocardial infarction
+↑Troponin, ↑CK, ↑AST, ↑LDH (p118).
+
+## Addison's disease
+↑K⁺, ↓Na⁺, ↑urea.
+
+## Cushing's syndrome
+May show ↓K⁺, ↑HCO₃⁻, ↑Na⁺.
+
+## Conn's syndrome
+May show ↓K⁺, ↑HCO₃⁻. Na⁺ normal or ↑. (Also hypertension.)
+
+## Diabetes mellitus
+↑Glucose, (↓HCO₃⁻ if acidotic).
+
+## Diabetes insipidus
+↑Na⁺, ↑plasma osmolality, ↓urine osmolality. (Both hypercalcaemia and hypokalaemia may cause nephrogenic diabetes insipidus.)
+
+## Inappropriate ADH secretion (SIADH)
+(See p673.) ↓Na⁺ with ↓↔ urea and creatinine, ↓plasma osmolality. ↑Urine osmolality (>plasma osmolality), ↑urine Na⁺ (>20mmol/L).
+
+## Some immunodeficiency states
+Normal serum albumin but low total protein (because immunoglobulins are missing. Also makes crossmatching difficult because expected haemagglutinins are absent; OHCS p198).
+
+¹ Dehydration affects urea more than creatinine because in dehydration a greater proportion of filtered urea is reabsorbed by the kidney. Creatinine is hardly reabsorbed at all.

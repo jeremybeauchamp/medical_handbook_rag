@@ -1,0 +1,43 @@
+# Antibiotics: action and resistance
+
+The antibiotic revolution began in 1928 when a extraordinary series of fortuitous events (including a cancelled holiday and an unpredictable British summer) led to Alexander Fleming's observation that a contaminating Penicillium colony caused lysis of staphylococci. Mass production and the 'golden age' of antibiotics followed, with the introduction of a variety of drugs selectively toxic to bacterial, but not mammalian cells. This is achieved by:
+
+• utilizing a target unique to bacteria, eg cell wall
+• selectively targeting bacterial-specific components, eg enzymes, ribosomes
+• preventing transport of the drug into human cells, eg metronidazole can only be transported into anaerobic bacteria.
+
+The mechanism of action of different classes of antibiotic is shown in fig 9.4.
+
+| Cell wall synthesis | Folate synthesis | Nucleic acid synthesis |
+|---------------------|-------------------|------------------------|
+| β-lactams           | Sulfamethoxazole  | DNA synthesis          |
+| Penicillins         | Trimethoprim      | Fluoroquinolones       |
+| Cephalosporins      |                   | Metronidazole          |
+| Carbapenems         |                   | RNA polymerase         |
+|                     |                   | Rifamycins             |
+| Glycopeptides       |                   |                        |
+| Vancomycin          |                   |                        |
+| Teicoplanin         |                   |                        |
+| Polymyxins          |                   |                        |
+| Colistin            |                   |                        |
+
+| 50S subunit    | 30S subunit      | Protein synthesis |
+|-----------------|-------------------|-------------------|
+| Macrolides      | Aminoglycosides   |                   |
+| Clindamycin     | Tetracyclines     |                   |
+| Linezolid       |                   |                   |
+| Chloramphenicol |                   |                   |
+| Fusidic acid    |                   |                   |
+
+Fig 9.4 Classes of antibiotics and their bacterial cell targets.
+
+This spectrum of available antibiotics revolutionized clinical practice and led to the declaration: 'It is time to close the book on infectious diseases, and declare the war against pestilence won' (attributed in urban legend to Dr. William H Stewart, US Surgeon General, 1965-1969). Such confidence failed to consider that the capacity for a prokaryotic micro-organism to develop resistance far outstrips the human capacity to develop new antibiotic drugs.
+
+Antibiotic resistance can be:
+
+• Intrinsic: due to inherent structural or functional characteristics, eg vancomycin cannot cross the outer membrane of Gram-negative organisms.
+• Acquired: bacteria have been evolving to resist antibacterial agents for billions of years through mutation and/or the transfer of resistance properties. This evolutionary phenomenon is accelerated by selection pressure from antibiotic use (including agriculture, aquaculture, and horticulture) which provides a competitive advantage for mutated, resistant strains.
+
+Resistance has emerged for all known antibiotics causing morbidity, mortality, and a huge cost burden worldwide.¹ Misadventure is evident. Quinolones are synthetic, resistance cannot be acquired in nature, and yet it is epidemic.
+
+Which brings us back to Alexander Fleming who, within 2 years of the mass-production of his 'miracle-mould', gave this sage warning in his Nobel lecture of 1945: 'Mr X has a sore throat. He buys some penicillin and gives himself, not enough to kill the streptococci, but enough to educate them to resist penicillin. He then infects his wife. Mrs X gets pneumonia and is treated with penicillin. As the streptococci are now resistant to penicillin the treatment fails. Mrs X dies. Who is primarily responsible for Mrs X's death? Why Mr X, whose negligent use of penicillin changed the nature of the microbe.'

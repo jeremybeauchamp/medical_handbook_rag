@@ -1,0 +1,47 @@
+# Questions to address when confronted by a stone
+
+## What is its composition? (See table 13.18.)
+
+Table 13.18 Types, causes, and X-ray appearance of renal stones
+
+| Type | Causative factors | Appearance on x-ray |
+|------|-------------------|---------------------|
+| Calcium oxalate (fig 13.46) | Metabolic or idiopathic | Spiky, radio-opaque |
+| Calcium phosphate | Metabolic or idiopathic | Smooth, may be large, radio-opaque |
+| Magnesium ammonium phosphate (fig 13.47) | UTI (proteus causes alkaline urine and calcium precipitation and ammonium salt formation) | Large, horny, 'staghorn', radio-opaque |
+| Urate (p680) | Hyperuricaemia | Smooth, brown, radiolucent |
+| Cystine (fig 13.48) | Renal tubular defect | Yellow, crystalline, semi-opaque |
+
+## Why has he or she got this stone now?
+- Diet: chocolate, tea, rhubarb, strawberries, nuts, and spinach all ↑oxalate levels.
+- Season: variations in calcium and oxalate levels are thought to be mediated by vitamin D synthesis via sunlight on skin.
+- Work: can he/she drink freely at work? Is there dehydration?
+- Medications: precipitating drugs include: diuretics, antacids, acetazolamide, corticosteroids, theophylline, aspirin, allopurinol, vitamin C and D, indinavir.
+
+## Are there any predisposing factors? For example:
+- Recurrent UTIs (in magnesium ammonium phosphate calculi).
+- Metabolic abnormalities:
+  - Hypercalciuria/hypercalcaemia (p676): hyperparathyroidism, neoplasia, sarcoidosis, hyperthyroidism, Addison's, Cushing's, lithium, vitamin D excess.
+  - Hyperuricosuria/↑plasma urate: on its own, or with gout.
+  - Hyperoxaluria.
+  - Cystinuria (p321).
+  - Renal tubular acidosis (pp316-7).
+- Urinary tract abnormalities: eg pelviureteric junction obstruction, hydronephrosis (renal pelvis or calyces), calyceal diverticulum, horseshoe kidney, ureterocele, vesicoureteric reflux, ureteral stricture, medullary sponge kidney.¹¹
+- Foreign bodies: eg stents, catheters.
+
+## Is there a family history? 
+Risk of stones 3-fold. Specific diseases include X-linked nephrolithiasis and Dent's disease (proteinuria, hypercalciuria, and nephrocalcinosis).
+
+## Is there infection above the stone? 
+Eg fever, loin tender, pyuria? This needs urgent intervention.
+
+Fig 13.46 Calcium oxalate monohydrate.
+Image courtesy of Dr Glen Austin
+
+Fig 13.47 Struvite stone.
+Image courtesy of Dr Glen Austin.
+
+Fig 13.48 Cystine stone.
+Image courtesy of Dr Glen Austin.
+
+¹¹ Medullary sponge kidney is a typically asymptomatic developmental anomaly of the kidney mostly seen in adult females, where there is dilatation of the collecting ducts, which if severe leads to a sponge-like appearance of the renal medulla. Complications/associations: UTIs, nephrolithiasis, haematuria and hypercalciuria, hyperparathyroidism (if present, look for genetic markers of MEN type 2A, see p223).

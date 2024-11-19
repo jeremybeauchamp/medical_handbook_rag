@@ -1,0 +1,42 @@
+# Acute bilateral leg weakness
+
+It is crucial to establish a diagnosis quickly to avoid permanent disability. Look for specific patterns (see later in topic) and ask these questions to help elicit the diagnosis:
+
+1. **Where is the lesion?** 
+   - Are the legs flaccid or spastic? (ie LMN or UMN?) 
+   - Is there sensory loss? A sensory level usually means spinal cord disease. 
+   - Is there loss of bowel or bladder control? (Lesion more likely to be in the conus medullaris or cauda equina.)
+
+2. **What is the lesion?** 
+   - Was onset sudden or rapidly progressive? This is an emergency; it suggests cord compression so get urgent help (see next paragraph). 
+   - Are there any signs of infection (eg tender spine, T°, WCC, ESR, CRP: extradural abscess)?
+
+## Cord compression 
+(See also p528.) 
+**Symptoms:** Bilateral leg weakness (arm weakness—often less severe—suggests a cervical cord lesion, see p508) a sensory level ± preceding back pain (see p542). Bladder (and anal) sphincter involvement is late and manifests as hesitancy, frequency, and, later, as painless retention. 
+**Signs:** Look for a motor, reflex, and sensory level, with normal findings above the level of the lesion, LMN signs at the level (especially in cervical lesions), and UMN signs below the level (but remember tone and reflexes are usually reduced in acute cord compression; OHCS p756). 
+**Causes:** Secondary malignancy (breast, lung, prostate, thyroid, kidney) in the spine is commonest. Rarer: infection (epidural abscess), cervical disc prolapse, haematoma (warfarin), intrinsic cord tumour, atlanto-axial subluxation, myeloma.
+**DD:** Transverse myelitis, MS, carcinomatous meningitis, cord vasculitis (PAN, syphilis), spinal artery thrombosis or aneurysm, trauma, Guillain-Barré syndrome (p702). 
+**Investigations:** Do not delay imaging at any cost. Spinal x-rays are unreliable; MRI is the definitive modality. Biopsy or surgical exploration may be needed to identify the nature of any mass. Do a CXR (primary lung malignancy, lung secondaries, TB). Bloods: FBC, ESR, B12, syphilis serology, U&E, LFT, PSA, serum electrophoresis. 
+**Treatment:** Give urgent dexamethasone in malignancy (p528) while considering more specific therapy, eg radiotherapy or chemotherapy ± decompressive laminectomy; which is most appropriate depends on tumour type, quality of life, and likely prognosis. Epidural abscesses must be surgically decompressed and antibiotics given.
+
+## Cauda equina and conus medullaris lesions 
+The big difference between these lesions and those high up in the cord is that leg weakness is flaccid and areflexic, not spastic and hyperreflexic. 
+**Causes:** As above, plus congenital lumbar disc disease and lumbosacral nerve lesions. 
+**Signs:** Conus medullaris lesions feature mixed UMN/LMN signs, leg weakness, early urinary retention and constipation, back pain, sacral sensory disturbance and erectile dysfunction. Cauda equina lesions feature back pain and radicular pain down the legs; asymmetrical, atrophic, areflexic paralysis of the legs; sensory loss in a root distribution; and sphincter tone; do PR.
+
+## Other patterns of leg weakness
+
+**Unilateral foot drop:** DM, common peroneal nerve palsy, stroke, prolapsed disc, MS.
+
+**Weak legs with no sensory loss:** MND, polio, parasagittal meningioma (an exception to the rule that weak legs mean cord or distal lesion).
+
+**Chronic spastic paraparesis:** MS, cord primary malignancy/metastasis, MND, syringomyelia, subacute combined degeneration of the cord (p334), hereditary spastic paraparesis, taboparesis (tertiary syphilis, see p412), histiocytosis X, parasites (eg schistosomiasis).
+
+**Chronic flaccid paraparesis:** Peripheral neuropathy, myopathy.
+
+**Absent knee jerks and extensor plantars:** (Ie combined LMN or UMN signs.) Combined cervical and lumbar disc disease, conus medullaris lesions, MND, myeloradiculitis, Friedreich's ataxia, subacute combined degeneration of the cord, taboparesis.⁴
+
+----
+
+⁴ Tertiary syphilis (p412): in tabes dorsalis the afferent pathways from muscle spindles are lost, with reduced tone and tendon reflexes (without weakness). Later, additional involvement of the pyramidal tracts causes taboparesis—a spastic paraparesis with the peculiar combination of extensor plantars (from the taboparesis) and absent tendon reflexes (from the tabes dorsalis).

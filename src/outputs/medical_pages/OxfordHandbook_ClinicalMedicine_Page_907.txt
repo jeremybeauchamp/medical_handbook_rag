@@ -1,0 +1,12 @@
+| NEWS SCORE | FREQUENCY OF MONITORING | CLINICAL RESPONSE |
+|------------|---------------------------|---------------------|
+| 0 | Minimum 12 hourly | • Continue routine NEWS monitoring with every set of observations |
+| Total: 1-4 | Minimum 4-6 hourly | • Inform registered nurse who must assess the patient;<br>• Registered nurse to decide if increased frequency of monitoring and / or escalation of clinical care is required; |
+| Total: 5 or more<br><br>or<br><br>3 in one parameter | Increased frequency to a minimum of 1 hourly | • Registered nurse to urgently inform the medical team caring for the patient;<br>• Urgent assessment by a clinician with core competencies to assess acutely ill patients;<br>• Clinical care in an environment with monitoring facilities; |
+| Total: 7 or more | Continuous monitoring of vital signs | • Registered nurse to immediately inform the medical team caring for the patient – this should be at least at Specialist Registrar level;<br>• Emergency assessment by a clinical team with critical care competencies, which also includes a practitioner/s with advanced airway skills;<br>• Consider transfer of Clinical care to a level 2 or 3 care facility, i.e. higher dependency or ITU; |
+
+Fig A2 Clinical response to NEWS triggers. © RCP 2012.
+
+Early warning scores are tools to aid assessment. They do not replace clinical judgement: use yours and respect the clinical opinion of others.
+
+Refer to local early warning scores where available.

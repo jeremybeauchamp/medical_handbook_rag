@@ -1,0 +1,41 @@
+# Non-Hodgkin's lymphoma
+
+This includes all lymphomas without Reed-Sternberg cells (p360)—a diverse group. Most are derived from B-cell lines; diffuse large B-cell lymphoma (DLBCL) is commonest. Not all centre on nodes (extranodal tissues generating lymphoma include mucosa-associated lymphoid tissue, eg gastric MALT, later in topic). Incidence has doubled since 1970 (to 2:10,000).
+
+## Causes
+Immunodeficiency—drugs; HIV (usually high-grade lymphoma from EBV transformed cells, p405); HTLV-1, p405; H. pylori; toxins; congenital.
+
+## Signs and symptoms
+- Superficial lymphadenopathy (75% at presentation).
+- Extranodal disease (50%)
+  - Gut (commonest):
+    1. Gastric MALT is caused by H. pylori, and may regress with its eradication (p252). Symptoms: as for gastric Ca (p619), with systemic features (see below). MALT usually involves the antrum, is multifocal, and metastasizes late.
+    2. Non-MALT gastric lymphomas (60%) are usually diffuse large-cell B lymphomas—high-grade and not responding well to H. pylori eradication.
+    3. Small-bowel lymphomas eg IPSID (immunoproliferative small intestine disease p370), or EATCL (enteropathy/coeliac-associated intra-epithelial T-cell lymphoma)—presents with diarrhoea, vomiting, abdominal pain, and weight. Poor prognosis.
+  - Skin: (2nd commonest—see fig 8.62) Eg clonal T cells in mycosis fungoides (accounts for ~50%—p596).
+  - Oropharynx: Waldeyer's ring lymphoma causes sore throat/obstructed breathing.
+  - Other possible sites: Bone, CNS, and lung.
+- Systemic features—fever, night sweats, weight loss (less common than in Hodgkin's lymphoma, and indicates disseminated disease).
+- Pancytopenia from marrow involvement—anaemia, infection, bleeding (platelets).
+
+## Tests
+Blood: FBC, U&E, LFT. ↑LDH ≈ worse prognosis, reflecting cell turnover. Marrow and node biopsy for classification (complex, based on the WHO system of high- or low-grade). Staging: Ann Arbor system (p360)—CT ± PET of chest, abdomen, pelvis. Send cytology of any effusion; LP for CSF cytology if CNS signs.
+
+## Diagnosis/management
+Is multidisciplinary, synthesizing details from clinical evaluation, histology, immunology, molecular genetics, and imaging. Generally:
+- Low-grade lymphomas are indolent, often incurable and widely disseminated. Include: follicular lymphoma, marginal zone lymphoma/MALT, lymphocytic lymphoma (closely related to CLL and treated similarly), lymphoplasmacytoid lymphoma (produces IgM = Waldenström's macroglobulinaemia, p370). See fig 8.63.
+- High-grade lymphomas are more aggressive, but often curable. There is often rapidly enlarging lymphadenopathy with systemic symptoms. Include: Burkitt's lymphoma (childhood disease with characteristic jaw lymphadenopathy; figs 8.64, 8.65), lymphoblastic lymphomas (like ALL), diffuse large B-cell lymphoma.
+
+## Treatment
+Huge range of options, depending on disease subtype.
+- Low grade: If symptomless, none may be needed. Radiotherapy may be curative in localized disease. Chlorambucil is used in diffuse disease. Remission may be maintained by using interferon alfa or rituximab (see later in paragraph). Bendamustine is effective both with rituximab and as a monotherapy in rituximab-refractory patients.
+- High grade: (eg large B-cell lymphoma, DLBCL), 'R-CHOP' regimen: Rituximab, Cyclophosphamide, Hydroxydaunorubicin, vincristine (Oncovin®) and Prednisolone. Granulocyte colony-stimulating factors (G-CSFs) help neutropenia—eg filgrastim or lenograstim (at low doses it may be cost-effective).
+
+## Survival
+Histology is important. Prognosis is worse if, at presentation:
+- Age >60yrs.
+- Systemic symptoms.
+- Bulky disease (abdominal mass >10cm).
+- ↑LDH.
+- Disseminated disease.
+Typical 5yr survival for treated patients: ~30% for high-grade and >50% for low-grade lymphomas, but the picture is very variable.

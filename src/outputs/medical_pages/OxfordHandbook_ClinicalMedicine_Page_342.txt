@@ -1,0 +1,51 @@
+# The peripheral blood film
+
+Many haematological (and other) diagnoses are made by careful examination of the peripheral blood film. It is also necessary for interpretation of the FBC indices.
+
+## Features Include:
+
+**Acanthocytes:** (fig 8.10) Spicules on RBCs (∴ unstable RBC membrane lipid structure); causes: splenectomy, alcoholic liver disease, abetalipoproteinaemia, spherocytosis.
+
+**Anisocytosis:** Variation in RBC size, eg megaloblastic anaemia, thalassaemia, IDA.
+
+**Basophilic RBC stippling:** (fig 8.11) Denatured RNA found in RBCs, indicating accelerated erythropoiesis or defective Hb synthesis. Seen in lead poisoning, megaloblastic anaemia, myelodysplasia, liver disease, haemoglobinopathy, eg thalassaemia.
+
+**Blasts:** Nucleated precursor cells. They should not normally appear in peripheral blood but do in myelofibrosis, leukaemia, and malignant marrow infiltration.
+
+**Burr cells (echinocytes):** RBC projections (less marked than in acanthocytes); fig 8.12.
+
+**Cabot rings:** Seen in: pernicious anaemia; lead poisoning; bad infections (fig 8.13).
+
+**Dimorphic picture:** Two populations of red cells. Seen after treatment of Fe, B12, or folate deficiency, in mixed deficiency (↑Fe with ↑B12 or folate), post-transfusion, or with primary sideroblastic anaemia, where a clone of abnormal erythroblasts produce abnormal red cells, alongside normal red cell production.
+
+**Howell–Jolly bodies:** DNA nuclear remnants in RBCs, which are normally removed by the spleen (fig 8.14). Seen post-splenectomy and in hyposplenism (eg sickle-cell disease, coeliac disease, congenital, UC/Crohn's, myeloproliferative disease, amyloid). Also in dyserythropoietic states: myelodysplasia, megaloblastic anaemia.
+
+**Hypochromia:** (p326.) Less dense staining of RBCs due to ↓Hb synthesis, seen in IDA, thalassaemia, and sideroblastic anaemia (iron stores unusable, p366).
+
+**Left shift:** Immature neutrophils released from the marrow, eg in infection (fig 8.15).
+
+**Leukoerythroblastic film:** Immature cells (myelocytes, promyelocytes, metamyelocytes, normoblasts) ± tear-drop RBCs from haemolysis or marrow infiltration/infection (malignancy; TB; brucella; visceral leishmaniasis; parvovirus B19).
+
+**Leukaemoid reaction:** A marked leucocytosis (WCC >50×10⁹/L). Seen in severe illness, eg with infection or burns, and also in leukaemia.
+
+**Pappenheimer bodies:** (fig 8.16) Granules of siderocytes containing iron. Seen in lead poisoning, carcinomatosis, and post-splenectomy.
+
+**Poikilocytosis:** Variation in RBC shape, eg in IDA, myelofibrosis, thalassaemia.
+
+**Polychromasia:** RBCs of different ages stain unevenly (young are bluer). This is a response to bleeding, haematinic replacement (ferrous sulfate, B12, folate), haemolysis, or marrow infiltration. Reticulocyte count is raised.
+
+**Reticulocytes:** (Normal range: 0.8–2%; or <85×10⁹/L) (fig 8.17) Young, larger RBCs (contain RNA) signifying active erythropoiesis. Increased in haemolysis, haemorrhage, and if B12, iron, or folate is given to marrow that lack these.
+
+**Right shift:** Hypermature white cells: hypersegmented polymorphs (>5 lobes to nucleus) seen in megaloblastic anaemia, uraemia, and liver disease. See p333, fig 8.25.
+
+**Rouleaux formation:** (fig 8.18) Red cells stack on each other (causing a raised ESR; p372). Seen with chronic inflammation, paraproteinaemia, and myeloma.
+
+**Schistocytes:** Fragmented RBCs sliced by fibrin bands, in intravascular haemolysis (p339, fig 8.31). Look for microangiopathic anaemia, eg DIC (p352), haemolytic uraemic syndrome, thrombotic thrombocytopenic purpura (TTP; p315), or pre-eclampsia.
+
+**Spherocytes:** Spherical cells found in hereditary spherocytosis and autoimmune haemolytic anaemia. See p338.
+
+**Target cells:** (Also known as Mexican hat cells, fig 8.14 and fig 8.41, p343.) These are RBCs with central staining, a ring of pallor, and an outer rim of staining seen in liver disease, hyposplenism, thalassaemia—and, in small numbers, in IDA.
+
+**Tear-drop RBCs:** Seen in extramedullary haematopoiesis; see leukoerythroblastic film.
+
+3 Cabot 'figure-of-eight' rings may be microtubules from mitotic spindles. It is easy to confuse them with malaria parasites, p416 (especially if stippling gives a 'chromatin dot' artefact, as here). Richard Clarke Cabot (1868–1939) liked diagnostic challenges: he founded the notoriously hard but beautifully presented weekly clinicopathological exercises of the Massachusetts General Hospital which made the New England Journal of Medicine so famous. He also wisely recommended that: 'before you tell the truth to the patient, be sure you know the truth, and that the patient wants to hear it'.

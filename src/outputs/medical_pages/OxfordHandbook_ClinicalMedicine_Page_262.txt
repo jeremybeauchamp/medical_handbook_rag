@@ -1,0 +1,20 @@
+# Endoscopy and biopsy
+
+Consent is needed for all these procedures; see p568.
+
+## Upper GI endoscopy
+**Indications:** See table 6.2. **Pre-procedure:** Stop PPIs 2wks pre-op if possible (↑ pathology-masking). Nil by mouth for 6h before. Don't drive for 24h if sedation is used. **Procedure:** Sedation optional, eg midazolam 1-5mg slowly IV (to remain conscious; if deeper sedation is needed, propofol via an anaesthetist (narrow therapeutic range)); nasal prong O2 (eg 2L/min; monitor respirations & oximetry). The pharynx may be sprayed with local anaesthetic before the endoscope is passed. Continuous suction must be available to prevent aspiration. **Complications:** Sore throat; amnesia from sedation; perforation (<0.1%); bleeding (if on aspirin, clopidogrel, warfarin, or DOACs these need stopping only if therapeutic procedure). **Duodenal biopsy:** The gold standard test for coeliac disease (p266); also useful in unusual causes of malabsorption, eg giardiasis, lymphoma, Whipple's disease.
+
+## Sigmoidoscopy
+Views the rectum + distal colon (to ~splenic flexure). Flexible sigmoidoscopy has largely displaced rigid sigmoidoscopy for diagnosis of distal colonic pathology, but ~25% of cancers are still out of reach. It can be used therapeutically, eg for decompression of sigmoid volvulus (p611). **Preparation:** Phosphate enema PR. **Procedure:** Learn from an expert; do PR exam first. Do biopsies—macroscopic appearances may be normal, eg IBD, amyloidosis, microscopic colitis.
+
+## Colonoscopy
+**Indications:** See table 6.3. **Preparation:** Stop iron 1wk prior; discuss with local endoscopy unit bowel preparation and diet required. **Procedure:** Do PR first. Sedation (see earlier in topic) and analgesia are given before colonoscope is passed and guided around the colon. **Complications:** Abdominal discomfort; incomplete examination; haemorrhage after biopsy or polypectomy; perforation (<0.1%). See figs 6.7-6.11. Post-procedure: no alcohol, and no operating machinery for 24h.
+
+## Video capsule endoscopy (VCE)
+To evaluate obscure GI bleeding (p326) and to detect small bowel pathology. Use small bowel imaging (eg contrast) or patency capsule test ahead of VCE if patient has abdominal pain or symptoms suggesting small bowel obstruction. **Preparation:** Clear fluids only the evening before then nil by mouth from morning until 4h after capsule swallowed. **Procedure:** Capsule is swallowed (fig 6.12)—this transmits video wirelessly to capture device worn by patient. Normal activity can take place for the day. **Complications:** Capsule retention in 1% (endoscopic or surgical removal is needed)—avoid MRI for 2 wks after unless AXR confirms capsule has cleared; obstruction, incomplete exam (eg slow transit, achalasia). **Problems:** No therapeutic options; poor localization of lesions; may miss more subtle lesions.
+
+Fig 6.12 PillCam®.
+
+## Liver biopsy
+**Route:** Percutaneous if INR in range else transjugular with FFP. **Indications:** LFT of unknown aetiology; assessment of fibrosis in chronic liver disease (this indication being replaced by ultrasound-based elastography); suspected cirrhosis or suspected hepatic lesions/cancer. **Pre-op:** Nil by mouth for 8h. Are INR <1.5 and platelets >50 × 109/L? Give analgesia. **Procedure:** Sedation may be given. Do under US/CT guidance; the liver borders are percussed and where there is dullness in the mid-axillary line in expiration, lidocaine 2% is infiltrated down to the liver capsule. Breathing is rehearsed and a needle biopsy is taken with the breath held in expiration. Afterwards lie on the right side for 2h, then in bed for 4h; check pulse and BP every 15 mins for 1h, every 30 mins for 2h, then hourly until discharge 4h post-biopsy. **Complications:** Local pain; pneumothorax; bleeding (<0.5%); death (<0.1%).

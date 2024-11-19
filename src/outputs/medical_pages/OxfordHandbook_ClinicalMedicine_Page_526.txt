@@ -1,0 +1,40 @@
+# Myasthenia gravis (MG)
+
+MG is an autoimmune disease mediated by antibodies to nicotinic acetylcholine receptors (AChR) on the post-synaptic side of the neuromuscular junction (fig 10.32). Both B and T cells are implicated.
+
+## Presentation
+Slowly increasing or relapsing muscular fatigue. Muscle groups affected, in order: extraocular; bulbar (swallowing, chewing); face; neck; limb girdle; trunk. Signs: Ptosis, diplopia, myasthenic snarl on smiling, 'peek sign' of orbicularis fatigability (eyelids begin to separate after manual opposition to sustained closure). On counting to 50, the voice fades (dysphonia is a rare presentation). Tendon reflexes are normal. Symptoms exacerbated by: Pregnancy, K+, infection, over-treatment, change of climate, emotion, exercise, gentamicin, opiates, tetracycline, quinine, β-blockers.
+
+## Differentials
+Polymyositis/other myopathies (p510); SLE; Takayasu's arteritis (fatigability of the extremities); botulism (see BOX).
+
+## Associations
+Include autoimmune disease (especially rheumatoid arthritis and SLE). If <50yrs, it is commoner in ♀ and associated with thymic hyperplasia; >50, it is commoner in men, and associated with thymic atrophy or thymic tumour.
+
+## Tests
+- **Antibodies:** Anti-AChR antibodies in 90% (70% in MG variant confined to ocular muscles). If anti-AChR –ve look for MUSK antibodies (muscle-specific tyrosine kinase; especially in ♀).
+- **EMG:** Decremental muscle response to repetitive nerve stimulation ± single-fibre jitter.
+- **Imaging:** CT to exclude thymoma (68% 5yr survival).
+- **Other:** Ptosis improves by >2mm after ice application to the eyelid for >2min—a neat, non-invasive test (but not diagnostic). The Tensilon® (edrophonium) test may not give clear answers and has dangers, so is rarely used.
+
+## Treatment
+- **Symptom control:** Anticholinesterase, eg pyridostigmine (60–120mg PO up to 6×daily; max 1.2g/d). Cholinergic SE: salivation, lacrimation, sweats, vomiting, miosis. Other SE: diarrhoea, colic (controllable with propantheline 15mg/8h).
+- **Immunosuppression:** Treat relapses with prednisolone—start at 5mg on alternate days, ↑ by 5mg/wk up to 1mg/kg on each treatment day. ↓Dose on remission (may take months). Give osteoporosis prophylaxis. SE: weakness (hence low starting dose). Azathioprine, ciclosporin, and mycophenolate mofetil may also be used.
+- **Thymectomy:** Has beneficial effects, even in patients without a thymoma: consider especially in younger patients with onset <5yrs previously and poor response to medical therapy. A recent randomized controlled trial shows improved symptom scores sustained over 3yrs, with reduced need for immunosuppression. Surgery also prevents local invasion if thymoma is present.
+
+## Myasthenic crisis
+Life-threatening weakness of respiratory muscles during a relapse. ►Can be difficult to differentiate from cholinergic crisis (ie overtreatment—but this is rare, and usually only occurs in doses of pyridostigmine >960mg/d). Monitor forced vital capacity. Ventilatory support may be needed. Treat with plasmapheresis (removes AChR antibodies from the circulation) or IVIg and identify and treat the trigger for the relapse (eg infection, medications).
+
+# Lambert-Eaton myasthenic syndrome (LEMS)
+
+LEMS can be paraneoplastic (50% are associated with malignancies, in particular small-cell lung cancer) or autoimmune. Unlike MG, antibodies are to voltage-gated Ca²⁺ channels on pre-synaptic membrane (see fig 10.33; anti-P/Q type VGCC antibodies are +ve in 85–95%).
+
+## Clinical features
+- Gait difficulty before eye signs.
+- Autonomic involvement (dry mouth, constipation, impotence).
+- Hyporeflexia and weakness, which improve after exercise.
+- Diplopia and respiratory muscle involvement are rare.
+- EMG shows similar changes to MG except amplitude increases greatly post-exercise.
+
+## Treatment
+Pyridostigmine, 3,4-diaminopyridine or IVIg (get specialist help). ►Do regular CXR/high-resolution CT as symptoms may precede the cancer by >4yrs.

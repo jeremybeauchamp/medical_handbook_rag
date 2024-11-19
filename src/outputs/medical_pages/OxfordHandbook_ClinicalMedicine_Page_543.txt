@@ -1,0 +1,35 @@
+## Brain metastases
+Affect up to ~40% of patients with cancer. Most commonly: lung, breast, colorectal, melanoma. Poor prognosis: median survival 1-2 months; better prognosis with single lesion, breast cancer (see also p830).
+
+**Signs and symptoms:** Headache (~50%, often worse in the morning, when coughing or bending), focal neurological signs (~30%), ataxia (~21%), fits (~18%), nausea, vomiting, papilloedema.
+
+**Management:** Urgent CT/MRI depending on underlying diagnosis, disease stage, and performance status. Dexamethasone 16mg/24h to reduce cerebral oedema. Stereotactic radiotherapy (see p527). Discuss with neurosurgery, especially if large lesion or associated hydrocephalus.
+
+## Tumour lysis syndrome
+Chemotherapy for rapidly proliferating tumours (leukaemia, lymphoma, myeloma) leads to cell death and ↑urate, ↑K+, ↑phosphate, ↓calcium. Risk of arrhythmia and renal failure (see p314).
+
+**Management:** Prevent with hydration and uricolytics, eg rasburicase, allopurinol.
+
+## Paraneoplastic syndromes
+Paraneoplastic syndromes (table 11.3) consist of symptoms attributable to a malignancy mediated by hormones, cytokines, or the cross-reaction of tumour antibodies. They do not correlate with stage/prognosis and may pre-date other cancer symptoms.
+
+### Table 11.3 Examples of paraneoplastic syndromes
+
+| Paraneoplastic syndrome | Comment | Malignancies | See |
+|-------------------------|---------|--------------|-----|
+| Hypercalcaemia | Parathyroid hormone-related protein secreted by tumour | Lung, oesophagus, skin, cervix, breast, kidney | p528 |
+| SIADH | Excessive antidiuretic hormone (ADH) secretion causing ↓Na+ | Lung, pancreas, lymphomas, prostate | p673 |
+| Cushing's syndrome | Tumour secretes ACTH or CRF, causing adrenal to produce high levels of corticosteroid | Lung, pancreas, thymus, carcinoid | p224 |
+| Neuropathy | Antibody-mediated neuronal degeneration: peripheral, autonomic, cerebellar | Lung, breast, myeloma, Hodgkin's, GI | p504 |
+| Lambert-Eaton myasthenic syndrome | Antibody to voltage-gated ion channel on pre-synaptic membrane causes weakness (proximal leg most common) | Mostly lung. Also GI, breast, thymus | p512 |
+| Dermatomyositis & polymyositis | Inflammation of the muscles +/- heliotrope rash | Lung, breast, ovary, GI | p552 |
+| Acanthosis nigricans | Velvety, hyperpigmented skin (usually flexural) | GI | p562 |
+| Pemphigus | Blisters to skin/mucous membranes | Lymphoma, thymus, Kaposi's sarcoma | |
+| Hypertrophic osteoarthropathy | Periosteal bone formation, arthritis, and finger clubbing | Lung | |
+
+## Trousseau's sign
+
+Trousseau (fig 11.5) was probably the first to discover a paraneoplastic syndrome. He noticed that many patients with migratory thrombophlebitis ('Trousseau's sign') developed gastric cancer. Unfortunately, he developed migratory thrombophlebitis himself and correctly predicted his own death from GI malignancy.
+
+Fig 11.5 Armand Trousseau 1801-1867.
+Wellcome Library, London. Armand Trousseau. Lithograph by JBA Lafosse, 1866, after P Petit.

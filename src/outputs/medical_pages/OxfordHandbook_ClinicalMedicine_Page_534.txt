@@ -1,0 +1,37 @@
+# The genetics of cancer
+
+## How cancers develop
+
+Human life requires cells which are capable of dividing millions of times. These cells need to be able to adapt and change so that different tissues and organs can be formed. They need to command their own blood supply. Without extensive mechanisms to control cell growth and prevent the replication of abnormal cells, these requirements for life become the basis for the development of a cancer. Failure of control mechanisms causes cancer.
+
+Cancer is a genetic disease. Genetic changes occur in pathways associated with cell growth, cell differentiation, and cell death. Mutations can be inherited or acquired. Acquired or somatic errors occur due to age, exposure to carcinogens, and in unchecked rapid cell turnover. Mutations result in:
+
+- 'gain of function' oncogenes that have pathological activity in the absence of a relevant signal. For example, ras is a protein involved in signal transduction. It is mutated in ~30% of human cancers. Oncogenes behave in a dominant manner: mutation to one allele results in unchecked activation.
+- 'loss of function' tumour suppressor genes no longer act as inhibitors of pro-malignant processes. In most cases, mutations to both alleles must occur for a cancer phenotype. This can occur either as two separate somatic events, or in the case of predisposition genes, the first 'hit' is inherited and the second occurs somatically. Tumours therefore occur earlier and more frequently in familial cancers. p53 is a tumour suppressor gene mutated in ~50% of human cancers.
+
+Most cancers arise from multiple mutations. This is perhaps best represented in the stepwise accumulation of mutations in colorectal cancer (fig 11.2). An understanding of the molecular biology of cancer facilitates drug development (fig 11.3).
+
+### Fig 11.2 Cellular mutations and contributing genes in the development of colorectal cancer.
+
+| Normal cell | Hyperproliferation | Adenoma | Carcinoma |
+|-------------|---------------------|---------|-----------|
+| APC gene mutation | K-ras mutation | DCC gene mutation | p53 mutation | Others |
+| Normal cell → Hyper-proliferation → Early adenoma → Intermediate adenoma → Late adenoma → Carcinoma → Metastasis |
+
+### Fig 11.3 Therapeutic targeting in cancer.
+
+```mermaid
+graph TD
+    A[EGFR inhibitors] --> B[Sustaining proliferative signalling]
+    C[Cyclin-dependent kinase inhibitors] --> D[Evading growth suppressors]
+    E[Aerobic glycolysis inhibitors] --> F[Deregulating cellular energetics]
+    G[Immune activating anti-CTLA4 mAb] --> H[Avoiding immune destruction]
+    I[Proapoptotic BH3 mimetics] --> J[Resisting cell death]
+    K[Telomerase Inhibitors] --> L[Enabling replicative immortality]
+    M[PARP inhibitors] --> N[Genome instability & mutation]
+    O[Inhibitors of VEGF signalling] --> P[Inducing angiogenesis]
+    Q[Inhibitors of HGF/c-Met] --> R[Activating invasion & metastasis]
+    S[Selective anti-inflammatory drugs] --> T[Tumour-promoting inflammation]
+```
+
+Reprinted from Cell, 144(5), Hanahan et al., Hallmarks of Cancer: the Next Generation, 646-74, 2011, with permission from Elsevier.

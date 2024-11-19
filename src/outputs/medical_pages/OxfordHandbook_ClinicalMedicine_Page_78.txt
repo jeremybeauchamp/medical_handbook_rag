@@ -1,0 +1,41 @@
+# The neurological system: history
+
+History This should be taken from the patient and if possible from a close friend or relative as well for corroboration/discrepancies. The patient's memory, perception, or speech may be affected by the disorder, making the history difficult to obtain. Note the progression of the symptoms and signs: gradual deterioration (eg tumour) vs intermittent exacerbations (eg multiple sclerosis) vs rapid onset (eg stroke). Ask about age, occupation, and ethnic origin. Right- or left-hand dominant?
+
+## Presenting symptoms
+
+- **Headache:** (p456 & p780.) Different to usual headaches? Acute/chronic? Speed of onset? Single/recurrent? Unilateral/bilateral? Associated symptoms (eg aura with migraine, p458)? Any meningism (p822)? Worse on waking (↑ICP)? Decreased conscious level? ▶Take a 'worst-ever' headache very seriously. (See p749.)
+- **Muscle weakness:** (p466.) Speed of onset? Muscle groups affected? Sensory loss? Any sphincter disturbance? Loss of balance? Associated spinal/root pain?
+- **Visual disturbance:** (OHCS p410.) eg blurring, double vision (diplopia), photophobia, visual loss. Speed of onset? Any preceding symptoms? Pain in eye?
+- **Change in other senses:** Hearing (p464), smell, taste? Abnormalities are not always due to neurological disease, consider ENT disease.
+- **Dizziness:** (p462.) Illusion of surroundings moving (vertigo)? Hearing loss/tinnitus? Any loss of consciousness? Positional?
+- **Speech disturbance:** (p86.) Difficulty in expression, articulation, or comprehension (can be difficult to determine)? Sudden onset or gradual?
+- **Dysphagia:** (p250.) Solids and/or liquids? Intermittent or constant? Difficulty in coordination? Painful (odynophagia)?
+- **Fits/faints/'funny turns'/involuntary movements:** (p468.) Frequency? Duration? Mode of onset? Preceding aura? Loss of consciousness? Tongue biting? Incontinence? Any residual weakness/confusion? Family history?
+- **Abnormal sensations:** Eg numbness, 'pins & needles' (paraesthesiae), pain, odd sensations. Distribution? Speed of onset? Associated weakness?
+- **Tremor:** (p65.) Rapid or slow? Present at rest? Worse on deliberate movement? Taking β-agonists? Any thyroid problems? Any family history? Fasciculations?
+
+## Cognitive state
+If there is any doubt about the patient's cognition, cognitive testing should be undertaken. There are a number of tools including MMSE (subject to strict copyright), GPCOG, TYM, and 6-CIT. The Abbreviated Mental Test Score (AMTS) is a commonly used screening questionnaire for cognitive impairment:
+
+1. Tell patient an address to recall at the end (eg 42 West Street)
+2. Age
+3. Time (to nearest hour)
+4. What year is it?
+5. Recognize 2 people (eg doctor & nurse)
+6. Date of birth
+7. Dates of the Second World War
+8. Name of current monarch/prime minister
+9. Where are you now? (Which hospital?)
+10. Count backwards from 20 to 1
+
+A score of ≤6 suggests poor cognition, acute (delirium), or chronic (dementia). AMTS correlates well with the more detailed Mini-Mental State Examination (MMSE™) NB: deaf, dysphasic, depressed, and uncooperative patients, as well as those who do not understand English, will also get low scores.
+
+## Past medical history
+Ask about meningitis/encephalitis, head/spine trauma, seizures, previous operations, risk factors for vascular disease (p470, AF, hypertension, hyperlipidaemia, diabetes, smoking), and recent travel, especially exotic destinations. Is there any chance that the patient is pregnant (eclampsia, OHCS p48)?
+
+## Drug history
+Any anticonvulsant/antipsychotic/antidepressant medication? Any psychotropic drugs (eg ecstasy)? Any medication with neurological side-effects (eg isoniazid which can cause a peripheral neuropathy)?
+
+## Social and family history
+What can the patient do/not do, ie activities of daily living (ADLs)? What's the Barthel Index score? Any family history of neurological or psychiatric disease? Any consanguinity? Consider sexual history, eg syphilis.

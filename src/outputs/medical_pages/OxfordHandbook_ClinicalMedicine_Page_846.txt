@@ -1,0 +1,47 @@
+# Diabetic ketoacidosis (DKA)
+
+## Mechanism
+Normally the body metabolizes carbohydrates, leading to efficient energy production. Ketoacidosis is an alternative metabolic pathway used in starvation states; it is far less efficient, and produces acetone as a byproduct (hence the fruity breath of patients in ketosis). In acute diabetic ketoacidosis, there is excessive glucose, but because of a lack of insulin, this cannot be taken up into cells to be metabolized, so pushing the body into a starvation-like state where ketoacidosis is the only mechanism of energy production. The combination of severe acidosis and hyperglycaemia can be deadly, so early recognition and treatment is important.
+
+## Typical picture
+Gradual drowsiness, vomiting, and dehydration in type 1 diabetic (very rarely type 2). Do glucose in all those with unexplained vomiting, abdo pain, polyuria, polydipsia, lethargy, anorexia, ketotic breath, dehydration, coma, or deep breathing (sighing 'Kussmaul' hyperventilation). Triggers: Infection, eg UTI; surgery; MI; pancreatitis; chemotherapy; antipsychotics; wrong insulin dose/non-compliance.
+
+## Diagnosis
+1. Acidaemia (venous blood pH <7.3 or HCO3⁻ < 15.0mmol/L).
+2. Hyperglycaemia (blood glucose >11.0mmol/L) or known DM.
+3. Ketonaemia (≥3.0mmol/L) or significant ketonuria (more than 2+ on dipstick).
+
+Tests: ECG, CXR. Urine: Dipstick and MSU. Blood: Capillary and lab glucose, ketones, pH (use venous blood; ABG only if GCS or hypoxia), U&E, HCO3⁻, osmolality, FBC, blood culture.
+
+## Severe DKA
+If one or more of the following features is present on admission, consider transfer to HDU/ICU for monitoring and central venous access. Get senior help!
+
+- Blood ketones >6mmol/L.
+- Venous bicarbonate <5mmol/L.
+- Venous/arterial pH <7.0.
+- K⁺ <3.5mmol/L on admission.
+- GCS <12.
+- O₂ sats <92% on air (assuming no respiratory disease).
+- Systolic BP <90mmHg.
+- Pulse >100 or <60 bpm.
+- Anion gap above 16 (p670).
+
+## Management
+Replace volume then correct metabolic defects, see fig 19.23.
+
+## Pitfalls in diabetic ketoacidosis
+- Plasma glucose is usually high, but not always, especially if insulin continued.
+- High WCC may be seen in the absence of infection.
+- Infection. Often there is no fever. Do MSU, blood cultures, and CXR. Start broad-spectrum antibiotics (eg co-amoxiclav, p386) early if infection is suspected.
+- Creatinine. Some assays for creatinine cross-react with ketone bodies, so plasma creatinine may not reflect true renal function.
+- Hyponatraemia is common, due to osmolar compensation for the hyperglycaemia. ↑ or → [Na⁺] indicates severe water loss. As treatment commences Na⁺ rises as water enters cells. Na⁺ is also low due to an artefact; corrected plasma [Na⁺] = Na⁺ + 2.4[(glucose -5.5)/5.5].
+- Ketonuria does not equate with ketoacidosis. Anyone may have up to ++ketonuria after an overnight fast. Not all ketones are due to diabetes—consider alcohol if glucose normal. Always check venous blood ketones.
+- Recurrent ketoacidosis. Blood glucose may return to normal long before ketones are removed from the blood, and premature termination of insulin infusion may lead to lack of clearance and return to DKA. This may be avoided by maintaining a constant rate of insulin infusion (with co-infusion of glucose 10% to maintain plasma glucose at 6-10mmol/L) until blood ketones <0.6mmol/L and pH >7.3.
+- Acidosis but without gross elevation of glucose may occur, but consider overdose (eg aspirin) and lactic acidosis (in elderly diabetics).
+- Serum amylase is often raised (up to ≈×10) and non-specific abdominal pain is common, even in the absence of pancreatitis.
+
+## Complications
+Cerebral oedema (get help if sudden CNS decline), aspiration pneumonia, hypokalaemia, hypomagnesaemia, hypophosphataemia, thromboembolism.
+
+## Prevention
+Talk to the patient: evaluate compliance and educate about triggers.

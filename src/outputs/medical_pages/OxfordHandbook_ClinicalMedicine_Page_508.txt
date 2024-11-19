@@ -1,0 +1,25 @@
+# Parkinsonism
+
+This is the extrapyramidal triad of:
+
+1. **Tremor.** Worse at rest; often 'pill-rolling' of thumb over fingers (see p468).
+2. **Hypertonia.** Rigidity + tremor gives 'cogwheel rigidity', felt by the examiner during rapid pronation/supination.
+3. **Bradykinesia.** Slow to initiate movement; actions slow and decrease in amplitude with repetition, eg blink rate, micrographia. Gait is festinant (shuffling, pitched forward, fig 10.25) with ↓ arm-swing and freezing at obstacles or doors (due to poor simultaneous motor and cognitive function). Expressionless face.
+
+Fig 10.25 'Marche à petit pas'
+
+## Causes
+
+**Parkinson's disease (PD):** Loss of dopaminergic neurons in the substantia nigra, associated with Lewy bodies in the basal ganglia, brainstem, and cortex. Most cases are sporadic, though multiple genetic loci have been identified in familial cases. Mean age at onset is 60yrs. **Prevalence:** ↑ with age: 3.5% at 85-89yrs. **Clinical features:** The parkinsonian triad, plus non-motor symptoms such as: autonomic dysfunction (postural hypotension, constipation, urinary frequency/urgency, dribbling of saliva), sleep disturbance, and reduced sense of smell. Neuropsychiatric complications, such as depression, dementia, and psychosis, are common and debilitating. **Diagnosis:** Is clinical and based on the core features of bradykinesia with resting tremor and/or hypertonia; cerebellar disease and frontotemporal dementia should be excluded; a clinical response to dopaminergic therapy is supportive. ►Signs are invariably worse on one side —if symmetrical look for other causes. If an alternative cause is suspected then consider MRI to rule out structural pathology. Functional neuroimaging (DaTscan™, PET) is playing an emerging role. **Treatment:** Focuses on symptom control and does not slow disease progression (see BOX). Non-pharmacological options include deep brain stimulation (DBS, may help those who are partly dopamine-responsive) and surgical ablation of overactive basal ganglia circuits (eg subthalamic nuclei).
+
+## Parkinson's plus syndromes
+
+**Progressive supranuclear palsy:** (PSP, Steele-Richardson-Olszewski syndrome.) Early postural instability, vertical gaze palsy ± falls; rigidity of trunk >limbs; symmetrical onset; speech and swallowing problems; little tremor. **Multiple system atrophy:** (MSA; Shy-Drager.) Early autonomic features, eg impotence/incontinence, postural ↓BP; cerebellar + pyramidal signs; rigidity > tremor. **Cortico-basal degeneration:** (CBD.) Akinetic rigidity involving one limb; cortical sensory loss (eg astereognosis); apraxia (even autonomous interfering activity by affected limb—the 'alien limb' phenomenon). **Lewy body dementia:** See p486.
+
+## Secondary causes
+
+**Vascular parkinsonism:** (2.5-5% of parkinsonism, also called 'lower limb' parkinsonism). Eg diabetic/hypertensive patient with postural instability and falls (rather than tremor, bradykinesia, and festination). **Other secondary causes:** Drugs (neuroleptics, metoclopramide, prochlorperazine), toxins (manganese), Wilson's disease (p285), trauma (dementia pugilistica), encephalitis, neurosyphilis.
+
+## Management
+
+Requires input of a a multidisciplinary team (GP, neurologist, nurse specialist, social worker, carers, physio- and occupational therapist) to boost quality of life. Assess disability and cognition objectively and regularly, and monitor mood—depression is common. Involve palliative care services early on. Postural exercises and weight lifting may help. ►Don't forget the carers (p487): offer respite care.

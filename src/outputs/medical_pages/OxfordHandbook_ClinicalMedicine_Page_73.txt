@@ -1,0 +1,26 @@
+## Tenesmus
+This is a sensation in the rectum of incomplete emptying after defecation. It's common in irritable bowel syndrome (p266), but can be caused by tumours.
+
+## Regurgitation
+Gastric and oesophageal contents are regurgitated effortlessly into the mouth—without contraction of abdominal muscles and diaphragm (so distinguishing it from true vomiting). It may be worse on lying flat, and can cause cough and nocturnal asthma. Regurgitation is rarely preceded by nausea, and when due to gastro-oesophageal reflux, it is often associated with heartburn. An oesophageal pouch may cause regurgitation. Very high GI obstructions (eg gastric volvulus, p611) cause non-productive retching rather than true regurgitation.
+
+## Steatorrhoea
+These are pale stools that are difficult to flush, and are caused by malabsorption of fat in the small intestine and hence greater fat content in the stool.
+
+Causes: Ileal disease (eg Crohn's or ileal resection), pancreatic disease, and obstructive jaundice (due to excretion of bile salts from the gallbladder).
+
+## Dyspepsia
+Dyspepsia and indigestion (p252) are broad terms. Dyspepsia is defined as one or more of post-prandial fullness, early satiety (unable to finish meal), and/or epigastric or retrosternal pain or burning. 'Indigestion' reported by the patient can refer to dyspepsia, bloating, nausea, and vomiting. Try to find out exactly what your patient means and when these symptoms occur in relation to meals, eg the classic symptoms of peptic ulcers occur 2-5 hours after a meal and on an empty stomach. Look for alarm symptoms (see p248); these have high negative predictive value. If all patients with dyspepsia undergo endoscopy, <33% have clinically significant findings.¹¹ Myocardial infaction may present as 'indigestion'.
+
+## Halitosis
+Halitosis (fetor oris, oral malodour) results from gingivitis (rarely severe enough to cause Vincent's angina, p712), metabolic activity of bacteria in plaque, or sulfide-yielding food putrefaction, eg in gingival pockets and tonsillar crypts. Patients can often be anxious and convinced of halitosis when it is not present (and vice versa!).
+
+Contributory factors:
+Smoking, drugs (disulfiram; isosorbide), lung disease, hangovers.
+
+R:
+Try to eliminate anaerobes:
+• Good dental hygiene, dental floss, tongue scraping.
+• 0.2% aqueous chlorhexidine gluconate.
+
+The very common halitosis arising from the tongue's dorsum is secondary to over-populated volatile sulfur compound-producing bacteria. Locally retained bacteria metabolize sulfur-containing amino acids to yield volatile (∴ smelly) hydrogen sulfide and methylmercaptane, which perpetuate periodontal disease. At night and between meals, conditions are optimal for odour production—so eating regularly may help. Treat by mechanical cleansing/scraping using tongue brushes or scrapes plus mouthwashes. Oral care products containing metal ions, especially Zn, inhibit odour formation, it is thought, because of affinity of the metal ion to sulfur. It is possible to measure the level of volatile sulfur-containing compounds in the air in the mouth directly by means of a portable sulfide monitor.

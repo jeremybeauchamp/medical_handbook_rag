@@ -1,0 +1,37 @@
+# Treating diabetes mellitus
+
+## General
+Focus on education and lifestyle advice (eg exercise to ↑insulin sensitivity), healthy eating: p244—↓saturated fats, ↓sugar, ↑starch-carbohydrate, moderate protein. Foods made just for diabetics are not needed. One could regard bariatric surgery as a cure for DM in selected patients. Be prepared to negotiate HbA1c target and review every 3-6 months. Assess global vascular risk; start a high-intensity statin (p115), eg atorvastatin as tolerated, control BP (p211). Give foot-care (p212). (Pre-) pregnancy care should be in a multidisciplinary clinic (OHCS p23). Advise informing DVLA and not to drive if hypoglycaemic spells (p159; loss of hypoglycaemia awareness may lead to loss of licence; permanent if HGV).
+
+## Type 1 DM
+Insulin (see BOX 'Using insulin').
+
+## Type 2 DM
+See fig 5.5.
+
+```mermaid
+graph TD
+    A[Lifestyle modification<br>Diet, weight control, exercise] --> B[Monotherapy<br>1st-line standard release metformin]
+    B --> C[If HbA1C rises to 58mmol/mol, consider dual therapy with:]
+    C --> D[1 Metformin + DPP4 inhibitor (eg sitagliptin)<br>2 Metformin and pioglitazone<br>3 Metformin and sulphonylurea (SU)<br>4 Metformin and SGLT-2i (glifazon)]
+    D --> E[If HbA1C rises to 58mmol/mol, triple therapy with:]
+    E --> F[1 Metformin, DPP4 inhibitor, + SU<br>2 Metformin, pioglitazone, + SU<br>3 Metformin, SU/pioglitazone, + SGLT-2i<br>4 Insulin-based therapy]
+    F --> G[Insulin: see BOX 'Using insulin'. Use<br>a structured programme. Review the<br>need for existing oral treatments.]
+    F --> H[Triple therapy not tolerated:<br>metformin, SU and GLP1 mimetic<br>(see BOX 'GLP analogues').]
+```
+
+**Fig 5.5 Management of type 2 diabetes. Aim for HbA1C 48mmol/mol or 53 if two or more agents.**
+Data from Algorithm for blood glucose lowering therapy in adults with type 2 diabetes,
+http://www.nice.org.uk/guidance/ng28/chapter/1-Recommendations#drug-treatment-2
+
+## Oral hypoglycaemic agents
+
+**Metformin:** A biguanide. ↑ insulin sensitivity and helps weight. SE: nausea; diarrhoea (try modified-release version); abdominal pain; not hypoglycaemia. Avoid if eGFR ≤36mL/min (due to risk lactic acidosis).
+
+**DPP4 inhibitors/gliptins:** (Eg sitagliptin.) Block the action of DPP-4, an enzyme which destroys the hormone incretin.
+
+**Glitazone:** ↑ insulin sensitivity; SE: hypoglycaemia, fractures, fluid retention, ↑LFT (do LFT every 8wks for 1yr, stop if ALT up >3-fold). CI: past or present CCF; osteoporosis; monitor weight, and stop if ↑ or oedema.
+
+**Sulfonylurea:** ↑ insulin secretion; eg gliclazide 40mg/d. SE: hypoglycaemia (monitor glucose); it ↑ weight.
+
+**SGLTI:** Selective sodium-glucose co-transporter-2 inhibitor. Blocks the reabsorption of glucose in the kidneys and promotes excretion of excess glucose in the urine (eg empagliflozin, shown to reduce mortality from cardiovascular disease in patients with type 2 DM, when compared to placebo).

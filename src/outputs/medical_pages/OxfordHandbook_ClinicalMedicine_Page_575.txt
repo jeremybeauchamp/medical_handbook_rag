@@ -1,0 +1,12 @@
+Table 12.5 Differential diagnosis of a red eye
+
+| Condition | Conjunctiva | Iris | Pupil | Cornea | Anterior chamber | Intraocular pressure | Treatment | Appearance |
+|-----------|-------------|------|-------|--------|------------------|----------------------|-----------|------------|
+| Acute glaucoma | Both ciliary and conjunctival vessels injected. Entire eye is red. See OHCS p430. | Injected | Dilated, fixed, oval | Steamy, hazy | Very shallow | Very high | Refer. IV acetazolamide + pilocarpine drops (miotic); peripheral iridotomy. | [Image of an eye with dilated pupil and hazy cornea] |
+| Anterior uveitis (iritis) | Redness most marked around cornea, which doesn't blanch on pressure. Usually unilateral. Causes: AS, RA, Reiter's sarcoidosis, herpes simplex, herpes zoster, and Behçet's disease. NB: a similar scleral appearance but without papillary or anterior chamber involvement may be scleritis (eg RA, SLE, vasculitis). | Injected | Small, irregular due to adhesions between the anterior lens and the pupil margin | Normal | Turgid | Normal | Refer. Steroid eye drops (eg 0.5% prednisolone) + mydriatic (eg cyclopentolate 0.5%). | [Image of an eye with redness around cornea and small pupil] |
+| Conjunctivitis | Often bilateral. Conjunctival vessels injected, greatest toward fornices, but blanching on pressure. Mobile over sclera. Purulent discharge. | Normal | Normal | Normal | Normal | Normal | Most do not require treatment. Consider chloramphenicol ointment or drops. | [Image of an eye with redness in conjunctiva] |
+| Subconjunctival haemorrhage | Bright red sclera with white rim around limbus. Causes: ↑BP; leptospirosis; bleeding disorders; trauma; snake venom; haemorrhagic fevers. | Normal | Normal | Normal | Normal | Normal | Looks alarming but resolves spontaneously. Check BP if elderly; refer if traumatic; on warfarin? | [Image of an eye with bright red sclera] |
+
+Images courtesy of Prof. Jonathan Trobe.
+
+Rheumatology

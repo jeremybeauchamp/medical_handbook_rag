@@ -1,0 +1,44 @@
+# Management of acute COPD
+
+## Nebulized bronchodilators:
+Salbutamol 5mg/4h and ipratropium 500mcg/6h
+Investigate: CXR, ABG
+
+## Controlled oxygen therapy if S₂O₂ <88% or P₂O₂ <7 kPa:
+Start at 24-28%, aim sats 88-92%
+Adjust according to ABG, aim P₂O₂ >8.0kPa with a rise in P₂CO₂ <1.5kPa
+
+## Steroids:
+IV hydrocortisone 200mg and oral prednisolone
+30mg OD (continue for 7-14d)
+
+## Antibiotics:
+Use if evidence of infection, eg amoxicillin 500mg/8h PO,
+alternatively clarithromycin or doxycycline (p387)
+
+## Physiotherapy to aid sputum expectoration
+
+## If no response to nebulizers and steroids:
+Consider IV aminophylline*
+
+## If no response:
+1. Consider non-invasive positive pressure ventilation† (NIPPV) if
+   respiratory rate >30 or pH <7.35, or P₂CO₂ rising despite best
+   medical treatment. OR:
+2. Consider a respiratory stimulant drug, eg doxapram 1.5-4mg/
+   min IV in patients who are not suitable for mechanical ventila-
+   tion. SE: agitation, confusion, tachycardia, nausea. It is a
+   short-term measure, used only if NIV is not available
+
+## Consider intubation and ventilation if pH <7.26 and P₂CO₂ is rising
+despite non-invasive ventilation only where appropriate (see
+'Consider the ceiling of care' in text)
+
+*Load with 250mg over 20min, then infuse at a rate of ~500mcg/kg/h (300mcg/kg/h if elderly), where kg is
+ideal body weight. Do not give a loading dose to patients on maintenance methylxanthines (theophyllines/
+aminophylline; see p811). Check plasma levels if given for >24h. ECG monitoring is required.
+
+†This may alone serve as a rescue therapy, be an intermittent step before ventilation, or be considered as a
+'ceiling of therapy' for those deemed not suitable for mechanical ventilation.
+
+Fig 19.13 Management of acute COPD.

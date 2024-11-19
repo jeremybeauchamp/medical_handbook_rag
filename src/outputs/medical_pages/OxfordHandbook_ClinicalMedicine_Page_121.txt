@@ -1,0 +1,11 @@
+| I | aVR | V1 | V4 |
+|---|-----|----|----|
+| II | aVL | V2 | V5 |
+| III | aVF | V3 | V6 |
+| V1 | | | |
+
+Fig 3.13 Dual chamber pacemaker. Pacing spikes occur before each P wave and each QRS complex. Paced QRS complexes are broad as the impulse starts in the ventricles.
+
+Reproduced from Myerson et al., Emergencies in Cardiology, 2012, with permission from Oxford University Press.
+
+Cardiovascular medicine

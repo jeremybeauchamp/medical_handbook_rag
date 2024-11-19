@@ -1,0 +1,33 @@
+## Interpreting an image
+
+You won't always be able to get an immediate radiologist's interpretation so it is important to know how to review an image. First make sure the image you are looking at is of your patient. Check its date. And remember:
+
+- Practice makes perfect—always look at the image before checking the report, learning how to distinguish normal from abnormal.
+- Understand how the scan is done—this makes interpretation easier and helps you appreciate which scan will give the answer you need. It also gives practical clues to the result—eg a routine CXR is performed in the postero-anterior (PA) direction (the source posterior to the patient to minimize the cardiac shadow).
+- Use a systematic approach—so that you don't miss subtleties.
+- Understand your anatomy—virtually all investigations yield a 2D image from a 3D structure. An understanding of anatomical relationships of the area in question will help reconstruct the images in your mind.
+- Orientation—for axial cross-sectional imaging this is as if you are looking up at the supine patient from the feet. For images with non-conventional orientations (eg MRCP) look on the image for clue markings, or rely on your knowledge of anatomy—it can be tricky to visualize oblique sections!
+- Remember the patient—an investigation is only one part of the clinical work-up, don't rely solely on the investigation result for your management decisions. Go back to see the patient after looking at the investigation and reading the radiologist's report: you might notice something that you didn't before.
+
+## Presenting an image
+
+Everyone has their own method for presenting, and the right way is your own way. As long as you cover everything systematically—because we all get 'hot-seat amnesia' at some point—the particulars will take care of themselves. Continue to polish your own method and remember a few extra tips for when an image is presented expectantly by your consultant/examiner and the floor is yours. A brief silence with a thoughtful expression as you analyse the image is fine, then:
+
+- State the written details: name, date of birth, where and how the imaging was taken. Look for clues: weighting of an MRI, a '+ c' indicating that contrast medium has been used, the phase of the investigation (arterial/venous/portal), or even the name of the organ printed on an ultrasound.
+- State the type, mode, and technical quality of investigation—not always easy!
+
+Going through this list also gives you a bit of thinking time. Then:
+
+- Start with life-threatening or very obvious abnormalities. Then be systematic:
+- Is the patient's position adequate? Any lines, leads, or tubes? Note their position.
+- Just like the bedside clues in a physical examination, there are clues in radiology examinations. Note oxygen masks, ECG leads, venous access, infusion apparatus, and invasive devices. Identifying what they are also helps you to look through what may otherwise appear to be a cluttered mess.
+- Note any abnormalities and try to contextualize these with whatever you already know of the patient. The abnormality may be hiding in plain sight, but if struggling, step back and note any asymmetry or areas that just 'look different'.
+- With cross-sectional imaging, scan through adjacent sections noting the anatomy of one organ system or structure at a time (this may mean going up and down through a CT abdomen multiple times).
+- Giving a differential diagnosis is good practice, as not all findings are diagnostic.
+- If there is additional clinical information that would help you to make a diagnosis, don't be afraid to ask. After all, we treat patients and not images!
+
+Remember:
+- X-ray = radiodensity (lucency/opacity)
+- CT = attenuation
+- US = echogenicity
+- MRI = signal intensity
